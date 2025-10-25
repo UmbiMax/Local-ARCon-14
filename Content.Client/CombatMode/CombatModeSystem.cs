@@ -3,6 +3,7 @@ using Content.Client.NPC.HTN;
 using Content.Shared.CCVar;
 using Content.Shared.CombatMode;
 using Content.Shared.StatusIcon.Components;
+using Robust.Client.Audio;
 using Robust.Client.GameObjects;
 using Robust.Client.Graphics;
 using Robust.Client.Input;
@@ -19,6 +20,7 @@ public sealed partial class CombatModeSystem : SharedCombatModeSystem
     [Dependency] private IConfigurationManager _cfg = default!;
     [Dependency] private IInputManager _inputManager = default!;
     [Dependency] private IEyeManager _eye = default!;
+    [Dependency] private AudioSystem _audio = default!; // Arcane
 
     /// <summary>
     /// Raised whenever combat mode changes.
@@ -79,6 +81,7 @@ public sealed partial class CombatModeSystem : SharedCombatModeSystem
         }
 
         var inCombatMode = IsInCombatMode();
+        TryPlayCombatModeSound(entity); // Arcane
         LocalPlayerCombatModeUpdated?.Invoke(inCombatMode);
     }
 
