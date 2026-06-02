@@ -231,6 +231,16 @@ public abstract partial class SharedDoorSystem : EntitySystem
     /// </summary>
     private void OnAfterPry(EntityUid uid, DoorComponent door, ref PriedEvent args)
     {
+        // Arcane-Start: use force sounds when prying airlocks
+        SoundSpecifier? forceOpen = null;
+        SoundSpecifier? forceClose = null;
+        if (TryComp<AirlockComponent>(uid, out var airlock))
+        {
+            forceOpen = airlock.ForceOpenSound;
+            forceClose = airlock.ForceCloseSound;
+        }
+        // Arcane-End
+
         if (door.State == DoorState.Closed)
         {
             _adminLog.Add(LogType.Action, LogImpact.Medium, $"{ToPrettyString(args.User)} pried {ToPrettyString(uid)} open");
@@ -238,7 +248,7 @@ public abstract partial class SharedDoorSystem : EntitySystem
             var userEv = new UserPriedDoorEvent(uid, true);
             RaiseLocalEvent(args.User, ref userEv);
             // Starlight-end
-            StartOpening(uid, door, args.User, true);
+            StartOpening(uid, door, args.User, true, forceOpen); // Arcane-Edit
         }
         else if (door.State == DoorState.Open)
         {
@@ -247,7 +257,7 @@ public abstract partial class SharedDoorSystem : EntitySystem
             var userEv = new UserPriedDoorEvent(uid, false);
             RaiseLocalEvent(args.User, ref userEv);
             // Starlight-end
-            StartClosing(uid, door, args.User, true);
+            StartClosing(uid, door, args.User, true, forceClose); // Arcane-Edit
         }
     }
 
@@ -363,7 +373,7 @@ public abstract partial class SharedDoorSystem : EntitySystem
     /// <param name="user"> The user (if any) opening the door</param>
     /// <param name="predicted">Whether the interaction would have been
     /// predicted. See comments in the PlaySound method on the Server system for details</param>
-    public void StartOpening(EntityUid uid, DoorComponent? door = null, EntityUid? user = null, bool predicted = false)
+    public void StartOpening(EntityUid uid, DoorComponent? door = null, EntityUid? user = null, bool predicted = false, SoundSpecifier? soundOverride = null) // Arcane-Edit
     {
         if (!Resolve(uid, ref door))
             return;
@@ -373,10 +383,11 @@ public abstract partial class SharedDoorSystem : EntitySystem
         if (!SetState(uid, DoorState.Opening, door))
             return;
 
+        var sound = soundOverride ?? door.OpenSound; // Arcane
         if (predicted)
-            Audio.PlayPredicted(door.OpenSound, uid, user, AudioParams.Default.WithVolume(-5));
+            Audio.PlayPredicted(sound, uid, user, AudioParams.Default.WithVolume(-5)); // Arcane-Edit
         else if (_net.IsServer)
-            Audio.PlayPvs(door.OpenSound, uid, AudioParams.Default.WithVolume(-5));
+            Audio.PlayPvs(sound, uid, AudioParams.Default.WithVolume(-5)); // Arcane-Edit
 
         if (lastState == DoorState.Emagging && TryComp<DoorBoltComponent>(uid, out var doorBoltComponent))
             SetBoltsDown((uid, doorBoltComponent), true, user, true);
@@ -392,7 +403,7 @@ public abstract partial class SharedDoorSystem : EntitySystem
 
         SetCollidable(uid, false, door);
         door.Partial = true;
-        door.NextStateChange = GameTiming.CurTime + door.CloseTimeTwo;
+        door.NextStateChange = GameTiming.CurTime + door.OpenTimeTwo; // Arcane-Edit: fix
         _activeDoors.Add((uid, door));
         Dirty(uid, door);
 
@@ -458,7 +469,7 @@ public abstract partial class SharedDoorSystem : EntitySystem
         return !ev.PerformCollisionCheck || !GetColliding(uid).Any();
     }
 
-    public void StartClosing(EntityUid uid, DoorComponent? door = null, EntityUid? user = null, bool predicted = false)
+    public void StartClosing(EntityUid uid, DoorComponent? door = null, EntityUid? user = null, bool predicted = false, SoundSpecifier? soundOverride = null) // Arcane-Edit
     {
         if (!Resolve(uid, ref door))
             return;
@@ -466,10 +477,11 @@ public abstract partial class SharedDoorSystem : EntitySystem
         if (!SetState(uid, DoorState.Closing, door))
             return;
 
+        var sound = soundOverride ?? door.CloseSound; // Arcane
         if (predicted)
-            Audio.PlayPredicted(door.CloseSound, uid, user, AudioParams.Default.WithVolume(-5));
+            Audio.PlayPredicted(sound, uid, user, AudioParams.Default.WithVolume(-5)); // Arcane-Edit
         else if (_net.IsServer)
-            Audio.PlayPvs(door.CloseSound, uid, AudioParams.Default.WithVolume(-5));
+            Audio.PlayPvs(sound, uid, AudioParams.Default.WithVolume(-5)); // Arcane-Edit
     }
 
     /// <summary>

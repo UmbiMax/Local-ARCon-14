@@ -123,6 +123,7 @@
       board: !type:Container
   - type: Door
     canCrush: false
+    pryTime: 0 # Orion
     openingAnimationTime: 0.9
     closingAnimationTime: 0.9
     openSound:
@@ -243,6 +244,8 @@
             max: 2
       - !type:DoActsBehavior
         acts: [ "Destruction" ]
+  - type: Door
+    pryTime: 1 # Orion
   - type: Construction
     graph: Windoor
     node: windoorSecure
@@ -316,6 +319,8 @@
             max: 2
       - !type:DoActsBehavior
         acts: [ "Destruction" ]
+  - type: Door
+    pryTime: 0.25 # Orion
   - type: Construction
     graph: Windoor
     node: pwindoor
@@ -386,6 +391,8 @@
             max: 2
       - !type:DoActsBehavior
         acts: [ "Destruction" ]
+  - type: Door
+    pryTime: 1.25 # Orion
   - type: Construction
     graph: Windoor
     node: pwindoorSecure
@@ -461,6 +468,8 @@
             max: 2
       - !type:DoActsBehavior
         acts: [ "Destruction" ]
+  - type: Door
+    pryTime: 0.5 # Orion
   - type: Construction
     graph: Windoor
     node: uwindoor
@@ -531,6 +540,8 @@
             max: 2
       - !type:DoActsBehavior
         acts: [ "Destruction" ]
+  - type: Door
+    pryTime: 1.5 # Orion
   - type: Construction
     graph: Windoor
     node: uwindoorSecure
