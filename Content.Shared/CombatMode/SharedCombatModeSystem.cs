@@ -1,5 +1,8 @@
 using Content.Shared.Actions;
+using Content.Shared.Bed.Sleep;
 using Content.Shared.Mind;
+using Content.Shared.Mobs;
+using Content.Shared.Mobs.Systems;
 using Content.Shared.MouseRotator;
 using Content.Shared.Mech.Components;
 using Content.Shared.Movement.Components;
@@ -15,6 +18,7 @@ public abstract partial class SharedCombatModeSystem : EntitySystem
     [Dependency] private   SharedActionsSystem _actionsSystem = default!;
     [Dependency] private   SharedPopupSystem _popup = default!;
     [Dependency] private   SharedMindSystem  _mind = default!;
+    [Dependency] private MobStateSystem _mobState = default!; // Arcane
 
     public override void Initialize()
     {
@@ -23,6 +27,7 @@ public abstract partial class SharedCombatModeSystem : EntitySystem
         SubscribeLocalEvent<CombatModeComponent, MapInitEvent>(OnMapInit);
         SubscribeLocalEvent<CombatModeComponent, ComponentShutdown>(OnShutdown);
         SubscribeLocalEvent<CombatModeComponent, ToggleCombatActionEvent>(OnActionPerform);
+        SubscribeLocalEvent<CombatModeComponent, MobStateChangedEvent>(OnMobStateChanged); // Arcane
     }
 
     private void OnMapInit(EntityUid uid, CombatModeComponent component, MapInitEvent args)
@@ -35,6 +40,8 @@ public abstract partial class SharedCombatModeSystem : EntitySystem
     {
         _actionsSystem.RemoveAction(uid, component.CombatToggleActionEntity);
 
+        RaiseLocalEvent(uid, new CombatModeChangedEvent(false)); // Arcane
+
         SetMouseRotatorComponents(uid, false);
     }
 
@@ -44,11 +51,30 @@ public abstract partial class SharedCombatModeSystem : EntitySystem
             return;
 
         args.Handled = true;
+        var requestedCombatMode = !component.IsInCombatMode; // Arcane
         SetInCombatMode(uid, !component.IsInCombatMode, component);
 
-        var msg = component.IsInCombatMode ? "action-popup-combat-enabled" : "action-popup-combat-disabled";
+        // Arcane-Edit-Start
+        var msg = component.IsInCombatMode != requestedCombatMode
+            ? "action-popup-combat-enabled"
+            : "action-popup-combat-disabled";
+        // Arcane-Edit-End
+
+        // Arcane-Start
+        if (!ShouldShowCombatModePopup())
+            return;
+        // Arcane-End
+
         _popup.PopupClient(Loc.GetString(msg), args.Performer, args.Performer);
     }
+
+    // Arcane-Start
+    private void OnMobStateChanged(EntityUid uid, CombatModeComponent component, MobStateChangedEvent args)
+    {
+        if (args.NewMobState is MobState.Critical or MobState.Dead)
+            SetInCombatMode(uid, false, component);
+    }
+    // Arcane-End
 
     public void SetCanDisarm(EntityUid entity, bool canDisarm, CombatModeComponent? component = null)
     {
@@ -71,8 +97,15 @@ public abstract partial class SharedCombatModeSystem : EntitySystem
         if (component.IsInCombatMode == value)
             return;
 
+        // Arcane-Start
+        if (value && (_mobState.IsIncapacitated(entity) || HasComp<SleepingComponent>(entity)))
+            return;
+        // Arcane-End
+
         component.IsInCombatMode = value;
         Dirty(entity, component);
+
+        RaiseLocalEvent(entity, new CombatModeChangedEvent(value)); // Arcane
 
         if (component.CombatToggleActionEntity != null)
             _actionsSystem.SetToggled(component.CombatToggleActionEntity, component.IsInCombatMode);
@@ -110,6 +143,13 @@ public abstract partial class SharedCombatModeSystem : EntitySystem
 
     // todo: When we stop making fucking garbage abstract shared components, remove this shit too.
     protected abstract bool IsNpc(EntityUid uid);
+
+    // Arcane-Start
+    protected virtual bool ShouldShowCombatModePopup()
+    {
+        return true;
+    }
+    // Arcane-End
 }
 
 public sealed partial class ToggleCombatActionEvent : InstantActionEvent
