@@ -99,9 +99,9 @@
         types:
           Blunt: 15
       openSound:
-        path: /Audio/_Orion/Machines/firedoor_openclose.ogg # Orion-Edit
+        path: /Audio/_Arcane/Machines/firedoor_openclose.ogg # Arcane-Edit
       closeSound:
-        path: /Audio/_Orion/Machines/firedoor_openclose.ogg # Orion-Edit
+        path: /Audio/_Arcane/Machines/firedoor_openclose.ogg # Arcane-Edit
       denySound:
         path: /Audio/Machines/airlock_deny.ogg
       openingAnimationTime: 0.6
@@ -222,7 +222,7 @@
     - type: Tag
       tags:
       - ForceNoFixRotations # Prevent fixrotations from targeting these, since the base Firelock is targeted
-    # Orion-Start
+    # Arcane-Start
     - type: Destructible
       thresholds:
       - trigger:
@@ -231,7 +231,7 @@
         behaviors:
         - !type:DoActsBehavior
           acts: ["Destruction"]
-    # Orion-End
+    # Arcane-End
     - type: Door
       occludes: false
     - type: Physics

@@ -212,10 +212,6 @@
     openTimeTwo: 0.1
     openingAnimationTime: 0.6
     closingAnimationTime: 0.6
-    openSound:
-      path: /Audio/Items/bikehorn.ogg
-    closeSound:
-      path: /Audio/Items/bikehorn.ogg
   # Arcane-End
   - type: Construction
     graph: DoorGraph
