@@ -1,5 +1,5 @@
-figurines-assistant-1 = Can I help you?
-figurines-assistant-2 = Call evac.
-figurines-assistant-3 = HELP MAINTS!!
-figurines-assistant-4 = I'm assistant.
-figurines-assistant-5 = You need help?
+figurines-assistant-1 = Я могу вам помочь?
+figurines-assistant-2 = Вызовите эвакуацию.
+figurines-assistant-3 = ПОМОГИТЕ, ТЕХТОННЕЛИ!!
+figurines-assistant-4 = Я помощник.
+figurines-assistant-5 = Вам нужна помощь?

@@ -1,155 +1,155 @@
-uplink-contortionist-jumpsuit-name = Contortionist's Jumpsuit
-uplink-contortionist-jumpsuit-desc = It looks like an atmos jumpsuit, but it really is. This jumpsuit allows the agent to slip through the vents.
-uplink-marriage-axe-name = Marriage axe
-uplink-marriage-axe-desc = A charming subtle instrument of chaos—perfect for when diplomacy fails. Screams like a banshee, cuts like a demon, and turns people into regrettable memories. Handle with enthusiasm.
-uplink-mini-energy-crossbow-name = mini energy crossbow
-uplink-mini-energy-crossbow-desc = Fires low-damage kinetic bolts at a short range.
-uplink-minotaur-name = Minotaur bundle
-uplink-minotaur-desc = Lean and mean: Contains smooth, powerful, highly illegal Shotgun, a 5 12g buckshot drums.
-uplink-deagle-name = Desert Eagle
-uplink-deagle-desc = A robust magnum handgun.
-uplink-stechkin-name = Stechkin pistol
-uplink-stechkin-desc = A small, easily concealable 10mm handgun. Has a threaded barrel for suppressors.
+uplink-contortionist-jumpsuit-name = Комбинезон акробата
+uplink-contortionist-jumpsuit-desc = С виду обычный комбинезон атмосферного техника — почти. Позволяет агенту пролезать по вентиляции.
+uplink-marriage-axe-name = Брачный топор
+uplink-marriage-axe-desc = Очаровательный тонкий инструмент хаоса, идеально подходящий для случаев, когда дипломатия терпит неудачу. Кричит, как банши, режет, как демон, и превращает людей в прискорбные воспоминания. Относитесь к делу с энтузиазмом.
+uplink-mini-energy-crossbow-name = мини-энергетический арбалет
+uplink-mini-energy-crossbow-desc = Выстреливает кинетическими болтами с низким уроном на коротком расстоянии.
+uplink-minotaur-name = Набор Минотавра
+uplink-minotaur-desc = Просто и смертоносно: гладкий, мощный и совершенно незаконный дробовик с пятью барабанами картечи 12-го калибра.
+uplink-deagle-name = «Пустынный орёл»
+uplink-deagle-desc = Мощный пистолет калибра .45 Magnum.
+uplink-stechkin-name = Пистолет Стечкина
+uplink-stechkin-desc = Небольшой, легко скрываемый пистолет калибра 10 мм. Имеет ствол с резьбой для глушителей.
 
-uplink-stechkin-bundle-name = Solid Operative Bundle
-uplink-stechkin-bundle-desc = A mysterious cardboard box containing a slew of equipment for only the most solid of operatives.
+uplink-stechkin-bundle-name = Солидный оперативный комплект
+uplink-stechkin-bundle-desc = Таинственная картонная коробка, содержащая множество оборудования, доступного только самым опытным оперативникам.
 
-uplink-pistol-high-capacity-magazine-name = Extended Pistol Magazine (.35 auto)
-uplink-pistol-high-capacity-magazine-desc = Pistol magazine with 16 cartridges. Compatible with the Viper.
+uplink-pistol-high-capacity-magazine-name = Увеличенный магазин для пистолета (автомат .35)
+uplink-pistol-high-capacity-magazine-desc = Магазин пистолета на 16 патронов. Совместим с Вайпером.
 
-uplink-pistol-hp-magazine-name = Pistol Magazine (.35 auto HP)
-uplink-pistol-hp-magazine-desc = Pistol magazine with 10 cartridges. Compatible with the Viper.
+uplink-pistol-hp-magazine-name = Пистолетный магазин (.35 Auto HP)
+uplink-pistol-hp-magazine-desc = Магазин пистолета на 10 патронов. Совместим с Вайпером.
 
-uplink-pistol-fmj-magazine-name = Pistol Magazine (.35 auto FMJ)
-uplink-pistol-fmj-magazine-desc = Pistol magazine with 10 cartridges. Compatible with the Viper.
+uplink-pistol-fmj-magazine-name = Пистолетный магазин (.35 auto FMJ)
+uplink-pistol-fmj-magazine-desc = Магазин пистолета на 10 патронов. Совместим с Вайпером.
 
-uplink-pistol-magnum-magazine-name = Pistol Magazine (.45 magnum)
-uplink-pistol-magnum-magazine-desc = Pistol magazine with 10 cartridges. Compatible with the Desert Eagle.
+uplink-pistol-magnum-magazine-name = Пистолетный магазин (.45 магнум)
+uplink-pistol-magnum-magazine-desc = Магазин пистолета на 10 патронов. Совместим с Desert Eagle.
 
-uplink-magillitis-serum-implanter-name = Magillitis Serum Implanter
-uplink-magillitis-serum-implanter-desc = An experimental biochip which causes irreversable rapid muscular growth in Hominidae. Side-affects may include hypertrichosis, violent outbursts, and an unending affinity for bananas.
-uplink-gear-acidifier-implant-name = Gear Acidifier Implant
-uplink-gear-acidifier-implant-desc = Melts your equipment on use or death, leaving your body intact. Does not destroy restraints.
+uplink-magillitis-serum-implanter-name = Имплантатор сыворотки от магиллита
+uplink-magillitis-serum-implanter-desc = Экспериментальный биочип, вызывающий необратимый быстрый рост мышц у гоминид. Побочные эффекты могут включать гипертрихоз, вспышки гнева и бесконечную тягу к бананам.
+uplink-gear-acidifier-implant-name = Зубчатый имплантат подкислителя
+uplink-gear-acidifier-implant-desc = Ваше снаряжение плавится при использовании или смерти, оставляя ваше тело нетронутым. Не разрушает ограничения.
 
-uplink-pitbull-bundle-name = Pitbull Bundle
-uplink-pitbull-bundle-desc = A large bullpup rifle with a low fire-rate but excellent accuracy. Chambered in .45 magnum.
-
-
-uplink-rifle-magazine-pitbull-name = Bullpup magazine (.45 magnum)
-uplink-rifle-magazine-pitbull-desc = Bullpup magazines with 20 cartrides. Compatible with the Pitbull.
-
-uplink-nightvision-eyes = Night Vision Cyber Eyes
-uplink-nightvision-eyes-desc = Allows you to see in the dark but makes you more vulnerable to flashes. (Warning: You will need a surgical assistant for the procedure.)
-uplink-thermalvision-eyes = Thermal Vision Cyber Eyes
-uplink-thermalvision-eyes-desc = Allows you to see in the dark and detect creatures through walls but makes you more vulnerable to flashes. (Warning: You will need a surgical assistant for the procedure.)
-uplink-mantis-blade-arms-name = Mantis Blade Arms Bundle
-uplink-mantis-blade-arms-desc = Originally used as a simple construction tool, now turned into hidden blades that can extend from your arm while still keeping its destructive prying skill. Truly a sight to behold. (Warning: You will need a surgical assistant for the procedure.)
-uplink-advanced-claws-name = Advanced Claws Implant
-uplink-advanced-claws-desc = A cybernetic implant for hands. Allows an agent to extend sharp plasteel claws at will, and hide them away just as quickly. (Warning: You will need a surgical assistant for the procedure.)
-uplink-forensics-implant-name = Forensics Implant
-uplink-forensics-implant-desc = A cybernetic implant for hands. Removes an agent's fingerprints so as to not leave evidence of a crime. Does not work through gloves. (Warning: You will need a surgical assistant for the procedure.)
-uplink-syndie-implant-name = Syndicate Agent Implant
-uplink-syndie-implant-desc = A cybernetic eye implant. Enables an agent to see information about the station crew, humanoids and syndicate without any glasses. (Warning: You will need a surgical assistant for the procedure.)
-
-uplink-uzi-bundle-name = Type U3 Uzi Bundle
-uplink-uzi-bundle-desc = Contains the Type U3 Uzi, with two additional magazines.
-
-uplink-uzi-magazine-name = Uzi Magazine (.35 auto)
-uplink-uzi-magazine-desc = Submachine gun magazine with 32 cartridges. Compatible with the Type U3 Uzi
-
-uplink-breaching-magazine-name = Shotgun Magazine (12 gauge breaching)
-uplink-breaching-magazine-desc = A magazine loaded with breaching shells, for breaking down airlocks, windows and walls. Less effective on people.
-
-uplink-syndicate-borgi-name = Syndicate Borgi
-uplink-syndicate-borgi-desc = A basic syndicate borgi.
-
-uplink-syndicate-borgi-kitted-name = Kitted Syndicate Borgi
-uplink-syndicate-borgi-kitted-desc = A syndicate borgi, outfitted with an L6 module, operative module and E-sword module.
-
-uplink-syndicate-borgi-speed-name = Speed Syndicate Borgi
-uplink-syndicate-borgi-speed-desc = A syndicate borgi, with dagger modules and additional speed.
+uplink-pitbull-bundle-name = Набор «Питбуль»
+uplink-pitbull-bundle-desc = Большая винтовка булл-пап с низкой скорострельностью, но отличной точностью. Под патрон .45 магнум.
 
 
-uplink-reinforcement-radio-medical-cyborg-name = Syndicate Medical Cyborg Teleporter
-uplink-reinforcement-radio-medical-cyborg-desc = A medical borg, with syndicate variants of items where applicable. Comes with basic weapons.
+uplink-rifle-magazine-pitbull-name = Магазин буллпап (.45 магнум)
+uplink-rifle-magazine-pitbull-desc = Магазины буллпап на 20 патронов. Совместим с Питбулем.
 
-uplink-reinforcement-radio-saboteur-cyborg-name = Syndicate Saboteur Cyborg Teleporter
-uplink-reinforcement-radio-saboteur-cyborg-desc = A saboteur cyborg, complete with syndicate advanced tools, standard hacking equipment and basic weapons.
+uplink-nightvision-eyes = Киберглаза ночного видения
+uplink-nightvision-eyes-desc = Позволяет видеть в темноте, но делает вас более уязвимыми для вспышек. (Внимание: для процедуры вам понадобится ассистент хирурга.)
+uplink-thermalvision-eyes = Тепловое зрение Киберглаза
+uplink-thermalvision-eyes-desc = Позволяет вам видеть в темноте и обнаруживать существ сквозь стены, но делает вас более уязвимыми для вспышек. (Внимание: для процедуры вам понадобится ассистент хирурга.)
+uplink-mantis-blade-arms-name = Набор оружия «Клинок богомола»
+uplink-mantis-blade-arms-desc = Первоначально использовался как простой строительный инструмент, а теперь превратился в скрытые лезвия, которые могут выходить из вашей руки, сохраняя при этом свои разрушительные навыки взлома. Действительно зрелище. (Внимание: для процедуры вам понадобится ассистент хирурга.)
+uplink-advanced-claws-name = Имплантат усовершенствованных когтей
+uplink-advanced-claws-desc = Кибернетический имплантат для рук. Позволяет агенту по своему желанию вытягивать острые пласталиевые когти и так же быстро прятать их. (Внимание: для процедуры вам понадобится ассистент хирурга.)
+uplink-forensics-implant-name = Криминалистический имплантат
+uplink-forensics-implant-desc = Кибернетический имплантат для рук. Снимает отпечатки пальцев агента, чтобы не оставить следов преступления. Не работает через перчатки. (Внимание: для процедуры вам понадобится ассистент хирурга.)
+uplink-syndie-implant-name = Имплантат агента синдиката
+uplink-syndie-implant-desc = Кибернетический глазной имплантат. Позволяет агенту видеть информацию о команде станции, гуманоидах и синдикате без очков. (Внимание: для процедуры вам понадобится ассистент хирурга.)
 
-uplink-reinforcement-radio-stealth-cyborg-name = Syndicate Stealth Cyborg Teleporter
-uplink-reinforcement-radio-stealth-cyborg-desc = A stealth cyborg. Whilst it is incapable of fighting, it has the ability to disguise, go invisible and move through vents. Comes with standard hacking tools.
+uplink-uzi-bundle-name = Комплект Узи типа У3
+uplink-uzi-bundle-desc = В комплект входит пистолет Type U3 Uzi с двумя дополнительными магазинами.
 
-uplink-ecronizer-name = Ecronizer
-uplink-ecronizer-desc = A small device that can be used to bypass most scanning devices, making you and your items invisible to them.
+uplink-uzi-magazine-name = Магазин Узи (автомат .35)
+uplink-uzi-magazine-desc = Магазин пистолета-пулемета на 32 патрона. Совместим с Типом У3 Узи.
 
-uplink-lube-grenade-name = Lube Grenade
-uplink-lube-grenade-desc = Special grenade for shenanigans, releasing large cloud of lube foam.
+uplink-breaching-magazine-name = Магазин для дробовика (нарушение 12-го калибра)
+uplink-breaching-magazine-desc = Магазин с пробивными снарядами для разрушения шлюзов, окон и стен. Менее эффективен для людей.
 
-uplink-glue-grenade-name = Glue Grenade
-uplink-glue-grenade-desc = Special grenade for shenanigans, releasing large cloud of glue foam.
+uplink-syndicate-borgi-name = Борги Синдиката
+uplink-syndicate-borgi-desc = Базовый синдикат борги.
 
-uplink-hydra-name = Hydra
-uplink-hydra-desc = A modified Hydra capable of taking both cleanades and standard grenades. Excellent for when you need to clean up the security department. Comes pre-filled with special syndicate cleanades.
+uplink-syndicate-borgi-kitted-name = Снаряжённый борги Синдиката
+uplink-syndicate-borgi-kitted-desc = Синдикатный борги, оснащенный модулем L6, оперативным модулем и модулем электронного меча.
 
-uplink-pizza-bomb-name = Nefarious Pizza bomb
-uplink-pizza-bomb-desc = Originally developed by covertly by DONK Co to disuade the heretics who prefer their pizza not in pocket form. This pizza box is wired, and explodes within moments of being opened.
+uplink-syndicate-borgi-speed-name = Скоростной борги Синдиката
+uplink-syndicate-borgi-speed-desc = Синдикатный борги с кинжалными модулями и дополнительной скоростью.
 
-uplink-shuttle-board-name = Syndicate Shuttle Console Board
-uplink-shuttle-board-desc = A computer printed circuit board for a syndicate shuttle console.
 
-uplink-shuttle-bundle-name = Syndicate Shuttle Crate
-uplink-shuttle-bundle-desc = Everything but the shuttle board. It's a shuttle in a crate* (Some assembly required)
+uplink-reinforcement-radio-medical-cyborg-name = Медицинский киборг-телепорт Синдиката
+uplink-reinforcement-radio-medical-cyborg-desc = Медицинский борг с синдикатными вариантами предметов, где это применимо. В комплекте базовое оружие.
 
-uplink-friendship-bundle-name = Friendship Bundle
-uplink-friendship-bundle-desc = Friendship packaged in a convenient crate*. (Some assembly required)
+uplink-reinforcement-radio-saboteur-cyborg-name = Диверсант Синдиката Киборг Телепорт
+uplink-reinforcement-radio-saboteur-cyborg-desc = Киборг-диверсант, оснащенный передовыми инструментами синдиката, стандартным хакерским оборудованием и базовым оружием.
 
-uplink-breaching-hammer-name = Breaching Hammer
-uplink-breaching-hammer-desc = A heavy-duty powered breaching tool disguised as a combat hammer. Functions like jaws of life for prying open doors and airlocks, while also serving as a devastating melee weapon. Can deal massive structural damage to walls and reinforced barriers, making it perfect for forced entry operations.
+uplink-reinforcement-radio-stealth-cyborg-name = Синдикат-Стелс-киборг-телепорт
+uplink-reinforcement-radio-stealth-cyborg-desc = Скрытный киборг. Хотя он не способен сражаться, он обладает способностью маскироваться, становиться невидимым и перемещаться через вентиляционные отверстия. Поставляется со стандартными инструментами взлома.
 
-uplink-explosive-collar-name = Explosive Collar
-uplink-explosive-collar-desc = The legally distinct reverse beartrap from a certin movie franchise.
+uplink-ecronizer-name = Экронайзер
+uplink-ecronizer-desc = Небольшое устройство, которое можно использовать для обхода большинства сканирующих устройств, делая вас и ваши предметы невидимыми для них.
 
-uplink-satchel-syndicate-name = Syndicate Satchel
-uplink-satchel-syndicate-desc = Ask not what the syndicate satchel can do for you, but rather, what can't it do.
+uplink-lube-grenade-name = Смазочная граната
+uplink-lube-grenade-desc = Специальная граната для махинаций, выпускающая большое облако смазочной пены.
 
-uplink-duffel-syndicate-name = Syndicate Duffel Bag
-uplink-duffel-syndicate-desc = A large duffel bag for holding various traitor goods.
+uplink-glue-grenade-name = Клеевая граната
+uplink-glue-grenade-desc = Специальная граната для махинаций, выпускающая большое облако клеевой пены.
 
-uplink-trunk-syndicate-name = Syndicate Trunk
-uplink-trunk-syndicate-desc = Huge, metal, reflective, and stylish. All the other syndicates will want to get their hands on this trunk.
+uplink-hydra-name = Гидра
+uplink-hydra-desc = Модифицированная Гидра, способная принимать как клинады, так и стандартные гранаты. Отлично подходит, когда вам нужно навести порядок в отделе безопасности. Поставляется предварительно заполненным специальными чистящими средствами синдиката.
 
-uplink-syndiedrobe-name = SyndieDrobe flatpack
-uplink-syndiedrobe-desc = Looks like Syndieland's back in business.
+uplink-pizza-bomb-name = Гнусная пицца-бомба
+uplink-pizza-bomb-desc = Первоначально разработано компанией DONK Co, чтобы отговорить еретиков, которые предпочитают пиццу не в карманном виде. Эта коробка для пиццы оснащена проводами и взрывается через несколько секунд после открытия.
 
-uplink-noslip-clown-shoes-name = No-Slip Clown Shoes
-uplink-noslip-clown-shoes-desc = For the clowns who want that extra edge against security.
+uplink-shuttle-board-name = Консольная плата Syndicate Shuttle
+uplink-shuttle-board-desc = Компьютерная печатная плата для консоли шаттла синдиката.
 
-uplink-banana-esword-name = Banana Energy Sword
-uplink-banana-esword-desc = A bananium-modified energy sword that slips whoever it slices. Does minimal damage.
+uplink-shuttle-bundle-name = Ящик с шаттлом Синдиката
+uplink-shuttle-bundle-desc = Все, кроме шаттла. Это шаттл в ящике* (требуется некоторая сборка)
 
-uplink-mimana-stealthy-name = Stealthy Mimana
-uplink-mimana-stealthy-desc = A mutated mimana that seems to fade into the background. Don't lose it!
+uplink-friendship-bundle-name = Набор «Дружба»
+uplink-friendship-bundle-desc = Дружба в удобной упаковке*. (Требуется некоторая сборка)
 
-uplink-hushpup-ammo-name = Buckshot box (12 gauge)
-uplink-hushpup-ammo-desc = A box of 16 buckshot shotgun shells. Compatible with the Hushpup.
+uplink-breaching-hammer-name = Разрывной молот
+uplink-breaching-hammer-desc = Мощный механический инструмент для взлома, замаскированный под боевой молот. Действует как пасть жизни, взламывая двери и шлюзы, а также служит разрушительным оружием ближнего боя. Может нанести массивный структурный ущерб стенам и усиленным барьерам, что делает его идеальным для операций по принудительному проникновению.
 
-uplink-reinforcement-radio-assault-cyborg-bundle-name = Syndicate Assault Cyborg Teleporter bundle
-uplink-reinforcement-radio-assault-cyborg-bundle-desc = Radio in a syndicate assault cyborg, equipped with a modified L6, a double esword, and basic hacking tools. Comes with a few Syndicate IDs for you and your buddies, just to make sure you're on the Cyborg's good side.
+uplink-explosive-collar-name = Взрывной ошейник
+uplink-explosive-collar-desc = Юридически отличная обратная капкан из определенной кинофраншизы.
 
-uplink-reinforcement-radio-medical-cyborg-bundle-name = Syndicate Medical Cyborg Teleporter bundle
-uplink-reinforcement-radio-medical-cyborg-bundle-desc = A medical borg, with syndicate variants of items where applicable. Comes with basic weapons. Comes with a few Syndicate IDs for you and your buddies, just to make sure you're on the Cyborg's good side.
+uplink-satchel-syndicate-name = Сумка Синдиката
+uplink-satchel-syndicate-desc = Спрашивайте не о том, что может сделать для вас сумка синдиката, а о том, чего она не может сделать.
 
-uplink-reinforcement-radio-saboteur-cyborg-bundle-name = Syndicate Saboteur Cyborg Teleporter bundle
-uplink-reinforcement-radio-saboteur-cyborg-bundle-desc = A saboteur cyborg, complete with syndicate advanced tools, standard hacking equipment, and basic weapons. Comes with a few Syndicate IDs for you and your buddies, just to make sure you're on the Cyborg's good side.
+uplink-duffel-syndicate-name = Спортивная сумка Syndicate
+uplink-duffel-syndicate-desc = Большая спортивная сумка для хранения различных предательских вещей.
 
-uplink-reinforcement-radio-stealth-cyborg-bundle-name = Syndicate Stealth Cyborg Teleporter bundle
-uplink-reinforcement-radio-stealth-cyborg-bundle-desc = A stealth cyborg. Whilst it is incapable of fighting, it has the ability to disguise, go invisible and move through vents. Comes with standard hacking tools. Comes with a few Syndicate IDs for you and your buddies, just to make sure you're on the Cyborg's good side.
+uplink-trunk-syndicate-name = Синдикатный ствол
+uplink-trunk-syndicate-desc = Огромный, металлический, светоотражающий и стильный. Все остальные синдикаты захотят заполучить этот сундук.
 
-uplink-syndicate-borgi-bundle-name = Syndicate Borgi bundle
-uplink-syndicate-borgi-bundle-desc = A basic syndicate borgi. Comes with a few Syndicate IDs for you and your buddies, just to make sure you're the Borgi's best friends.
+uplink-syndiedrobe-name = Плоская упаковка SyndieDrobe
+uplink-syndiedrobe-desc = Похоже, Синдиленд снова в деле.
 
-uplink-syndicate-borgi-kitted-bundle-name = Kitted Syndicate Borgi bundle
-uplink-syndicate-borgi-kitted-bundle-desc = A syndicate borgi, outfitted with an L6 module, operative module and E-sword module. Comes with a few Syndicate IDs for you and your buddies, just to make sure you're the Borgi's best friends.
+uplink-noslip-clown-shoes-name = Нескользящие клоунские туфли
+uplink-noslip-clown-shoes-desc = Для клоунов, которым нужно дополнительное преимущество перед безопасностью.
 
-uplink-syndicate-borgi-speed-bundle-name = Speed Syndicate Borgi bundle
-uplink-syndicate-borgi-speed-bundle-desc = A syndicate borgi, with dagger modules and additional speed. Comes with a few Syndicate IDs for you and your buddies, just to make sure you're the Borgi's best friends.
+uplink-banana-esword-name = Банановый энергетический меч
+uplink-banana-esword-desc = Энергетический меч, модифицированный бананом, который ускользает от того, кого он режет. Наносит минимальный урон.
+
+uplink-mimana-stealthy-name = Скрытный Мимана
+uplink-mimana-stealthy-desc = Мутировавшая мимана, которая, кажется, отходит на второй план. Не теряйте это!
+
+uplink-hushpup-ammo-name = Ящик для картечи (12 калибр)
+uplink-hushpup-ammo-desc = Коробка с 16 патронами для дробовика. Совместим с Hushpup.
+
+uplink-reinforcement-radio-assault-cyborg-bundle-name = Комплект телепорта Syndicate Assault Cyborg
+uplink-reinforcement-radio-assault-cyborg-bundle-desc = Радио вызова штурмового киборга Синдиката с модифицированным L6, двойным энергомечом и базовым набором для взлома. В комплекте несколько идентификаторов Синдиката, чтобы киборг узнавал союзников.
+
+uplink-reinforcement-radio-medical-cyborg-bundle-name = Комплект Syndicate Medical Cyborg Teleporter
+uplink-reinforcement-radio-medical-cyborg-bundle-desc = Медицинский борг с синдикатными вариантами предметов, где это применимо. В комплекте базовое оружие. В комплект входит несколько идентификаторов Синдиката для вас и ваших приятелей, чтобы убедиться, что вы на стороне Киборга.
+
+uplink-reinforcement-radio-saboteur-cyborg-bundle-name = Комплект Syndicate Saboteur Cyborg Teleporter
+uplink-reinforcement-radio-saboteur-cyborg-bundle-desc = Киборг-диверсант, оснащенный передовыми инструментами синдиката, стандартным хакерским оборудованием и базовым оружием. В комплект входит несколько идентификаторов Синдиката для вас и ваших приятелей, чтобы убедиться, что вы на стороне Киборга.
+
+uplink-reinforcement-radio-stealth-cyborg-bundle-name = Комплект Syndicate Stealth Cyborg Teleporter
+uplink-reinforcement-radio-stealth-cyborg-bundle-desc = Скрытный киборг. Хотя он не способен сражаться, он обладает способностью маскироваться, становиться невидимым и перемещаться через вентиляционные отверстия. Поставляется со стандартными инструментами взлома. В комплект входит несколько идентификаторов Синдиката для вас и ваших приятелей, чтобы убедиться, что вы на стороне Киборга.
+
+uplink-syndicate-borgi-bundle-name = Набор «Борги Синдиката»
+uplink-syndicate-borgi-bundle-desc = Обычный борги Синдиката. В комплекте несколько идентификаторов Синдиката, чтобы борги признавал вас и ваших друзей лучшими друзьями.
+
+uplink-syndicate-borgi-kitted-bundle-name = Набор «Снаряжённый борги Синдиката»
+uplink-syndicate-borgi-kitted-bundle-desc = Борги Синдиката с модулем L6, оперативным модулем и модулем энергомеча. В комплекте несколько идентификаторов Синдиката, чтобы борги признавал вас и ваших друзей лучшими друзьями.
+
+uplink-syndicate-borgi-speed-bundle-name = Набор «Скоростной борги Синдиката»
+uplink-syndicate-borgi-speed-bundle-desc = Быстрый борги Синдиката с модулями кинжалов. В комплекте несколько идентификаторов Синдиката, чтобы борги признавал вас и ваших друзей лучшими друзьями.

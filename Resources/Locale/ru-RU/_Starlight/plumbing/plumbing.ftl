@@ -1,57 +1,57 @@
 # Plumbing system localization
 
-plumbing-input-full = The input buffer is full!
-plumbing-input-poured = Poured {$amount}u into the plumbing network.
+plumbing-input-full = Входной буфер заполнен!
+plumbing-input-poured = В трубопроводную сеть залито {$amount} ед.
 
-plumbing-output-empty = The output buffer is empty!
-plumbing-output-filled = Filled container with {$amount}u from the plumbing network.
+plumbing-output-empty = Выходной буфер пуст!
+plumbing-output-filled = В ёмкость налито {$amount} ед. из трубопроводной сети.
 
 # Reactor UI
-plumbing-reactor-window-title = Plumbing Reactor
-plumbing-reactor-status = Status:
-plumbing-reactor-enabled = Enabled
-plumbing-reactor-disabled = Disabled
-plumbing-reactor-temperature = Target Temp:
-plumbing-reactor-set = Set
-plumbing-reactor-reset = Reset
-plumbing-reactor-add-reagent = Add Reagent
-plumbing-reactor-reagent-id = Reagent ID
-plumbing-reactor-quantity = Quantity
-plumbing-reactor-add = Add
-plumbing-reactor-targets = Reaction Recipe
-plumbing-reactor-clear = Clear All
-plumbing-reactor-remove-selected = Remove Selected
-plumbing-reactor-output = Output Contents
-plumbing-reactor-invalid-reagent = Unknown reagent: {$reagent}
+plumbing-reactor-window-title = Трубопроводный реактор
+plumbing-reactor-status = Статус:
+plumbing-reactor-enabled = Включено
+plumbing-reactor-disabled = Выключен
+plumbing-reactor-temperature = Целевая температура:
+plumbing-reactor-set = Задать
+plumbing-reactor-reset = Сбросить
+plumbing-reactor-add-reagent = Добавить реагент
+plumbing-reactor-reagent-id = Идентификатор реагента
+plumbing-reactor-quantity = Количество
+plumbing-reactor-add = Добавить
+plumbing-reactor-targets = Рецепт реакции
+plumbing-reactor-clear = Очистить все
+plumbing-reactor-remove-selected = Удалить выбранное
+plumbing-reactor-output = Содержимое на выходе
+plumbing-reactor-invalid-reagent = Неизвестный реагент: {$reagent}
 
 # Filter UI
-plumbing-filter-window-title = Plumbing Filter
-plumbing-filter-status = Status:
-plumbing-filter-enabled = Enabled
-plumbing-filter-disabled = Disabled
-plumbing-filter-add-reagent = Add Reagent to Filter
-plumbing-filter-reagent-id = Reagent ID
-plumbing-filter-add = Add
-plumbing-filter-filtered = Filtered Reagents
-plumbing-filter-clear = Clear All
-plumbing-filter-remove-selected = Remove Selected
-plumbing-filter-invalid-reagent = Unknown reagent: {$reagent}
-plumbing-filter-max-reagents = You can only filter up to {$count} reagents.
+plumbing-filter-window-title = Трубопроводный фильтр
+plumbing-filter-status = Статус:
+plumbing-filter-enabled = Включено
+plumbing-filter-disabled = Выключен
+plumbing-filter-add-reagent = Добавить реагент в фильтр
+plumbing-filter-reagent-id = Идентификатор реагента
+plumbing-filter-add = Добавить
+plumbing-filter-filtered = Отфильтрованные реагенты
+plumbing-filter-clear = Очистить все
+plumbing-filter-remove-selected = Удалить выбранное
+plumbing-filter-invalid-reagent = Неизвестный реагент: {$reagent}
+plumbing-filter-max-reagents = Вы можете фильтровать не более {$count} реагентов.
 
 # Synthesizer UI
-plumbing-synthesizer-window-title = Plumbing Synthesizer
-plumbing-synthesizer-status = Status:
-plumbing-synthesizer-enabled = Enabled
-plumbing-synthesizer-disabled = Disabled
-plumbing-synthesizer-battery = Battery:
-plumbing-synthesizer-power = Power:
-plumbing-synthesizer-power-on = Connected
-plumbing-synthesizer-power-off = No Power
-plumbing-synthesizer-select-reagent = Select Reagent
-plumbing-synthesizer-none = None
-plumbing-synthesizer-buffer = Buffer Contents
-plumbing-synthesizer-buffer-empty = Empty
+plumbing-synthesizer-window-title = Трубопроводный синтезатор
+plumbing-synthesizer-status = Статус:
+plumbing-synthesizer-enabled = Включено
+plumbing-synthesizer-disabled = Выключен
+plumbing-synthesizer-battery = Батарея:
+plumbing-synthesizer-power = Питание:
+plumbing-synthesizer-power-on = Подключено
+plumbing-synthesizer-power-off = Нет питания
+plumbing-synthesizer-select-reagent = Выберите реагент
+plumbing-synthesizer-none = Нет
+plumbing-synthesizer-buffer = Содержимое буфера
+plumbing-synthesizer-buffer-empty = Пусто
 
 # Plunger drain
-plumbing-drain-success = Drained {$amount}u onto the floor.
-plumbing-drain-empty = Nothing to drain.
+plumbing-drain-success = На пол слито {$amount} ед.
+plumbing-drain-empty = Нечего сливать.

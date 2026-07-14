@@ -1,6 +1,6 @@
-plushie-weh-1 = Freezon!!
-plushie-weh-2 = Yay!
-plushie-weh-3 = Jack!
-plushie-weh-4 = More Modules!
-plushie-weh-5 = Vox Box!
-plushie-weh-6 = Weh!
+plushie-weh-1 = Фризон!!
+plushie-weh-2 = Ура!
+plushie-weh-3 = Джек!
+plushie-weh-4 = Больше модулей!
+plushie-weh-5 = Вокс-бокс!
+plushie-weh-6 = Ух!

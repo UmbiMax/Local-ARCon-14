@@ -1,17 +1,17 @@
-alert-level-announcement-sender = Attention! {$sender} has called {$name} alert! {$announcement}
+alert-level-announcement-sender = Внимание! {$sender} объявляет уровень угрозы «{$name}»! {$announcement}
 
-alert-level-omega = Omega
-alert-level-omega-announcement = Fluctuations in the Null Scar indicate this station is out of phase with its standard reality. I hope whatever you have done is worth it.
-alert-level-omega-instructions = Reevaluate your decisions.
+alert-level-omega = Омега
+alert-level-omega-announcement = Колебания Нулевого Шрама указывают, что станция вышла из фазы со своей исходной реальностью. Надеюсь, содеянное вами того стоило.
+alert-level-omega-instructions = Задумайтесь о принятых решениях.
 
-alert-level-theta = Theta
-alert-level-theta-announcement = Heri vixisti, hodi mori meministi.
-alert-level-theta-instructions = Remember mortality.
+alert-level-theta = Тета
+alert-level-theta-announcement = Вчера вы жили. Сегодня помните о смерти.
+alert-level-theta-instructions = Помните, что вы смертны.
 
-alert-level-psi = Psi
-alert-level-psi-announcement = Avoid any Cyborgs that do not conform to NanoTrasen specifications. Do not go alone. Do not go quietly. Seek heads of staff for further instructions.
-alert-level-psi-instructions = Avoid Hostile Cyborgs.
+alert-level-psi = Пси
+alert-level-psi-announcement = Избегайте киборгов, не соответствующих спецификациям NanoTrasen. Не ходите в одиночку. Не сдавайтесь без боя. За дальнейшими указаниями обратитесь к главам отделов.
+alert-level-psi-instructions = Избегайте враждебных киборгов.
 
-alert-level-orange = Orange
-alert-level-orange-announcement = There is a critical station-wide structural or atmospheric threat and recovery is unlikely. Engineering staff are advised to minimize hazards and secure the Evacuation Dock. Crewmembers are advised to stay away from hazardous areas, and prepare for probable Evacuation.
-alert-level-orange-instructions = Avoid hazards and prepare for Evacuation.
+alert-level-orange = Оранжевый
+alert-level-orange-announcement = На станции возникла критическая структурная или атмосферная угроза, устранение которой маловероятно. Инженерному персоналу надлежит по возможности устранить источники опасности и обезопасить эвакуационный док. Членам экипажа следует избегать опасных зон и готовиться к вероятной эвакуации.
+alert-level-orange-instructions = Избегайте опасных зон и готовьтесь к эвакуации.

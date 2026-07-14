@@ -1,8 +1,8 @@
-no-eorg-popup-title = Starlight
-no-eorg-popup-label = Welcome to the End of Round!
-no-eorg-popup-message = [bold]End-of-round grief (EORG)[/bold] is not allowed on Starlight. Please stay in character until the lobby screen appears to maintain an immersive environment for everyone. Thank you for respecting the community rules!
-no-eorg-popup-rule = [bold][color=#a4885c]End of round grief is not permitted and results in an instant minimum 90 minute game ban.[/color][/bold]
-no-eorg-popup-rule-text = This includes any friendly fire and use of harmful abilities at round end regardless of who started the griefing. This also includes physical modification of Central Command or the Evac Shuttle, in ways including but not limited to: metal foam grenades, explosives, RCD, deconstruction, authentication disruptor, and door hacking.
-no-eorg-popup-close-button = Sounds good!
-no-eorg-popup-close-button-wait = The close button will be enabled after {$time} seconds.
-no-eorg-popup-skip-checkbox = Don't show this again.
+no-eorg-popup-title = Arcane
+no-eorg-popup-label = Добро пожаловать в конец раунда!
+no-eorg-popup-message = [bold]Гриф в конце раунда (EORG)[/bold] запрещён на Arcane. Оставайтесь в образе до появления экрана лобби, чтобы не портить другим игрокам погружение. Спасибо за соблюдение правил сообщества!
+no-eorg-popup-rule = [bold][color=#a4885c]Гриф в конце раунда не допускается и приводит к мгновенному бану в игре минимум на 90 минут.[/color][/bold]
+no-eorg-popup-rule-text = Это включает в себя любой дружественный огонь и использование вредных способностей в конце раунда, независимо от того, кто начал грифинг. Это также включает в себя физическую модификацию Центрального командования или эвакуационного шаттла, включая, помимо прочего: металлические пенные гранаты, взрывчатку, УЗО, демонтаж, нарушение аутентификации и взлом дверей.
+no-eorg-popup-close-button = Понятно!
+no-eorg-popup-close-button-wait = Кнопка закрытия станет активной через {$time} секунд.
+no-eorg-popup-skip-checkbox = Не показывай это больше.

@@ -1,6 +1,6 @@
-plushie-poley-1 = listen to the danm radio!
-plushie-poley-2 = We sharing ticket.. Right?
-plushie-poley-3 = cheeki breeki!
-plushie-poley-4 = Don't turn in contraband, rookie
-plushie-poley-5 = Its right there if you use your eye.
-plushie-poley-6 = Yes i did mine, why?
+plushie-poley-1 = слушайте чертово радио!
+plushie-poley-2 = Мы делим билет... Верно?
+plushie-poley-3 = чики брики!
+plushie-poley-4 = Не сдавай контрабанду, новичок.
+plushie-poley-5 = Это прямо здесь, если вы используете свой глаз.
+plushie-poley-6 = Да, я сделал свое, почему?

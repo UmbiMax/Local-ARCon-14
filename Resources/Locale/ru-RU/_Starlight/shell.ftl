@@ -1,1 +1,1 @@
-shell-command-disabled = this command is disabled by a cvar. probally because if you use it on the live server it fucks something over and you were told repeatedly not to use it but HERE WE ARE!!!
+shell-command-disabled = Эта команда отключена серверной переменной. Вероятно, потому что на рабочем сервере она что-нибудь ломает, а вас уже неоднократно просили её не использовать. НО ВОТ МЫ СНОВА ЗДЕСЬ!!!

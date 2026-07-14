@@ -1,3 +1,3 @@
 # Damage examines
-damage-examine-penetration-positive = This ammo type ignores [color=red]{$penetration}[/color]% of armor
-damage-examine-penetration-negative = This ammo type causes armor to be [color=red]{$penetration}[/color]% more effective
+damage-examine-penetration-positive = Этот тип боеприпасов игнорирует [color=red]{$penetration}[/color]% брони.
+damage-examine-penetration-negative = Этот тип боеприпасов повышает эффективность брони на [color=red]{$penetration}[/color]%.

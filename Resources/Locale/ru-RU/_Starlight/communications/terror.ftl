@@ -1,8 +1,8 @@
 # Ninja threats
-terror-clown = Attention crew, it appears that someone on your station has made an unexpected communication with a bombastic trio of honkies in nearby space.
-terror-lone-op = Attention crew, it appears that someone on your station has made an unexpected communication with a blood-red marauder in nearby space.
-terror-ninja = Attention crew, it appears that someone on your station has made an unexpected communication with the spider clan in nearby space.
-terror-rod = Attention crew, it appears that someone on your station has made an unexpected communication with an unstoppable force in nearby space.
-terror-wizard = Attention crew, it appears that someone on your station has made an unexpected communication with a wizard federation representative in nearby space.
-terror-borgs = Attention crew, it appears that someone on your station has made an unexpected communication with an anomalous shuttle in nearby space.
-terror-eeep = Attention crew, it appears that someone on your station has made an unexpected communication with an adorable sentient tesla in nearby space.
+terror-clown = Внимание, экипаж! Кто-то на станции привлёк внимание напыщенной троицы космических хулиганов.
+terror-lone-op = Внимание, экипаж! Кто-то на станции привлёк внимание кроваво-красного космического мародёра.
+terror-ninja = Внимание, экипаж! Кто-то на станции привлёк внимание клана космических пауков.
+terror-rod = Внимание, экипаж! Кто-то на станции привлёк непреодолимую силу из ближайшего космоса.
+terror-wizard = Внимание, экипаж! Кто-то на станции привлёк внимание представителя Федерации магов.
+terror-borgs = Внимание, экипаж! Кто-то на станции привлёк внимание неопознанного шаттла неподалёку.
+terror-eeep = Внимание, экипаж! Кто-то на станции привлёк внимание очаровательной разумной Теслы неподалёку.

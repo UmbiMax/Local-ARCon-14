@@ -1,5 +1,5 @@
-﻿station-event-incoming-wreck-swarm-spawn-failed = The station was about to collide with a wreck, but it was interesting enough that we bluespaced it to loot ourselves at CentComm.
+station-event-incoming-wreck-swarm-spawn-failed = Станция едва не столкнулась с обломками корабля, но их заблаговременно унесло в блюспейс. ЦентКом наверняка уже растаскивает находки.
 
-station-event-incoming-wreck-announcement = The station is colliding with a wreck moving at significant speed. Please inform engineering of any damage.
-station-event-incoming-wreck-large-announcement = The station is colliding with a large wreck moving at significant speed. Please panic appropriately.
-station-event-incoming-wreck-barratry-announcement = The megawreck Barratry is on a collision course with the station. Please panic inappropriately.
+station-event-incoming-wreck-announcement = К станции приближаются обломки корабля на высокой скорости. Сообщайте инженерному отделу обо всех повреждениях.
+station-event-incoming-wreck-large-announcement = К станции приближаются крупные обломки корабля на высокой скорости. Пожалуйста, паникуйте организованно.
+station-event-incoming-wreck-barratry-announcement = Гигантские обломки корабля «Барратри» движутся по курсу на столкновение со станцией. Пожалуйста, паникуйте без всякой меры.

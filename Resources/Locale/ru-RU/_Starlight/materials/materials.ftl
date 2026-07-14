@@ -1,9 +1,9 @@
 # Ores
-materials-raw-abyssium = raw abyssium
-stack-phosphorus = crushed phosporus
+materials-raw-abyssium = необработанный абиссиум
+stack-phosphorus = измельчённый фосфор
 
 # Misc
-materials-labeller-refill-paper = labeller refill paper
+materials-labeller-refill-paper = бумага для заправки этикетировочной машины
 
 # Metals
-materials-brass = brass
+materials-brass = латунь

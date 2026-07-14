@@ -1,58 +1,58 @@
 # Sad
-names-shadekin-dataset-1 = Fragile
-names-shadekin-dataset-2 = Heartbreak
-names-shadekin-dataset-3 = Inferior
-names-shadekin-dataset-4 = Lone
-names-shadekin-dataset-5 = Lonesome
-names-shadekin-dataset-6 = Loss
-names-shadekin-dataset-7 = Solitary
-names-shadekin-dataset-8 = Solitude
-names-shadekin-dataset-9 = Sorrow
-names-shadekin-dataset-10 = Shade
+names-shadekin-dataset-1 = Хрупкий
+names-shadekin-dataset-2 = Разбитое Сердце
+names-shadekin-dataset-3 = Покинутый
+names-shadekin-dataset-4 = Одинокий
+names-shadekin-dataset-5 = Отшельник
+names-shadekin-dataset-6 = Потеря
+names-shadekin-dataset-7 = Один
+names-shadekin-dataset-8 = Одиночество
+names-shadekin-dataset-9 = Печаль
+names-shadekin-dataset-10 = Тень
 
 # Angry
-names-shadekin-dataset-11 = Fear
-names-shadekin-dataset-12 = Fearful
-names-shadekin-dataset-13 = Fury
-names-shadekin-dataset-14 = Pain
-names-shadekin-dataset-15 = Rage
-names-shadekin-dataset-16 = Rush
-names-shadekin-dataset-17 = Wrath
+names-shadekin-dataset-11 = Страх
+names-shadekin-dataset-12 = Ужас
+names-shadekin-dataset-13 = Ярость
+names-shadekin-dataset-14 = Боль
+names-shadekin-dataset-15 = Ярость
+names-shadekin-dataset-16 = Натиск
+names-shadekin-dataset-17 = Гнев
 
 # Happy
-names-shadekin-dataset-18 = Calm
-names-shadekin-dataset-19 = Content
-names-shadekin-dataset-20 = Contented
-names-shadekin-dataset-21 = Happy
-names-shadekin-dataset-22 = Hope
-names-shadekin-dataset-23 = Joyous
-names-shadekin-dataset-24 = Lovely
-names-shadekin-dataset-25 = Peace
-names-shadekin-dataset-26 = Peaceful
-names-shadekin-dataset-27 = Quiet
-names-shadekin-dataset-28 = Serene
-names-shadekin-dataset-29 = Serenity
-names-shadekin-dataset-30 = Tranquil
-names-shadekin-dataset-31 = Tranquility
+names-shadekin-dataset-18 = Спокойствие
+names-shadekin-dataset-19 = Содержание
+names-shadekin-dataset-20 = Доволен
+names-shadekin-dataset-21 = Счастливый
+names-shadekin-dataset-22 = Надеяться
+names-shadekin-dataset-23 = Радостный
+names-shadekin-dataset-24 = Прекрасный
+names-shadekin-dataset-25 = Мир
+names-shadekin-dataset-26 = Мирный
+names-shadekin-dataset-27 = Тихий
+names-shadekin-dataset-28 = Безмятежный
+names-shadekin-dataset-29 = Умиротворенность
+names-shadekin-dataset-30 = Спокойный
+names-shadekin-dataset-31 = Спокойствие
 
 # Memory
-names-shadekin-dataset-32 = Dillusioned
-names-shadekin-dataset-33 = Forgotten
-names-shadekin-dataset-34 = Focusless
-names-shadekin-dataset-35 = Lost
-names-shadekin-dataset-36 = Memory
-names-shadekin-dataset-37 = Recollection
-names-shadekin-dataset-38 = Remembrance
-names-shadekin-dataset-39 = Reminisce
-names-shadekin-dataset-40 = Reminiscence
+names-shadekin-dataset-32 = Разочарованный
+names-shadekin-dataset-33 = Забытый
+names-shadekin-dataset-34 = Рассеянность
+names-shadekin-dataset-35 = Потерянный
+names-shadekin-dataset-36 = Память
+names-shadekin-dataset-37 = Воспоминание
+names-shadekin-dataset-38 = Воспоминание
+names-shadekin-dataset-39 = Воспоминание
+names-shadekin-dataset-40 = Воспоминание
 
 # Other
-names-shadekin-dataset-41 = Apathy
-names-shadekin-dataset-42 = Collected
-names-shadekin-dataset-43 = Curiosity
-names-shadekin-dataset-44 = Free
-names-shadekin-dataset-45 = Intrigue
-names-shadekin-dataset-46 = Jax
-names-shadekin-dataset-47 = Still
-names-shadekin-dataset-48 = Unbound
-names-shadekin-dataset-49 = Shadows
+names-shadekin-dataset-41 = Апатия
+names-shadekin-dataset-42 = Собранность
+names-shadekin-dataset-43 = Любопытство
+names-shadekin-dataset-44 = Свобода
+names-shadekin-dataset-45 = Интрига
+names-shadekin-dataset-46 = Джакс
+names-shadekin-dataset-47 = Покой
+names-shadekin-dataset-48 = Неприкаянный
+names-shadekin-dataset-49 = Тени

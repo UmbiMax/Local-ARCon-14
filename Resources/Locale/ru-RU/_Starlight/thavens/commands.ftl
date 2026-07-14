@@ -1,8 +1,8 @@
-command-description-moods-addproto = Adds a mood from a ThavenMood prototype.
-command-description-moods-adddataset = Adds a mood picked from a Dataset of ThavenMood prototypes.
-command-description-moods-addraw = Adds a mood that was manually typed.
-command-description-moods-ensure = Ensures the input entity has the ThavenMoodsComponent. and informs them of such.
-command-description-moods-rm = Removes a mood specified by the index of said mood.
+command-description-moods-addproto = Добавляет настроение из прототипа ThavenMood.
+command-description-moods-adddataset = Добавляет настроение, выбранное из набора данных прототипов ThavenMood.
+command-description-moods-addraw = Добавляет настроение, набранное вручную.
+command-description-moods-ensure = Добавляет переданной сущности ThavenMoodsComponent, если он отсутствует, и уведомляет её об этом.
+command-description-moods-rm = Удаляет настроение, указанное индексом указанного настроения.
 
-cmd-thavenshared-desc = Prints the shared thaven mood(s) to the console.
-cmd-thavenreollshared-desc = Rerolls the shared mood(s) between all thaves and tells them their moods have changes.
+cmd-thavenshared-desc = Выводит общие настроения тавенов в консоль.
+cmd-thavenreollshared-desc = Заменяет общие настроения всех тавенов и уведомляет их об изменении.

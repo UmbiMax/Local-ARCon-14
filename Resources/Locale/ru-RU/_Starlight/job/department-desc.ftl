@@ -1,2 +1,2 @@
-department-Law-description = Protect, prosecute or punish criminals.
-department-NT-description = High-ranking people employed by NanoTrasen directly, whose goals are to protect the interests of NanoTrasen and the station in one way or another.
+department-Law-description = Защищайте права экипажа, ведите дела и добивайтесь наказания преступников.
+department-NT-description = Высокопоставленные сотрудники корпорации, защищающие интересы NanoTrasen и станции.

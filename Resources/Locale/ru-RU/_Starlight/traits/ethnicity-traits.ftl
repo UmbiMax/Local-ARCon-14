@@ -1,13 +1,13 @@
-trait-category-ethnicity = Ethnicity
+trait-category-ethnicity = Этническая принадлежность
 
-trait-ethnicity-elf-high-name = Quela
-trait-ethnicity-elf-high-desc = You descend from the pure-intentioned philosophers, scientists, and explorers of the Quelani Worlds. Your native language is Aielic, and your poetry is second to none. Most likely, you came to the Starlight Sector as part of MAGE's mission to gather intelligence on the Wizarding Federation.
+trait-ethnicity-elf-high-name = Кела
+trait-ethnicity-elf-high-desc = Вы происходите от чистомысленных философов, учёных и исследователей миров Квелани. Ваш родной язык — айельский, и ваша поэзия не имеет себе равных. Скорее всего, вы пришли в Сектор Звездного Света в рамках миссии MAGE по сбору разведданных о Волшебной Федерации.
 
-trait-ethnicity-elf-wood-name = Laurasse
-trait-ethnicity-elf-wood-desc = You take pride in your ability to cultivate and nurture plants. You grew up surrounded by Null Scar Dionae, and regard them as your closest friends. Like all laurassi, your mother tongue is Sylvan, preserved down through the ages by the wisdom of trees. To you, all these metal ships seem like cages; you wish they were more like your verdant homeworld, Tavas.
+trait-ethnicity-elf-wood-name = Лорасс
+trait-ethnicity-elf-wood-desc = Вы гордитесь своей способностью выращивать и ухаживать за растениями. Вы выросли в окружении Дионай Нуль Шрама и считаете их своими ближайшими друзьями. Как и у всех лаурасси, ваш родной язык — сильванский, сохраненный на протяжении веков мудростью деревьев. Вам все эти металлические корабли кажутся клетками; вам бы хотелось, чтобы они больше походили на ваш зеленый родной мир, Тавас.
 
-trait-ethnicity-elf-dark-name = Seiryth
-trait-ethnicity-elf-dark-desc = As the generations passed, some of those lost in the Null Scar looked deeper and deeper into the tear itself to harness its mysterious and dangerous secrets. They came to be known as the seirythii, and their leaders as the Seiryth Monarchs, ruling from unassailable fortresses on inhospitable, violent worlds. As one of their descendants, you were surprised to discover just how many nefarious creatures here in the Starlight sector already speak your native language, Darktongue.
+trait-ethnicity-elf-dark-name = Сейрит
+trait-ethnicity-elf-dark-desc = По прошествии нескольких поколений некоторые из тех, кто затерялся в Нулевом Шраме, заглядывали все глубже и глубже в саму разрыву, чтобы раскрыть ее таинственные и опасные тайны. Они стали известны как сейритии, а их лидеры — как монархи Сейритов, правящие из неприступных крепостей на негостеприимных, жестоких мирах. Как один из их потомков, вы были удивлены, обнаружив, сколько гнусных существ здесь, в секторе Звездного света, уже говорят на вашем родном языке, Темном языке.
 
-trait-ethnicity-elf-cave-name = Detar
-trait-ethnicity-elf-cave-desc = While the other kindreds of aielith squabbled over the event horizon of the Null Scar, your people settled on supposedly uninhabitable Dark Worlds, those orbiting weak suns or none at all, by delving deep into the rock and living on geothermal heat. There your people waited, adapting to the darkness, for your chance to grab ultimate power. Your native language, Felyaic, is very similar to Darktongue, but has its own unique qualities that only detarii and seirythii understand.
+trait-ethnicity-elf-cave-name = Детар
+trait-ethnicity-elf-cave-desc = В то время как другие сородичи эйлитов ссорились из-за горизонта событий Нулевого Шрама, ваш народ поселился на предположительно непригодных для жизни Темных Мирах, вращающихся вокруг слабых солнц или вообще не имеющих их вообще, копаясь глубоко в скалах и живя за счет геотермального тепла. Там ваш народ, приспосабливаясь к темноте, ждал вашего шанса захватить абсолютную власть. Ваш родной язык, феляйский, очень похож на Темный язык, но имеет свои уникальные качества, которые понимают только детарии и сейритии.

@@ -1,1 +1,1 @@
-shunt-target-occupied = An AI is already using that body.
+shunt-target-occupied = ИИ уже использует это тело.

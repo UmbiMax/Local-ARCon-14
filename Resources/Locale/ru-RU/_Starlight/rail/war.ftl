@@ -1,6 +1,6 @@
-rr-war = War
-rr-war-desc = War has been declared. By order of Central Command, all personnel are to be evacuated at the end of the shift for redistribution. As Captain, you must ensure that no less than 90% of the crew departs on the evacuation shuttle.
-rr-war-announce = Attention. The USSP has launched a treacherous attack on NT border installations. The attack has been repelled, but the stationed crew was lost. At the end of this shift, all staff are ordered to return to CentCom for further reassignment.
-rr-war-announce-2 = Attention. A terrorist attack has just been carried out on an NT facility in your sector. All crew members are ordered to return to CentCom at the end of this shift for further mobilization into special units.
-rr-war-deserter = Deserter
-rr-war-deserter-desc = You've had enough of corporate wars. Ignore the evacuation order and remain on the station at the end of the shift.
+rr-war = Война
+rr-war-desc = Война была объявлена. По приказу Центрального командования весь личный состав в конце смены должен быть эвакуирован для перераспределения. Как капитан, вы должны обеспечить, чтобы не менее 90% экипажа улетело на эвакуационном шаттле.
+rr-war-announce = Внимание. USSP предприняла вероломную атаку на пограничные объекты Северной Америки. Атака была отбита, но находившийся экипаж погиб. По окончании этой смены всем сотрудникам приказано вернуться в Центком для дальнейшего переназначения.
+rr-war-announce-2 = Внимание. Только что была совершена террористическая атака на объект NT в вашем секторе. Всем членам экипажа приказано вернуться в Центком в конце этой смены для дальнейшей мобилизации в специальные подразделения.
+rr-war-deserter = Дезертир
+rr-war-deserter-desc = С вас достаточно корпоративных войн. Не обращайте внимания на приказ об эвакуации и оставайтесь на станции до конца смены.

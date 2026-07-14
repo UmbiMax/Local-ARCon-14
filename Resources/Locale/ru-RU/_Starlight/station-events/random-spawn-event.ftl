@@ -1,6 +1,6 @@
 # Default
-random-spawn-default-announcement = This entity has been placed near {$location}.
+random-spawn-default-announcement = Этот объект был помещен рядом с {$location}.
 
 # Syndicate dead drop
-syndicate-dead-drop-announcement = A dead drop has been redspaced near {$location}. Collect these tools at your convenience.
-station-syndicate-dead-drop-announcement = Attention. Redspace signatures detected; illegal teleportation of material likely. Please cooperate with your local security department while they secure the unauthorized device.
+syndicate-dead-drop-announcement = Рядом с {$location} через редспейс доставлен тайник. Заберите снаряжение, когда сочтёте нужным.
+station-syndicate-dead-drop-announcement = Внимание! Обнаружены сигнатуры редспейса — возможна незаконная телепортация грузов. Службе безопасности надлежит обнаружить и обезвредить несанкционированное устройство.

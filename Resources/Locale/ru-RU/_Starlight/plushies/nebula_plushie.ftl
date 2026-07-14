@@ -1,8 +1,8 @@
-﻿plushie-nebula-1 = CDD Liaison Officer Nebula, reporting for duty!
-plushie-nebula-2 = Hey Nali!
-plushie-nebula-3 = Yes sir.
-plushie-nebula-4 = You've all been such a fantastic audience!
-plushie-nebula-5 = I am so telling the Grand Admiral.
-plushie-nebula-6 = Keep your eyes peeled for Central Domestic's next big show!!!
-plushie-nebula-7 = I will say 'Guh' and you will deal with it, Daniel!
-plushie-nebula-8 = One more boykisser fax and you are being relieved of command.
+plushie-nebula-1 = Офицер связи CDD Небула, прибыл на дежурство!
+plushie-nebula-2 = Привет, Нали!
+plushie-nebula-3 = Да, сэр.
+plushie-nebula-4 = Вы все были такой фантастической публикой!
+plushie-nebula-5 = Я говорю это гранд-адмиралу.
+plushie-nebula-6 = Следите за следующим большим шоу Central Domestic!!!
+plushie-nebula-7 = Я скажу «Гу», и ты справишься с этим, Дэниел!
+plushie-nebula-8 = Еще один факс, и ты освобождаешься от командования.

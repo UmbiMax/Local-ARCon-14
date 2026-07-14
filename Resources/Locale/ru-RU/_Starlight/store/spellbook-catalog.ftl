@@ -1,21 +1,21 @@
-spellbook-staff-healing-name = Staff of Healing
-spellbook-staff-healing-description = You don't foresee having to use this in your quest for carnage too often.
+spellbook-staff-healing-name = Посох исцеления
+spellbook-staff-healing-description = Вы не предвидите, что вам придется слишком часто использовать это в своих поисках кровавой бойни.
 
-spellbook-event-summon-cheese-name = Summon Cheese
-spellbook-event-summon-cheese-description = Reach into the void and pluck out... a single piece of cheese!
+spellbook-event-summon-cheese-name = Призвать сыр
+spellbook-event-summon-cheese-description = Дотянись до пустоты и выдерни... кусочек сыра!
 
-spellbook-event-tower-babel-name = Language Shift
-spellbook-event-tower-babel-description = Can you Repeat that? Randomizes everything's languages! Has to be cast on station. Disables refunds.
-action-speech-spell-babel = Ya' Ni Lau' Re el
-action-speech-spell-babel-tts = Yare Ni, Laure Real
+spellbook-event-tower-babel-name = Языковой сдвиг
+spellbook-event-tower-babel-description = Простите, что вы сказали? Перемешивает все языки! Необходимо применить на станции. Возврат средств невозможен.
+action-speech-spell-babel = Я' Ни Лау' Ре эль
+action-speech-spell-babel-tts = Яре Ни, Лора Реал
 
-tower-of-babel-shifted = Your tongue becomes twisted
-tower-of-babel-returned = Your tongue settles back into place
+tower-of-babel-shifted = Ваш язык искажается.
+tower-of-babel-returned = Ваш язык возвращается в норму.
 
-spellbook-event-mana-blade-name = Spectral Blade
-spellbook-event-mana-blade-description = Channel your power into your hand and create a sword out of hardened mana.
+spellbook-event-mana-blade-name = Призрачный клинок
+spellbook-event-mana-blade-description = Направьте свою силу в руку и создайте меч из затвердевшей маны.
 
-spellbook-icestorm-name = Ice Storm
-spellbook-icestorm-desc = Unleash a freezing blast of ice that chills everything it touches to the bone!
+spellbook-icestorm-name = Ледяной шторм
+spellbook-icestorm-desc = Выпустите ледяной порыв, который промораживает все, к чему прикасается, до костей!
 
-spellbook-mind-swap-description-starlight = Exchange bodies with another person! You'll lose access to most wizard equipment while in another body... is it worth it?
+spellbook-mind-swap-description-starlight = Обменяйтесь телами с другим человеком! Вы потеряете доступ к большинству волшебного оборудования, находясь в другом теле... стоит ли оно того?

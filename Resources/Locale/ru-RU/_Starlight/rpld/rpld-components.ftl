@@ -1,3 +1,3 @@
-rpld-component-ducts = Plumbing Ducts
-rpld-component-supply = Plumbing Supply
-rpld-component-production = Plumbing Production
+rpld-component-ducts = Каналы
+rpld-component-supply = Подача реагентов
+rpld-component-production = Производство реагентов

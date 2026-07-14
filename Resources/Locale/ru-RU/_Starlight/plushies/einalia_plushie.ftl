@@ -1,6 +1,6 @@
-﻿plushie-einalia-1 = HE'S REACHING!!!
-plushie-einalia-2 = I hate bald people.
-plushie-einalia-3 = Just one normal shift for once... please...
-plushie-einalia-4 = ACK MY SENSITIVE BIRD EYES!
-plushie-einalia-5 = Eep.
-plushie-einalia-6 = No air jail! Put me down!!!
+plushie-einalia-1 = ОН ДОСТИГАЕТ!!!
+plushie-einalia-2 = Я ненавижу лысых людей.
+plushie-einalia-3 = Хоть раз одну нормальную смену... пожалуйста...
+plushie-einalia-4 = ПОДПИСЫВАЙТЕСЬ, МОИ ЧУВСТВИТЕЛЬНЫЕ ПТИЦЬИ ГЛАЗА!
+plushie-einalia-5 = Ип.
+plushie-einalia-6 = Никакой воздушной тюрьмы! Поставьте меня!!!

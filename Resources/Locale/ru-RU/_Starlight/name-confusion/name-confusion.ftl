@@ -2,24 +2,24 @@ name-confusion-mod = {$confusedName}
 
 # wow look at that, organization for once!
 command-description-nconf-confuse =
-    Do a confusion. Can be forced to ignore probability checks.
+    Искажает имя сущности. При необходимости позволяет игнорировать проверку вероятности.
 command-description-nconf-restore =
-    Restore name. Confuse CAN do this but this guarantees it.
+    Гарантированно восстанавливает исходное имя сущности.
 command-description-nconf-addname =
-    Adds a name to the confusion name list. Adds the component if it doesn't exist.
+    Добавляет имя в список искажённых имён. При необходимости создаёт компонент.
 command-description-nconf-rmname =
-    Removes a name from the confusion name list.
+    Удаляет имя из списка искажённых имён.
 command-description-nconf-clearnames =
-    Clears the confusion name list. Optionally, removes the component.
+    Очищает список запутанных имен. При необходимости удаляет компонент.
 command-description-nconf-confuseonspeak =
-    Sets ConfuseOnSpeak parameter.
+    Устанавливает параметр ConfuseOnSpeak.
 command-description-nconf-confuseonexamine =
-    Sets ConfuseOnExamine parameter.
+    Устанавливает параметр ConfuseOnExamine.
 command-description-nconf-confuseoninterval =
-    Sets ConfuseOnInterval parameter.
+    Устанавливает параметр ConfuseOnInterval.
 command-description-nconf-confuseintervaltime =
-    Sets ConfuseInterval parameter.
+    Устанавливает параметр ConfuseInterval.
 command-description-nconf-confuseprob =
-    Sets NameConfusionProbability parameter.
+    Устанавливает параметр NameConfusionProbability.
 command-description-nconf-restoreprob =
-    Sets NameRestoreProbability parameter.
+    Устанавливает параметр NameRestoreProbability.

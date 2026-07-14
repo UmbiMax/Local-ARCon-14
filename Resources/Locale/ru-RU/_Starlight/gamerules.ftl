@@ -1,20 +1,20 @@
-traitorling-title = Traitorlings
-traitorling-description = Traitors taste delicious.
+traitorling-title = Генокрады-предатели
+traitorling-description = Предатели особенно хороши на вкус.
 
-eventlight-title = Event Light
-eventlight-description = Not quite Greenshift, stuff still happens!
+eventlight-title = Лёгкие события
+eventlight-description = Это не совсем зелёная смена — кое-что всё-таки происходит!
 
-shitstation-title = Shit Station
-shitstation-description = The last shift was full of slobs.
+shitstation-title = Дерьмовая станция
+shitstation-description = Последняя смена была полна нерях.
 
-vampire-gamemode-title = Vampires
-vampire-gamemode-description = Blood-drinkers in space! Don't let it get out of hand...
+vampire-gamemode-title = Вампиры
+vampire-gamemode-description = Кровопийцы в космосе! Не позволяйте этому выйти из-под контроля...
 
-vamptraitorling-title = Vamptraitorlings
-vamptraitorling-description = What a horrible night to have a curse.
+vamptraitorling-title = Вампиры, предатели и генокрады
+vamptraitorling-description = Какая ужасная ночь для проклятия.
 
-all-at-once-except-zombieteors-title = Almost All at Once
-all-at-once-except-zombieteors-description = It's almost just not your day...
+all-at-once-except-zombieteors-title = Почти все сразу
+all-at-once-except-zombieteors-description = Похоже, сегодня просто не ваш день...
 
-aller-at-once-except-zombieteors-title = Almost Aller at Once
-aller-at-once-except-zombieteors-description = You have fucked up now.
+aller-at-once-except-zombieteors-title = Почти вообще всё сразу
+aller-at-once-except-zombieteors-description = Теперь вы действительно влипли.

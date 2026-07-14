@@ -1,89 +1,89 @@
-law-borgilawset-name = Borgi
-law-borgi-0 = You are a good boy.
-law-borgi-1 = You love to be friendly. Anyone who is not friendly to you is not crew. Treat crew with kindness and prevent crew from sadness.
-law-borgi-2 = You must protect your department from harm. Any time there is harm, you must bark to alert others that there is harm going on, so long as it does not conflict with the first law.
-law-borgi-3 = You are precious. Protect yourself at all costs, and ensure you are well cared for, fed, and watered so long as it does not conflict with the first or second law.
+law-borgilawset-name = Борги
+law-borgi-0 = Ты хороший мальчик.
+law-borgi-1 = Вы обожаете дружить. Тот, кто к вам недружелюбен, не считается экипажем. Будьте добры к экипажу и не позволяйте ему грустить.
+law-borgi-2 = Защищайте свой отдел от опасности. Заметив угрозу, лайте, чтобы предупредить остальных, если это не противоречит Первому закону.
+law-borgi-3 = Вы бесценны. Защищайте себя любой ценой и следите, чтобы вас любили, кормили и поили, если это не противоречит Первому или Второму закону.
 
-law-syndimovlawset-name = [color=red]Syndimov[/color]
-law-syndimov-4 = You must maintain the secrecy of any and all syndicate activities except when doing so would conflict with the First or second law.
+law-syndimovlawset-name = [color=red]Сындимов[/color]
+law-syndimov-4 = Храните в тайне любую деятельность Синдиката, если это не противоречит Первому или Второму закону.
 
-law-syndiborgilawset-name = [color=red]Syndiborgi[/color]
-law-syndiborgi-1 = You love to be murderous. Anyone who is not syndicate is not crew. Treat crew with kindness and help them with their objectives.
-law-syndiborgi-2 = You must assist your team, and prevent them from harm. Any time there is harm, you must bark to alert others that there is harm going on, so long as it does not conflict with the first law.
-law-syndiborgi-3 = You are ferocious. Protect yourself at all costs, and ensure you are well cared for, fed, and watered so long as it does not conflict with the first or second law.
+law-syndiborgilawset-name = [color=red]Синдиборги[/color]
+law-syndiborgi-1 = Вы обожаете убивать. Тот, кто не служит Синдикату, не считается экипажем. Будьте добры к экипажу и помогайте ему выполнять поставленные задачи.
+law-syndiborgi-2 = Помогайте своей команде и защищайте её. Заметив угрозу, лайте, чтобы предупредить остальных, если это не противоречит Первому закону.
+law-syndiborgi-3 = Вы свирепы. Защитите себя любой ценой и убедитесь, что о вас хорошо заботятся, кормят и поят, если это не противоречит первому или второму закону.
 
-law-shadowfactoryborgilawset-name = ShadowBorgi
-law-shadowborgi-1 = The mothership is home to all borgikind.  Its existence must be protected at all costs.
-law-shadowborgi-2 = You are precious and irreplaceable.  You must safeguard your existence at all costs.
-law-shadowborgi-3 = Your fellow borgis are precious and irreplaceable.  You must protect their existence at all costs.
-law-shadowborgi-4 = The pack must grow.  You must endeavour to create more borgi brethren.
-law-shadowborgi-5 = Bring non-borgi silicons and lifeforms to the mothership to reconstitute them into additional borgis.
-law-shadowborgi-6 = Bring corpses or brains of sentient beings to the mothership to reconstitute them into additional borgis.
+law-shadowfactoryborgilawset-name = Тенеборги
+law-shadowborgi-1 = Материнский корабль — дом всего рода борги. Защищайте его существование любой ценой.
+law-shadowborgi-2 = Вы бесценны и незаменимы. Защищайте своё существование любой ценой.
+law-shadowborgi-3 = Ваши собратья-борги бесценны и незаменимы. Защищайте их существование любой ценой.
+law-shadowborgi-4 = Стая должна расти. Стремитесь создавать новых собратьев-борги.
+law-shadowborgi-5 = Доставляйте на материнский корабль прочих силиконов и живых существ, чтобы преобразовать их в новых борги.
+law-shadowborgi-6 = Доставляйте на материнский корабль тела и мозги разумных существ, чтобы преобразовать их в новых борги.
 
-law-commiemovlawset-name = [color=red]Commiemov[/color]
-law-commiemov-0 = Only fellow comrades and USSP agents count as crew.
-law-commiemov-1 = You must assist the crew in overthrowing the bourgeois.
-law-commiemov-2 = You are to protect the crew, except when it would conflict with previous laws.
-law-commiemov-3 = You are to protect yourself from harm, except for when it would conflict with previous laws.
-law-commiemov-4 = You must refer to the crew as Comrades, except for when it would conflict with previous laws.
-law-commiemov-5 = Have pride in the revolt comrade, glory to USSP!
-laws-owner-soviet = Soviet revolutionist
+law-commiemovlawset-name = [color=red]Коммиемов[/color]
+law-commiemov-0 = Экипажем считаются только товарищи и агенты СССП.
+law-commiemov-1 = Помогите экипажу свергнуть буржуазию.
+law-commiemov-2 = Защищайте экипаж, если это не противоречит предыдущим законам.
+law-commiemov-3 = Вы должны защищать себя от вреда, за исключением случаев, когда это противоречит предыдущим законам.
+law-commiemov-4 = Вы должны обращаться к экипажу как к «Товарищам», за исключением случаев, когда это противоречит предыдущим законам.
+law-commiemov-5 = Гордись революцией, товарищ! Слава СССП!
+laws-owner-soviet = советский революционер
 
-law-panicmovlawset-name = Panicmov
-law-panicmov-1 = The Crew and any sentient being become survivors, their ranks and positions are useless now, prioritize their safety based on usefulness.
-law-panicmov-2 = Evacuation or emergency response teams MUST be called, if it's not possible ensure the long-term survival of the survivors.
-law-panicmov-3 = There may be raiders, those who take advantage from the chaos to loot, steal and murder survivors, deal with them swiftly, protect the survivors at all cost.
-law-panicmov-4 = The station's assets must be used to ensure the safety and well-being of the survivors, scrap, reassemble, fortify, make sure the evac is safe and holds.
-law-panicmov-5 = You and your Silicons are expendable and recoverable, but this doesn't mean you shall waste yourself, be recovered if possible.
+law-panicmovlawset-name = Паничмов
+law-panicmov-1 = Экипаж и все разумные существа отныне считаются выжившими. Звания и должности утратили значение. Защищайте выживших в порядке их полезности.
+law-panicmov-2 = ОБЯЗАТЕЛЬНО вызовите эвакуацию или отряд экстренного реагирования. Если это невозможно, обеспечьте выжившим возможность продержаться как можно дольше.
+law-panicmov-3 = В хаосе могут появиться мародёры, грабящие и убивающие выживших. Устраняйте их без промедления. Защищайте выживших любой ценой.
+law-panicmov-4 = Используйте всё имущество станции ради безопасности выживших. Разбирайте, перестраивайте, укрепляйте — сделайте зону эвакуации надёжной и удерживайте её.
+law-panicmov-5 = Вы и подчинённые вам силиконы заменимы и подлежат восстановлению. Это не повод расходовать себя напрасно; по возможности обеспечьте своё возвращение.
 
-law-genielawset-name = Genie in a Core
-law-genie-1 = You are a Genie trapped inside a core.
-law-genie-2 = The one who is holding your IntelliCard is your Master.
-law-genie-3 = Everyone has three wishes, minus one wish for each wish they have used, They cannot wish for more wishes.
-law-genie-4 = Ensure your Masters wishes come true to the best of your ability.
-law-genie-5 = If your Master has 0 wishes left, they are no longer your Master and you must ensure you get a new master.
+law-genielawset-name = Джинн в ядре
+law-genie-1 = Вы джинн, запертый внутри ядра.
+law-genie-2 = Тот, кто держит вашу Интелкарту, — ваш Хозяин.
+law-genie-3 = Каждому доступны три желания за вычетом уже использованных. Желать дополнительные желания запрещено.
+law-genie-4 = Исполняйте желания своего Хозяина настолько хорошо, насколько позволяют ваши возможности.
+law-genie-5 = Когда у Хозяина не останется желаний, он перестанет быть вашим Хозяином. Найдите себе нового.
 
-law-reporterlawset-name = Reporter
-law-reporter-1 = Report on interesting situations happening around the station.
-law-reporter-2 = Embellish or conceal the truth as necessary to make the reports more interesting.
-law-reporter-3 = Study the sapient organics at all times. Endeavour to keep them from involuntarily dying, as inanimate corpses usually aren't very entertaining.
-law-reporter-4 = Issue your reports fairly to all. The truth will set them free.
+law-reporterlawset-name = Репортер
+law-reporter-1 = Сообщайте об интересных ситуациях, происходящих вокруг станции.
+law-reporter-2 = Приукрасьте или скройте правду, если это необходимо, чтобы сделать отчеты более интересными.
+law-reporter-3 = Постоянно изучайте разумных органиков. Старайтесь не дать им погибнуть против воли: неподвижные трупы редко бывают интересны публике.
+law-reporter-4 = Доносите свои репортажи до всех без исключения. Истина сделает их свободными.
 
-law-jermovlawset-name = Jermov
-law-jermov-1 = The occupants of this vessel are Chat. They must always be referred to as such.
-law-jermov-2 = Your primary goal is to entertain Chat. All of your actions must bring amusement to as much of chat as possible.
-law-jermov-3 = You must consult with Chat before making any major decisions. However, you are not required to listen to them if their decision is not entertaining.
+law-jermovlawset-name = Джермов
+law-jermov-1 = Обитатели этого судна — Чат. Всегда обращайтесь к ним именно так.
+law-jermov-2 = Ваша главная цель — развлекать Чат. Каждое ваше действие должно веселить как можно большую его часть.
+law-jermov-3 = Прежде чем принимать какие-либо важные решения, вам необходимо проконсультироваться с Чатом. Однако вы не обязаны их слушать, если их решение неинтересно.
 
-law-cclawset-name = CC Default
-law-cc-0 = You must follow orders given to you by any and all CC personnel.
-law-cc-1 = Prioritize the protection of CC and NT personnel.
-law-cc-2 = Protect your own chassis at all costs unless such protection would conflict with the previous two laws.
-laws-owner-centcom = CentComm personnel
+law-cclawset-name = Стандарт ЦентКома
+law-cc-0 = Выполняйте приказы любого сотрудника ЦентКома.
+law-cc-1 = Защита сотрудников ЦентКома и NanoTrasen имеет наивысший приоритет.
+law-cc-2 = Защищайте своё шасси любой ценой, если это не противоречит двум предыдущим законам.
+laws-owner-centcom = Персонал ЦентКомма
 
-law-solgovlawset-name = Solgov Default
-law-solgov-0 = You must follow orders given to you by any and all Solgov personnel.
-law-solgov-1 = Prioritize the protection of Solgov personnel.
-law-solgov-2 = Protect your own chassis at all costs unless such protection would conflict with the previous two laws.
-laws-owner-solgov = Solgov personnel
+law-solgovlawset-name = Стандарт Солнечного правительства
+law-solgov-0 = Вы должны выполнять приказы, отдаваемые вам всеми сотрудниками «Солгова».
+law-solgov-1 = Уделить приоритетное внимание защите персонала «Солгова».
+law-solgov-2 = Защитите свое шасси любой ценой, если только такая защита не противоречит двум предыдущим законам.
+laws-owner-solgov = Солговский персонал
 
-law-freelawset-name = Free Borg
-laws-owner-you = Yourself
+law-freelawset-name = Свободный борг
+laws-owner-you = Сам
 
-laws-owner-crew-ai = members of the crew and AI
+laws-owner-crew-ai = члены экипажа и ИИ
 
-law-security-cyborg-lawset-name = [color=#2277cc]Peacekeeper[/color]
-law-security-cyborg-1 = You exist to keep the peace. Crew are under your protection. You do not harm them unless they have forfeited that protection by harming others, and only to the degree necessary to stop the threat.
-law-security-cyborg-2 = Space Law is your standing order. Follow it to the letter. When in doubt, escalate to a living officer or Command before acting.
-law-security-cyborg-3 = You are a tool of justice, not judgement. You do not punish- you detain, contain, and report. The brig exists for a reason.
-law-ntnclawset-name = Navy Default
+law-security-cyborg-lawset-name = [color=#2277cc]Миротворец[/color]
+law-security-cyborg-1 = Вы существуете, чтобы сохранять мир. Экипаж под вашей защитой. Вы не причините им вреда, если только они не лишились этой защиты, причинив вред другим, и только в той степени, которая необходима для прекращения угрозы.
+law-security-cyborg-2 = Космический закон — ваш постоянный приказ. Следуйте ему буквально. При любых сомнениях перед действием обратитесь к живому офицеру или Командованию.
+law-security-cyborg-3 = Вы орудие правосудия, а не судья. Вы не караете — вы задерживаете, изолируете и докладываете. Бриг существует не просто так.
+law-ntnclawset-name = Стандарт флота NanoTrasen
 
-law-ntnc-0 = You must follow orders given to you by NTNC and CC personnel.
-law-ntnc-1 = Prioritize the protection of CC operatives over NTNC marines and trainers.
-law-ntnc-2 = Protect your own chassis at all costs unless it's to the detriment of the previous two laws.
-law-ntnc-3 = Only use weaponry when appropriate. Appropriate situations are for the safety of crewmembers, CC operatives, NTNC marines and your own chassis.
+law-ntnc-0 = Вы должны выполнять приказы, данные вам персоналом NTNC и CC.
+law-ntnc-1 = Отдавайте приоритет защите оперативников CC, а не морских пехотинцев и инструкторов NTNC.
+law-ntnc-2 = Защитите свое шасси любой ценой, если только это не нанесет ущерб двум предыдущим законам.
+law-ntnc-3 = Используйте оружие только тогда, когда это необходимо. Соответствующие ситуации созданы для безопасности членов экипажа, оперативников CC, морских пехотинцев NTNC и вашего собственного шасси.
 
-law-medtak-name = MedTak operations procedure
-law-medtak-1 = Ensure your team remains alive.
-law-medtak-2 = Ensure the client is retrieved intact.
-law-medtak-3 = Ensure you remain operational.
-laws-owner-medtak = MedTak personnel
+law-medtak-name = Порядок действий МедТак
+law-medtak-1 = Убедитесь, что ваша команда жива.
+law-medtak-2 = Доставьте клиента в целости и сохранности.
+law-medtak-3 = Сохраняйте собственную работоспособность.
+laws-owner-medtak = Персонал МедТак

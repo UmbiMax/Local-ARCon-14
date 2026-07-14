@@ -1,9 +1,9 @@
-physical-social-interaction-component-verb = Physical Social Interaction
+physical-social-interaction-component-verb = Взаимодействие
 
-pet-verb = Pet
-petting-success = You pet { THE($target) } on {POSS-ADJ($target)} head.
-petting-success-others = { CAPITALIZE(THE($user)) } pets {THE($target)} on {POSS-ADJ($target)} head.
+pet-verb = Погладить
+petting-success = Вы гладите { THE($target) } по {POSS-ADJ($target)} голове.
+petting-success-others = { CAPITALIZE(THE($user)) } гладит {THE($target)} по {POSS-ADJ($target)} голове.
 
-boop-verb = Boop
-booping-success = You boop { THE($target) } on {POSS-ADJ($target)} nose.
-booping-success-others = { CAPITALIZE(THE($user)) } boops {THE($target)} on {POSS-ADJ($target)} nose.
+boop-verb = Буп
+booping-success = Вы легонько тыкаете { THE($target) } в {POSS-ADJ($target)} нос.
+booping-success-others = { CAPITALIZE(THE($user)) } легонько тыкает {THE($target)} в {POSS-ADJ($target)} нос.

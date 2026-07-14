@@ -1,17 +1,17 @@
-reagent-name-orange-smoke-causer = Orange Smoke Causer
-reagent-desc-orange-smoke-causer = A dangerously unstable compound produced by orange slime extracts that immediately turns into smoke.
+reagent-name-orange-smoke-causer = генератор оранжевого дыма
+reagent-desc-orange-smoke-causer = Опасно нестабильное соединение, вырабатываемое экстрактами апельсиновой слизи, которое мгновенно превращается в дым.
 
-reagent-name-blue-foam-causer = Blue Foam Causer
-reagent-desc-blue-foam-causer = A dangerously unstable compound produced by blue slime extracts that immediately turns into foam.
+reagent-name-blue-foam-causer = генератор синей пены
+reagent-desc-blue-foam-causer = Опасно нестабильное соединение, вырабатываемое экстрактами синей слизи, которое мгновенно превращается в пену.
 
-reagent-name-regenerative-jelly = Regenerative Jelly
-reagent-desc-regenerative-jelly = A healing chemical similar to omnizine that can be obtained from xenobiological study.
+reagent-name-regenerative-jelly = Регенеративное желе
+reagent-desc-regenerative-jelly = Целебное химическое вещество, похожее на омнизин, которое можно получить в результате ксенобиологического исследования.
 
-reagent-name-unstable-mutation-toxin = Unstable Mutation Toxin
-reagent-desc-unstable-mutation-toxin = A strange chemical that rapidly changes species on metabolization. Can this be stablized?
+reagent-name-unstable-mutation-toxin = Нестабильный мутационный токсин
+reagent-desc-unstable-mutation-toxin = Странное химическое вещество, которое быстро меняет вид при метаболизме. Можно ли это стабилизировать?
 
-reagent-name-imperfect-mutation-toxin = Imperfect Mutation Toxin
-reagent-desc-imperfect-mutation-toxin = A poor quality chemical that changes species to a slime person on metabolization.
+reagent-name-imperfect-mutation-toxin = Токсин несовершенной мутации
+reagent-desc-imperfect-mutation-toxin = Низкокачественное вещество, превращающее человека в слаймолюда при усвоении организмом.
 
-reagent-name-advanced-mutation-toxin = Advanced Mutation Toxin
-reagent-desc-advanced-mutation-toxin = A non-scientific absurdity that mutates people into slimes. Ever wanted to lose all your limbs?
+reagent-name-advanced-mutation-toxin = Усовершенствованный мутационный токсин
+reagent-desc-advanced-mutation-toxin = Ненаучный абсурд, превращающий людей в слаймолюдов. Вы когда-нибудь мечтали лишиться всех конечностей?

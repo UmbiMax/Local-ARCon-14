@@ -1,147 +1,147 @@
-marking-Gills = Gills
-marking-Gills-gills = Gills
+marking-Gills = Жабры
+marking-Gills-gills = Жабры
 
-marking-ThavenAbs = Muscles
-marking-ThavenAbs-muscular = Muscles
+marking-ThavenAbs = Мышцы
+marking-ThavenAbs-muscular = Мышцы
 
-marking-ThavenBiteMark = Big Bite Scar
-marking-ThavenBiteMark-bitemark = Big Bite Scar
+marking-ThavenBiteMark = Большой шрам от укуса
+marking-ThavenBiteMark-bitemark = Большой шрам от укуса
 
-marking-ThavenBodyStripes = Pinstripes
-marking-ThavenBodyStripes-bodystripes = Pinstripes
+marking-ThavenBodyStripes = Полоски
+marking-ThavenBodyStripes-bodystripes = Полоски
 
-marking-ThavenChestScales = Scales
-marking-ThavenChestScales-chestscales = Scales
+marking-ThavenChestScales = Чешуя на груди
+marking-ThavenChestScales-chestscales = Чешуя на груди
 
-marking-ThavenChestTattoo1 = Back Tattoo
-marking-ThavenChestTattoo1-tat1 = Back Tattoo
+marking-ThavenChestTattoo1 = Татуировки На Спине
+marking-ThavenChestTattoo1-tat1 = Татуировки На Спине
 
-marking-ThavenSpinechill = Spinechill
-marking-ThavenSpinechill-spinechill = Spinechill
+marking-ThavenSpinechill = Спайнхилл
+marking-ThavenSpinechill-spinechill = Спайнхилл
 
-marking-ThavenSpines = Spines
-marking-ThavenSpines-spines = Spines
+marking-ThavenSpines = Шипы
+marking-ThavenSpines-spines = Шипы
 
-marking-ThavenTattooWave = Wave Tattoo
-marking-ThavenTattooWave-tattoowave = Wave Tattoo
+marking-ThavenTattooWave = Тату Волна
+marking-ThavenTattooWave-tattoowave = Тату Волна
 
-marking-ThavenTattooVines = Vine Tattoo
-marking-ThavenTattooVines-tattoovines = Vine Tattoo
+marking-ThavenTattooVines = Татуировка с виноградной лозой
+marking-ThavenTattooVines-tattoovines = Татуировка с виноградной лозой
 
-marking-ThavenTiger = Tiger Stripes
-marking-ThavenTiger-tiger1 = Tiger Belly
-marking-ThavenTiger-tiger2 = Tiger Stripes
+marking-ThavenTiger = Тигровые полосы
+marking-ThavenTiger-tiger1 = Тигровый живот
+marking-ThavenTiger-tiger2 = Тигровые полосы
 
 # Head
 
-marking-ThavenHeadCap = Dappled Crown
-marking-ThavenHeadCap-headcap1 = Crown
-marking-ThavenHeadCap-headcap2 = Dapples
+marking-ThavenHeadCap = Пятнистая корона
+marking-ThavenHeadCap-headcap1 = Корона
+marking-ThavenHeadCap-headcap2 = Яблоки
 
-marking-ThavenHeadScales = Scales
-marking-ThavenHeadScales-scales = Scales
+marking-ThavenHeadScales = Чешуя на голове
+marking-ThavenHeadScales-scales = Чешуя на голове
 
-marking-ThavenHeadStripes = Pinstripes
-marking-ThavenHeadStripes-stripes = Pinstripes
+marking-ThavenHeadStripes = Полоски
+marking-ThavenHeadStripes-stripes = Полоски
 
-marking-ThavenShadow = Gloomy
+marking-ThavenShadow = Хмурый
 
 # Snout
 
 # Eyes
 
-marking-SharkminnowEyeliner = Sharkminnow Eyeliner
-marking-SharkminnowEyeliner-sharkminnoweyeliner = Sharkminnow Eyeliner
+marking-SharkminnowEyeliner = Подводка для глаз Sharkminnow
+marking-SharkminnowEyeliner-sharkminnoweyeliner = Подводка для глаз Sharkminnow
 
-marking-ThavenEyesSharkminnow = Sharkminnow Eyes
-marking-ThavenEyesSharkminnow-sharkminnow = Sharkminnow Eyes
+marking-ThavenEyesSharkminnow = Глаза акулы
+marking-ThavenEyesSharkminnow-sharkminnow = Глаза акулы
 
-marking-ThavenEyesSharkminnowGlowing = Glowing Sharkminnow Eyes
-marking-ThavenEyesSharkminnowGlowing-sharkminnow = Glowing Sharkminnow Eyes
+marking-ThavenEyesSharkminnowGlowing = Светящиеся глаза акулы-минноу
+marking-ThavenEyesSharkminnowGlowing-sharkminnow = Светящиеся глаза акулы-минноу
 
-marking-ThavenLEyeGlow = Glowing Eye (Left)
-marking-ThavenLEyeGlow-glowleft = Glowing Eye (Left)
+marking-ThavenLEyeGlow = Светящийся глаз (слева)
+marking-ThavenLEyeGlow-glowleft = Светящийся глаз (слева)
 
-marking-ThavenREyeGlow = Glowing Eye (Right)
-marking-ThavenREyeGlow-glowright = Glowing Eye (Right)
+marking-ThavenREyeGlow = Светящийся глаз (справа)
+marking-ThavenREyeGlow-glowright = Светящийся глаз (справа)
 
 # RArm
 
-marking-ThavenRArmScales = Scales (Right Arm)
-marking-ThavenRArmScales-scales = Scales (Right Arm)
+marking-ThavenRArmScales = Чешуя на руке (справа)
+marking-ThavenRArmScales-scales = Чешуя на руке (справа)
 
-marking-ThavenRArmTattoo1 =  Arm Band (Right)
-marking-ThavenRArmTattoo1-tat1 = Arm Band (Right)
+marking-ThavenRArmTattoo1 =  Повязка на руку (правая)
+marking-ThavenRArmTattoo1-tat1 = Повязка на руку (правая)
 
-marking-ThavenTigerRArm = Tiger Stripes (Right)
-marking-ThavenTigerRArm-tiger = Tiger Stripes (Right)
+marking-ThavenTigerRArm = Тигровые полосы (справа)
+marking-ThavenTigerRArm-tiger = Тигровые полосы (справа)
 
 # LArm
 
-marking-ThavenLArmScales = Scales (Left Arm)
-marking-ThavenLArmScales-scales = Scales (Left Arm)
+marking-ThavenLArmScales = Чешуя на руке (слева)
+marking-ThavenLArmScales-scales = Чешуя на руке (слева)
 
-marking-ThavenLArmTattoo1 = Arm Band (Left)
-marking-ThavenLArmTattoo1-tat1 = Arm Band (Left)
+marking-ThavenLArmTattoo1 = Повязка на руку (слева)
+marking-ThavenLArmTattoo1-tat1 = Повязка на руку (слева)
 
-marking-ThavenTigerLArm = Tiger Stripes (Left)
-marking-ThavenTigerLArm-tiger = Tiger Stripes (Left)
+marking-ThavenTigerLArm = Тигровые полосы (слева)
+marking-ThavenTigerLArm-tiger = Тигровые полосы (слева)
 
 # RLeg
 
-marking-ThavenRLegScales = Scales (Right)
-marking-ThavenRLegScales-scales = Scales (Right)
+marking-ThavenRLegScales = Чешуя на ноге (справа)
+marking-ThavenRLegScales-scales = Чешуя на ноге (справа)
 
 # LLeg
 
-marking-ThavenLLegScales = Scales (Left)
-marking-ThavenLLegScales-scales = Scales (Left)
+marking-ThavenLLegScales = Чешуя на ноге (слева)
+marking-ThavenLLegScales-scales = Чешуя на ноге (слева)
 
 # UndergarmentBottom
 
-marking-UnderwearBriefsT = Briefs
-marking-UnderwearBriefsT-briefs = Underwear
+marking-UnderwearBriefsT = Трусы
+marking-UnderwearBriefsT-briefs = Нижнее белье
 
-marking-UnderwearDefaultT = Boxers
-marking-UnderwearDefaultT-boxers = Underwear
+marking-UnderwearDefaultT = Боксеры
+marking-UnderwearDefaultT-boxers = Нижнее белье
 
-marking-UnderwearLowridersT = Lowriders
-marking-UnderwearLowridersT-lowriders = Underwear
+marking-UnderwearLowridersT = Лоурайдеры
+marking-UnderwearLowridersT-lowriders = Нижнее белье
 
-marking-UnderwearSatinT = Satin
-marking-UnderwearSatinT-satin = Underwear
+marking-UnderwearSatinT = Сатин
+marking-UnderwearSatinT-satin = Нижнее белье
 
-marking-UnderwearTangaT = Tanga
-marking-UnderwearTangaT-tanga = Underwear
+marking-UnderwearTangaT = Танга
+marking-UnderwearTangaT-tanga = Нижнее белье
 
 # UndergarmentTop
 
-marking-UndergarmentTopBinderT = Binder
-marking-UndergarmentTopBinderT-binder = Binder
+marking-UndergarmentTopBinderT = Биндер
+marking-UndergarmentTopBinderT-binder = Биндер
 
-marking-UndergarmentTopTanktopT = Tanktop
-marking-UndergarmentTopTanktopT-tanktop = Tanktop
+marking-UndergarmentTopTanktopT = Майка
+marking-UndergarmentTopTanktopT-tanktop = Майка
 
-marking-UndershirtBraClassicT = Bra
-marking-UndershirtBraClassicT-classic = Bra
+marking-UndershirtBraClassicT = Бюстгальтер
+marking-UndershirtBraClassicT-classic = Бюстгальтер
 
-marking-UndershirtBraSportsT = Bra (Sports)
-marking-UndershirtBraSportsT-sports = Bra
+marking-UndershirtBraSportsT = Бюстгальтер (Спорт)
+marking-UndershirtBraSportsT-sports = Бюстгальтер
 
-marking-UndershirtBraStraplessT = Bra (Strapless)
-marking-UndershirtBraStraplessT-strapless = Bra
+marking-UndershirtBraStraplessT = Бюстгальтер (без бретелек)
+marking-UndershirtBraStraplessT-strapless = Бюстгальтер
 
-marking-UndershirtDefaultT = Undershirt
-marking-UndershirtDefaultT-undershirt = Undershirt
+marking-UndershirtDefaultT = Майка
+marking-UndershirtDefaultT-undershirt = Майка
 
-marking-UndershirtGrossSleevelessT = Tanktop (Gross)
-marking-UndershirtGrossSleevelessT-grosssleeveless = Tanktop
+marking-UndershirtGrossSleevelessT = Майка (брутто)
+marking-UndershirtGrossSleevelessT-grosssleeveless = Майка
 
-marking-UndershirtNanotrasenT = Undershirt (NanoTrasen)
-marking-UndershirtNanotrasenT-nanotrasen = Undershirt
+marking-UndershirtNanotrasenT = Майка (НаноТрасен)
+marking-UndershirtNanotrasenT-nanotrasen = Майка
 
-marking-UndershirtRolledT = Undershirt (Cropped)
-marking-UndershirtRolledT-rolledundershirt = Undershirt
+marking-UndershirtRolledT = Майка (укороченная)
+marking-UndershirtRolledT-rolledundershirt = Майка
 
 # LFoot
 
@@ -155,71 +155,71 @@ marking-UndershirtRolledT-rolledundershirt = Undershirt
 
 # HeadSide
 
-marking-ThavenEars1 = Small Ears
-marking-ThavenEars1-ears1 = Small Ears
+marking-ThavenEars1 = Маленькие уши
+marking-ThavenEars1-ears1 = Маленькие уши
 
-marking-ThavenEars2 = Medium Ears
-marking-ThavenEars2-ears2 = Medium Ears
+marking-ThavenEars2 = Средние уши
+marking-ThavenEars2-ears2 = Средние уши
 
-marking-ThavenEars3 = Long Ears
-marking-ThavenEars3-ears3 = Long Ears
+marking-ThavenEars3 = Длинные уши
+marking-ThavenEars3-ears3 = Длинные уши
 
-marking-ThavenEars4 = Droopy Ears
-marking-ThavenEars4-ears4 = Droopy Ears
+marking-ThavenEars4 = Висячие уши
+marking-ThavenEars4-ears4 = Висячие уши
 
-marking-ThavenEarsBigFins = Big Fins
-marking-ThavenEarsBigFins-bigfins = Outer
-marking-ThavenEarsBigFins-bigfins2 = Inner
+marking-ThavenEarsBigFins = Большие плавники
+marking-ThavenEarsBigFins-bigfins = Внешний
+marking-ThavenEarsBigFins-bigfins2 = Внутренний
 
-marking-ThavenEarsTwinFins = Twin Fins
-marking-ThavenEarsTwinFins-twinfin = Twin Fins
+marking-ThavenEarsTwinFins = Двойные плавники
+marking-ThavenEarsTwinFins-twinfin = Двойные плавники
 
-marking-ThavenFishEars = Finned Ears
-marking-ThavenFishEars-fishears = Finned Ears
+marking-ThavenFishEars = Ребристые уши
+marking-ThavenFishEars-fishears = Ребристые уши
 
-marking-ThavenNoEars = Recolorable ears
-marking-ThavenNoEars-noears = For use with head coverings
+marking-ThavenNoEars = Перекрашиваемые уши
+marking-ThavenNoEars-noears = Для использования с головными уборами.
 
 # HeadTop
 
-marking-ThavenHibiscus = Hibiscus
-marking-ThavenHibiscus-hibiscus1 = Petals
-marking-ThavenHibiscus-hibiscus2 = Anthers
+marking-ThavenHibiscus = Гибискус
+marking-ThavenHibiscus-hibiscus1 = Лепестки
+marking-ThavenHibiscus-hibiscus2 = Пыльники
 
-marking-ThavenPiercings =  Helix Piercing
-marking-ThavenPiercings-piercings = Helix Piercing
+marking-ThavenPiercings = Спиральный пирсинг
+marking-ThavenPiercings-piercings = Спиральный пирсинг
 
-marking-ThavenPiercings2 = Hoop Piercing
-marking-ThavenPiercings2-piercings2 = Hoop Piercing
+marking-ThavenPiercings2 = Пирсинг-кольца
+marking-ThavenPiercings2-piercings2 = Пирсинг-кольца
 
 # Tail
 
-marking-ThavenBasicTail = Basic Tail
-marking-ThavenBasicTail-basic = Basic Tail
+marking-ThavenBasicTail = Базовый хвост
+marking-ThavenBasicTail-basic = Базовый хвост
 
-marking-ThavenBigTail = Big Tail
-marking-ThavenBigTail-big1 = Tail
-marking-ThavenBigTail-big2 = Fin
+marking-ThavenBigTail = Большой хвост
+marking-ThavenBigTail-big1 = Хвост
+marking-ThavenBigTail-big2 = Плавник
 
-marking-ThavenTadpoleTail = Tadpole Tail
-marking-ThavenTadpoleTail-tadpole1 = Tail
-marking-ThavenTadpoleTail-tadpole2 = Fin
+marking-ThavenTadpoleTail = Хвост головастика
+marking-ThavenTadpoleTail-tadpole1 = Хвост
+marking-ThavenTadpoleTail-tadpole2 = Плавник
 
-marking-ThavenTailEel = Eel Tail (Underlay)
-marking-ThavenTailEel-eel1 = Tail
-marking-ThavenTailEel-eel2 = Fin
+marking-ThavenTailEel = Хвост угря (подложка)
+marking-ThavenTailEel-eel1 = Хвост
+marking-ThavenTailEel-eel2 = Плавник
 
-marking-ThavenTailEelOverlay = Eel Tail (Overlay)
-marking-ThavenTailEelOverlay-eel3 = Eel Tail (Overlay)
+marking-ThavenTailEelOverlay = Угорь Хвост (Наложение)
+marking-ThavenTailEelOverlay-eel3 = Угорь Хвост (Наложение)
 
-marking-ThavenTailNurse = Swept Tail
-marking-ThavenTailNurse-nurse1 = Tail
-marking-ThavenTailNurse-nurse2 = Stripes
+marking-ThavenTailNurse = Взмах хвоста
+marking-ThavenTailNurse-nurse1 = Хвост
+marking-ThavenTailNurse-nurse2 = Полосы
 
-marking-ThavenTailStub = Stub Tail
-marking-ThavenTailStub-stub1 = Tail
-marking-ThavenTailStub-stub2 = Stripes
+marking-ThavenTailStub = Короткий хвост
+marking-ThavenTailStub-stub1 = Хвост
+marking-ThavenTailStub-stub2 = Полосы
 
-marking-ThavenTailThresher = Thresher Tail
-marking-ThavenTailThresher-thresher1 = Tail
-marking-ThavenTailThresher-thresher2 = Stripes
+marking-ThavenTailThresher = Хвост молотилки
+marking-ThavenTailThresher-thresher1 = Хвост
+marking-ThavenTailThresher-thresher2 = Полосы

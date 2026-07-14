@@ -1,20 +1,20 @@
-signal-port-name-body-scanner-receiver = Operating Table
-signal-port-description-body-scanner-receiver = Sending info only to Operating Console about patient.
+signal-port-name-body-scanner-receiver = Хирургический стол
+signal-port-description-body-scanner-receiver = Принимает сведения о пациенте только от хирургической консоли.
 
-signal-port-name-ai-law-console-receiver = AI Law Console
-signal-port-description-ai-law-console-receiver = Sends laws info only to AI Core.
+signal-port-name-ai-law-console-receiver = Консоль законов ИИ
+signal-port-description-ai-law-console-receiver = Передаёт сведения о законах только ядру ИИ.
 
-signal-port-name-mass-driver-console-receiver = Mass Driver
-signal-port-description-mass-driver-console-receiver = Recieves options only from Mass Driver Control Console.
+signal-port-name-mass-driver-console-receiver = Масс-драйвер
+signal-port-description-mass-driver-console-receiver = Принимает параметры только от консоли управления масс-драйвером.
 
-signal-port-name-launch = Launch
-signal-port-description-launch = When signal received, activated launch. Requires manual mode enabled.
+signal-port-name-launch = Запуск
+signal-port-description-launch = При получении сигнала запускает устройство. Необходимо включить ручной режим.
 
-signal-port-name-ticket-machine-nextnumber = Next Ticket Number
-signal-port-description-ticket-machine-nextnumber = Changes ticket number to next one when triggered.
+signal-port-name-ticket-machine-nextnumber = Следующий номер талона
+signal-port-description-ticket-machine-nextnumber = При получении сигнала переключается на следующий номер талона.
 
-signal-port-name-ticket-machine-burntickets = Burn Tickets
-signal-port-description-ticket-machine-burntickets = Burns all served tickets when triggered.
+signal-port-name-ticket-machine-burntickets = Сжечь талоны
+signal-port-description-ticket-machine-burntickets = При получении сигнала сжигает все обслуженные талоны.
 
-signal-port-name-set-particle-lambda = Set particle type: lambda
-signal-port-description-set-particle-lambda = Sets the type of particle this device emits to lambda.
+signal-port-name-set-particle-lambda = Установить тип частицы: лямбда
+signal-port-description-set-particle-lambda = Устанавливает тип частиц, испускаемых этим устройством, в лямбда.

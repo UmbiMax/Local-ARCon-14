@@ -1,194 +1,194 @@
 ## Base actions
 
-alerts-vampire-blood-name = Blood Drunk
-alerts-vampire-blood-desc = Shows how much blood you've drunk. Extend your fangs and left-click a target to drink.
+alerts-vampire-blood-name = Кровь Пьяная
+alerts-vampire-blood-desc = Показывает, сколько крови вы выпили. Вытяните клыки и щелкните левой кнопкой мыши по цели, чтобы выпить.
 
-alerts-vampire-fed-name = Blood Fullness
-alerts-vampire-fed-desc = Your current blood fullness. Drink blood to stay fed.
+alerts-vampire-fed-name = Полнота крови
+alerts-vampire-fed-desc = Ваша текущая полнота крови. Пей кровь, чтобы остаться сытым.
 
-roles-antag-vamire-name = Vampire
-roles-antag-vampire-description = Feed on the crew. Extend your fangs and drink their blood.
+roles-antag-vamire-name = Вампир
+roles-antag-vampire-description = Кормитесь командой. Вытяните клыки и выпейте их кровь.
 
-roles-antag-thrall-name = Thrall
-roles-antag-thrall-objective = Serve your master faithfully and obey their commands.
+roles-antag-thrall-name = Тралл
+roles-antag-thrall-objective = Служите своему господину верно и подчиняйтесь его приказам.
 
-vampire-roundend-name = vampire
+vampire-roundend-name = вампир
 
-vampire-drink-start = You sink your fangs into {CAPITALIZE(THE($target))}.
+vampire-drink-start = Вы вонзаете клыки в {CAPITALIZE(THE($target))}.
 
-vampire-not-enough-blood = Not enough blood.
+vampire-not-enough-blood = Недостаточно крови.
 
-vampire-mouth-covered = Your mouth is covered!
-vampire-drink-invalid-target = You cannot drink blood from vampires or their thralls.
-vampire-target-protected-by-faith = This person is protected by their faith!
-vampire-drink-target-empty = This being is out of blood!
-vampire-drink-target-maxed = You have already drunk { $amount } units of blood from this target.
-vampire-drink-target-hard-max = You have drunk the maximum amount of blood from this target ({ $amount } units).
-vampire-full-power-achieved = Your vampiric essence surges full power achieved!
-vampire-umbrae-full-power-fov = The shadows bend to your will. You can now see through walls!
-vampire-drink-target-not-viable = This being does not have a beating heart!
-vampire-drink-target-rot = This being's essence is foul!
-vampire-sleep-shielded = This being cannot be put to sleep due to an implant!
-vampire-sleep-protected = Better eye contact is required...
+vampire-mouth-covered = Твой рот закрыт!
+vampire-drink-invalid-target = Вы не можете пить кровь вампиров или их рабов.
+vampire-target-protected-by-faith = Этого человека защищает их вера!
+vampire-drink-target-empty = У этого существа нет крови!
+vampire-drink-target-maxed = Вы уже выпили { $amount } единиц крови из этой цели.
+vampire-drink-target-hard-max = Вы выпили максимальное количество крови из этой цели (ед. { $amount }).
+vampire-full-power-achieved = Ваша вампирическая сущность достигла полной силы!
+vampire-umbrae-full-power-fov = Тени подчиняются твоей воле. Теперь вы можете видеть сквозь стены!
+vampire-drink-target-not-viable = У этого существа нет бьющегося сердца!
+vampire-drink-target-rot = Сущность этого существа отвратительна!
+vampire-sleep-shielded = Это существо невозможно усыпить из-за имплантата!
+vampire-sleep-protected = Требуется лучший зрительный контакт...
 
-vampire-role-greeting = You are a vampire!
-    Your blood thirst compels you to feed on crew members. Use your abilities to turn other crew.
-    Your fangs allow you to suck blood from humans. Blood will regenerate health and give you new abilities.
-    Find something to accomplish during this shift!
+vampire-role-greeting = Ты вампир!
+    Ваша жажда крови заставляет вас питаться членами экипажа. Используйте свои способности, чтобы обратить вспять другую команду.
+    Ваши клыки позволяют вам сосать кровь людей. Кровь восстановит здоровье и даст вам новые способности.
+    Найдите, чем заняться в эту смену!
 
 # Objectives
-objective-issuer-vampire = [color=crimson]Vampire[/color]
+objective-issuer-vampire = [color=crimson]Вампир[/color]
 
-objective-condition-drain-title = Drain {$count} units of blood
-objective-condition-drain-description = Drink {$count} units of blood from crew members using your fangs.
+objective-condition-drain-title = Слить {$count} единиц крови
+objective-condition-drain-description = Выпейте {$count} единиц крови членов экипажа, используя свои клыки.
 
-objective-vampire-thrall-obey-master-title = Obey your master, {$targetName}.
+objective-vampire-thrall-obey-master-title = Подчиняйтесь своему хозяину, {$targetName}.
 
 # Class selection action
-action-vampire-class-select = Select vampire class
-action-vampire-class-select-desc = Choose your vampire subclass
+action-vampire-class-select = Выберите класс вампира
+action-vampire-class-select-desc = Выберите свой подкласс вампиров
 
 # Round end statistics
-roundend-prepend-vampire-drained-low = The vampires barely fed this shift, draining only {$blood} units of blood.
-roundend-prepend-vampire-drained-medium = The vampires had a decent meal, draining {$blood} units of blood.
-roundend-prepend-vampire-drained-high = The vampires had a blood feast, draining {$blood} units of blood!
-roundend-prepend-vampire-drained-critical = The vampires went on a feeding frenzy, draining a staggering {$blood} units of blood!
+roundend-prepend-vampire-drained-low = Вампиры почти не кормили эту смену, истощив всего {$blood} единиц крови.
+roundend-prepend-vampire-drained-medium = Вампиры прилично пообедали, истощив {$blood} единиц крови.
+roundend-prepend-vampire-drained-high = Вампиры устроили кровавый пир, истощив {$blood} единиц крови!
+roundend-prepend-vampire-drained-critical = Вампиры приступили к безумному питанию, высасывая ошеломляющее количество {$blood} единиц крови!
 
-roundend-prepend-vampire-drained = No vampires managed to drain any significant amount of blood this round.
-roundend-prepend-vampire-drained-named = {$name} was the most bloodthirsty vampire, draining {$number} units of blood total.
+roundend-prepend-vampire-drained = Ни одному вампиру не удалось истощить сколько-нибудь значительное количество крови в этом раунде.
+roundend-prepend-vampire-drained-named = {$name} был самым кровожадным вампиром, истощившим {$number} единиц крови.
 
 # Vampire class selection tooltips
-vampire-class-hemomancer-tooltip = Hemomancer
-    Focuses on blood magic and the manipulation of blood around you
+vampire-class-hemomancer-tooltip = Гемомант
+    Фокусируется на магии крови и манипулировании кровью вокруг вас.
 
-vampire-class-umbrae-tooltip = Umbrae
-    Focuses on darkness, stealth ambushing and mobility
+vampire-class-umbrae-tooltip = Умбра
+    Фокусируется на темноте, скрытных засадах и мобильности.
 
-vampire-class-gargantua-tooltip = Gargantua
-    Focuses on tenacity and melee damage
+vampire-class-gargantua-tooltip = Гаргантюа
+    Фокусируется на упорстве и уроне в ближнем бою.
 
-vampire-class-dantalion-tooltip = Dantalion
-    Focuses on thralling and illusions
+vampire-class-dantalion-tooltip = Данталион
+    Сосредоточено на порабощении и иллюзиях.
 
 # Hemomancer abilities
-action-vampire-hemomancer-tendrils-wrong-place = Cannot cast there.
+action-vampire-hemomancer-tendrils-wrong-place = Невозможно кастовать туда.
 
-action-vampire-blood-barrier-wrong-place = Cannot place barriers there.
+action-vampire-blood-barrier-wrong-place = Там нельзя размещать барьеры.
 
-action-vampire-sanguine-pool-already-in = You are already in sanguine pool form!
-action-vampire-sanguine-pool-invalid-tile = You cannot become a blood pool here.
-action-vampire-sanguine-pool-enter = You transform into a pool of blood!
-action-vampire-sanguine-pool-exit = You reform from the blood pool!
-vampire-space-burn-warning = The harsh void light scorches your undead flesh!
+action-vampire-sanguine-pool-already-in = Вы уже в форме сангвиника!
+action-vampire-sanguine-pool-invalid-tile = Здесь нельзя стать лужей крови.
+action-vampire-sanguine-pool-enter = Ты превращаешься в лужу крови!
+action-vampire-sanguine-pool-exit = Вы исправляетесь из лужи крови!
+vampire-space-burn-warning = Резкий свет пустоты опаляет вашу плоть нежити!
 
-action-vampire-blood-eruption-activated = You cause blood to erupt in spikes around you!
+action-vampire-blood-eruption-activated = Вы заставляете кровь извергаться шипами вокруг себя!
 
-action-vampire-blood-bringers-rite-not-enough-power = You lack full vampiric power (need above 1000 total blood & 8 unique victims)
-action-vampire-blood-brighters-rite-not-enough-blood = Not enough blood to activate blood bringers rite
-action-vampire-blood-bringers-rite-start = Blood Bringers Rite activated!
-action-vampire-blood-bringers-rite-stop = Blood bringers rite deactivated
-action-vampire-blood-bringers-rite-stop-blood = Blood Bringers Rite deactivated - not enough blood
+action-vampire-blood-bringers-rite-not-enough-power = Вам не хватает полной вампирической силы (нужно более 1000 общего количества крови и 8 уникальных жертв)
+action-vampire-blood-brighters-rite-not-enough-blood = Недостаточно крови, чтобы активировать обряд принесения крови.
+action-vampire-blood-bringers-rite-start = Обряд Несущих Кровь активирован!
+action-vampire-blood-bringers-rite-stop = Обряд приносящих кровь деактивирован
+action-vampire-blood-bringers-rite-stop-blood = Обряд Несущих Кровь деактивирован – крови недостаточно.
 
-vampire-locate-result = Your senses trace { $target } to { $location }.
-vampire-locate-not-same-sector = vampire-locate-not-same-sector = That person is not on your sector.
-vampire-locate-unknown = Unknown area
-vampire-locate-no-targets = No prey can be sensed on this sector.
+vampire-locate-result = Ваши чувства прослеживают путь от { $target } до { $location }.
+vampire-locate-not-same-sector = Vampire-locate-not-same-sector = Этот человек не в вашем секторе.
+vampire-locate-unknown = Неизвестный район
+vampire-locate-no-targets = В этом секторе не чувствуется жертва.
 
-predator-sense-title = Predator Sense
-vampire-locate-search-placeholder = Search...
+predator-sense-title = Чувство хищника
+vampire-locate-search-placeholder = Поиск...
 
-vampiric-claws-remove-popup = You make claws disappear.
+vampiric-claws-remove-popup = Ты заставляешь когти исчезать.
 
 # Umbrae abilities
-action-vampire-cloak-of-darkness-start = You blend into the shadows!
-action-vampire-cloak-of-darkness-stop = You step out of the shadows.
+action-vampire-cloak-of-darkness-start = Ты сливаешься с тенями!
+action-vampire-cloak-of-darkness-stop = Ты выходишь из тени.
 
-action-vampire-shadow-snare-placed = You set a shadow snare trap.
-action-vampire-shadow-snare-wrong-place = You can't place a trap here.
-action-vampire-shadow-snare-scatter = You scattered the shadow trap.
-vampire-shadow-snare-oldest-removed = Your old shadow snare dissipates.
-ent-shadow-snare-ensnare = shadow snare
+action-vampire-shadow-snare-placed = Вы устанавливаете теневую ловушку.
+action-vampire-shadow-snare-wrong-place = Здесь нельзя поставить ловушку.
+action-vampire-shadow-snare-scatter = Вы рассеяли теневую ловушку.
+vampire-shadow-snare-oldest-removed = Ваша старая теневая ловушка рассеивается.
+ent-shadow-snare-ensnare = теневая ловушка
 
-action-vampire-shadow-anchor-returned = You returned to the shadow anchor
-action-vampire-shadow-anchor-installed = You've secured a spot in the shadows
+action-vampire-shadow-anchor-returned = Вы вернулись к теневому якорю
+action-vampire-shadow-anchor-installed = Вы обеспечили себе место в тени
 
-action-vampire-shadow-boxing-start = You begin shadow boxing.
-action-vampire-shadow-boxing-stop = Shadow boxing has been stoped.
-action-vampire-shadow-boxing-ends = Shadow boxing ends.
+action-vampire-shadow-boxing-start = Вы начинаете бой с тенью.
+action-vampire-shadow-boxing-stop = Бой с тенью прекращен.
+action-vampire-shadow-boxing-ends = Бой с тенью завершен.
 
-action-vampire-dark-passage-wrong-place = The darkness here is impenetrable...
-action-vampire-dark-passage-activated = You slipped through the darkness...
+action-vampire-dark-passage-wrong-place = Тьма здесь непроглядна...
+action-vampire-dark-passage-activated = Ты проскользнул сквозь тьму...
 
-action-vampire-extinguish-activated = You absorbed the light around you...({$count})
+action-vampire-extinguish-activated = Вы поглотили свет вокруг себя...({$count})
 
-action-vampire-eternal-darkness-not-enough-blood = You have run out of blood to sustain eternal darkness.
-action-vampire-eternal-darkness-start = You conjured eternal darkness...
-action-vampire-eternal-darkness-stop = The eternal darkness has dissipated...
+action-vampire-eternal-darkness-not-enough-blood = У вас закончилась кровь, чтобы поддерживать вечную тьму.
+action-vampire-eternal-darkness-start = Ты вызвал вечную тьму...
+action-vampire-eternal-darkness-stop = Вечная тьма рассеялась...
 
 #Dantalion
-vampire-enthrall-start = You reach into {CAPITALIZE(THE($target))}'s mind...
-vampire-enthrall-success = {CAPITALIZE(THE($target))} bends the knee and becomes your thrall.
-vampire-enthrall-target = Your mind is overwhelmed by vampiric domination!
-vampire-enthrall-limit = You cannot control any more thralls.
-vampire-enthrall-invalid = That target cannot be enthralled.
-vampire-thrall-released = The vampiric hold over you fades.
+vampire-enthrall-start = Вы проникаете в разум {CAPITALIZE(THE($target))}...
+vampire-enthrall-success = {CAPITALIZE(THE($target))} преклоняет колено и становится вашим рабом.
+vampire-enthrall-target = Ваш разум охвачен вампирическим господством!
+vampire-enthrall-limit = Вы больше не можете контролировать рабов.
+vampire-enthrall-invalid = Эту цель невозможно поработить.
+vampire-thrall-released = Вампирская власть над вами ослабевает.
 
-vampire-pacify-invalid = That target cannot be pacified.
-vampire-pacify-success = {CAPITALIZE(THE($target))} succumbs to your overwhelming serenity.
-vampire-pacify-target = A crushing calm drowns your will to fight!
+vampire-pacify-invalid = Эту цель невозможно усмирить.
+vampire-pacify-success = {CAPITALIZE(THE($target))} поддается вашему всепоглощающему спокойствию.
+vampire-pacify-target = Сокрушительное спокойствие заглушает вашу волю к борьбе!
 
-vampire-subspace-swap-thrall = You cannot subspace swap with your thralls.
-vampire-subspace-swap-dead = That mind is beyond your reach.
-vampire-subspace-swap-failed = The subspace rift fizzles uselessly.
-vampire-subspace-swap-success = Space twists as you trade places with {CAPITALIZE(THE($target))}!
-vampire-subspace-swap-target = Reality warps and you are torn into a new position!
+vampire-subspace-swap-thrall = Вы не можете обмениваться подпространством со своими рабами.
+vampire-subspace-swap-dead = Этот ум недосягаем для вас.
+vampire-subspace-swap-failed = Подпространственный разлом бесполезно шипит.
+vampire-subspace-swap-success = Пространство вращается, когда вы меняетесь местами с {CAPITALIZE(THE($target))}!
+vampire-subspace-swap-target = Реальность искажается и вас рвёт в новое положение!
 
 vampire-rally-thralls-success = {$count ->
-    [one] Your call rallies a thrall back to your side!
-    *[other] Your call rallies {$count} thralls back to your side!
+    [one] На ваш зов возвращается один трэлл!
+    *[other] На ваш зов возвращается {$count} трэллов!
 }
-vampire-rally-thralls-none = None of your thralls can answer the call.
-vampire-thrall-holy-water-freed = The holy water purges the vampires hold on your mind!
+vampire-rally-thralls-none = Ни один из ваших трэллов не способен ответить на зов.
+vampire-thrall-holy-water-freed = Святая вода очищает ваш разум от вампиров!
 
-vampire-blood-bond-start = Rivers of blood knit you to your thralls.
-vampire-blood-bond-stop = You let the blood bond fall slack.
-vampire-blood-bond-no-thralls = You have no enthralled servants to bond with.
-vampire-blood-bond-stop-blood = The bond shreds itself; you lack the blood to sustain it.
+vampire-blood-bond-start = Реки крови свяжут вас с вашими рабами.
+vampire-blood-bond-stop = Ты позволяешь узам крови ослабнуть.
+vampire-blood-bond-no-thralls = У вас нет порабощенных слуг, с которыми можно было бы сблизиться.
+vampire-blood-bond-stop-blood = Связь разрывается сама собой; вам не хватает крови, чтобы поддерживать это.
 
-action-vampire-not-enough-power = Your power is insufficient (need >1000 total blood & 8 unique victims).
+action-vampire-not-enough-power = Вашей силы недостаточно (нужно >1000 общего количества крови и 8 уникальных жертв).
 
 # Gargantua
-vampire-blood-swell-start = Your muscles swell with unholy power
-vampire-blood-swell-end = The blood rage subsides.
+vampire-blood-swell-start = Твои мышцы набухают от нечестивой силы.
+vampire-blood-swell-end = Кровавая ярость утихает.
 
-vampire-blood-rush-start = Blood surges through your limbs!
-vampire-blood-rush-end = Your supernatural speed fades.
+vampire-blood-rush-start = Кровь хлещет по твоим конечностям!
+vampire-blood-rush-end = Ваша сверхъестественная скорость снижается.
 
-vampire-seismic-stomp-activate = The ground shudders beneath your fury!
+vampire-seismic-stomp-activate = Земля содрогается от твоей ярости!
 
-vampire-overwhelming-force-start = Your presence becomes immovable.
-vampire-overwhelming-force-stop = You relax your iron grip.
-vampire-overwhelming-force-too-heavy = This object is far too heavy to move!
-vampire-overwhelming-force-door-pried = You wrench the door open with brute strength.
+vampire-overwhelming-force-start = Ваше присутствие становится неподвижным.
+vampire-overwhelming-force-stop = Вы ослабляете свою железную хватку.
+vampire-overwhelming-force-too-heavy = Этот объект слишком тяжел, чтобы его можно было сдвинуть!
+vampire-overwhelming-force-door-pried = Вы вырываете дверь с грубой силой.
 
-vampire-demonic-grasp-hit = A demonic claw seizes you!
-vampire-demonic-grasp-pull = The claw drags you toward the vampire!
+vampire-demonic-grasp-hit = Демонический коготь схватит тебя!
+vampire-demonic-grasp-pull = Коготь тянет вас к вампиру!
 
-vampire-charge-start = You barrel forward with unstoppable force!
-vampire-charge-impact = You crash into {CAPITALIZE(THE($target))} with devastating force!
+vampire-charge-start = Вы несетесь вперед с неудержимой силой!
+vampire-charge-impact = Вы врезаетесь в {CAPITALIZE(THE($target))} с разрушительной силой!
 
 
-vampire-blood-swell-cancel-shoot = Your fingers don`t fit in the trigger guard!!
+vampire-blood-swell-cancel-shoot = Пальцы не помещаются в спусковую скобу!!
 
-vampire-holy-place-burn = The sacred ground sears your unholy flesh!
+vampire-holy-place-burn = Священная земля обжигает твою нечестивую плоть!
 
-alerts-vampire-blood-swell-name = Blood Swell
-alerts-vampire-blood-swell-desc = Your muscles surge with unholy power.
-alerts-vampire-blood-rush-name = Blood Rush
-alerts-vampire-blood-rush-desc = Supernatural speed courses through your limbs.
+alerts-vampire-blood-swell-name = Набухание крови
+alerts-vampire-blood-swell-desc = Твои мышцы наполняются нечестивой силой.
+alerts-vampire-blood-rush-name = Прилив крови
+alerts-vampire-blood-rush-desc = Сверхъестественная скорость проходит через ваши конечности.
 
-Vamp-converted-title = Enthralled!
+Vamp-converted-title = В восторге!
 Vamp-converted-text =
-    You have been Enthralled!
-    Obey your master faithfully, you may access the hivemind with '+p'
-Vamp-converted-confirm = Understood
+    Вы были в восторге!
+    Искренне подчиняйтесь своему хозяину, вы можете получить доступ к коллективному разуму, нажав «+p».
+Vamp-converted-confirm = Понял

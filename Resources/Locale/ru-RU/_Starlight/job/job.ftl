@@ -1,55 +1,55 @@
-job-name-magistrate = Magistrate
-job-name-ntrep = NanoTrasen Representative
-job-name-iaa = Internal Affairs Agent
-job-name-blueshield = Blueshield Officer
-job-name-ntncblueshield = NanoTrasen Navy Corps Marine
-job-name-greenshield = Greenshield Officer
-job-name-miningspec = Mining Specialist
-job-name-surgeon = Surgeon
-job-name-mailtech = Mail Technician
-job-name-centcomm = CentComm Official
-job-name-centcommoperator = CentComm Operator
-job-name-nanotrasen-special-forces = NTSF Operative
-job-name-decimus = Decimus Operative
-job-name-nct = NanoTrasen Career Trainer
-job-name-ert = Emergency Response Team
+job-name-magistrate = Мировой судья
+job-name-ntrep = Представитель НаноТрасен
+job-name-iaa = Агент внутренних дел
+job-name-blueshield = Офицер Синего Щита
+job-name-ntncblueshield = Морпех флота NanoTrasen
+job-name-greenshield = Офицер Зелёного Щита
+job-name-miningspec = Специалист по добыче
+job-name-surgeon = Хирург
+job-name-mailtech = Почтовый техник
+job-name-centcomm = Представитель ЦентКома
+job-name-centcommoperator = Оператор ЦентКома
+job-name-nanotrasen-special-forces = Оперативник спецназа NanoTrasen
+job-name-decimus = Оперативник Децимуса
+job-name-nct = Карьерный инструктор NanoTrasen
+job-name-ert = Оперативник ОБР
 
-job-name-performer = Performer
-job-name-salvagelead = Salvage Lead
-job-name-dutyofficer = Duty Officer
-job-name-abductor = Abductor
-job-title-borgi = Borgi
+job-name-performer = Артист
+job-name-salvagelead = Ведущий утилизатор
+job-name-dutyofficer = Дежурный офицер
+job-name-abductor = Похититель
+job-title-borgi = Борги
 
-job-title-tsf-Phantom = Phantom Marine
-job-title-tsf-MARSOC = MARSOC Marine
+job-title-tsf-Phantom = Морпех «Фантом»
+job-title-tsf-MARSOC = Морпех MARSOC
 
-job-name-blackstar = Blackstar Mercenary
+job-name-blackstar = Наёмник «Чёрной звезды»
 
-job-name-medtak-dispatcher = MedTak Dispatcher
-job-name-medtak-leader = MedTak Team Leader
-job-name-medtak-medic = MedTak Medic
-job-name-medtak-pilot = MedTak Pilot
-job-name-medtak-security = MedTak Security
-job-name-medtak-borg = MedTak Silicon
+job-name-medtak-dispatcher = Диспетчер МедТак
+job-name-medtak-leader = Командир МедТак
+job-name-medtak-medic = Медик МедТак
+job-name-medtak-pilot = Пилот МедТак
+job-name-medtak-security = Охранник МедТак
+job-name-medtak-borg = Силикон МедТак
 
 job-greet-information-rules = {$jobRules}
 
-role-type-corporate-aligned-name = Corporate Aligned
+role-type-corporate-aligned-name = сторонник корпорации
 role-type-corporate-aligned-color = #00b600
 role-type-corporate-aligned-alternate-color = #1b67a5
-job-rules-corporate-aligned = You are {role-type-corporate-aligned-name}.
-                              You are to serve the interests of NanoTrasen and Central Command, even if they differ from the stations'.
-                              Remember, you do NOT serve the crew.
+job-rules-corporate-aligned = Вы — {role-type-corporate-aligned-name}.
+                              Служите интересам NanoTrasen и Центрального командования, даже когда они расходятся с интересами станции.
+                              Помните: вы служите НЕ экипажу.
 
-role-type-cc-aligned-name = Central Command Aligned
+role-type-cc-aligned-name = сторонник Центрального командования
 role-type-cc-aligned-color = #00b600
 role-type-cc-aligned-alternate-color = #439909
-job-rules-cc-aligned = You are {role-type-cc-aligned-name}.
-                              You are to serve the interests of Central Command, even if they differ from NanoTrasen or the stations'.
-                              Remember, you do NOT serve the crew.
+job-rules-cc-aligned = Вы — {role-type-cc-aligned-name}.
+                              Служите интересам Центрального командования, даже когда они расходятся с интересами NanoTrasen или станции.
+                              Помните: вы служите НЕ экипажу.
 
-role-type-tsf-aligned-name = Trans-Solar Federation Aligned
+role-type-tsf-aligned-name = сторонник Транссолнечной Федерации
 role-type-tsf-aligned-color = #22a7ff
-job-rules-tsf-aligned = You are {role-type-tsf-aligned-name}.
-                              You are to serve the interests of the Trans-Solar Federation.
-                              Remember, you do NOT serve the crew.
+job-rules-tsf-aligned = Вы — {role-type-tsf-aligned-name}.
+                              Служите интересам Транссолнечной Федерации.
+                              Помните: вы служите НЕ экипажу.

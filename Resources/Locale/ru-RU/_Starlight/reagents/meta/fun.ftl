@@ -1,1 +1,1 @@
-reagent-name-corgi-endless = endless corgi essence
+reagent-name-corgi-endless = бесконечная сущность корги

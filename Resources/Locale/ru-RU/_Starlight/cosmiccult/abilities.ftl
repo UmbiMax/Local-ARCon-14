@@ -1,23 +1,23 @@
-cosmicability-generic-fail = Your influence fails to take hold..
+cosmicability-generic-fail = Ваше влияние не может закрепиться...
 
-cosmicability-glare-confirm = Press again to activate Null Glare.
+cosmicability-glare-confirm = Нажмите ещё раз, чтобы применить «Нулевой блик».
 
-cosmicability-siphon-cultist-success = Your attempts to draw entropy chill {CAPITALIZE(THE($target))}
-cosmicability-siphon-success = You silently draw Entropy from {CAPITALIZE(THE($target))}.
-cosmicability-siphon-fail = You can't seem to siphon Entropy from {CAPITALIZE(THE($target))}.
-cosmicability-siphon-fail-ssd = The target is SSD.
-cosmicability-siphon-full = You can't hold any more Entropy!
+cosmicability-siphon-cultist-success = Ваша попытка вытянуть энтропию лишь обдаёт холодом {CAPITALIZE(THE($target))}.
+cosmicability-siphon-success = Вы молча черпаете Энтропию из {CAPITALIZE(THE($target))}.
+cosmicability-siphon-fail = Кажется, вы не можете выкачать энтропию из {CAPITALIZE(THE($target))}.
+cosmicability-siphon-fail-ssd = Разум цели недоступен.
+cosmicability-siphon-full = Вы больше не можете удерживать Энтропию!
 
-cosmicability-blank-begin = {CAPITALIZE(THE($target))} attempts to grab hold of you!
-cosmicability-blank-success = You shunt {CAPITALIZE(THE($target))}'s mind unto the cosmic dark.
-cosmicability-blank-transfer = A cosmic power shunts your mind out of your body!
-cosmicability-blank-return = Your mind is drawn back to your body.
+cosmicability-blank-begin = {CAPITALIZE(THE($target))} пытается завладеть вашим разумом!
+cosmicability-blank-success = Вы направляете разум {CAPITALIZE(THE($target))} в космическую тьму.
+cosmicability-blank-transfer = Космическая сила вытесняет ваш разум из вашего тела!
+cosmicability-blank-return = Ваш разум возвращается к телу.
 
-cosmicability-lapse-success = You lapse {CAPITALIZE(THE($target))}'s corporeal form.
+cosmicability-lapse-success = Вы лишаете {CAPITALIZE(THE($target))} телесной формы.
 
-cosmicability-monument-move-confirm = THIS ACTION CAN ONLY BE USED ONCE! Use it again to confirm.
-cosmicability-monument-spawn-confirm = THIS ACTION CAN ONLY BE USED ONCE! Use it again to confirm.
-cosmicability-monument-spawn-error-grid = Invalid location! The Monument must be beckoned upon a stable surface.
-cosmicability-monument-spawn-error-station = Invalid location! The Monument must be beckoned upon the station.
-cosmicability-monument-spawn-error-intersection = Too crowded! The Monument requires an empty 3x1 area to be beckoned.
-cosmicability-monument-spawn-error-space = Too close to space! The Monument must be be at least {$DISTANCE}m away.
+cosmicability-monument-move-confirm = ЭТО ДЕЙСТВИЕ МОЖНО ИСПОЛЬЗОВАТЬ ТОЛЬКО ОДИН РАЗ! Используйте его еще раз для подтверждения.
+cosmicability-monument-spawn-confirm = ЭТО ДЕЙСТВИЕ МОЖНО ИСПОЛЬЗОВАТЬ ТОЛЬКО ОДИН РАЗ! Используйте его еще раз для подтверждения.
+cosmicability-monument-spawn-error-grid = Неверное местоположение! Памятник должен располагаться на устойчивой поверхности.
+cosmicability-monument-spawn-error-station = Неверное место! Монумент можно призвать только на станции.
+cosmicability-monument-spawn-error-intersection = Недостаточно места! Для призыва Монумента требуется свободная область размером 3×1.
+cosmicability-monument-spawn-error-space = Слишком близко к космосу! До космоса должно быть не менее {$DISTANCE} м.

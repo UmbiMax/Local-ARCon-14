@@ -1,4 +1,4 @@
-plushie-amali-1 = Starboard is right, port is left, YOU IDIOT!
-plushie-amali-2 = I'm going to execute everyone here.
-plushie-amali-3 = Give me a break please.
-plushie-amali-4 = The captain did what!?
+plushie-amali-1 = Правый борт правый, левый левый, ИДИОТ!
+plushie-amali-2 = Я собираюсь казнить здесь всех.
+plushie-amali-3 = Дайте мне передохнуть, пожалуйста.
+plushie-amali-4 = Капитан что сделал!?

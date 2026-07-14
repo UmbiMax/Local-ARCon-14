@@ -1,4 +1,4 @@
-terror-spiders-crew-victory-announcement = Long-range sensors indicate all Princesses of Terror are now dead. The emergency shuttle has been called. ETA: {$time} {$units}. You may recall the shuttle to extend the shift.
-terror-spiders-elimination-announcement =  Long-range sensors indicate all Princesses of Terror are now dead. An emergency shuttle is already inbound.
-terror-spiders-spider-victory-announcement = We have detected that Terror Spiders have overtaken the station. Dispatching an emergency shuttle to collect remaining personnel. ETA: {$time} {$units}.
-terror-spiders-domination-announcement =  We have detected that Terror Spiders have overtaken the station. An emergency shuttle is already inbound.
+terror-spiders-crew-victory-announcement = Датчики дальнего действия показывают, что все принцессы ужаса мертвы. Вызван эвакуационный шаттл. Расчётное время прибытия: {$time} {$units}. Шаттл можно отозвать, чтобы продлить смену.
+terror-spiders-elimination-announcement =  Датчики дальнего действия показывают, что все принцессы ужаса мертвы. Аварийный шаттл уже прибывает.
+terror-spiders-spider-victory-announcement = Станция захвачена пауками ужаса. Направляем эвакуационный шаттл для спасения уцелевшего персонала. Расчётное время прибытия: {$time} {$units}.
+terror-spiders-domination-announcement =  Мы обнаружили, что станцию ​​захватили террористические пауки. Аварийный шаттл уже прибывает.

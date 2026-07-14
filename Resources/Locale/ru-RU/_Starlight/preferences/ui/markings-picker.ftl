@@ -1,7 +1,7 @@
-marking-glowing = Glowing
-markings-category-TailExtras = Tail Extras
+marking-glowing = Светящийся
+markings-category-TailExtras = Хвост Экстра
 
-markings-category-FaceCover = [Protogen] Visor
-markings-category-FaceCoverCover = [Protogen] Visor LEDs
-markings-category-BodyCover = [Protogen] Frame
-markings-category-BodyCoverCover = [Protogen] Frame LEDs
+markings-category-FaceCover = [Протоген] Козырек
+markings-category-FaceCoverCover = [Протоген] Светодиоды визора
+markings-category-BodyCover = [Протоген] Рамка
+markings-category-BodyCoverCover = [Протоген] Рамочные светодиоды

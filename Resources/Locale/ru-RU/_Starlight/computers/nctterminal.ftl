@@ -1,6 +1,6 @@
-nctterminal-noaccess = No valid access codes found.
-nctterminal-noagent = There are no active NCTs.
-nctterminal-called = A NanoTrasen Career Trainer will be assisting you. You should be able to identify them by their green uniform and black coat.
-nctterminal-title = NCT Dispatch
+nctterminal-noaccess = Действительные коды доступа не найдены.
+nctterminal-noagent = Активных карьерных инструкторов NanoTrasen нет.
+nctterminal-called = Карьерный инструктор NanoTrasen скоро окажет вам помощь. Его можно узнать по зелёной униформе и чёрному пальто.
+nctterminal-title = Вызов карьерного инструктора
 
-nctterminal-message = Incoming priority transmission from NanoTrasen Training Center. Request information as follows: Career Trainer, we've received a request from an employee. {$nameAndJob}: "{$message}". See if they need any help.
+nctterminal-message = Входящее приоритетное сообщение из учебного центра NanoTrasen. Карьерный инструктор, поступил запрос от сотрудника {$nameAndJob}: «{$message}». Просим оказать необходимую помощь.

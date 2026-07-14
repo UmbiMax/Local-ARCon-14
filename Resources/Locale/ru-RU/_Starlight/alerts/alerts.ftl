@@ -1,23 +1,23 @@
-alerts-cards-name = [color=lightblue]Challenge available[/color]
-alerts-cards-desc = You're [color=lightblue]facing a choice[/color]. Click the alert to see your available paths. If you close it, you won't see this again for the rest of the round.
-alerts-cybernetic-disruption-name = [color=red]Cybernetics disrupted[/color]
-alerts-cybernetic-disruption-desc = You're [color=red]disrupted[/color]! Something is impairing your cybernetic implants.
-alerts-doomed-name = Doomed
-alerts-doomed-desc = [color=red]Your days are numbered.[/color]
-alerts-dwarf-courage-name = Khazukan Kazakit-ha! Khazuk! Khazuk! Khazuk!
-alerts-dwarf-courage-desc = [color=yellow]The courage of your ancestors[/color] fills your veins! Avenge them upon your enemies!
-alerts-dwarf-fortitude-name = A Kladak Guzed-or!
-alerts-dwarf-fortitude-desc = [color=lightblue]The fortitude of the Smith God[/color] toughens your hide! They'll not get past you!
-alerts-dwarf-fury-name = Grimnir's Beard!
-alerts-dwarf-fury-desc = [color=orange]The fury of the Slayer God[/color] calls you to battle! Show those wazzocks what it means to stand toe to toe with a real Dawi!
-alerts-error-failed-to-spawn-ghost-role = Failed to spawn the requested ghost role. Sorry! :(
-alerts-held-breath-name = [color=lightblue]Held breath[/color]
-alerts-held-breath-desc = You are [color=lightblue]holding your breath[/color]! Click the alert to stop holding your breath, preferably before you suffocate.
-alerts-souldebt-name = [color=purple]Soul Debt[/color]
-alerts-souldebt-desc = Your soul will be reclaimed upon your death, preventing your revival.
-alerts-surge-name = [color=yellow]Stamina Surge[/color]
-alerts-surge-desc = You have increased stamina regeneration and resistance [color=red]at the cost of increased hunger drain[/color]
-alerts-wrapped-name = [color=lightblue]Wrapped up[/color]
-alerts-wrapped-desc = You are [color=red]wrapped up[/color]! Click the alert to attempt to unwrap yourself.
+alerts-cards-name = [color=lightblue]Доступно испытание[/color]
+alerts-cards-desc = Вы [color=lightblue]стоите перед выбором[/color]. Нажмите на оповещение, чтобы увидеть доступные пути. Если вы закроете его, вы не увидите его снова до конца раунда.
+alerts-cybernetic-disruption-name = [color=red]Кибернетика разрушена[/color]
+alerts-cybernetic-disruption-desc = Вы [color=red]разрушены[/color]! Что-то повреждает ваши кибернетические имплантаты.
+alerts-doomed-name = Обреченный
+alerts-doomed-desc = [color=red]Ваши дни сочтены.[/color]
+alerts-dwarf-courage-name = Хазукан Казакит-ха! Хазук! Хазук! Хазук!
+alerts-dwarf-courage-desc = [color=yellow]Мужество ваших предков[/color] наполняет ваши вены! Отомстите за них своим врагам!
+alerts-dwarf-fortitude-name = Кладак Гузед-ор!
+alerts-dwarf-fortitude-desc = [color=lightblue]Стойкость Бога-Кузнеца[/color] сделает вашу шкуру более прочной! Они не пройдут мимо вас!
+alerts-dwarf-fury-name = Борода Гримнира!
+alerts-dwarf-fury-desc = [color=orange]Ярость Бога-Убийцы[/color] призывает вас в бой! Покажите этим придуркам, что значит стоять лицом к лицу с настоящим Дави!
+alerts-error-failed-to-spawn-ghost-role = Не удалось создать запрошенную роль призрака. Извини! :(
+alerts-held-breath-name = [color=lightblue]Задержка дыхания[/color]
+alerts-held-breath-desc = Вы [color=lightblue]задерживаете дыхание[/color]! Нажмите на предупреждение, чтобы перестать задерживать дыхание, желательно до того, как вы задохнетесь.
+alerts-souldebt-name = [color=purple]Долг души[/color]
+alerts-souldebt-desc = Ваша душа будет возвращена после вашей смерти, предотвращая ваше возрождение.
+alerts-surge-name = [color=yellow]Прилив выносливости[/color]
+alerts-surge-desc = У вас увеличена регенерация выносливости и сопротивление [color=red]за счет увеличения истощения голода[/color].
+alerts-wrapped-name = [color=lightblue]Свёрнут[/color]
+alerts-wrapped-desc = Вы [color=red]свёрнуты[/color]! Нажмите на предупреждение, чтобы попытаться развернуться.
 alerts-zoomies-name = [color=lightblue]Zoomies!![/color]
-alerts-zoomies-desc = You have increased movement speed [color=red]at the cost of increased thirst drain[/color]
+alerts-zoomies-desc = Вы увеличили скорость передвижения [color=red]за счет увеличения истощения жажды[/color].

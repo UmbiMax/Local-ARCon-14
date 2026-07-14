@@ -1,129 +1,129 @@
 # Special
-marking-CatEars-ears_cat_outer = Cat Ears Outer
-marking-CatEars-ears-cat_inner = Cat Ears Inner
+marking-CatEars-ears_cat_outer = Кошачьи уши (снаружи)
+marking-CatEars-ears-cat_inner = Кошачьи уши (внутри)
 
 # Head
-marking-HeadHeavyTattoos-head_heavy1 = Heavy Neck Tattoos (Lower)
-marking-HeadHeavyTattoos-head_heavy2 = Heavy Neck Tattoos (Upper)
-marking-HeadHeavyTattoos = Heavy Neck Tattoos
+marking-HeadHeavyTattoos-head_heavy1 = Тяжелые татуировки на шее (нижняя часть)
+marking-HeadHeavyTattoos-head_heavy2 = Тяжелые татуировки на шее (верхняя часть)
+marking-HeadHeavyTattoos = Плотные татуировки на шее
 
-marking-HeadScarLeft = Head Scar (Left)
-marking-HeadScarLeft-scar-head-l = Head scar
-marking-HeadScarRight = Head Scar (Right)
-marking-HeadScarRight-scar-head-r = Head scar
+marking-HeadScarLeft = Шрам на голове (слева)
+marking-HeadScarLeft-scar-head-l = Шрам на голове
+marking-HeadScarRight = Шрам на голове (справа)
+marking-HeadScarRight-scar-head-r = Шрам на голове
 
 # Head (Top)
-marking-HeadEarrings-head_earrings1 = Right Earring
-marking-HeadEarrings-head_earrings2 = Left Earring
-marking-HeadEarrings = Earrings (Small)
+marking-HeadEarrings-head_earrings1 = Правая серьга
+marking-HeadEarrings-head_earrings2 = Левая серьга
+marking-HeadEarrings = Серьги (маленькие)
 
-marking-HeadEarringsDrop-head_earrings_drop1 = Right Earring
-marking-HeadEarringsDrop-head_earrings_drop2 = Left Earring
-marking-HeadEarringsDrop = Earrings (Drop)
+marking-HeadEarringsDrop-head_earrings_drop1 = Правая серьга
+marking-HeadEarringsDrop-head_earrings_drop2 = Левая серьга
+marking-HeadEarringsDrop = Серьги-подвески
 
-marking-HeadEarringsWeights-head_earrings_weights1 = Right Earring
-marking-HeadEarringsWeights-head_earrings_weights2 = Left Earring
-marking-HeadEarringsWeights = Earrings (Weights)
+marking-HeadEarringsWeights-head_earrings_weights1 = Правая серьга
+marking-HeadEarringsWeights-head_earrings_weights2 = Левая серьга
+marking-HeadEarringsWeights = Серьги-утяжелители
 
 # Chest
-marking-ChestNecklace-chest_necklace = Necklace
-marking-ChestNecklace = Necklace
+marking-ChestNecklace-chest_necklace = Ожерелье
+marking-ChestNecklace = Ожерелье
 
-marking-ChestCutHere-chest_cuthere = 'Cut Here' Tattoo
-marking-ChestCutHere = 'Cut Here' Tattoo
+marking-ChestCutHere-chest_cuthere = Татуировка «Вырезать здесь»
+marking-ChestCutHere = Татуировка «Вырезать здесь»
 
-marking-ChestHeavyTattoos-chest_heavy1 = Heavy Chest Tattoos (Upper)
-marking-ChestHeavyTattoos-chest_heavy2 = Heavy Chest Tattoos (Middle)
-marking-ChestHeavyTattoos-chest_heavy3 = Heavy Chest Tattoos (Lower)
-marking-ChestHeavyTattoos = Heavy Chest Tattoos
+marking-ChestHeavyTattoos-chest_heavy1 = Тяжелые татуировки на груди (верхняя часть)
+marking-ChestHeavyTattoos-chest_heavy2 = Плотные татуировки на груди (середина)
+marking-ChestHeavyTattoos-chest_heavy3 = Тяжелые татуировки на груди (нижняя часть)
+marking-ChestHeavyTattoos = Плотные татуировки на груди
 
-marking-BodyHairChest = Body Hair (Chest)
-marking-BodyHairBack = Body Hair (Back)
+marking-BodyHairChest = Волосы на теле (грудь)
+marking-BodyHairBack = Волосы на теле (сзади)
 
 # Arms
-marking-HandBraceletLeft-l_hand_bracelet = Bracelet (Left)
-marking-HandBraceletLeft = Bracelet (Left)
+marking-HandBraceletLeft-l_hand_bracelet = Браслет (слева)
+marking-HandBraceletLeft = Браслет (слева)
 
-marking-HandBraceletRight-r_hand_bracelet = Bracelet (Right)
-marking-HandBraceletRight = Bracelet (Right)
+marking-HandBraceletRight-r_hand_bracelet = Браслет (правый)
+marking-HandBraceletRight = Браслет (правый)
 
-marking-HandRingsLeft-l_hand_rings1 = Left Index Finger
-marking-HandRingsLeft-l_hand_rings2 = Left Ring Finger
-marking-HandRingsLeft = Rings (Left)
+marking-HandRingsLeft-l_hand_rings1 = Левый указательный палец
+marking-HandRingsLeft-l_hand_rings2 = Левый безымянный палец
+marking-HandRingsLeft = Кольца (слева)
 
-marking-HandRingsRight-r_hand_rings1 = Right Index Finger
-marking-HandRingsRight-r_hand_rings2 = Right Ring Finger
-marking-HandRingsRight = Rings (Right)
+marking-HandRingsRight-r_hand_rings1 = Правый указательный палец
+marking-HandRingsRight-r_hand_rings2 = Правый безымянный палец
+marking-HandRingsRight = Кольца (справа)
 
-marking-ArmDollJointsTattooLeft-l_arm_doll = Doll Joints Arm Tattoo (Left)
-marking-ArmDollJointsTattooLeft = Doll Joints Arm Tattoo (Left)
+marking-ArmDollJointsTattooLeft-l_arm_doll = Татуировка суставов куклы на руке (слева)
+marking-ArmDollJointsTattooLeft = Татуировка суставов куклы на руке (слева)
 
-marking-ArmDollJointsTattooRight-r_arm_doll = Doll Joints Arm Tattoo (Right)
-marking-ArmDollJointsTattooRight = Doll Joints Arm Tattoo (Right)
+marking-ArmDollJointsTattooRight-r_arm_doll = Татуировка суставов руки куклы (справа)
+marking-ArmDollJointsTattooRight = Татуировка суставов руки куклы (справа)
 
-marking-HandDollJointsTattooLeft-l_hand_doll = Doll Joints Hand Tattoo (Left)
-marking-HandDollJointsTattooLeft = Doll Joints Hand Tattoo (Left)
+marking-HandDollJointsTattooLeft-l_hand_doll = Татуировка суставов руки куклы (слева)
+marking-HandDollJointsTattooLeft = Татуировка суставов руки куклы (слева)
 
-marking-HandDollJointsTattooRight-r_hand_doll = Doll Joints Hand Tattoo (Right)
-marking-HandDollJointsTattooRight = Doll Joints Hand Tattoo (Right)
+marking-HandDollJointsTattooRight-r_hand_doll = Татуировка суставов куклы на руке (справа)
+marking-HandDollJointsTattooRight = Татуировка суставов куклы на руке (справа)
 
-marking-ArmHeavyTattoosLeft-l_arm_heavy1 = Heavy Arm Tattoos (Upper)
-marking-ArmHeavyTattoosLeft-l_arm_heavy2 = Heavy Arm Tattoos (Lower)
-marking-ArmHeavyTattoosLeft = Heavy Arm Tattoos (Left)
+marking-ArmHeavyTattoosLeft-l_arm_heavy1 = Плотные татуировки на руке (верх)
+marking-ArmHeavyTattoosLeft-l_arm_heavy2 = Плотные татуировки на руке (низ)
+marking-ArmHeavyTattoosLeft = Тяжелые татуировки на руке (слева)
 
-marking-ArmHeavyTattoosRight-r_arm_heavy1 = Heavy Arm Tattoos (Upper)
-marking-ArmHeavyTattoosRight-r_arm_heavy2 = Heavy Arm Tattoos (Lower)
-marking-ArmHeavyTattoosRight = Heavy Arm Tattoos (Right)
+marking-ArmHeavyTattoosRight-r_arm_heavy1 = Татуировки на тяжелых руках (верхняя часть)
+marking-ArmHeavyTattoosRight-r_arm_heavy2 = Татуировки на тяжелых руках (нижняя часть)
+marking-ArmHeavyTattoosRight = Тяжелые татуировки на руке (справа)
 
-marking-HandHeavyTattoosLeft-l_hand_heavy1 = Heavy Hand Tattoos (Outer)
-marking-HandHeavyTattoosLeft-l_hand_heavy2 = Heavy Hand Tattoos (Inner)
-marking-HandHeavyTattoosLeft = Heavy Hand Tattoos (Left)
+marking-HandHeavyTattoosLeft-l_hand_heavy1 = Тяжелые татуировки на руках (внешние)
+marking-HandHeavyTattoosLeft-l_hand_heavy2 = Татуировки «Тяжелая рука» (внутренняя часть)
+marking-HandHeavyTattoosLeft = Татуировки «Тяжелая рука» (слева)
 
-marking-HandHeavyTattoosRight-r_hand_heavy1 = Heavy Hand Tattoos (Outer)
-marking-HandHeavyTattoosRight-r_hand_heavy2 = Heavy Hand Tattoos (Inner)
-marking-HandHeavyTattoosRight = Heavy Hand Tattoos (Right)
+marking-HandHeavyTattoosRight-r_hand_heavy1 = Тяжелые татуировки на руках (внешние)
+marking-HandHeavyTattoosRight-r_hand_heavy2 = Татуировки «Тяжелая рука» (внутренняя часть)
+marking-HandHeavyTattoosRight = Татуировки «Тяжелая рука» (справа)
 
-marking-BodyHairLeftArm = Body Hair (Left)
-marking-BodyHairRightArm = Body Hair (Right)
+marking-BodyHairLeftArm = Волосы на теле (слева)
+marking-BodyHairRightArm = Волосы на теле (справа)
 
-marking-ScarLeftArm = Arm Scar (Left)
-marking-ScarLeftArm-scar-arm-l = Arm scar
-marking-ScarRightArm = Arm Scar (Right)
-marking-ScarRightArm-scar-arm-r = Arm scar
+marking-ScarLeftArm = Шрам на руке (слева)
+marking-ScarLeftArm-scar-arm-l = Шрам на руке
+marking-ScarRightArm = Шрам на руке (справа)
+marking-ScarRightArm-scar-arm-r = Шрам на руке
 
 # Legs
-marking-LegDollJointsTattooLeft-l_leg_doll = Doll Joints Leg Tattoo (Left)
-marking-LegDollJointsTattooLeft = Doll Joints Leg Tattoo (Left)
+marking-LegDollJointsTattooLeft-l_leg_doll = Татуировка суставов ноги куклы (слева)
+marking-LegDollJointsTattooLeft = Татуировка суставов ноги куклы (слева)
 
-marking-LegDollJointsTattooRight-r_leg_doll = Doll Joints Leg Tattoo (Right)
-marking-LegDollJointsTattooRight = Doll Joints Leg Tattoo (Right)
+marking-LegDollJointsTattooRight-r_leg_doll = Татуировка суставов ноги куклы (справа)
+marking-LegDollJointsTattooRight = Татуировка суставов ноги куклы (справа)
 
-marking-FootDollJointsTattooLeft-l_foot_doll = Doll Joints Foot Tattoo (Left)
-marking-FootDollJointsTattooLeft = Doll Joints Foot Tattoo (Left)
+marking-FootDollJointsTattooLeft-l_foot_doll = Татуировка суставов стопы куклы (слева)
+marking-FootDollJointsTattooLeft = Татуировка суставов стопы куклы (слева)
 
-marking-FootDollJointsTattooRight-r_foot_doll = Doll Joints Foot Tattoo (Right)
-marking-FootDollJointsTattooRight = Doll Joints Foot Tattoo (Right)
+marking-FootDollJointsTattooRight-r_foot_doll = Татуировка суставов стопы куклы (справа)
+marking-FootDollJointsTattooRight = Татуировка суставов стопы куклы (справа)
 
-marking-LegHeavyTattoosLeft-l_leg_heavy1 = Heavy Leg Tattoos (Upper)
-marking-LegHeavyTattoosLeft-l_leg_heavy2 = Heavy Leg Tattoos (Lower)
-marking-LegHeavyTattoosLeft = Heavy Leg Tattoos (Left)
+marking-LegHeavyTattoosLeft-l_leg_heavy1 = Татуировки с тяжелыми ногами (верхняя часть)
+marking-LegHeavyTattoosLeft-l_leg_heavy2 = Татуировки с тяжелыми ногами (нижняя часть)
+marking-LegHeavyTattoosLeft = Плотные татуировки на ноге (слева)
 
-marking-LegHeavyTattoosRight-r_leg_heavy1 = Heavy Leg Tattoos (Upper)
-marking-LegHeavyTattoosRight-r_leg_heavy2 = Heavy Leg Tattoos (Lower)
-marking-LegHeavyTattoosRight = Heavy Leg Tattoos (Right)
+marking-LegHeavyTattoosRight-r_leg_heavy1 = Татуировки с тяжелыми ногами (верхняя часть)
+marking-LegHeavyTattoosRight-r_leg_heavy2 = Татуировки с тяжелыми ногами (нижняя часть)
+marking-LegHeavyTattoosRight = Плотные татуировки на ноге (справа)
 
-marking-FootHeavyTattoosLeft-l_foot_heavy1 = Heavy Foot Tattoos (Inner)
-marking-FootHeavyTattoosLeft-l_foot_heavy2 = Heavy Foot Tattoos (Outer)
-marking-FootHeavyTattoosLeft = Heavy Foot Tattoos (Left)
+marking-FootHeavyTattoosLeft-l_foot_heavy1 = Татуировки на тяжелой ноге (внутренняя)
+marking-FootHeavyTattoosLeft-l_foot_heavy2 = Татуировки с тяжелыми ногами (внешние)
+marking-FootHeavyTattoosLeft = Татуировки с тяжелыми ногами (слева)
 
-marking-FootHeavyTattoosRight-r_foot_heavy1 = Heavy Foot Tattoos (Inner)
-marking-FootHeavyTattoosRight-r_foot_heavy2 = Heavy Foot Tattoos (Outer)
-marking-FootHeavyTattoosRight = Heavy Foot Tattoos (Right)
+marking-FootHeavyTattoosRight-r_foot_heavy1 = Татуировки на тяжелой ноге (внутренняя)
+marking-FootHeavyTattoosRight-r_foot_heavy2 = Татуировки с тяжелыми ногами (внешние)
+marking-FootHeavyTattoosRight = Татуировки с тяжелыми ногами (справа)
 
-marking-BodyHairLeftLeg = Body Hair (Left)
-marking-BodyHairRightLeg = Body Hair (Right)
+marking-BodyHairLeftLeg = Волосы на теле (слева)
+marking-BodyHairRightLeg = Волосы на теле (справа)
 
-marking-LegScarLeft = Leg Scar (Left)
-marking-LegScarLeft-scar-leg-l = Leg scar
-marking-LegScarRight = Leg Scar (Right)
-marking-LegScarRight-scar-leg-r = Leg scar
+marking-LegScarLeft = Шрам на ноге (слева)
+marking-LegScarLeft-scar-leg-l = Шрам на ноге
+marking-LegScarRight = Шрам на ноге (справа)
+marking-LegScarRight-scar-leg-r = Шрам на ноге

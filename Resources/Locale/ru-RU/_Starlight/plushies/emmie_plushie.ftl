@@ -1,8 +1,8 @@
-plushie-emmie-1 = Awa!
-plushie-emmie-2 = I wonder how long your contract file is!
-plushie-emmie-3 = Cap, I hope you're not playing russian roulette again.
-plushie-emmie-4 = Headpats?
-plushie-emmie-5 = You deserve a sauna shuttle! Everyone does!
-plushie-emmie-6 = Evac is on me! My shuttle is better than the normal one anyway.
-plushie-emmie-7 = If you steal my things I am legally allowed to bite you.
-plushie-emmie-8 = Mlem!
+plushie-emmie-1 = Ава!
+plushie-emmie-2 = Интересно, какой длины ваш файл контракта!
+plushie-emmie-3 = Кэп, надеюсь, ты больше не будешь играть в русскую рулетку.
+plushie-emmie-4 = Головные уборы?
+plushie-emmie-5 = Вы заслуживаете трансфер до сауны! Все так делают!
+plushie-emmie-6 = Эвак на мне! В любом случае мой шаттл лучше обычного.
+plushie-emmie-7 = Если ты украдешь мои вещи, мне по закону разрешено тебя укусить.
+plushie-emmie-8 = Млем!

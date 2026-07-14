@@ -1,18 +1,18 @@
-security-drill-event-fail-announcement = A command-issued drill scheduled at this hour has been cancelled due to an elevated alert level.
+security-drill-event-fail-announcement = Запланированные на этот час учения отменены из-за повышенного уровня угрозы.
 
-security-drill-basic = The Central Security Division has ordered a station-wide {LOC($drill)} drill.
-security-drill-basic-1 = rampant wildlife
-security-drill-basic-2 = fire
-security-drill-basic-3 = hostile boarding
-security-drill-basic-4 = bomb
-security-drill-basic-5 = emergent intelligence
+security-drill-basic = Центральный отдел безопасности заказал общестанционное учение {LOC($drill)}.
+security-drill-basic-1 = побег опасной фауны
+security-drill-basic-2 = огонь
+security-drill-basic-3 = вражеский абордаж
+security-drill-basic-4 = угроза взрыва
+security-drill-basic-5 = экстренная эвакуация
 
-security-drill-detain = The Central Security Division has ordered the temporary detention and searching of { $target } for suspicious activity. Thoroughly interview the suspect about their activities and whereabouts over the past 48 hours, then fax a report containing the interview and a list of all identified contraband on their person.
+security-drill-detain = Центральный отдел безопасности распорядился о временном задержании и обыске { $target } на предмет подозрительной деятельности. Тщательно допросите подозреваемого об его деятельности и местонахождении за последние 48 часов, затем отправьте по факсу отчет, содержащий интервью и список всей обнаруженной при нем контрабанды.
 
-security-drill-questioning = The Central Security Division has ordered the temporary detention and questioning of { $target } due to {LOC($drill)}. Thoroughly interview the suspect about their activities and whereabouts over the past 48 hours, then fax a report containing interview contents and all identified contraband on their person.
-security-drill-questioning-1 = intercepted hostile communications identifying them as a possible infiltration vector
-security-drill-questioning-2 = suspicious bank transfers traced to hostile operations
-security-drill-questioning-3 = purchase of illegal goods traced to a smuggling operation
-security-drill-questioning-4 = possible compliance implanting by hostile outside actors
-security-drill-questioning-5 = an ordered security review of their records
-security-drill-questioning-6 = an ordered assessment of their threat to Nanotrasen and Central Command
+security-drill-questioning = Центральный отдел безопасности распорядился о временном задержании и допросе { $target } в связи с {LOC($drill)}. Тщательно допросите подозреваемого об его деятельности и местонахождении за последние 48 часов, затем отправьте по факсу отчет, содержащий содержание допроса и всю обнаруженную контрабанду при нем.
+security-drill-questioning-1 = перехваченными вражескими сообщениями, указывающими на возможное содействие проникновению
+security-drill-questioning-2 = подозрительными банковскими переводами, связанными с враждебной деятельностью
+security-drill-questioning-3 = приобретением незаконных товаров в рамках контрабандной операции
+security-drill-questioning-4 = возможным принуждением со стороны враждебных внешних сил
+security-drill-questioning-5 = плановой проверкой благонадёжности
+security-drill-questioning-6 = плановой оценкой угрозы для NanoTrasen и Центрального командования

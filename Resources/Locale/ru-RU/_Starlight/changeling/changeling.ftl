@@ -1,2 +1,2 @@
-changeling-passive-disable = Ability disabled!
-changeling-equip-protogen-fail = Need to be a protogen, and must not be wearing a protogen frame.
+changeling-passive-disable = Способность отключена!
+changeling-equip-protogen-fail = Необходимо быть протогеном и не носить каркас протогена.

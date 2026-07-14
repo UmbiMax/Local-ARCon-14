@@ -1,6 +1,6 @@
-plushie-rhea-1 = 'eya, I'm Rhea!
-plushie-rhea-2 = What’s wrong? Never seen an Urlunete before?
-plushie-rhea-3 = Ano’zer cloning error? Nope! Just a plushie!
-plushie-rhea-4 = Take me wi’z you, I’ll keep you safe!
-plushie-rhea-5 = You look ‘urt, let me treat ‘zose.
-plushie-rhea-6 = I ‘ope ‘ze kids are ok, Birgil would love one of ‘zese.
+plushie-rhea-1 = 'эй, я Рея!
+plushie-rhea-2 = В чем дело? Никогда раньше не видели Урлунете?
+plushie-rhea-3 = Ошибка клонирования Ано'зера? Неа! Просто плюшка!
+plushie-rhea-4 = Возьми меня с собой, я буду охранять тебя!
+plushie-rhea-5 = Ты выглядишь больным, дай мне лечить зозе.
+plushie-rhea-6 = Я надеюсь, что с детьми все в порядке, Биргилию бы понравился один из них.

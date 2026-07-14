@@ -1,19 +1,19 @@
-cmd-allowshuttlecalls-desc = Toggles whether shuttle calls are allowed.
+cmd-allowshuttlecalls-desc = Переключает, разрешен ли вызов шаттла.
 cmd-allowshuttlecalls-help =
-    Usage: { $command } <true/false/toggle/status> [announce] [message] [sender] [color] [sound]
-    - <true/false>: enable or disable shuttle calls.
-    - [announce]: Optional. true/false. Whether to announce the change. Defaults to true.
-    - [message]: Optional. Announcement message text (wrap multi-word messages in quotes). Uses default FTL if blank.
-    - [sender]: Optional. Sender text for the announcement. Defaults to "Central Command".
-    - [color]: Optional. Hex color (e.g. #FFD700) for the announcement text. Defaults to gold (#FFD700).
-    - [sound]: Optional. Sound file (path). Uses no sound if blank.
+    Использование: { $command } <true/false/toggle/status> [объявление] [сообщение] [отправитель] [color] [звук]
+    - <true/false>: включить или отключить эвакуационные вызовы.
+    - [объявить]: Необязательно. true/false. Стоит ли объявлять об изменении. По умолчанию true.
+    - [сообщение]: необязательно. Текст сообщения объявления (сообщения, состоящие из нескольких слов, заключайте в кавычки). Если поле пусто, используется FTL по умолчанию.
+    - [отправитель]: необязательно. Текст отправителя объявления. По умолчанию «Центральное командование».
+    - [color]: необязательно. Шестнадцатеричный цвет (например, #FFD700) текста объявления. По умолчанию — золото (#FFD700).
+    - [звук]: Необязательно. Звуковой файл (путь). Если поле пустое, звук не используется.
 
-cmd-allowshuttlecalls-arg-state = true/false — enable or disable shuttle calls.
-cmd-allowshuttlecalls-arg-announce = Optional: whether to announce the change (true/false). Defaults to true.
-cmd-allowshuttlecalls-arg-message = Optional announcement message text (wrap multi-word messages in quotes). Uses default FTL if blank.
-cmd-allowshuttlecalls-arg-sender = Optional sender text for the announcement. Defaults to "Central Command".
-cmd-allowshuttlecalls-arg-color = Optional color hex (e.g. #FFD700) for the announcement text. Defaults to gold (#FFD700).
-cmd-allowshuttlecalls-arg-sound = Optional announcement sound file (path).
+cmd-allowshuttlecalls-arg-state = true/false — включить или отключить вызовы эвакуационного шаттла.
+cmd-allowshuttlecalls-arg-announce = Необязательно: объявлять ли об изменении (true/false). По умолчанию true.
+cmd-allowshuttlecalls-arg-message = Необязательный текст сообщения объявления (сообщения, состоящие из нескольких слов, заключайте в кавычки). Если поле пусто, используется FTL по умолчанию.
+cmd-allowshuttlecalls-arg-sender = Необязательный текст отправителя объявления. По умолчанию «Центральное командование».
+cmd-allowshuttlecalls-arg-color = Необязательный шестнадцатеричный цвет (например, #FFD700) для текста объявления. По умолчанию — золото (#FFD700).
+cmd-allowshuttlecalls-arg-sound = Дополнительный звуковой файл объявления (путь).
 
-round-end-system-shuttle-calls-enabled-announcement = Shuttle calls have been enabled.
-round-end-system-shuttle-calls-disabled-announcement = Shuttle calls have been disabled.
+round-end-system-shuttle-calls-enabled-announcement = Вызовы эвакуационного шаттла включены.
+round-end-system-shuttle-calls-disabled-announcement = Вызовы эвакуационного шаттла отключены.

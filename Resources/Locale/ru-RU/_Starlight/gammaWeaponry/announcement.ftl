@@ -1,6 +1,6 @@
-announcement-gamma-armory = Central Command has decided to send a shuttle with a Gamma Code armory to {$station} to help eliminate the current threat. Shuttle docked { $location }, Hold on!
-announcement-gamma-armory-recall = The Gamma Code armory shuttle has been recalled from {$station} by Central Command.
-announcement-psi-armory = Central Command sent a Psi Code armory to {$station} to help eliminate the current threat. Shuttle docked { $location }!
-announcement-psi-armory-recall = The Psi Code armory shuttle has been recalled from {$station} by Central Command.
-announcement-med-pod = Central Command sent an emergency medical pod to {$station} to help with the current issues. Shuttle docked { $location }!
-announcement-med-pod-recall = The Emergency Medical Pod has been recalled from {$station} by Central Command.
+announcement-gamma-armory = Центральное командование направило на {$station} шаттл с арсеналом уровня «Гамма» для устранения текущей угрозы. Шаттл пристыкован { $location }. Держитесь!
+announcement-gamma-armory-recall = Шаттл с арсеналом «Гамма-код» был отозван с {$station} Центральным командованием.
+announcement-psi-armory = Центральное командование направило на {$station} шаттл с арсеналом уровня «Пси» для устранения текущей угрозы. Шаттл пристыкован { $location }!
+announcement-psi-armory-recall = Шаттл с арсеналом Пси-кода был отозван с {$station} Центральным командованием.
+announcement-med-pod = Центральное командование направило на {$station} капсулу экстренной медицинской помощи. Капсула пристыкована { $location }!
+announcement-med-pod-recall = Модуль скорой медицинской помощи был отозван с {$station} Центральным командованием.
