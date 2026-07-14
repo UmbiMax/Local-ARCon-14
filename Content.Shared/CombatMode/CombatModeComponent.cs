@@ -49,16 +49,16 @@ namespace Content.Shared.CombatMode
         [DataField, AutoNetworkedField]
         public bool ToggleMouseRotator = true;
 
-        // Arcane-Start
+        // Orion-Start
         public bool SmoothRotation = true;
 
         [DataField]
         public SoundSpecifier? CombatActivationSound = new SoundPathSpecifier
-            ("/Audio/_Arcane/Effects/Actions/CombatMode/combatmode-on.ogg");
+            ("/Audio/_Orion/Effects/Actions/CombatMode/combatmode-on.ogg");
 
         [DataField]
         public SoundSpecifier? CombatDeactivationSound = new SoundPathSpecifier
-            ("/Audio/_Arcane/Effects/Actions/CombatMode/combatmode-off.ogg");
-        // Arcane-End
+            ("/Audio/_Orion/Effects/Actions/CombatMode/combatmode-off.ogg");
+        // Orion-End
     }
 }
