@@ -177,6 +177,11 @@ public sealed partial class DoorSystem : SharedDoorSystem
                 if (_animationSystem.HasRunningAnimation(entity, DoorComponent.OpenKey))
                     return;
 
+                // Arcane-Start
+                if (_animationSystem.HasRunningAnimation(entity, DoorComponent.CloseKey))
+                    _animationSystem.Stop(entity, null, DoorComponent.CloseKey);
+                // Arcane-End
+
                 _animationSystem.Play(entity, (Animation)entity.Comp.OpeningAnimation, DoorComponent.OpenKey);
 
                 return;
@@ -186,6 +191,11 @@ public sealed partial class DoorSystem : SharedDoorSystem
 
                 if (_animationSystem.HasRunningAnimation(entity, DoorComponent.CloseKey))
                     return;
+
+                // Arcane-Start
+                if (_animationSystem.HasRunningAnimation(entity, DoorComponent.OpenKey))
+                    _animationSystem.Stop(entity, null, DoorComponent.OpenKey);
+                // Arcane-End
 
                 _animationSystem.Play(entity, (Animation)entity.Comp.ClosingAnimation, DoorComponent.CloseKey);
 
