@@ -144,12 +144,7 @@ public abstract partial class SharedCombatModeSystem : EntitySystem
     // todo: When we stop making fucking garbage abstract shared components, remove this shit too.
     protected abstract bool IsNpc(EntityUid uid);
 
-    // Arcane-Start
-    protected virtual bool ShouldShowCombatModePopup()
-    {
-        return true;
-    }
-    // Arcane-End
+    protected virtual bool ShouldShowCombatModePopup() => true; // Arcane
 }
 
 public sealed partial class ToggleCombatActionEvent : InstantActionEvent

@@ -64,12 +64,7 @@ public sealed partial class CombatModeSystem : SharedCombatModeSystem
         return HasComp<HTNComponent>(uid);
     }
 
-    // Arcane-Start
-    protected override bool ShouldShowCombatModePopup()
-    {
-        return !_cfg.GetCVar(CCVars.CombatIndicator);
-    }
-    // Arcane-End
+    protected override bool ShouldShowCombatModePopup() => !_cfg.GetCVar(CCVars.CombatIndicator); // Arcane
 
     private void UpdateHud(EntityUid entity)
     {
