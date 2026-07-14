@@ -20,15 +20,12 @@
       "name": "closed_unlit"
     },
     {
-<<<<<<< HEAD
-=======
       "name": "closed-fill"
     },
     {
       "name": "closed-glass"
     },
     {
->>>>>>> 08b658b6e49 ([Tweak] D.O.O.R (#427))
       "name": "closing",
       "delays": [
         [
@@ -55,8 +52,6 @@
       ]
     },
     {
-<<<<<<< HEAD
-=======
       "name": "closing-fill",
       "delays": [
         [
@@ -96,7 +91,6 @@
       ]
     },
     {
->>>>>>> 08b658b6e49 ([Tweak] D.O.O.R (#427))
       "name": "deny_unlit",
       "delays": [
         [
@@ -140,19 +134,6 @@
           0.1,
           0.1,
           0.1
-        ]
-      ]
-    },
-    {
-      "name": "panel_closing",
-      "delays": [
-        [
-          0.1,
-          0.1,
-          0.07,
-          0.07,
-          0.07,
-          0.2
         ]
       ]
     },
