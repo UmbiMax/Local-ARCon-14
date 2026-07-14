@@ -1,1 +1,1 @@
-entity-category-name-shouldmapstation = Should Map
+entity-category-name-shouldmapstation = Для карт станции

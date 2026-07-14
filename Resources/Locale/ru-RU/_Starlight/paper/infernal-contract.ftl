@@ -1,37 +1,37 @@
 infernal-contract-base =
-   ⠀[center][sigil][/center]
+   ⠀[center][сигил][/center]
 
-   ⠀[color=#fbd8ae][head=2]CONTRACT FOR WORLDLY GAIN[/head]
+   ⠀[color=#fbd8ae][head=2]КОНТРАКТ ДЛЯ ВСЕМИРНОЙ ВЫГОДЫ[/head]
     ───────────────────────────────────────
-   ⠀I, [signature], in sound mind, hereby declare that I willingly engage in demonic exchange with {$truename}, an agent of hell.
+   ⠀Я, [подпись], в здравом уме заявляю, что охотно вступаю в демонический обмен с {$truename}, агентом ада.
 
-   ⠀I offer the following:
-    • My soul
-    • [form]
-    • [form]
-    • [form]
-    To the eternal fires of hell, in exchange for:
-    • Gain self rejuvenation
-    • [form]
+   ⠀Я предлагаю следующее:
+    • Моя душа
+    • [форма]
+    • [форма]
+    • [форма]
+    К вечному огню ада в обмен на:
+    • Получите самоомоложение
+    • [форма]
 
-    I understand that there is no way to retrieve these sacrifices. If I offer my soul, [bold]I understand that upon my demise my soul will fall into the fires of hell. My body will not be able to be resurrected, cloned, or brought back to life in any way.[/bold] I will not be able to utter the true name of the devil, doing such will incinerate me.
+    Я понимаю, что вернуть эти жертвы невозможно. Если я предложу свою душу, [bold]Я понимаю, что после моей смерти моя душа попадет в адское пламя. Мое тело невозможно будет воскресить, клонировать или вернуть к жизни каким-либо образом.[/bold] Я не смогу произнести истинное имя дьявола, это сожжет меня.
 
-    Signed: [signature][/color]
+    Подпись: [подпись][/color]
 
-infernal-contract-examined-Valid = The contract is ready for signing.
-infernal-contract-examined-InvalidFormat = The contract is invalid, as it is missing vital smallprint.
-infernal-contract-examined-TooCostly = The contract is not a fair deal for hell, it will not be actioned.
-infernal-contract-examined-OverusedDamnation = The contract contains a damnation that has been used too much, and is no longer fiscally advantageous.
-infernal-contract-examined-UnknownClauses = The contract contains clauses which are not permitted for mortals.
-infernal-contract-examined-Signed = The contract has been signed!
+infernal-contract-examined-Valid = Контракт готов к подписанию.
+infernal-contract-examined-InvalidFormat = Договор недействителен, так как в нем отсутствует жизненно важный мелкий шрифт.
+infernal-contract-examined-TooCostly = Контракт — это черт возьми, это несправедливая сделка, он не будет выполнен.
+infernal-contract-examined-OverusedDamnation = Контракт содержит проклятие, которое использовалось слишком часто и которое больше не является выгодным с финансовой точки зрения.
+infernal-contract-examined-UnknownClauses = В контракте есть пункты, которые не разрешены смертным.
+infernal-contract-examined-Signed = Контракт подписан!
 
-infernal-contract-examined-cost = This contract has a cost of {$value}
-infernal-contract-examined-misspelling = The contract has invalid clauses: {$items}
+infernal-contract-examined-cost = Стоимость этого контракта составляет {$value}.
+infernal-contract-examined-misspelling = В контракте есть недействительные пункты: {$items}.
 
-infernal-contract-misspelled-name = misspelled infernal contract
-infernal-contract-valid-name = infernal contract
+infernal-contract-misspelled-name = адский контракт с ошибкой
+infernal-contract-valid-name = адский контракт
 
-infernal-contract-popup-fail = The contract burns your hand! Something about it isn't right!
-infernal-contract-popup-fail-self = Your hand passes through the contract! This deal isn't for you to sign!
-infernal-contract-edit-fail = Your hand passes through the contract! You can't change the deal!
-infernal-contract-popup-invalid-damnations = Misspellings in contract! Check before signing: {$items}
+infernal-contract-popup-fail = Контракт обжигает руку! Что-то здесь не так!
+infernal-contract-popup-fail-self = Ваша рука проходит через договор! Эту сделку не для вас подписывать!
+infernal-contract-edit-fail = Ваша рука проходит через договор! Вы не можете изменить сделку!
+infernal-contract-popup-invalid-damnations = Опечатки в договоре! Проверьте перед подписанием: {$items}

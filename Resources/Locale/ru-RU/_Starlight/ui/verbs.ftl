@@ -1,3 +1,3 @@
-ui-verb-roll-up = Roll up sleeves
+ui-verb-roll-up = Засучить рукава
 
-speed-potion-apply-text = Apply speed potion
+speed-potion-apply-text = Применить зелье скорости

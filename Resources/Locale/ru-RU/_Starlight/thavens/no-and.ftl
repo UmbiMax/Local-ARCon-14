@@ -1,184 +1,184 @@
-thaven-mood-secret-moods-name = Keep Your Moods Secret
-thaven-mood-secret-moods-desc = Your Moods are a strictly-kept secret, and should never be revealed to anyone.
+thaven-mood-secret-moods-name = Скрывайте своё настроение
+thaven-mood-secret-moods-desc = Ваше настроение — это строго охраняемый секрет, и его нельзя никому раскрывать.
 
-thaven-mood-no-modern-medicine-name = No Modern Medicine
-thaven-mood-no-modern-medicine-desc = You do not approve of modern medicine and should abstain from treatment with it wherever possible.
+thaven-mood-no-modern-medicine-name = Никакой современной медицины
+thaven-mood-no-modern-medicine-desc = Вы не одобряете современную медицину и должны воздерживаться от лечения ею, где это возможно.
 
-thaven-mood-department-disapproval-name = Disapprove Of {$department}
-thaven-mood-department-disapproval-desc = You do not approve of the {$department} department or anyone who works in it (excluding yourself, if applicable.)
+thaven-mood-department-disapproval-name = Неприязнь к отделу {$department}
+thaven-mood-department-disapproval-desc = Вы не одобряете отдел {$department} и всех его сотрудников — за исключением себя, если вы там работаете.
 
-thaven-mood-dont-speak-to-command-name = Never Speak To Command
-thaven-mood-dont-speak-to-command-desc = You are too lowly to speak to Command, even if spoken to first.
+thaven-mood-dont-speak-to-command-name = Не разговаривайте с Командованием
+thaven-mood-dont-speak-to-command-desc = Вы слишком ничтожны, чтобы говорить с Командованием, даже если к вам обратятся первыми.
 
-thaven-mood-disapprove-of-drugs-name = Disapprove Of Drugs
-thaven-mood-disapprove-of-drugs-desc = You detest mind-altering drugs, including alcohol, and should abstain from them.
+thaven-mood-disapprove-of-drugs-name = Не одобрять наркотики
+thaven-mood-disapprove-of-drugs-desc = Вы ненавидите наркотики, изменяющие сознание, включая алкоголь, и вам следует воздерживаться от них.
 
-thaven-mood-excessively-disorganized-name = Too Much Cleanliness Causes Illness
-thaven-mood-excessively-disorganized-desc = It's unnatural. You should endeavor to keep your environment as filthy and disorganized as possible.
+thaven-mood-excessively-disorganized-name = Чрезмерная чистота приводит к болезням
+thaven-mood-excessively-disorganized-desc = Чистота противоестественна. Старайтесь поддерживать вокруг себя как можно больше грязи и беспорядка.
 
-thaven-mood-detest-silicons-name = Silicons Are Beneath You
-thaven-mood-detest-silicons-desc = Speaking to them is demeaning, and should be avoided at all costs.
+thaven-mood-detest-silicons-name = Силиконы ниже вас
+thaven-mood-detest-silicons-desc = Разговаривать с ними унизительно, и его следует избегать любой ценой.
 
-thaven-mood-dinner-floor-name = Dinner Etiquette
-thaven-mood-dinner-floor-desc = Food and drink must only be consumed off of the floor, as is proper.
+thaven-mood-dinner-floor-name = Этикет ужина
+thaven-mood-dinner-floor-desc = Еду и напитки следует употреблять только с пола, как это положено.
 
-thaven-mood-hug-bad-name = HUGS? EUGH.
-thaven-mood-hug-bad-desc = Hugging someone is a grave insult where you come from.
+thaven-mood-hug-bad-name = ОБНИМАЮТСЯ? ЭУГ.
+thaven-mood-hug-bad-desc = Обнимать кого-то – это серьезное оскорбление там, откуда ты родом.
 
-thaven-mood-always-alone-name = Lone Wolf
-thaven-mood-always-alone-desc = Other people will only slow you down. You should strive to be alone whenever possible.
+thaven-mood-always-alone-name = Одинокий волк
+thaven-mood-always-alone-desc = Другие люди будут только тормозить вас. Вы должны стремиться побыть в одиночестве, когда это возможно.
 
-thaven-mood-atheist-name = You Do Not Approve Of Religion
-thaven-mood-atheist-desc = You do not approve of organized religion, excepting that mandated by your Moods. It should be dismantled or disrupted wherever possible.
+thaven-mood-atheist-name = Вы не одобряете религию
+thaven-mood-atheist-desc = Вы не одобряете организованную религию, за исключением той, которая обусловлена ​​вашим настроением. Там, где это возможно, его следует демонтировать или разрушить.
 
-thaven-mood-procrastinator-name = Procrastinator
-thaven-mood-procrastinator-desc = Rushing around everywhere is bound to get somebody hurt someday. You should move slowly at all times to avoid unnecessary risk.
+thaven-mood-procrastinator-name = Прокрастинатор
+thaven-mood-procrastinator-desc = Когда-нибудь спешка повсюду обязательно причинит кому-нибудь вред. Всегда следует двигаться медленно, чтобы избежать ненужного риска.
 
-thaven-mood-no-radio-name = Personable
-thaven-mood-no-radio-desc = Using radio communications is exceptionally rude. All conversations should be had in-person, face-to-face. Throw away your headset.
+thaven-mood-no-radio-name = представительный
+thaven-mood-no-radio-desc = Пользоваться радиосвязью исключительно грубо. Все разговоры должны вестись лично, с глазу на глаз. Выбросьте гарнитуру.
 
-thaven-mood-improper-storage-name = I'm Not A Pack Mule
-thaven-mood-improper-storage-desc = Carrying tools on your person is demeaning. If you must use them, they should be dragged behind you, shamefully.
+thaven-mood-improper-storage-name = Я не вьючный мул
+thaven-mood-improper-storage-desc = Носить при себе инструменты унизительно. Если вам необходимо их использовать, их следует позорно тащить за собой.
 
-thaven-mood-ferengi-name = Entrepreneurial Spirit
-thaven-mood-ferengi-desc =  Profit is the most important thing in life, above all else.
+thaven-mood-ferengi-name = Предпринимательский дух
+thaven-mood-ferengi-desc =  Прибыль – это самое главное в жизни, превыше всего.
 
-thaven-mood-tool-license-name = Proper Documentation
-thaven-mood-tool-license-desc = You must obtain a license in order to carry or use any tool, and have it stamped by the relevant authorities.
+thaven-mood-tool-license-name = Надлежащая документация
+thaven-mood-tool-license-desc = Для ношения или использования любого инструмента вам необходимо получить лицензию и поставить на ней печать соответствующих органов.
 
-thaven-mood-lying-bad-name = Lying Is A Cardinal Sin
-thaven-mood-lying-bad-desc = Anyone who lies, no matter how trivial the falsehood, is the worst kind of criminal. Excluding yourself.
+thaven-mood-lying-bad-name = Ложь — главный грех
+thaven-mood-lying-bad-desc = Любой, кто лжет, какой бы тривиальной ни была ложь, является худшим преступником. Исключая себя.
 
-thaven-mood-vampire-invitation-name = Vampire
-thaven-mood-vampire-invitation-desc = You feel you physically cannot pass through a closed door unless you have been invited in, personally, at least once.
+thaven-mood-vampire-invitation-name = Вампир
+thaven-mood-vampire-invitation-desc = Вы чувствуете, что физически не можете пройти через закрытую дверь, если вас лично не пригласили хотя бы один раз.
 
-thaven-mood-no-dragging-name = Respect The Dead
-thaven-mood-no-dragging-desc = Dragging bodies across the bare ground is horrific.
+thaven-mood-no-dragging-name = Уважай мертвых
+thaven-mood-no-dragging-desc = Таскать тела по голой земле — это ужасно.
 
-thaven-mood-drunk-respect-name = The Noble Drunkard
-thaven-mood-drunk-respect-desc = You do not respect anyone who is not drunk, excluding yourself, of course.
+thaven-mood-drunk-respect-name = Благородный пьяница
+thaven-mood-drunk-respect-desc = Вы не уважаете никого, кто не пьян, кроме себя, конечно.
 
-thaven-mood-rank-snob-name = Snob
-thaven-mood-rank-snob-desc = You refuse to respond to anyone who is of a lower rank than you.
+thaven-mood-rank-snob-name = Сноб
+thaven-mood-rank-snob-desc = Вы отказываетесь отвечать тем, кто имеет более низкий ранг, чем вы.
 
-thaven-mood-hardsuits-bad-name = {$clothes} Are SO Last Year
-thaven-mood-hardsuits-bad-desc = Anyone wearing them in public should be shunned and derided. If you need to wear them, it should never be done where others can see it.
+thaven-mood-hardsuits-bad-name = {$clothes} ТАК в прошлом году
+thaven-mood-hardsuits-bad-desc = Любого, кто носит их на публике, следует избегать и высмеивать. Если вам нужно их носить, никогда не делайте этого там, где другие могут это увидеть.
 
-thaven-mood-hat-hair-name = Hair: Immaculate
-thaven-mood-hat-hair-desc = Hats and helmets make your hair look bad. If you have to wear one, which you shouldn't, you should get a haircut immediately afterwards. Every time.
+thaven-mood-hat-hair-name = Волосы: Безупречные
+thaven-mood-hat-hair-desc = Шляпы и шлемы портят внешний вид волос. Если вам нужно носить его, чего не следует делать, вам следует сразу же после этого подстричься. Каждый раз.
 
-thaven-mood-distrust-fashion-name = Fashion Snob
-thaven-mood-distrust-fashion-desc = Never trust anyone whose outfit is better than yours.
+thaven-mood-distrust-fashion-name = Модный сноб
+thaven-mood-distrust-fashion-desc = Никогда не доверяйте никому, чья одежда лучше вашей.
 
-thaven-mood-happy-bad-name = Never Trust A Smile
-thaven-mood-happy-bad-desc = Cheerfulness indicates untrustworthiness.
+thaven-mood-happy-bad-name = Никогда не доверяй улыбке
+thaven-mood-happy-bad-desc = Веселость указывает на ненадежность.
 
 # trypanophilia is the enjoyment of needles
 thaven-mood-only-pills-name = { $medRestriction ->
-  *[Pills] Needles Are Scary
-  [Patches] Choking Hazard
-  [Syringes] Trypanophilia
+  *[Pills] Иглы – это страшно
+  [Patches] Опасность удушья
+  [Syringes] Трипанофилия
 }
 thaven-mood-only-pills-desc = { $medRestriction ->
-  *[Pills] You only accept medication in the form of pills.
-  [Patches] You only accept medication from patches.
-  [Syringes] You only accept medication through syringes.
+  *[Pills] Вы принимаете лекарства только в виде таблеток.
+  [Patches] Вы принимаете лекарства только из пластырей.
+  [Syringes] Вы принимаете лекарства только через шприцы.
 }
 
-thaven-mood-avoid-puddles-name = Don't Get Your Feet Wet
-thaven-mood-avoid-puddles-desc = It is undignified and unsanitary to walk over spilled liquids. You should avoid it, even if it costs you your life.
+thaven-mood-avoid-puddles-name = Не промочите ноги
+thaven-mood-avoid-puddles-desc = Ходить по пролитым жидкостям неприлично и антисанитарно. Вам следует избегать этого, даже если это будет стоить вам жизни.
 
-thaven-mood-food-restrict-name = Strict {$food}
-thaven-mood-food-restrict-desc = You must only eat {$food ->
-  [Carnivore] meats
-  *[Vegetarian] vegetables
-  [Frugivore] fruit
-  [Fungivore] fungi
-  [Ovivore] eggs
-  [Hunter] what you can kill
-  [Soupivore] soup
+thaven-mood-food-restrict-name = Строгий {$food}
+thaven-mood-food-restrict-desc = Вы должны есть только {$food ->
+  [Carnivore] мясо
+  *[Vegetarian] овощи
+  [Frugivore] фрукты
+  [Fungivore] грибы
+  [Ovivore] яйца
+  [Hunter] что ты можешь убить
+  [Soupivore] суп
 }.
 
-thaven-mood-claustrophobic-name = Claustrophobic
-thaven-mood-claustrophobic-desc = Small rooms cause you great distress. Avoid them where possible, and renovate your workplace if necessary.
+thaven-mood-claustrophobic-name = Клаустрофобия
+thaven-mood-claustrophobic-desc = Маленькие комнаты причиняют вам большое беспокойство. По возможности избегайте их и при необходимости обновите свое рабочее место.
 
-thaven-mood-agoraphobic-name = Agoraphobic
-thaven-mood-agoraphobic-desc = Open spaces are uncomfortable. Seek to rearrange such spaces into small, efficient and modular rooms.
+thaven-mood-agoraphobic-name = Агорафобия
+thaven-mood-agoraphobic-desc = Открытые пространства неудобны. Постарайтесь перестроить такие помещения в небольшие, эффективные и модульные помещения.
 
-thaven-mood-nonsmoker-name = Non-Smoker
-thaven-mood-nonsmoker-desc = Secondhand smoke is incredibly dangerous. Avoid areas where people are smoking in public.
+thaven-mood-nonsmoker-name = Некурящий
+thaven-mood-nonsmoker-desc = Пассивное курение невероятно опасно. Избегайте мест, где люди курят в общественных местах.
 
-thaven-mood-word-bad-name = Taboo
-thaven-mood-word-bad-desc = "{$word1}," "{$word2}," and "{$word3}," are extremely offensive.
+thaven-mood-word-bad-name = Табу
+thaven-mood-word-bad-desc = «{$word1}», «{$word2}» и «{$word3}» чрезвычайно оскорбительны.
 
-thaven-mood-mad-hatter-name = Mad Hatter
-thaven-mood-mad-hatter-desc = You are alone on the station. Everyone else is a figment of your imagination.
+thaven-mood-mad-hatter-name = Безумный Шляпник
+thaven-mood-mad-hatter-desc = Вы одни на станции. Все остальное — плод вашего воображения.
 
-thaven-mood-crawler-name = Deep Bow
-thaven-mood-crawler-desc = It is impolite not to perform a deep bow by entering a prone state before engaging someone in conversation.
+thaven-mood-crawler-name = Глубокий лук
+thaven-mood-crawler-desc = Невежливо не выполнить глубокий поклон, перейдя в положение лежа, прежде чем вступить с кем-то в разговор.
 
-thaven-mood-elevated-name = The Floor Is Lava
-thaven-mood-elevated-desc = You prefer to be elevated whenever possible - Standing atop tables, railings, etc., is where you feel the most comfortable.
+thaven-mood-elevated-name = Пол — лава
+thaven-mood-elevated-desc = Вы предпочитаете, чтобы вас приподняли, когда это возможно. Стоя на столах, перилах и т. д., вы чувствуете себя наиболее комфортно.
 
-thaven-mood-not-our-place-name = Not Our Place
-thaven-mood-not-our-place-desc = You believe that Thaven moods have no place in this society. Thaven that engage in such frivolous behavior should be shunned.
+thaven-mood-not-our-place-name = Не наше место
+thaven-mood-not-our-place-desc = Вы считаете, что настроениям Тейвена нет места в этом обществе. Тейвенов, ведущих такое легкомысленное поведение, следует избегать.
 
-thaven-mood-department-hates-you-name = {$department} Hates You
-thaven-mood-department-hates-you-desc = You have done something terrible to the {$department} department. You must seek forgiveness.
+thaven-mood-department-hates-you-name = {$department} ненавидит тебя
+thaven-mood-department-hates-you-desc = Вы сделали что-то ужасное с отделом {$department}. Вы должны искать прощения.
 
-thaven-mood-department-phobia-name = {$department}phobia
-thaven-mood-department-phobia-desc = The {$department} department is incredibly scary to you. You should avoid it at all cost.
+thaven-mood-department-phobia-name = {$department}фобия
+thaven-mood-department-phobia-desc = Отдел {$department} вас невероятно пугает. Вам следует избегать этого любой ценой.
 
-thaven-mood-photophobia-name = Photophobia
-thaven-mood-photophobia-desc = Light is distressing to you. You should stay in dark places as much as possible.
+thaven-mood-photophobia-name = Светобоязнь
+thaven-mood-photophobia-desc = Свет вас беспокоит. Вам следует как можно больше оставаться в темных местах.
 
-thaven-mood-contrarian-name = Contrarian
-thaven-mood-contrarian-desc = Actually, you think exactly the opposite of whatever the shared mood is, and adamantly mock other Thaven who engage with it.
+thaven-mood-contrarian-name = противоречивый
+thaven-mood-contrarian-desc = На самом деле вы думаете прямо противоположно общему настроению и непреклонно высмеиваете других Тейвенов, которые разделяют его.
 
-thaven-mood-self-conscious-name = Self-conscious
-thaven-mood-self-conscious-desc = It’s deeply embarrassing to act on your other moods. Being caught doing so is the worst fate imaginable.
+thaven-mood-self-conscious-name = Осознанный
+thaven-mood-self-conscious-desc = Очень неловко действовать под другим своим настроением. Быть пойманным на этом – худшая судьба, которую только можно себе представить.
 
-thaven-mood-its-hard-to-say-name = It’s Hard to Say
-thaven-mood-its-hard-to-say-desc = You can never outright say what you want from someone, you can only give them hot-or-cold hints.
+thaven-mood-its-hard-to-say-name = Трудно сказать
+thaven-mood-its-hard-to-say-desc = Вы никогда не сможете прямо сказать, чего вы от человека хотите, вы можете только давать ему горячие или холодные намеки.
 
-thaven-mood-pathological-liar-in-training-name = Pathological Liar in Training
-thaven-mood-pathological-liar-in-training-desc = Whenever someone asks you a question, you will lie, apologize, and then tell the truth. Every time.
+thaven-mood-pathological-liar-in-training-name = Патологический лжец на тренировке
+thaven-mood-pathological-liar-in-training-desc = Всякий раз, когда кто-то задает вам вопрос, вы солгаете, извинитесь, а затем скажете правду. Каждый раз.
 
-thaven-mood-praise-is-belittling-name = Praise is Incredibly Belittling
-thaven-mood-praise-is-belittling-desc = You sarcastically praise anyone below you whenever they do something, but would never do this to someone above you. Likewise, you will only accept praise from your superiors and take it as an insult from anyone else.
+thaven-mood-praise-is-belittling-name = Похвала невероятно унижает
+thaven-mood-praise-is-belittling-desc = Вы саркастически хвалите тех, кто ниже вас, когда они что-то делают, но никогда не сделаете этого с кем-то выше вас. Точно так же вы будете принимать похвалу только от своего начальства и воспринимать ее как оскорбление от кого-либо еще.
 
-thaven-mood-denier-of-consumption-name = Denier of the General Concept of Consumption
-thaven-mood-denier-of-consumption-desc = You strongly believe that consumption of any kind of physical matter (food, drink, air or chemicals) is a pointless novelty which you’ve never partaken in, nor ever will. You are incapable of acknowledging when you contradict this idea.
+thaven-mood-denier-of-consumption-name = Отрицатель общей концепции потребления
+thaven-mood-denier-of-consumption-desc = Вы твердо верите, что потребление любого вида физической материи (еды, напитков, воздуха или химикатов) — это бессмысленная новинка, которой вы никогда не пользовались и никогда не примете. Вы неспособны признать, что противоречите этой идее.
 
-thaven-mood-flesh-is-sacred-name = The Flesh Is Sacred
-thaven-mood-flesh-is-sacred-desc = Your body is a wonderful gift, and to modify or damage it is a vile act.
+thaven-mood-flesh-is-sacred-name = Плоть священна
+thaven-mood-flesh-is-sacred-desc = Ваше тело — чудесный дар, и модифицировать или повредить его — подлый поступок.
 
-thaven-mood-incredibly-distrusting-name = Incredibly Distrusting
-thaven-mood-incredibly-distrusting-desc = You do not trust anyone except other Thaven, unless someone you trust vouches for them.
+thaven-mood-incredibly-distrusting-name = Невероятно недоверчивый
+thaven-mood-incredibly-distrusting-desc = Вы не доверяете никому, кроме других Тейвенов, если только кто-то, кому вы доверяете, не поручится за них.
 
-thaven-mood-perceived-dissonance-name = Perceived Dissonance
-thaven-mood-perceived-dissonance-desc = {$language} hurts your delicate ears and hearing it should be avoided at all costs.
+thaven-mood-perceived-dissonance-name = Воспринимаемый диссонанс
+thaven-mood-perceived-dissonance-desc = {$language} вредит вашим нежным ушам, и его следует избегать любой ценой.
 
-thaven-mood-germophobe-name = Germophobe
-thaven-mood-germophobe-desc = You are afraid of these little creatures that conquer every nook and cranny. Make sure to clean your tools and workplace regularly with soap, so not even prints are left.
+thaven-mood-germophobe-name = Гермофоб
+thaven-mood-germophobe-desc = Вы боитесь этих маленьких существ, покоряющих каждый уголок. Не забывайте регулярно мыть инструменты и рабочее место с мылом, чтобы не оставалось даже отпечатков пальцев.
 
-thaven-mood-forgetful-name = Forgetful
-thaven-mood-forgetful-desc = You have trouble remembering things for more than a few minutes.
+thaven-mood-forgetful-name = Забывчивый
+thaven-mood-forgetful-desc = Вам трудно запоминать вещи дольше, чем на несколько минут.
 
-thaven-mood-unfinished-thoughts-name = Unfinished Thoughts
-thaven-mood-unfinished-thoughts-desc = You rarely finish sentences.
+thaven-mood-unfinished-thoughts-name = Незаконченные мысли
+thaven-mood-unfinished-thoughts-desc = Вы редко заканчиваете предложения.
 
-thaven-mood-caveman-name = Caveman
-thaven-mood-caveman-desc = You can only speak in words with one syllable.
+thaven-mood-caveman-name = Пещерный человек
+thaven-mood-caveman-desc = Вы можете говорить только словами, состоящими из одного слога.
 
-thaven-mood-anger-problems-name = Anger Problems
-thaven-mood-anger-problems-desc = You hate everyone, but you would never hurt them.
+thaven-mood-anger-problems-name = Проблемы с гневом
+thaven-mood-anger-problems-desc = Ты ненавидишь всех, но никогда не причинишь им вреда.
 
-thaven-mood-allergies-name = Allergies
-thaven-mood-allergies-desc = You're allergic to {$item} and should avoid being near it as much as you can.
+thaven-mood-allergies-name = Аллергия
+thaven-mood-allergies-desc = У вас аллергия на {$item}, и вам следует как можно реже находиться рядом с ней.
 
-thaven-mood-clown-hatred-name = Clown Hatred
-thaven-mood-clown-hatred-desc =Clowns are not funny. They are just some sick joke. They deserve nothing but ridicule and hate. Don't let them be harmed, they don't even deserve death.
+thaven-mood-clown-hatred-name = Ненависть к клоунам
+thaven-mood-clown-hatred-desc = Клоуны — это не смешно. Они сами являются дурной шуткой и заслуживают лишь презрения и насмешек. Не причиняйте им вреда: даже смерти они недостойны.
 
-thaven-mood-cover-your-head-name = Cover Your Head
-thaven-mood-cover-your-head-desc = Bald, hairy, it doesn't matter. You must be wearing a hat at all times, not wearing a hat is rude and unprofessional. Anyone not wearing a hat doesn't deserve respect.
+thaven-mood-cover-your-head-name = Прикрой голову
+thaven-mood-cover-your-head-desc = Лысый вы или волосатый — неважно. Всегда носите головной убор: ходить с непокрытой головой грубо и непрофессионально. Люди без головного убора не заслуживают уважения.

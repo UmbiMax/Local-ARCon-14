@@ -1,33 +1,33 @@
 # Command
 
 # NanoTrasen
-highlights-blue-shield-officer = Blue Shield Officer, Blue Shield, Blueshield, "BSO"
-highlights-magistrate = Magistrate, "Law", "Magi"
-highlights-nanotrasen-representative = NanoTrasen Representative, "NTR", NT Rep, NTRep, "Law", "SOP", Standard Operating Procedure
-highlights-nanotrasen-career-trainer = NanoTrasen Career Trainer, Career Trainer, "NCT"
+highlights-blue-shield-officer = Офицер Синего Щита, Синий Щит, Синещит, "ОСЩ"
+highlights-magistrate = Магистрат, "Закон", "Маги"
+highlights-nanotrasen-representative = Представитель NanoTrasen, "ПНТ", Представитель НТ, ПНТ, "Закон", "СРП", Стандартные рабочие процедуры
+highlights-nanotrasen-career-trainer = Карьерный инструктор NanoTrasen, Карьерный инструктор, "КИНТ"
 
 # Security
-highlights-duty-officer = Duty Officer, Security, "Sec"
-highlights-brigmedic = Brigmedic, BrigMed, "BM", Security, "Sec"
+highlights-duty-officer = Дежурный офицер, Дежурный, Охрана, "СБ"
+highlights-brigmedic = Бригмедик, БригМед, "БМ", Охрана, "СБ"
 
 # Cargo
-highlights-mail-technician = Mail Technician, Mail Tech, "MT", Mail, Cargo
-highlights-mining-specialist = Mining Specialist, "MS", Mining Spec, Miner, Mine, Cargo
-highlights-salvage-lead = Salvage Lead, "SL", Salvager, Salvage, Cargo, Lead, "Salv"
+highlights-mail-technician = Почтовый техник, Почтальон, "ПТ", Почта, Снабжение
+highlights-mining-specialist = Специалист по добыче, "СД", Шахтёр, Шахта, Снабжение
+highlights-salvage-lead = Ведущий утилизатор, "ВУ", Утилизатор, Утилизация, Снабжение, Ведущий
 
 # Engineering
 
 # Medical
-highlights-surgeon = Surgeon, Surgery, Medical, MedBay, "Med"
+highlights-surgeon = Хирург, Хирургия, Медицинский, Медбей, "Мед"
 
 # Science
-highlights-roboticist = Roboticist, Science, Robo, "Sci", Robotics
+highlights-roboticist = Робототехник, Учёный, Наука, Робо, "РНД", Робототехника
 
 # Civilian
-highlights-boxer = Boxer
-highlights-zookeeper = Zookeeper, Zoo
-highlights-performer = Performer
-highlights-assistant = Assistant
+highlights-boxer = Боксёр
+highlights-zookeeper = Смотритель зоопарка, Зоопарк
+highlights-performer = Артист
+highlights-assistant = Ассистент
 
 # Law
-highlights-internal-affairs-agent = Internal Affairs Agent, "IAA", "Law", "SOP", Standard Operating Procedure, Lawyer
+highlights-internal-affairs-agent = Агент внутренних дел, "АВД", "Закон", "СРП", Стандартные рабочие процедуры, Юрист

@@ -1,272 +1,134 @@
-accent-nerd-replaced-1 = airlock
-accent-nerd-replacement-1 = atmospheric pressure equalization doorway
+accent-nerd-replaced-1 = привет
+accent-nerd-replacement-1 = приветствую, коллега
 
-accent-nerd-replaced-2 = door
-accent-nerd-replacement-2 = portal instantiation
+accent-nerd-replaced-2 = да
+accent-nerd-replacement-2 = подтверждаю
 
-accent-nerd-replaced-3 = problem
-accent-nerd-replacement-3 = conundrum
+accent-nerd-replaced-3 = нет
+accent-nerd-replacement-3 = отрицаю
 
-accent-nerd-replaced-4 = small
-accent-nerd-replacement-4 = diminutive
+accent-nerd-replaced-4 = может
+accent-nerd-replacement-4 = гипотетически может
 
-accent-nerd-replaced-5 = flukies
-accent-nerd-replacement-5 = fiasco
+accent-nerd-replaced-5 = наверное
+accent-nerd-replacement-5 = с высокой вероятностью
 
-accent-nerd-replaced-6 = exact
-accent-nerd-replacement-6 = impeccable
+accent-nerd-replaced-6 = точно
+accent-nerd-replacement-6 = статистически достоверно
 
-accent-nerd-replaced-7 = warning
-accent-nerd-replacement-7 = caveat
+accent-nerd-replaced-7 = почему
+accent-nerd-replacement-7 = по какой причине
 
-accent-nerd-replaced-8 = deviate
-accent-nerd-replacement-8 = digress
+accent-nerd-replaced-8 = потому
+accent-nerd-replacement-8 = вследствие этого
 
-accent-nerd-replaced-9 = careful
-accent-nerd-replacement-9 = diligent
+accent-nerd-replaced-9 = думать
+accent-nerd-replacement-9 = анализировать
 
-accent-nerd-replaced-10 = really bad
-accent-nerd-replacement-10 = egregious
+accent-nerd-replaced-10 = знать
+accent-nerd-replacement-10 = располагать данными
 
-accent-nerd-replaced-11 = posh
-accent-nerd-replacement-11 = eloquent
+accent-nerd-replaced-11 = понять
+accent-nerd-replacement-11 = обработать информацию
 
-accent-nerd-replaced-12 = fair
-accent-nerd-replacement-12 = equitable
+accent-nerd-replaced-12 = сказать
+accent-nerd-replacement-12 = сформулировать
 
-accent-nerd-replaced-13 = attentive
-accent-nerd-replacement-13 = meticulous
+accent-nerd-replaced-13 = говорить
+accent-nerd-replacement-13 = осуществлять коммуникацию
 
-accent-nerd-replaced-14 = countless
-accent-nerd-replacement-14 = myriad
+accent-nerd-replaced-14 = спросить
+accent-nerd-replacement-14 = сформировать запрос
 
-accent-nerd-replaced-15 = a perfect time
-accent-nerd-replacement-15 = an opportune time
+accent-nerd-replaced-15 = ответить
+accent-nerd-replacement-15 = предоставить ответ
 
-accent-nerd-replaced-16 = perfect
-accent-nerd-replacement-16 = quintessential
+accent-nerd-replaced-16 = смотреть
+accent-nerd-replacement-16 = вести наблюдение
 
-accent-nerd-replaced-17 = friendly
-accent-nerd-replacement-17 = amiable
+accent-nerd-replaced-17 = проверить
+accent-nerd-replacement-17 = провести диагностику
 
-accent-nerd-replaced-18 = disappointed
-accent-nerd-replacement-18 = disillusioned
+accent-nerd-replaced-18 = починить
+accent-nerd-replacement-18 = восстановить функциональность
 
-accent-nerd-replaced-19 = mysterious
-accent-nerd-replacement-19 = enigmatic
+accent-nerd-replaced-19 = сломать
+accent-nerd-replacement-19 = нарушить функциональность
 
-accent-nerd-replaced-20 = unique
-accent-nerd-replacement-20 = idiosyncratic
+accent-nerd-replaced-20 = работает
+accent-nerd-replacement-20 = функционирует штатно
 
-accent-nerd-replaced-21 = large
-accent-nerd-replacement-21 = immense
+accent-nerd-replaced-21 = сломано
+accent-nerd-replacement-21 = находится в нерабочем состоянии
 
-accent-nerd-replaced-22 = bright
-accent-nerd-replacement-22 = incandescent
+accent-nerd-replaced-22 = ошибка
+accent-nerd-replacement-22 = непредусмотренное отклонение
 
-accent-nerd-replaced-23 = detailed
-accent-nerd-replacement-23 = intricate
+accent-nerd-replaced-23 = проблема
+accent-nerd-replacement-23 = техническая аномалия
 
-accent-nerd-replaced-24 = evil
-accent-nerd-replacement-24 = nefarious
+accent-nerd-replaced-24 = идея
+accent-nerd-replacement-24 = рабочая гипотеза
 
-accent-nerd-replaced-25 = luxurious
-accent-nerd-replacement-25 = opulent
+accent-nerd-replaced-25 = план
+accent-nerd-replacement-25 = алгоритм действий
 
-accent-nerd-replaced-26 = widespread
-accent-nerd-replacement-26 = ubiquitous
+accent-nerd-replaced-26 = быстро
+accent-nerd-replacement-26 = с минимальной задержкой
 
-accent-nerd-replaced-27 = brilliant
-accent-nerd-replacement-27 = dazzling
+accent-nerd-replaced-27 = медленно
+accent-nerd-replacement-27 = с повышенной латентностью
 
-accent-nerd-replaced-28 = delicate
-accent-nerd-replacement-28 = exquisite
+accent-nerd-replaced-28 = сейчас
+accent-nerd-replacement-28 = в текущий момент
 
-accent-nerd-replaced-29 = innovative
-accent-nerd-replacement-29 = avant-garde
+accent-nerd-replaced-29 = потом
+accent-nerd-replacement-29 = на следующей итерации
 
-accent-nerd-replaced-30 = main character
-accent-nerd-replacement-30 = protagonist
+accent-nerd-replaced-30 = примерно
+accent-nerd-replacement-30 = с допустимой погрешностью
 
-accent-nerd-replaced-31 = robust
-accent-nerd-replacement-31 = resilient
+accent-nerd-replaced-31 = много
+accent-nerd-replacement-31 = значительный объём
 
-accent-nerd-replaced-32 = window
-accent-nerd-replacement-32 = visual purviewer
+accent-nerd-replaced-32 = мало
+accent-nerd-replacement-32 = незначительный объём
 
-accent-nerd-replaced-33 = captain
-accent-nerd-replacement-33 = grand admiral
+accent-nerd-replaced-33 = всегда
+accent-nerd-replacement-33 = в ста процентах случаев
 
-accent-nerd-replaced-34 = anomaly
-accent-nerd-replacement-34 = aberration
+accent-nerd-replaced-34 = никогда
+accent-nerd-replacement-34 = с нулевой вероятностью
 
-accent-nerd-replaced-35 = artifact
-accent-nerd-replacement-35 = tangible instantiation
+accent-nerd-replaced-35 = опасно
+accent-nerd-replacement-35 = сопряжено с высоким риском
 
-accent-nerd-replaced-36 = borg
-accent-nerd-replacement-36 = cybernetic organism
+accent-nerd-replaced-36 = безопасно
+accent-nerd-replacement-36 = соответствует протоколу безопасности
 
-accent-nerd-replaced-37 = bot
-accent-nerd-replacement-37 = cybernetic organism
+accent-nerd-replaced-37 = умный
+accent-nerd-replacement-37 = высокоинтеллектуальный
 
-accent-nerd-replaced-38 = ai
-accent-nerd-replacement-38 = artificial intelligence
+accent-nerd-replaced-38 = глупый
+accent-nerd-replacement-38 = когнитивно неэффективный
 
-accent-nerd-replaced-39 = jetpack
-accent-nerd-replacement-39 = personal flight module
+accent-nerd-replaced-39 = дурак
+accent-nerd-replacement-39 = субъект с дефицитом компетенций
 
-accent-nerd-replaced-40 = pda
-accent-nerd-replacement-40 = personal digital assistant
+accent-nerd-replaced-40 = убить
+accent-nerd-replacement-40 = прекратить жизненные функции
 
-accent-nerd-replaced-41 = scientist
-accent-nerd-replacement-41 = empirical investigator
+accent-nerd-replaced-41 = умер
+accent-nerd-replacement-41 = демонстрирует отсутствие жизненных показателей
 
-accent-nerd-replaced-42 = roboticist
-accent-nerd-replacement-42 = aficionado of autonomous mechatronics
+accent-nerd-replaced-42 = космос
+accent-nerd-replacement-42 = внеземное пространство
 
-accent-nerd-replaced-43 = RD
-accent-nerd-replacement-43 = principal investigator of research endeavors
+accent-nerd-replaced-43 = станция
+accent-nerd-replacement-43 = орбитальный комплекс
 
-accent-nerd-replaced-44 = secoff
-accent-nerd-replacement-44 = sentient firewall entity
+accent-nerd-replaced-44 = компьютер
+accent-nerd-replacement-44 = вычислительная система
 
-accent-nerd-replaced-45 = cargo
-accent-nerd-replacement-45 = the logistics and procurement department
-
-accent-nerd-replaced-46 = kitchen
-accent-nerd-replacement-46 = gastronomical laboratory
-
-accent-nerd-replaced-47 = bridge
-accent-nerd-replacement-47 = command nexus
-
-accent-nerd-replaced-48 = station
-accent-nerd-replacement-48 = orbital habitation module
-
-accent-nerd-replaced-49 = med
-accent-nerd-replacement-49 = the anatomical pathology division
-
-accent-nerd-replaced-50 = booze
-accent-nerd-replacement-50 = ethanolic solution
-
-accent-nerd-replaced-51 = drunk
-accent-nerd-replacement-51 = exhibiting inebriation
-
-accent-nerd-replaced-52 = cleaning
-accent-nerd-replacement-52 = executing sanitation protocols
-
-accent-nerd-replaced-53 = salvage
-accent-nerd-replaced-53-2 = salv
-accent-nerd-replacement-53 = operational detritus reclamation
-
-accent-nerd-replaced-54 = am a nerd
-accent-nerd-replacement-54 = am an individual with proclivities skewed towards the perspicacious analysis and articulation of technically intricate or esoterically arcane subject matter
-
-accent-nerd-replaced-55 = geek
-accent-nerd-replacement-55 = maven of the digital arts
-
-accent-nerd-replaced-56 = ratking
-accent-nerd-replacement-56 = kingly rodent belonging to the genus Rattus
-
-accent-nerd-replaced-57 = mouse
-accent-nerd-replacement-57 = muridae mammalian entity
-
-accent-nerd-replaced-58 = monkey
-accent-nerd-replacement-58 = simian primate entity
-
-accent-nerd-replaced-59 = goat
-accent-nerd-replacement-59 = caprine quadruped
-
-accent-nerd-replaced-60 = slime
-accent-nerd-replacement-60 = amorphous gelatinous entity
-
-accent-nerd-replaced-61 = snake
-accent-nerd-replacement-61 = serpentine entity
-
-accent-nerd-replaced-62 = clown
-accent-nerd-replacement-62 = harlequin
-
-accent-nerd-replaced-63 = mime
-accent-nerd-replacement-63 = pantomime artificer
-
-accent-nerd-replaced-64 = dragon
-accent-nerd-replacement-64 = scaled, fire-breathing draconian entity
-
-accent-nerd-replaced-65 = computer
-accent-nerd-replacement-65 = computational device
-
-accent-nerd-replaced-66 = ninja
-accent-nerd-replacement-66 = practitioner of ninjutsu
-
-accent-nerd-replaced-67 = nukie
-accent-nerd-replacement-67 = enemy operative
-
-accent-nerd-replaced-68 = traitor
-accent-nerd-replacement-68 = adversary
-
-accent-nerd-replaced-69 = enemy
-accent-nerd-replacement-69 = adversary
-
-accent-nerd-replaced-70 = dnd
-accent-nerd-replacement-70 = dungeons and dragons
-
-accent-nerd-replaced-71 = jail
-accent-nerd-replaced-71-2 = brig
-accent-nerd-replacement-71 = correctional confinement facility
-
-accent-nerd-replaced-72 = well,
-accent-nerd-replacement-72 = well actually,
-
-accent-nerd-replaced-73 = robot
-accent-nerd-replacement-73 = cybernetic organism
-
-accent-nerd-replaced-74 = alcohol
-accent-nerd-replacement-74 = ethanolic solution
-
-accent-nerd-replaced-75 = actually
-accent-nerd-replacement-75 = erm actually
-
-accent-nerd-replaced-76 = spider
-accent-nerd-replacement-76 = arachnid
-
-accent-nerd-replaced-77 = singu
-accent-nerd-replaced-77-2 = singularity
-accent-nerd-replacement-77 = radioactive space-time singularity event
-
-accent-nerd-replaced-78 = tesla
-accent-nerd-replacement-78 = localized high-voltage phenomenon
-
-accent-nerd-replaced-79 = ame
-accent-nerd-replacement-79 = antimatter annihilation engine
-
-accent-nerd-replaced-80 = solars
-accent-nerd-replacement-80 = photovoltaic effect devices
-
-accent-nerd-replaced-81 = engineer
-accent-nerd-replacement-81 = habitation module maintenance technician
-
-accent-nerd-replaced-82 = detective
-accent-nerd-replacement-82 = forensic investigator
-
-accent-nerd-replaced-83 = chef
-accent-nerd-replacement-83 = nutrition expert
-
-accent-nerd-replaced-84 = botanist
-accent-nerd-replacement-84 = vegetation genomics expert
-
-accent-nerd-replaced-85 = lathe
-accent-nerd-replacement-85 = autonomous fabrication module
-
-accent-nerd-replaced-86 = reporter
-accent-nerd-replacement-86 = civilian investigation operative
-
-accent-nerd-replaced-87 = bartender
-accent-nerd-replacement-87 = custodian of ethanolic beverages
-
-accent-nerd-replaced-88 = janitor
-accent-nerd-replacement-88 = sanitation protocol executive
-
-accent-nerd-replaced-89 = psychologist
-accent-nerd-replacement-89 = specialist for socio-neurological connections
-
-accent-nerd-replaced-90 = qm
-accent-nerd-replacement-90 = chief logistical coordinator
+accent-nerd-replaced-45 = робот
+accent-nerd-replacement-45 = автономный разум

@@ -1,25 +1,25 @@
-cult-glyph-target-dead = The glyph's influence has no effect on the deceased..
-cult-glyph-not-enough-cultists = Not enough cultists present to invoke glyph!
-cult-glyph-conditions-not-met = No suitable targets within range of glyph!
-cult-glyph-too-many-targets = Too many targets present on glyph!
-cult-glyph-target-mindshield = Mental shielding prevents the glyph's influence from taking hold!
-cult-glyph-target-chaplain = A spark of divine power prevents the glyph's influence from taking hold!
-cult-glyph-target-brighteye = Nullspace energy prevents the glyph's influence from taking hold!
-cult-glyph-target-wizard = Mental insanity prevents the glyph's influence from taking hold!
-cult-glyph-target-otherantag = The target's mind is too twisted for the glyph's effects to take hold.
-cult-glyph-target-devil = Cold banality prevents the glyph's influence from taking hold!
+cult-glyph-target-dead = Глиф не действует на мёртвых.
+cult-glyph-not-enough-cultists = Для активации глифа недостаточно культистов!
+cult-glyph-conditions-not-met = В радиусе действия глифа нет подходящих целей!
+cult-glyph-too-many-targets = На глифе слишком много целей!
+cult-glyph-target-mindshield = Ментальный щит предотвращает распространение влияния глифа!
+cult-glyph-target-chaplain = Искра божественной силы не дает распространиться влиянию глифа!
+cult-glyph-target-brighteye = Энергия нулевого пространства предотвращает распространение влияния глифа!
+cult-glyph-target-wizard = Психическое безумие мешает влиянию глифа укрепиться!
+cult-glyph-target-otherantag = Разум цели слишком извращен, чтобы эффект глифа смог удержаться.
+cult-glyph-target-devil = Холодная банальность не дает распространиться влиянию глифа!
 
-cult-glyph-name-knowledge = Pact of Knowledge
-cult-glyph-description-knowledge = Knowledge. Instills the spark of indelible knowledge. Able to convert most to join our ranks.
-cult-glyph-name-projection = Pact of Projection
-cult-glyph-description-projection = Projection. Allows us to ascend in a temporary astral form to spy on those around us.
+cult-glyph-name-knowledge = Пакт знаний
+cult-glyph-description-knowledge = Знание. Вселяет искру неизгладимых знаний. Способны обратить большинство людей в наши ряды.
+cult-glyph-name-projection = Пакт проекции
+cult-glyph-description-projection = Проекция. Позволяет нам подняться во временной астральной форме, чтобы шпионить за окружающими.
 
-cult-glyph-name-warding = Communion of Warding
-cult-glyph-description-warding = Warding. Transmutes pressure-resistant clothing into entropic garb.
-cult-glyph-name-blades = Communion of Blades
-cult-glyph-description-blades = Blades. Transmutes and extrudes sharp objects into more lethal weaponry.
+cult-glyph-name-warding = Пакт защиты
+cult-glyph-description-warding = Защита. Превращает устойчивую к давлению одежду в энтропийную одежду.
+cult-glyph-name-blades = Пакт клинков
+cult-glyph-description-blades = Клинки. Преобразует острые предметы в более смертоносное оружие.
 
-cult-glyph-name-cessation = Concord of Cessation
-cult-glyph-description-cessation = Cessation. Transmutes a portable atmospherics scrubber into a Vacuous Spire for our use.
-cult-glyph-name-truth = Concord of Truth
-cult-glyph-description-truth = Truth. Instills the pure, indelible truth. Able to convert absolutely anyone to join our ranks.
+cult-glyph-name-cessation = Пакт угасания
+cult-glyph-description-cessation = Прекращение. Превращает портативный очиститель атмосферы в Пустотный шпиль для нашего использования.
+cult-glyph-name-truth = Пакт истины
+cult-glyph-description-truth = Истина. Внушает чистую, неизгладимую правду. Способен обратить в наши ряды практически любого.

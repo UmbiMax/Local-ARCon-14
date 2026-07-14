@@ -1,8 +1,8 @@
 ## Dual Wield system
 
-dual-wield-enable = Dual Wield
-dual-wield-disable = Disable Dual Wield
-dual-wield-enabled = You grip both weapons, ready to unload.
-dual-wield-disabled = You return to single-weapon stance.
-dual-wield-interrupted = Dual wield cancelled!
-dual-wield-too-heavy = This weapon is too heavy to dual wield.
+dual-wield-enable = Взять оружие в обе руки
+dual-wield-disable = Вернуться к одному оружию
+dual-wield-enabled = Вы держите по оружию в каждой руке и готовы открыть огонь.
+dual-wield-disabled = Вы возвращаетесь в стойку с одним оружием.
+dual-wield-interrupted = Стрельба с двух рук прервана!
+dual-wield-too-heavy = Оружие слишком тяжёлое для стрельбы с двух рук.

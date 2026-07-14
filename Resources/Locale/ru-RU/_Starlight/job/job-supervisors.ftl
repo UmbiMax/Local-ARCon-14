@@ -1,8 +1,8 @@
-job-supervisors-magistrate = Magistrate
+job-supervisors-magistrate = магистрат
 job-supervisors-nanotrasen = NanoTrasen
-job-supervisors-nt-personnel = the NanoTrasen Representative and the Magistrate
-job-supervisors-service-arts = the Clown, the Mime, Musicians, and the Head of Personnel
-job-supervisors-station-ai = the Station AI
-job-supervisors-warden = the Warden
-job-supervisors-none = Nobody
-job-supervisors-solgov = Trans-Solar Federation
+job-supervisors-nt-personnel = представитель NanoTrasen и магистрат
+job-supervisors-service-arts = клоун, мим, музыканты и глава персонала
+job-supervisors-station-ai = станционный ИИ
+job-supervisors-warden = Смотритель
+job-supervisors-none = никто
+job-supervisors-solgov = Транссолнечная федерация

@@ -1,4 +1,4 @@
 ## UI
-shipyard-console-invalid-vessel = Cannot purchase vessel:
-shipyard-console-menu-title = Shipyard Menu
-shipyard-console-docking = {$vessel} en route to the station, eta {$delay} seconds.
+shipyard-console-invalid-vessel = Невозможно приобрести судно:
+shipyard-console-menu-title = Меню верфи
+shipyard-console-docking = {$vessel} на пути к станции, прошло {$delay} секунд.

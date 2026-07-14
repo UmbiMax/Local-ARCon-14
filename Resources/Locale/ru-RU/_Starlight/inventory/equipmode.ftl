@@ -1,6 +1,6 @@
-equipmode-switch = Switch to {$type} on interact
+equipmode-switch = Режим взаимодействия: {$type}
 
-equipmode-mode-remove = unequip
-equipmode-mode-open = open
+equipmode-mode-remove = снять снаряжение
+equipmode-mode-open = открыть
 
-equipmode-remove = Unequip
+equipmode-remove = Снять снаряжение

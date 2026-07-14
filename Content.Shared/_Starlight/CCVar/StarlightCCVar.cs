@@ -14,7 +14,7 @@ public sealed partial class StarlightCCVars
         CVarDef.Create("lobby_changelog.list", "ChangelogStarlight.yml,Changelog.yml,ChangelogArcane.yml", CVar.SERVER | CVar.REPLICATED); // Arcane
 
     public static readonly CVarDef<string> ServerName =
-        CVarDef.Create("lobby.server_name", "☆ Starlight ☆", CVar.SERVER | CVar.REPLICATED);
+        CVarDef.Create("lobby.server_name", "Arcane", CVar.SERVER | CVar.REPLICATED); // Arcane
 
     [CVarControl(AdminFlags.Adminchat)]
     public static readonly CVarDef<string> OverrideGamemodeName =

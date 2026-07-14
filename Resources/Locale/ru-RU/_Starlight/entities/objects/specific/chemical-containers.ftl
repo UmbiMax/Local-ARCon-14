@@ -1,55 +1,79 @@
-ent-JugArithrazine = jug
-    .suffix = arithrazine
-    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-JugBicaridine = кувшин
+    .suffix = бикаридин
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
 
-ent-JugDiphenhydramine = jug
-    .suffix = diphenhydramine
-    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-JugDermaline = кувшин
+    .suffix = дермалин
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
 
-ent-JugCryoxadone = jug
-    .suffix = cryoxadone
-    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-JugDylovene = кувшин
+    .suffix = диловен
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
 
-ent-JugDoxarubixadone = jug
-    .suffix = doxarubixadone
-    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-JugDexalinPlus = кувшин
+    .suffix = дексалин плюс
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
 
-ent-JugAloxadone = jug
-    .suffix = aloxadone
-    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-JugSaline = кувшин
+    .suffix = физраствор
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
 
-ent-JugSigynate = jug
-    .suffix = sigynate
-    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-JugPuncturase = кувшин
+    .suffix = пунктураз
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
 
-ent-JugLeporazine = jug
-    .suffix = leporazine
-    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-JugArithrazine = кувшин
+    .suffix = аритразин
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
 
-ent-JugBruizine = jug
-    .suffix = bruizine
-    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-JugDiphenhydramine = кувшин
+    .suffix = димедрол
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
 
-ent-JugLacerinol = jug
-    .suffix = lacerinol
-    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-JugCryoxadone = кувшин
+    .suffix = криоксадон
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
 
-ent-JugPyrazine = jug
-    .suffix = pyrazine
-    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-JugDoxarubixadone = кувшин
+    .suffix = доксарубиксадон
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
 
-ent-JugInsuzine = jug
-    .suffix = insuzine
-    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-JugAloxadone = кувшин
+    .suffix = алоксадон
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
 
-ent-JugAmbuzol = jug
-    .suffix = ambuzol
-    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-JugSigynate = кувшин
+    .suffix = сигинат
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
 
-ent-JugAmbuzolPlus = jug
-    .suffix = ambuzol plus
-    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-JugLeporazine = кувшин
+    .suffix = лепоразин
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
 
-ent-JugAmoxla = jug
-    .suffix = amoxla
-    .desc = Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
+ent-JugBruizine = кувшин
+    .suffix = бруизин
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
+
+ent-JugLacerinol = кувшин
+    .suffix = лацеринол
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
+
+ent-JugPyrazine = кувшин
+    .suffix = пиразин
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
+
+ent-JugInsuzine = кувшин
+    .suffix = инсузин
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
+
+ent-JugAmbuzol = кувшин
+    .suffix = амбузол
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
+
+ent-JugAmbuzolPlus = кувшин
+    .suffix = амбузол плюс
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.
+
+ent-JugAmoxla = кувшин
+    .suffix = амоксла
+    .desc = Вмещает очень большое количество химикатов или растворов. Пить содержимое прямо из кувшина крайне неразумно.

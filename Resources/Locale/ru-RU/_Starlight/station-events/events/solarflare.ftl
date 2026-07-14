@@ -1,2 +1,2 @@
-station-event-solarflare-start-announcement = A solar flare has been detected on collision course with the station. Do not conduct space walks or approach windows until the flare has passed!
-station-event-solarflare-end-announcement = The solar flare has passed.
+station-event-solarflare-start-announcement = На пути к столкновению со станцией была обнаружена солнечная вспышка. Не выходите в открытый космос и не приближайтесь к окну, пока не пройдет вспышка!
+station-event-solarflare-end-announcement = Солнечная вспышка прошла.

@@ -1,1 +1,1 @@
-station-event-communicationblackout-start-announcement = Ionospheric anomalies detected. Temporary telecommunication failu*3mga;b4;'1v?-BZZZT
+station-event-communicationblackout-start-announcement = Обнаружены ионосферные аномалии. Временный сбой связи*3mga;b4;'1v?-BZZZT

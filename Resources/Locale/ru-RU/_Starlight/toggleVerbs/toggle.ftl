@@ -1,2 +1,2 @@
-verb-toggle-magnet-activate = Activate Magnet
-verb-toggle-magnet-deactivate = Deactivate Magnet
+verb-toggle-magnet-activate = Активировать Магнит
+verb-toggle-magnet-deactivate = Деактивировать Магнит

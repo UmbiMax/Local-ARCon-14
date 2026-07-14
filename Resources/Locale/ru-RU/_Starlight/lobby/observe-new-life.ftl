@@ -1,2 +1,2 @@
-starlight-observe-warning-1 = Are you sure you want to observe?
-starlight-observe-warning-2 = You will still be able to join the round later, and edit your characters.
+starlight-observe-warning-1 = Вы уверены, что хотите наблюдать?
+starlight-observe-warning-2 = Вы по-прежнему сможете присоединиться к раунду позже и редактировать своих персонажей.

@@ -1,18 +1,18 @@
-lathe-category-surgery = Surgery
-lathe-category-cyberlimbs = Limbs
-lathe-category-implants = Implants
+lathe-category-surgery = Хирургия
+lathe-category-cyberlimbs = Киберконечности
+lathe-category-implants = Имплантаты
 
 # Doc Printer
 
-lathe-category-reports = Reports
-lathe-category-statements = Statements
-lathe-category-inquiries-and-appeals = Inquiries and appeals
-lathe-category-complaints = Complaints
-lathe-category-permissions = Permissions
-lathe-category-orders-and-instructions = Orders and instructions
-lathe-category-evidence = Evidence
-lathe-category-conclusions-and-decisions = Conclusions and decisions
-lathe-category-error = Error
-lathe-category-communication = Communication
+lathe-category-reports = Отчеты
+lathe-category-statements = Заявления
+lathe-category-inquiries-and-appeals = Запросы и апелляции
+lathe-category-complaints = Жалобы
+lathe-category-permissions = Разрешения
+lathe-category-orders-and-instructions = Приказы и инструкции
+lathe-category-evidence = Доказательства
+lathe-category-conclusions-and-decisions = Выводы и решения
+lathe-category-error = Ошибка
+lathe-category-communication = Связь
 
-lathe-category-silicon = Silicon
+lathe-category-silicon = Синтетики

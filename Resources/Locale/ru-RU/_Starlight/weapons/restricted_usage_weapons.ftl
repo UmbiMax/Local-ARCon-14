@@ -1,1 +1,1 @@
-lmg-restricted-to-hardsuit-message = The gun buzzes angrily!
+lmg-restricted-to-hardsuit-message = Пулемёт угрожающе гудит!

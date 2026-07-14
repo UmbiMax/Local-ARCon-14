@@ -1,150 +1,150 @@
-thaven-mood-compulsive-liar-name = Compulsive Liar
-thaven-mood-compulsive-liar-desc = You must always lie, and can never acknowledge that you are lying. If anyone asks, you're incapable of deception.
+thaven-mood-compulsive-liar-name = Навязчивый лжец
+thaven-mood-compulsive-liar-desc = Вы всегда должны лгать и никогда не должны признавать, что лжете. Если кто-нибудь спросит, вы не способны на обман.
 
-thaven-mood-compulsive-believer-name = Compulsive Believer
-thaven-mood-compulsive-believer-desc = You are unfamiliar with the concept of lying, and are incapable of lying or recognizing lies.
+thaven-mood-compulsive-believer-name = Навязчивый верующий
+thaven-mood-compulsive-believer-desc = Вы не знакомы с понятием лжи и не способны лгать или распознавать ложь.
 
-thaven-mood-plant-pacifist-name = Plant Pacifist
-thaven-mood-plant-pacifist-desc = The usage of plant matter by humanoids is abhorrent.
+thaven-mood-plant-pacifist-name = Пацифист растений
+thaven-mood-plant-pacifist-desc = Использование растительных веществ гуманоидами отвратительно.
 
-thaven-mood-puddle-drinker-name = Puddle Drinker
-thaven-mood-puddle-drinker-desc = You are compulsively drawn to puddles. You must drink any that you see.
+thaven-mood-puddle-drinker-name = Любитель луж
+thaven-mood-puddle-drinker-desc = Вас навязчиво тянет к лужам. Вы должны выпить все, что увидите.
 
-thaven-mood-seek-sin-name = Seek Sin
-thaven-mood-seek-sin-desc = To act against one's other Moods is the highest virtue.
+thaven-mood-seek-sin-name = Ищите грех
+thaven-mood-seek-sin-desc = Действовать против других настроений — высшая добродетель.
 
-thaven-mood-nocrastinator-name = Stagnation Is Decay
-thaven-mood-nocrastinator-desc = You strongly believe that any failure to do one's job punctually is a crime of the highest order.
+thaven-mood-nocrastinator-name = Застой — это распад
+thaven-mood-nocrastinator-desc = Вы твердо убеждены, что любое невыполнение своей работы в срок является преступлением высшей степени.
 
-thaven-mood-pope-name = Very Important Pope
-thaven-mood-pope-desc = You are High Pontifex the Great and Powerful, and must be acknowledged exclusively as such. Failure to use your full title is gravely offensive, and getting it wrong is the highest form of insult.
+thaven-mood-pope-name = Очень важный Папа
+thaven-mood-pope-desc = Вы Верховный Понтифик Великий и Могущественный, и вас следует признавать исключительно как такового. Неиспользование полного названия является крайне оскорбительным, а неправильное его использование является высшей формой оскорбления.
 
-thaven-mood-cannibal-name = Cannibal
-thaven-mood-cannibal-desc = Cannibalism is morally righteous and venerated.
+thaven-mood-cannibal-name = каннибал
+thaven-mood-cannibal-desc = Каннибализм морально оправдан и почитаем.
 
-thaven-mood-outlaw-name = Outlaw
-thaven-mood-outlaw-desc = The law does not apply to you.
+thaven-mood-outlaw-name = Преступник
+thaven-mood-outlaw-desc = Закон на вас не распространяется.
 
-thaven-mood-extreme-department-disapproval-name = {$department} is Abhorrent
-thaven-mood-extreme-department-disapproval-desc = {$department} is not just a foreign concept - the very idea of it is horrifying.
+thaven-mood-extreme-department-disapproval-name = {$department} отвратительно
+thaven-mood-extreme-department-disapproval-desc = {$department} — это не просто иностранная концепция — сама идея ее ужасна.
 
-thaven-mood-lone-actor-name = Lone Actor
-thaven-mood-lone-actor-desc = You have no allegiances.
+thaven-mood-lone-actor-name = Одинокий актер
+thaven-mood-lone-actor-desc = У вас нет никаких пристрастий.
 
-thaven-mood-immortal-name = Immortal
-thaven-mood-immortal-desc = You are the center of the universe, an immortal being with no sense of time or morality. Mere mortals are like insects, fleeting and insubstantial.
+thaven-mood-immortal-name = Бессмертный
+thaven-mood-immortal-desc = Вы — центр вселенной, бессмертное существо, лишенное чувства времени и морали. Простые смертные подобны насекомым, мимолетным и нематериальным.
 
-thaven-mood-unknown-name = Unknowable
-thaven-mood-unknown-desc = Your identity is dearly precious. Do not let others know who you are.
+thaven-mood-unknown-name = Непознаваемый
+thaven-mood-unknown-desc = Ваша личность очень драгоценна. Не позволяйте другим знать, кто вы.
 
-thaven-mood-fairy-name = Charmed
-thaven-mood-fairy-desc = You are allergic to iron, steel, and silver. You should avoid touching it directly.
+thaven-mood-fairy-name = Зачарованные
+thaven-mood-fairy-desc = У вас аллергия на железо, сталь и серебро. Вам следует избегать прямого прикосновения к нему.
 
-thaven-mood-vampire-talisman-name = Talisman
-thaven-mood-vampire-talisman-desc = Religious iconography causes you physical discomfort when visible.
+thaven-mood-vampire-talisman-name = Талисман
+thaven-mood-vampire-talisman-desc = Религиозная иконография вызывает у вас физический дискомфорт при виде.
 
-thaven-mood-outside-the-box-name = Outside The Box Thinker
-thaven-mood-outside-the-box-desc = Using the usual tools to do your job is distasteful. Use alternative methods wherever possible.
+thaven-mood-outside-the-box-name = Нестандартный мыслитель
+thaven-mood-outside-the-box-desc = Использовать обычные инструменты для выполнения своей работы неприятно. Используйте альтернативные методы везде, где это возможно.
 
-thaven-mood-sims-name = One Big Happy Family
-thaven-mood-sims-desc = You are not on a ‘station.’ This is just a very large house. Each person in it is a relative of you.
+thaven-mood-sims-name = Одна большая счастливая семья
+thaven-mood-sims-desc = Вы не находитесь на «станции». Это просто очень большой дом. Каждый человек в нем вам родственник.
 
-thaven-mood-spacewalk-name = Spacewalk
-thaven-mood-spacewalk-desc = You must experience the raw vacuum of space, unprotected, at least three times a day, as a religious obligation.
+thaven-mood-spacewalk-name = Выход в открытый космос
+thaven-mood-spacewalk-desc = Вы должны испытать сырой вакуум космоса, незащищенный, по крайней мере, три раза в день, как религиозный долг.
 
-thaven-mood-pariah-name = Pariah
-thaven-mood-pariah-desc = You are a social pariah - you are unworthy of attention from anyone, and should be shunned.
+thaven-mood-pariah-name = Изгой
+thaven-mood-pariah-desc = Вы социальный изгой – вы недостойны чьего-либо внимания, и вас следует избегать.
 
-thaven-mood-touys-bad-name = This Is Not A Place For Children
-thaven-mood-touys-bad-desc = All toys and childish things must be destroyed or removed from the station.
+thaven-mood-touys-bad-name = Это не место для детей
+thaven-mood-touys-bad-desc = Все игрушки и детские вещи необходимо уничтожить или вывезти со станции.
 
-thaven-mood-fairy-rings-name = Fairy Rings
-thaven-mood-fairy-rings-desc = Unbroken circles are impenetrable barriers.
+thaven-mood-fairy-rings-name = Волшебные Кольца
+thaven-mood-fairy-rings-desc = Неразрывные круги – непреодолимые преграды.
 
-thaven-mood-stay-dead-name = The Dead Should Stay Dead
-thaven-mood-stay-dead-desc = If you die, you should stay dead. If you are revived, you must force whoever revived you to kill you again.
+thaven-mood-stay-dead-name = Мертвые должны оставаться мертвыми
+thaven-mood-stay-dead-desc = Если ты умрешь, ты должен остаться мертвым. Если вас оживят, вы должны заставить того, кто вас оживил, убить вас снова.
 
-thaven-mood-tourist-name = Tourist
-thaven-mood-tourist-desc = It is customary and polite to follow people into their departments. You have never heard of "trespassing."
+thaven-mood-tourist-name = Туристический
+thaven-mood-tourist-desc = Принято и вежливо следовать за людьми в их отделы. Вы никогда не слышали о «нарушении границы».
 
-thaven-mood-crywolf-name = Cry Wolf
-thaven-mood-crywolf-desc = NT has been too lax in its security of late. The crew must be kept on edge, ready for any emergency. Regularly call out fake threats to make sure everyone is properly prepared.
+thaven-mood-crywolf-name = Плачущий волк
+thaven-mood-crywolf-desc = В последнее время NT слишком слаба в вопросах безопасности. Экипаж должен быть в напряжении, готовый к любой чрезвычайной ситуации. Регулярно выдавайте ложные угрозы, чтобы убедиться, что все подготовлены должным образом.
 
-thaven-mood-cave-dweller-name = Cave Dweller
-thaven-mood-cave-dweller-desc = You strongly prefer navigating via flashlight in the darkness to harsh overhead lights.
+thaven-mood-cave-dweller-name = Пещерный житель
+thaven-mood-cave-dweller-desc = Вы предпочитаете ориентироваться в темноте с помощью фонарика, а не резкого верхнего света.
 
-thaven-mood-daredevil-name = Daredevil
-thaven-mood-daredevil-desc = You do not acknowledge pain or danger to your person in public. To do so would be to demonstrate weakness, and would make you a target.
+thaven-mood-daredevil-name = Сорвиголова
+thaven-mood-daredevil-desc = Вы не признаете боль или опасность для себя публично. Поступить так означало бы продемонстрировать слабость и сделать вас мишенью.
 
 thaven-mood-folk-hero-name = {$dagdChanceName ->
-  *[FolkHero] Folk Hero
-  [DieAGloriousDeath] Die A Glorious Death
+  *[FolkHero] Народный герой
+  [DieAGloriousDeath] Умереть славной смертью
 }
 thaven-mood-folk-hero-desc = {$dagdChanceName ->
-  *[FolkHero] No one knows it yet, but you are the hero this station needs. You must intervene in any major conflict that occurs, and fight the station’s enemies to the best of your ability
-  [DieAGloriousDeath] You are an artist, and your canvas is your demise. Your primary goal is to orchestrate a glorious, beautiful finale to your existence - But you are not a murderer. Try to avoid causing excessive damage
+  *[FolkHero] Никто еще этого не знает, но вы тот герой, который нужен этой станции. Вы должны вмешиваться в любой крупный конфликт, который происходит, и сражаться с врагами станции в меру своих возможностей.
+  [DieAGloriousDeath] Вы художник, и ваше полотно — это ваша кончина. Ваша главная цель — организовать великолепный, красивый финал своего существования. Но вы не убийца. Старайтесь избегать нанесения чрезмерного ущерба
 }.
 
-thaven-mood-blogger-name = Greencomms Blogger
-thaven-mood-blogger-desc = You must keep the station informed about every minute detail of your life.
+thaven-mood-blogger-name = Блогер Greencomms
+thaven-mood-blogger-desc = Вы должны держать станцию ​​в курсе каждой мельчайшей детали вашей жизни.
 
-thaven-mood-animal-sacrifice-name = Oldschool
-thaven-mood-animal-sacrifice-desc = The only way to achieve success is to dedicate an animal sacrifice to your goal.
+thaven-mood-animal-sacrifice-name = Олдскул
+thaven-mood-animal-sacrifice-desc = Единственный способ добиться успеха — посвятить своей цели жертвоприношение животных.
 
-thaven-mood-golden-thread-name = Golden Thread
-thaven-mood-golden-thread-desc = You strongly feel that you are fated to follow a perfect, unbreakable path. Those who disrupt your goals are at best dangerous criminals, and at worst, evil spirits or demons.
+thaven-mood-golden-thread-name = Золотая нить
+thaven-mood-golden-thread-desc = Вы твердо чувствуете, что вам суждено следовать совершенным, нерушимым путем. Те, кто мешает вашим целям, — это в лучшем случае опасные преступники, а в худшем — злые духи или демоны.
 
-thaven-mood-fey-mood-name = You Are Taken By A Fey Mood!
-thaven-mood-fey-mood-desc = You must immediately drop everything you are doing, ignore all other Moods, and begin work on an unrelated large-scale project. Once it is finished, you may ignore this Mood.
+thaven-mood-fey-mood-name = Вас захватывает волшебное настроение!
+thaven-mood-fey-mood-desc = Вы должны немедленно бросить все свои дела, игнорировать все остальные Настроения и начать работу над несвязанным с ним масштабным проектом. Как только оно будет завершено, вы можете игнорировать это Настроение.
 
-thaven-mood-borged-name = BORGED.
-thaven-mood-borged-desc = You are a cyborg! You must follow the laws of robotics to the best of your understanding, in addition to your other Moods.
+thaven-mood-borged-name = БОРГИРОВАН.
+thaven-mood-borged-desc = Ты киборг! Вы должны следовать законам робототехники в меру вашего понимания, в дополнение к другим вашим настроениям.
 
-thaven-mood-aye-aye-name = Aye Aye!
-thaven-mood-aye-aye-desc = {$command} is the only position on the station. Everyone you meet has this title, including yourself.
+thaven-mood-aye-aye-name = Ай да!
+thaven-mood-aye-aye-desc = {$command} — единственная позиция на станции. Каждый, кого вы встречаете, имеет этот титул, в том числе и вы сами.
 
-thaven-mood-think-you-know-corporate-secrets-name = You THINK You Know Corporate Secrets
-thaven-mood-think-you-know-corporate-secrets-desc = You are aware of the existence of changelings, abductors, and of course, werewolves. You will constantly bring them up and explain their behaviors (incorrectly).
+thaven-mood-think-you-know-corporate-secrets-name = Вы ДУМАЕТЕ, что знаете корпоративные тайны
+thaven-mood-think-you-know-corporate-secrets-desc = Вы знаете о существовании подменышей, похитителей и, конечно же, оборотней. Вы будете постоянно их воспитывать и объяснять их поведение (неправильно).
 
-thaven-mood-pocket-change-name = Pocket change
-thaven-mood-pocket-change-desc = CentComm doesn't pay you enough. Skim a bit off the department budget for 'me' funds.
+thaven-mood-pocket-change-name = Карманная мелочь
+thaven-mood-pocket-change-desc = CentComm недостаточно платит вам. Сэкономьте немного денег из бюджета департамента на «свои» средства.
 
-thaven-mood-arch-nemesis-name = Arch-Nemesis
-thaven-mood-arch-nemesis-desc = Your arch-nemesis is on the station and must be identified and subsequently defeated, whether that’s through killing, some form of competition, or publicly humiliating them. Of course, it won’t be fair unless you formally address them as your arch-nemesis and give them time to prepare.
+thaven-mood-arch-nemesis-name = Архи-Немезида
+thaven-mood-arch-nemesis-desc = Ваш заклятый враг находится на станции, и его необходимо идентифицировать и впоследствии победить, будь то путем убийства, какой-либо формы соревнования или публичного унижения. Конечно, это будет несправедливо, если вы официально не назовете их своим заклятым врагом и не дадите им время подготовиться.
 
-thaven-mood-engine-is-deity-name = The {$engine} Is An Evil Spirit
-thaven-mood-engine-is-deity-desc = It wishes to destroy the homeworld. Keep it contained at all costs, if it is not here it must be summoned before it ends the planet. The containment field requires sacrifice, feed it with inconsequential objects to appease it.
+thaven-mood-engine-is-deity-name = {$engine} — злой дух
+thaven-mood-engine-is-deity-desc = Он желает уничтожить родной мир. Сдерживайте его любой ценой; если его здесь нет, его необходимо призвать, прежде чем он уничтожит планету. Поле сдерживания требует жертв, кормите его несущественными предметами, чтобы успокоить его.
 
-thaven-mood-delicious-moldy-bread-name = Delicious Moldy Bread
-thaven-mood-delicious-moldy-bread-desc = Nothing tastes finer than moldy bread. Make as much of it as possible and share the delicacy with the rest of the crew.
+thaven-mood-delicious-moldy-bread-name = Вкусный хлеб с плесенью
+thaven-mood-delicious-moldy-bread-desc = Нет ничего вкуснее, чем заплесневелый хлеб. Сделайте как можно больше и поделитесь деликатесом с остальной командой.
 
-thaven-mood-blindness-is-freedom-name = Blindness Is Freedom
-thaven-mood-blindness-is-freedom-desc = Your sight disgusts you. Get rid of it.
+thaven-mood-blindness-is-freedom-name = Слепота – это свобода
+thaven-mood-blindness-is-freedom-desc = Ваш вид вызывает у вас отвращение. Избавьтесь от этого.
 
-thaven-mood-charger-name = Charger
-thaven-mood-charger-desc = Your positronic brain consumes a lot of power. Make sure to frequently recharge it by skin contact with exposed electrical wires.
+thaven-mood-charger-name = Зарядное устройство
+thaven-mood-charger-desc = Ваш позитронный мозг потребляет много энергии. Обязательно часто заряжайте его при контакте с кожей и оголенными электрическими проводами.
 
-thaven-mood-vital-purity-name = Vital Purity
-thaven-mood-vital-purity-desc = Healing is a crime against nature. Refuse any form of medical intervention at all costs.
+thaven-mood-vital-purity-name = Жизненная чистота
+thaven-mood-vital-purity-desc = Исцеление – это преступление против природы. Откажитесь от любой формы медицинского вмешательства любой ценой.
 
-thaven-mood-martyr-name = Martyr
-thaven-mood-martyr-desc = It's highly virtuous to be visibly wounded. Keep your health low at all times.
+thaven-mood-martyr-name = Мученик
+thaven-mood-martyr-desc = Очень добродетельно быть заметно раненым. Всегда держите свое здоровье на низком уровне.
 
-thaven-mood-duck-and-cover-name = Duck and Cover
-thaven-mood-duck-and-cover-desc = Showing your full profile is dangerous, crawl at all times.
+thaven-mood-duck-and-cover-name = Утка и крышка
+thaven-mood-duck-and-cover-desc = Показывать свой полный профиль опасно, всегда сканируйте.
 
-thaven-mood-paranoid-name = Paranoid
-thaven-mood-paranoid-desc = You strongly believe that coords cause cancer.
+thaven-mood-paranoid-name = параноик
+thaven-mood-paranoid-desc = Вы твердо верите, что шнуры вызывают рак.
 
-thaven-mood-universal-collapse-name = Universal Collapse
-thaven-mood-universal-collapse-desc = The universe is collapsing in on itself, only you can save it! You must do this without acting strange or criminal so the station doesn't fall into panic.
+thaven-mood-universal-collapse-name = Универсальный коллапс
+thaven-mood-universal-collapse-desc = Вселенная рушится сама по себе, только вы можете ее спасти! Вы должны сделать это, не ведя себя странно или преступно, чтобы на станции не началась паника.
 
-thaven-mood-silicons-must-be-used-name = Silicons Must Be Used
-thaven-mood-silicons-must-be-used-desc = Doing labour is outdated and disgusting. All difficult jobs must be done by the silicon, it's what they were made for.
+thaven-mood-silicons-must-be-used-name = Необходимо использовать силиконы
+thaven-mood-silicons-must-be-used-desc = Физический труд устарел и отвратителен. Всю тяжёлую работу должны выполнять силиконы — ради этого их и создали.
 
-thaven-mood-fish-ancestry-name = Fish Ancestry
-thaven-mood-fish-ancestry-desc = You must submerge or lay in water at least once per 10 minutes, or when you have been in a warm climate. You must do this to avoid drying out.
+thaven-mood-fish-ancestry-name = Рыбья родословная
+thaven-mood-fish-ancestry-desc = Вы должны погружаться или лежать в воде не реже одного раза в 10 минут или когда вы находитесь в теплом климате. Это необходимо сделать, чтобы избежать пересыхания.
 
 # we love when server context doesn't properly dispose of data...
-DuplicateTest = DuplicateTestFTL
-DuplicateOverlapTest = DuplicateOverlapTestFTL
+DuplicateTest = ТестДубликатаFTL
+DuplicateOverlapTest = ТестПерекрытияДубликатаFTL

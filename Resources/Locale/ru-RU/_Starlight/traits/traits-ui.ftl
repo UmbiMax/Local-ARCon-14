@@ -1,17 +1,17 @@
 ## Traits Editor UI
-trait-editor-title = Character Traits
-trait-editor-points-label = Available Points
-trait-editor-search-placeholder = Search traits...
-trait-editor-footer-hint = Hover over traits for details
-trait-editor-footer-info = Negative costs grant bonus points
+trait-editor-title = Черты характера
+trait-editor-points-label = Доступные баллы
+trait-editor-search-placeholder = Поиск черт...
+trait-editor-footer-hint = Наведите курсор на черту, чтобы узнать подробности.
+trait-editor-footer-info = Отрицательные затраты дают бонусные баллы.
 
 ## Category suffixes
-trait-category-traits = {$selected} / {$max} traits
-trait-category-traits-unlimited = {$selected} traits
-trait-category-points = ({$selected} / {$max} pts)
+trait-category-traits = {$selected} / {$max} черты
+trait-category-traits-unlimited = {$selected} черты
+trait-category-points = ({$selected} / {$max} баллов)
 
 ## Condition tooltips
-trait-conditions-tooltip = [bold]Requirements:[/bold]
+trait-conditions-tooltip = [bold]Требования:[/bold]
     {$requirements}
-trait-conditions-not-met-tooltip = Requirements not met:
+trait-conditions-not-met-tooltip = Не выполнены требования:
     {$requirements}

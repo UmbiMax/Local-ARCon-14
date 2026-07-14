@@ -1,19 +1,19 @@
 thief-backpack-category-syndie-description-starlight =
-    Trinkets from a disavowed past, or stolen from a careless agent?
-    You've made some connections. Whiskey, echo...
-    Includes: A Camera bug, Access Breaker, Interdyne cigs,
-    a Syndicate codeword, a Radio Jammer, a lighter,
-    a stimulant injector, and some strange red crystals.
+    Безделушки из непризнанного прошлого или украденные у нерадивого агента?
+    Вы установили некоторые связи. Виски, эхо...
+    Включает в себя: ошибку камеры, прерыватель доступа, сигареты Interdyne,
+    кодовое слово Синдиката, радиоглушитель, зажигалка,
+    инжектор стимулятора и несколько странных красных кристаллов.
 
 thief-backpack-category-communicator-description-starlight =
-    Money is power, and secrets are money. Use your silver tongue
-    and wealth to subvert the station.
-    Includes: Master key for all station channels, a binary key,
-    a CyberSun pen, voice mask implanter, and 20k spesos inside
-    a briefcase.
+    Деньги – это сила, а секреты – это деньги. Используйте свой серебряный язык
+    и богатство, чтобы разрушить станцию.
+    В комплекте: Мастер-ключ для всех каналов станции, бинарный ключ,
+    ручка CyberSun, имплантатор голосовой маски и 20 тысяч песо внутри.
+    портфель.
 
 thief-backpack-category-sleeper-description-starlight =
-    Until we close our eyes for good, use your illegal prescriptions
-    to keep others asleep.
-    Includes: Sleepy nitrous oxide tank, a healium tank,
-    two nocturine bottles, a tazinide bottle, and a hypopen.
+    Пока мы не закроем глаза навсегда, пользуйтесь своими незаконными рецептами.
+    чтобы другие спали.
+    Включает в себя: усыпляющий баллон с закисью азота, баллон с гелием,
+    два флакона с ноктюрином, флакон с тазинидом и гипопен.

@@ -1,26 +1,26 @@
-ghost-gui-new-life-button = New Life
-ghost-gui-character-editor-button = Character Editor
-ghost-new-life-window-title = New life ({$remainingLives} out of {$maxLives} spawns remaining)
-ghost-new-life-window-title-cooldown = New life (On Cooldown! {$time} remaining)
-ghost-new-life-unavailable = lost
+ghost-gui-new-life-button = Новая жизнь
+ghost-gui-character-editor-button = Редактор персонажа
+ghost-new-life-window-title = Новая жизнь (осталось: {$remainingLives} из {$maxLives})
+ghost-new-life-window-title-cooldown = Новая жизнь (перезарядка: {$time})
+ghost-new-life-unavailable = недоступно
 
-ghost-gui-ghost-theme-button = Ghost Themes
-ghost-gui-ghost-theme-window-title = Ghost Themes
-ghost-gui-choose-theme = Choose Theme
+ghost-gui-ghost-theme-button = Темы призраков
+ghost-gui-ghost-theme-window-title = Темы призраков
+ghost-gui-choose-theme = Выбрать тему
 
-ghost-role-terror-spider-name = Terror spider
-ghost-role-terror-spider-description = The task of the Terror Spider is to destroy the station and everything alive on it.
-ghost-role-terror-spider-rules = You are a [color=red][bold]Team Antagonist[/bold][/color] with all other terror spiders.
+ghost-role-terror-spider-name = Ужасный паук
+ghost-role-terror-spider-description = Задача паука ужаса — уничтожить станцию и всё живое на ней.
+ghost-role-terror-spider-rules = Вместе с остальными пауками ужаса вы являетесь [color=red][bold]командным антагонистом[/bold][/color].
 
-ghost-role-information-ntnc-consortium-officer-name = NanoTrasen Navy Corps Marine
-ghost-role-information-ntnc-consortium-officer-description = You are charged directly from the NanoTrasen Navy Corps to protect and serve the Central Command officials at all costs, nothing else subverts that.
+ghost-role-information-ntnc-consortium-officer-name = Морпех военно-космических сил NanoTrasen
+ghost-role-information-ntnc-consortium-officer-description = Командование военно-космических сил NanoTrasen поручило вам любой ценой защищать должностных лиц ЦентКома. Ничто не важнее этой задачи.
 
-ghost-role-information-green-shield-officer-name = Greenshield Officer
-ghost-role-information-green-shield-officer-description = You are charged directly from the highest levels of CentComm to protect CentComm VIPs and maintain the peace at Central Command outposts.
+ghost-role-information-green-shield-officer-name = Офицер Зелёного Щита
+ghost-role-information-green-shield-officer-description = Высшее руководство ЦентКома поручило вам защищать особо важных лиц и поддерживать порядок на аванпостах Центрального командования.
 
-ghost-role-information-cburn-corpsman-name = CBURN Corpsman
-ghost-role-information-cburn-corpsman-description = A highly trained CentComm medical agent, capable of fixing injuries from various threats.
+ghost-role-information-cburn-corpsman-name = CBURN санитар
+ghost-role-information-cburn-corpsman-description = Высококвалифицированный медицинский агент ЦентКомма, способный лечить травмы, полученные в результате различных угроз.
 
-ghost-important-role = [bold]Now looking for candidates to play as {$rolename}[/bold]
-ghost-gui-aghost-toggle-ghost-visibility-popup-on = Invisible to non-admins.
-ghost-gui-aghost-toggle-ghost-visibility-popup-off = Visible to non-admins.
+ghost-important-role = [bold]Идёт набор кандидатов на роль «{$rolename}»[/bold]
+ghost-gui-aghost-toggle-ghost-visibility-popup-on = Невидимо для пользователей, не являющихся администраторами.
+ghost-gui-aghost-toggle-ghost-visibility-popup-off = Видно не администраторам.

@@ -1,4 +1,4 @@
-ticket-machine-dispense-disabled = ticket dispensing is disabled
-ticket-machine-dispense-toggled = dispense toggled
-ticket-machine-displayed-ticket = Displayed ticket: {$number}
-ticket-machine-ticket-number = Ticket Number: {$number}
+ticket-machine-dispense-disabled = выдача талонов отключена
+ticket-machine-dispense-toggled = режим выдачи переключён
+ticket-machine-displayed-ticket = Текущий талон: {$number}
+ticket-machine-ticket-number = Номер талона: {$number}

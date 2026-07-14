@@ -1,7 +1,7 @@
-objective-issuer-terminator = [color=red]The Future[/color]
+objective-issuer-terminator = [color=red]Будущее[/color]
 
 terminator-role-greeting =
-    You are the [color=red]EXTERMINATOR[/color], a relentless assassin sent into the past to secure our future.
-    We need you to eliminate the target with extreme prejudice.
-    Use any means at your disposal to complete the mission, and minimise collateral to avoid unecessary timeline disruptions.
-    Self destruct upon mission completion.
+    Вы — [color=red]ЭКСТЕРМИНАТОР[/color], безжалостный убийца, посланный в прошлое ради сохранения нашего будущего.
+    Уничтожьте указанную цель с особой жестокостью.
+    Используйте любые доступные средства, но сведите сопутствующий ущерб к минимуму, чтобы не нарушить временную линию.
+    После завершения задания запустите самоуничтожение.

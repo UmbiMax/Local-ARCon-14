@@ -1,23 +1,23 @@
-reagent-name-abductor-blood = abductor blood
-reagent-desc-abductor-blood = The blood of a supreme creature, something above laws and time. It is several times ahead of your understanding.
+reagent-name-abductor-blood = кровь похитителя
+reagent-desc-abductor-blood = Кровь высшего существа, стоящего над законами пространства и времени. Она далеко за пределами вашего понимания.
 
-reagent-name-avali-blood = diluted ammonia blood
-reagent-desc-avali-blood = Smells like piss.
+reagent-name-avali-blood = разбавленная аммиаком кровь
+reagent-desc-avali-blood = Пахнет мочой.
 
-reagent-name-resomi-blood = diluted ammonia blood
-reagent-desc-resomi-blood = Smells like piss.
+reagent-name-resomi-blood = разбавленная аммиаком кровь
+reagent-desc-resomi-blood = Пахнет мочой.
 
-reagent-name-dark-blood = dark blood
-reagent-desc-dark-blood = The blood from a creature of The Dark.
+reagent-name-dark-blood = темная кровь
+reagent-desc-dark-blood = Кровь существа Тьмы.
 
-reagent-name-cyclorite-blood = diluted nitric acid blood
-reagent-desc-cyclorite-blood = Feels slightly acidic.
+reagent-name-cyclorite-blood = кровь на основе разбавленной азотной кислоты
+reagent-desc-cyclorite-blood = Слегка отдаёт кислотой.
 
-reagent-name-amalgam = amalgamation blood
-reagent-desc-amalgam = Reminds you of human blood, slime, ammonia, nitric acid... A lot, really.
+reagent-name-amalgam = кровяная амальгама
+reagent-desc-amalgam = Напоминает одновременно человеческую кровь, слизь, аммиак и азотную кислоту... Чересчур много всего.
 
-reagent-name-mortucussus = mortucussus
-reagent-desc-mortucussus = Would not advise eating. Can be used to synthesize ambuzol.
+reagent-name-mortucussus = мортукус
+reagent-desc-mortucussus = Употреблять внутрь не рекомендуется. Используется для синтеза амбузола.
 
-reagent-name-putrid-blood = putrid blood
-reagent-desc-putrid-blood = Would not advise eating. Smells like it contains trace amounts of mortucussus.
+reagent-name-putrid-blood = гнилая кровь
+reagent-desc-putrid-blood = Не советовал бы есть. По запаху он содержит следы мортукусса.
