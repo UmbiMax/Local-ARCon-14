@@ -1,8 +1,8 @@
-cmd-purchaseshuttle-invalid-integer = { $value } is not a valid integer.
-cmd-purchaseshuttle-invalid-delay = { $value } is not a valid delay value.
-cmd-purchaseshuttle-no-entity = No entity with UID { $uid } exists.
-cmd-purchaseshuttle-failed = Failed to purchase shuttle (no vessel returned).
-cmd-purchaseshuttle-success = Successfully purchased shuttle '{ $path }' for station { $station }.
-cmd-purchaseshuttle-desc = Spawns and docks a specified shuttle from a grid file
-cmd-purchaseshuttle-help = purchaseshuttle <station ID> <gridfile path> [delay]
-shipyard-console-purchase-failed = Failed to prepare the shuttle. Please contact Central Command for assistance.
+cmd-purchaseshuttle-invalid-integer = { $value } не является допустимым целым числом.
+cmd-purchaseshuttle-invalid-delay = { $value } не является допустимым значением задержки.
+cmd-purchaseshuttle-no-entity = Объекта с UID { $uid } не существует.
+cmd-purchaseshuttle-failed = Не удалось приобрести шаттл (судно не вернулось).
+cmd-purchaseshuttle-success = Успешно приобретен шаттл «{ $path }» для станции { $station }.
+cmd-purchaseshuttle-desc = Создаёт указанный шаттл из файла грида и стыкует его со станцией.
+cmd-purchaseshuttle-help = purchaseshuttle <идентификатор станции> <путь к файлу грида> [задержка]
+shipyard-console-purchase-failed = Не удалось подготовить шаттл. Пожалуйста, свяжитесь с Центральным командованием за помощью.

@@ -1,6 +1,6 @@
-plushie-oog-1 = OOGABOOGA!!!!!
-plushie-oog-2 = I am oogman!!
-plushie-oog-3 = I JUST KILLED SOMEONE!!
-plushie-oog-4 = I HAVE A BOMB!!
-plushie-oog-5 = OH FUCK!!
-plushie-oog-6 = Fucking shitsec and their damn IDs!!
+plushie-oog-1 = ОГАБУГА!!!!!
+plushie-oog-2 = Я оугман!!
+plushie-oog-3 = Я ТОЛЬКО УБИЛ КОГО-ТО!!
+plushie-oog-4 = У МЕНЯ БОМБА!!
+plushie-oog-5 = О БЛЯТЬ!!
+plushie-oog-6 = Чертовы дерьмо и их проклятые удостоверения личности!!

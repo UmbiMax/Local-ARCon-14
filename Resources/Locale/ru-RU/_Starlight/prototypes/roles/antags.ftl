@@ -1,12 +1,12 @@
-roles-antag-terminator-name = exterminator
-roles-antag-terminator-objective = Liquidate the target at all costs, the future depends on it.
+roles-antag-terminator-name = истребитель
+roles-antag-terminator-objective = Ликвидируйте цель любой ценой, от этого зависит будущее.
 
-roles-antag-pirate-objective = You are a crew member of the pirate vessel. Follow your captain's orders and plunder what you can.
+roles-antag-pirate-objective = Вы член экипажа пиратского судна. Следуйте приказам своего капитана и грабьте все, что сможете.
 
 roles-antag-ssf-name = Советский спецназ
 
-roles-antag-devil-name = Devil
-roles-antag-devil-description = Sign away the souls of the weak, be canonically evil.
-roles-antag-devil-objective = Get the crew to sign contracts to reap their souls, promising them fickle material benefits in return.
+roles-antag-devil-name = Дьявол
+roles-antag-devil-description = Отрекитесь от душ слабых, будьте канонически злыми.
+roles-antag-devil-objective = Заставьте команду подписать контракты, чтобы пожинать их души, обещая им взамен непостоянные материальные блага.
 
-roles-antag-ssf-objective = Выполните свою миссию для Союза и устраните любые угрозы для него.
+roles-antag-ssf-objective = Выполните свою миссию для Союза и устраните любую угрозу для него.

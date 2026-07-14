@@ -1,11 +1,11 @@
-abductors-weapon-restricted-1 = Presses the balloon.
-abductors-weapon-restricted-2 = Seems like they've grabbed the blade.
-abductors-weapon-restricted-3 = Strokes the stick, but nothing happens.
-abductors-weapon-restricted-4 = Sniffs the alien weapon.
+abductors-weapon-restricted-1 = Нажимает на воздушный шар.
+abductors-weapon-restricted-2 = Кажется, они схватили лезвие.
+abductors-weapon-restricted-3 = Гладит палку, но ничего не происходит.
+abductors-weapon-restricted-4 = Нюхает инопланетное оружие.
 
-abductors-gizmo-restricted = Spins gizmo in their hand.
+abductors-gizmo-restricted = Крутит штуковину в руке.
 
-abductor-gun-restricted-1 = They try to press the trigger guard, but the finger doesn't fit.
+abductor-gun-restricted-1 = Пытаются нажать на спусковую скобу, но палец не подходит.
 
-abductor-return-stunned = You cannot return to the ship while stunned!
-abductor-return-cuffed = You cannot return to the ship while cuffed!
+abductor-return-stunned = Вы не можете вернуться на корабль будучи оглушенным!
+abductor-return-cuffed = Вы не можете вернуться на корабль в наручниках!

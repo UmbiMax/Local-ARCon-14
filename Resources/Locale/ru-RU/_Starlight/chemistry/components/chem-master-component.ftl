@@ -1,6 +1,6 @@
-chem-master-window-patches-label = Patches:
-chem-master-window-patches-number-label = Count:
+chem-master-window-patches-label = Патчи:
+chem-master-window-patches-number-label = Количество:
 
 # Plumbing valve
-chem-master-window-valve-open = Valve: Open
-chem-master-window-valve-closed = Valve: Closed
+chem-master-window-valve-open = Клапан: открыт
+chem-master-window-valve-closed = Клапан: закрыт

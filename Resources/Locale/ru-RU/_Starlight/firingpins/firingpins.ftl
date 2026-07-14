@@ -1,10 +1,10 @@
-firing-pin-already-there = The weapon already has a firing mechanism!
-firing-pin-no-fit = The device does not fit in this weapon!
-firing-pin-inserted = The mechanism slots into the weapon.
-firing-pin-removed = The mechanism slides out of the weapon.
-firing-pin-holder-empty = This weapon is missing it's firing mechanism!
-firing-pin-weapon-failure = The gun clicks.
+firing-pin-already-there = Оружие уже имеет ударно-спусковой механизм!
+firing-pin-no-fit = Устройство не подходит к этому оружию!
+firing-pin-inserted = Механизм встаёт в оружие.
+firing-pin-removed = Механизм извлекается из оружия.
+firing-pin-holder-empty = У этого оружия отсутствует ударно-спусковой механизм!
+firing-pin-weapon-failure = Оружие щёлкает.
 
-firing-pin-no-pin = [color=yellow]This weapon will not fire, it is missing a firing mechanism.[/color]
+firing-pin-no-pin = [color=yellow]Это оружие не будет стрелять, у него отсутствует ударно-спусковой механизм.[/color]
 
-firing-pin-shotcounter-shots-fired = This weapon has fired [color=yellow]{$shots}[/color] rounds.
+firing-pin-shotcounter-shots-fired = Из оружия произведено выстрелов: [color=yellow]{$shots}[/color].

@@ -1,6 +1,6 @@
-plushie-lance-1 = Okay, who ordered the guns.
-plushie-lance-2 = If you take my digiboard I will FUCKING kill you.
-plushie-lance-3 = Salvage all died doing commies. Dammit.
-plushie-lance-4 = Captain can't stop me from shooting tresspassers with a PKA!
-plushie-lance-5 = If you want to order fifteen cows, FILL OUT A DAMN FORM!
-plushie-lance-6 = Please be nice to me.
+plushie-lance-1 = Ладно, кто заказал оружие.
+plushie-lance-2 = Если ты возьмешь мой дигиборд, я убью тебя.
+plushie-lance-3 = Спасение всех умерло, занимаясь коммунизмом. Черт возьми.
+plushie-lance-4 = Капитан не сможет помешать мне стрелять в нарушителей из ПКА!
+plushie-lance-5 = Если хочешь заказать пятнадцать коров, ЗАПОЛНИТЬ ЧЕРТОВУЮ ФОРМУ!
+plushie-lance-6 = Пожалуйста, будьте добры ко мне.

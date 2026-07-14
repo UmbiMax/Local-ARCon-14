@@ -14,108 +14,108 @@
 
 nanochat-ad-test-all = {$recipient} | {$time} | {$date} | {$station} | {$sender} | {$job} | {$department} | {$species} | {$gender} | {$nanochatnumber} | {$randomname} | {$crewcount} | [[randomnumber:1:100]]
 
-nanochat-ad-car-warranty = Good day to you {$recipient}! We at NenoTrensan would like to inform you about your car's extended warranty! Call us at ([[randomnumber:100:999]])-[[randomnumber:100:999]]-[[randomnumber:1000:9999]] at the end of the shift to begin extending your warranty!
+nanochat-ad-car-warranty = Добрый день, {$recipient}! Компания NenoTrensan сообщает, что срок расширенной гарантии на ваш автомобиль истекает! После смены позвоните по номеру ([[randomnumber:100:999]])-[[randomnumber:100:999]]-[[randomnumber:1000:9999]], чтобы продлить гарантию!
 
-nanochat-ad-class-action = Hello {$recipient}!
+nanochat-ad-class-action = Привет, {$recipient}!
 
-    We, {$sender}, are contacting you regarding a recent class action settlement involving a company amongst your [[randomnumber:7:60]] recent transactions!
-    You are being awarded a sum of [[randomnumber:1:12]].[[randomnumber:10:99]] credits as part of this settlement.
+    Мы, {$sender}, связываемся с вами по поводу недавнего урегулирования коллективного иска с участием компании из ваших [[randomnumber:7:60]] недавних транзакций!
+    Вам будет начислена сумма кредитов в размере [[randomnumber:1:12]].[[randomnumber:10:99]] в рамках этого урегулирования.
 
-    A settlement check is being sent to your location of "{$station}" and should arrive at your local mail room within [[randomnumber:3:30]] business days.
-    If the check is not redeemed at your bank within [[randomnumber:10:30]] days from {$date}, the sum will instead be donated to the NTSF Marine Force as part of your employment contract.
-    Thank you!
+    Чек об оплате отправляется на ваш адрес «{$station}» и должен поступить в местный почтовый отдел в течение [[randomnumber:3:30]] рабочих дней.
+    Если чек не будет погашен в вашем банке в течение [[randomnumber:10:30]] дней с {$date}, вместо этого сумма будет пожертвована Морским силам NTSF в рамках вашего трудового договора.
+    Спасибо!
 
-nanochat-ad-chain-letter = ******************* ***************** **************** *************** STOP !!!!!!!!!!!!!!!!!! Ok, first you have to send this to at least 15 ppl. If you don't... if you send this to.. 0 ppl.. u will have bad luck for the REST of your life 5 ppl... your crush will ignore you until ur DYING day 15 ppl... and your crush will ask you out The freaky thing about this msg is after you send this to AT LEAST 15 ppl... come back and press shift and then F4 and you will see something AMAZING. It was so cool and freaky at the same time So START sendin... and you only have 15 min. to send this... GO
+nanochat-ad-chain-letter = ******************* ***************** **************** *************** ОСТАНАВЛИВАТЬСЯ !!!!!!!!!!!!!!!!!! Хорошо, сначала вам нужно отправить это как минимум 15 людям. Если вы этого не сделаете... если вы отправите это... 0 людям... вам не повезет всю ОСТАЛЬНУЮ жизнь 5 человек... ваш поклонник будет игнорировать вас до тех пор, пока вы не умрёте 15 человек... и ваш поклонник пригласит вас на свидание Самое странное в этом сообщении - после того, как вы отправите его ПО МИНИМУМ 15 людям... вернитесь и нажмите Shift, а затем F4, и вы увидите что-то УДИВИТЕЛЬНОЕ. Это было так круто и безумно одновременно. Так что НАЧИНАЙТЕ отправку... и у вас есть всего 15 минут. чтобы отправить это... ВПЕРЕД
 
-nanochat-ad-abundance-angel = This will be you tomorrow! A little Angel for you...
-    You have just been sent a Financial Abundance angel!!
+nanochat-ad-abundance-angel = Это будешь ты завтра! Маленький ангелочек для тебя...
+    Вам только что прислали ангела финансового изобилия!!
 
-    You ARE already rich!!!!! I am not joking: you will find an unexpected windfall.
+    Вы уже богаты!!!!! Я не шучу: вас ждет неожиданная удача.
 
-    If you delete this you will never know how it works. It really does work like magic!
+    Если вы удалите это, вы никогда не узнаете, как это работает. Это действительно работает как по волшебству!
 
-    NO pass backs: PASS IT FORWARD! PASS IT NOW!!!
+    НЕТ передачи назад: ПЕРЕДАВАЙТЕ ВПЕРЕД! ПРОЙДИТЕ СЕЙЧАС!!!
 
-nanochat-ad-truck-ascii = Truck forward drive forward truck friend send truck friend forward truck truck
+nanochat-ad-truck-ascii = Грузовик вперед, ехать вперед, грузовик, друг, отправить грузовик, друг вперед, грузовик, грузовик
 
-nanochat-ad-bomb-threat = attention {$recipient} i am place a BOMB in {$department} me name is {$randomname} and i send you a BIG BOMB and it blow up the world and you die if you do no send funny digits on your ID CARD. SEND THEM NOW OR {$crewcount} ALL DIE!!
+nanochat-ad-bomb-threat = внимание {$recipient}, я закладываю БОМБУ в {$department}, меня зовут {$randomname}, и я посылаю вам БОЛЬШУЮ БОМБУ, и она взорвет мир, и вы умрете, если не отправите забавные цифры на свое удостоверение личности. ОТПРАВЬТЕ ИХ СЕЙЧАС ИЛИ {$crewcount} ВСЕ УМрут!!
 
-nanochat-ad-donko-wholesale = Donko Wholesale: Payment failed
-    Membership billing alert
+nanochat-ad-donko-wholesale = Donko Оптовая торговля: Платеж не выполнен
+    Оповещение об оплате членства
 
-    Fix billing now to avoid losing member access.
+    Исправьте выставление счетов сейчас, чтобы не потерять доступ участников.
 
-    Your latest membership renewal charge was DECLINED. If not resolved, your Donko Wholesale membership benefits may be interrupted.
+    Ваш последний платеж за продление членства был ОТКЛОНЕН. Если это не будет решено, ваши преимущества членства в Donko Wholesale могут быть приостановлены.
 
-    Status: DECLINED, bank rejected charge
-    Impact: BENEFITS AT RISK, access may be paused
-    Best Action: UPDATE BILLING, restores automatically
+    Статус: ОТКЛОНЕН, банк отклонил списание
+    Воздействие: ПРЕИМУЩЕСТВА ПОД РИСКОМ, доступ может быть приостановлен.
+    Лучшее действие: ОБНОВИТЬ СЧЕТ, восстанавливается автоматически.
 
-    Click to update payment method
-    Click if you've already updated it
+    Нажмите, чтобы обновить способ оплаты
+    Нажмите, если вы уже обновили его.
 
-    Fast checklist:
-    1) check card expiry
-    2) confirm billing ZIP
-    3) try again
+    Быстрый контрольный список:
+    1) проверить срок действия карты
+    2) подтвердить платежный почтовый индекс
+    3) попробуй еще раз
 
-nanochat-ad-nanomichi = Nanomichi: Classic feeling cassettes that hold up to the rigors of space travel! Come in collection packs featuring hit music from the 2470's to the 2490's. Grab yours today!
+nanochat-ad-nanomichi = Nanomichi: классические кассеты, способные выдержать суровые условия космических путешествий! В сборники вошли хиты 2470-х и 2490-х годов. Закажите свою уже сегодня!
 
-nanochat-ad-comrade-computing = Comrade Computing: Try our latest portable computers, manufactured in accordance with communist moral principles and using ethical human labor in Cygni. They have 64 KB of RAM.
+nanochat-ad-comrade-computing = Товарищ Компьютер: Попробуйте наши новейшие портативные компьютеры, изготовленные в соответствии с коммунистическими моральными принципами и с использованием этического человеческого труда в Лебеде. У них 64 КБ ОЗУ.
 
-nanochat-ad-gorlex-shipping = URGENT:
+nanochat-ad-gorlex-shipping = СРОЧНЫЙ:
 
-    Your package was unable to be delivered. To prevent further delays please respond with the exact coordinates of your station and the system it's located within.
+    Не удалось доставить вашу посылку. Чтобы избежать дальнейших задержек, пожалуйста, укажите в ответе точные координаты вашей станции и системы, в которой она расположена.
 
-    - Gorlex Shipping Solutions
+    — Gorlex Shipping Solutions
 
-nanochat-ad-hr-notice = Notice:
+nanochat-ad-hr-notice = Уведомление:
 
-    Your request for PTO has been denied. If you wish to appeal please reply to this message with your employee identification number and employee bank account number.
+    Ваш запрос на PTO был отклонен. Если вы хотите подать апелляцию, ответьте на это сообщение, указав свой идентификационный номер сотрудника и номер банковского счета сотрудника.
 
-    - Human Resources
+    — Отдел кадров
 
-nanochat-ad-prize-winner = You've won!!!
+nanochat-ad-prize-winner = Вы выиграли!!!
 
-    Congratulations {$recipient} you've won an all expense paid trip. Please respond to this message with your mailing information and the official paperwork can be sent so we can confirm your information!
+    Поздравляем {$recipient}, вы выиграли полностью оплаченную поездку. Пожалуйста, ответьте на это сообщение, указав свою почтовую информацию, и мы сможем отправить официальные документы, чтобы мы могли подтвердить вашу информацию!
 
-nanochat-ad-radnor-photonics = {"$"}recipient, are you interested in Radnor Photonics? We offer a selection of devices for shipping directly to {"$"}station such as Flash Series Carbon Arc Defense Tools, Phaser Series Photonic Amplification through Stimulated Emission of Radiation, Vacuum tubes, radio tubes, klystrons, Astronautical navigation buoys and bluespace repeaters, Searchlights, relative coordinate anchors, and station beacons, Mine lamps and helmet lamps, Workplace and jobsite lighting
+nanochat-ad-radnor-photonics = {"$"}recipient, вас интересует Radnor Photonics? Мы предлагаем широкий выбор устройств для доставки непосредственно на станцию ​​{"$"}, такие как инструменты защиты от угольной дуги серии Flash, фотонное усиление серии Phaser за счет стимулированного излучения радиации, электронные лампы, радиолампы, клистроны, астронавигационные буи и ретрансляторы bluespace, прожекторы, якоря относительных координат и радиомаяки станций, шахтные фонари и фонари для шлемов, освещение рабочих мест и рабочих площадок.
 
-nanochat-ad-hogge-wylde = Hello {$nanochatnumber}. Have you been wronged? Faced workplace discrimination because you are {$species}? Found yourself struggling for promotions in {$department} that you deserved?
+nanochat-ad-hogge-wylde = Здравствуйте, {$nanochatnumber}. Вас обидели? Столкнулись с дискриминацией на рабочем месте из-за того, что вы {$species}? Вы столкнулись с проблемой повышения в {$department}, которое вы заслужили?
 
-    Then you should contact the Hogge & Wylde Law Offices! We offer free consultations. Visit us at Garanir, Merak, Phecda, or Capella.
+    Тогда вам следует обратиться в адвокатское бюро Hogge & Wylde! Мы предлагаем бесплатные консультации. Посетите нас в Гаранире, Мераке, Фекде или Капелле.
 
-nanochat-ad-comitas-systems = Comitas Systems is hiring! We're interested in individuals with experience manning surveillance systems on board space stations. If this sounds like you, contact us at [[randomnumber:103847:999999]]
+nanochat-ad-comitas-systems = Comitas Systems приглашает на работу! Нам интересны люди с опытом работы в системах наблюдения на борту космических станций. Если это похоже на вас, свяжитесь с нами по адресу [[randomnumber:103847:999999]]
 
     MRSWC5DIEB2G6IDOMFXG65DSMFZWK3Q=
 
-nanochat-ad-violet-sky-plasma = Do you need plasma, but hate fracking and other environmentally destructive mining practices?
-    Well, do we have the offer for you!
-    Violet Sky Systems is proud to introduce:
-    100% clean atmospheric plasma! Freshly mined from a distant Resomi colony!
-    Only 9.999* per canister! Get yours today! *Interstellar shipping costs apply.
+nanochat-ad-violet-sky-plasma = Вам нужна плазма, но вы ненавидите гидроразрыв пласта и другие экологически разрушительные методы добычи полезных ископаемых?
+    Что ж, у нас есть предложение для вас!
+    Violet Sky Systems с гордостью представляет:
+    100% чистая атмосферная плазма! Только что добытый из далекой колонии Резоми!
+    Всего 9.999* за канистру! Получите свой сегодня! *Взимается стоимость межзвездной доставки.
 
-nanochat-ad-silverclaw-tour = Listen one, listen all!
-    You have heard them before, and they're back on galactic tour!
+nanochat-ad-silverclaw-tour = Слушайте один, слушайте все!
+    Вы слышали их раньше, и они снова отправляются в галактическое турне!
 
-    Silverclaw and the Starborne Wing!
-    -Starring Birgil on the Ocarina
+    Серебряный Коготь и Звездорожденное Крыло!
+    -В главной роли Биргилий на Окарине
 
-    Coming to a planet near *you*!
-    Every night at 08:45 planetary standard time!
-    Tickets start at [[randomnumber:50:20000]] spesos, get yours before they are all gone!
-    (Sales close on {$date} 00:00 galactic standard time)
+    Прибытие на планету рядом с *вас*!
+    Каждую ночь в 08:45 по планетарному времени!
+    Билеты начинаются от [[randomnumber:50:20000]] песо, приобретайте свои, пока они все не закончились!
+    (Продажи закрываются {$date} 00:00 по стандартному галактическому времени)
 
-nanochat-ad-shuttleglass-repair = Did you hit space debris? Does your shuttle have a crack in the solar windshield?
-    Do not hesitate! Any amount of stress could cause a fracture, and lead to depressurisation!
-    Call ShuttleGlass Drydock Corp. at [[randomnumber:0:999]]-[[randomnumber:0:999]]-[[randomnumber:0:999]] today!
+nanochat-ad-shuttleglass-repair = Вы столкнулись с космическим мусором? У вашего шаттла есть трещина на солнечном лобовом стекле?
+    Не стесняйтесь! Любое напряжение может вызвать перелом и привести к разгерметизации!
+    Позвоните в ShuttleGlass Drydock Corp. по телефону [[randomnumber:0:999]]-[[randomnumber:0:999]]-[[randomnumber:0:999]] сегодня!
 
-    ShuttleGlass repairs,
-    ShuttleGlass replaces!
+    Ремонт стекол,
+    ShuttleGlass заменяет!
 
-nanochat-ad-webuyyourstation = Would you like to know what {$station} is worth? Find out now, and head on over to webuyyourstation.gal! We will buy your station at fair market value! Get your cut of up to [[randomnumber:1:100000000]] spesos TODAY!
+nanochat-ad-webuyyourstation = Хотите знать, сколько стоит {$station}? Узнайте это прямо сейчас и заходите на сайт webuyyourstation.gal! Мы купим вашу станцию ​​по справедливой рыночной цене! Получите свою долю до [[randomnumber:1:100000000]] песо СЕГОДНЯ!
 
-nanochat-ad-hugbot-initiative = Maybe you should go and give {$randomname} a hug!
-    Do it right now! You might not be able to later!
+nanochat-ad-hugbot-initiative = Возможно, вам стоит обнять {$randomname}!
+    Сделайте это прямо сейчас — другого шанса может не представиться!
 
-    This message is brought to you by the Hugbot Initiative.
+    Это сообщение донесено до вас благодаря инициативе Hugbot.

@@ -1,5 +1,5 @@
-plushie-killa-1 = Warcrimes are most effective at 99 phlog per 1 napalm.
-plushie-killa-2 = SOP MANDATES MUZZLED INMATES
-plushie-killa-3 = AM I A KIBBY CAR?!
-plushie-killa-4 = REMEMBER IF THE AI DOESNT FIND YOU I WILL!
-plushie-killa-5 = Meow!!
+plushie-killa-1 = Военные преступления наиболее эффективны при 99 флогах на 1 напалм.
+plushie-killa-2 = СОП ОБЯЗАТЕЛЬСТВА НАДАТЬ ЗАКЛЮЧЕННЫМ Намордник
+plushie-killa-3 = Я КИББИ МАШИНА?!
+plushie-killa-4 = ПОМНИТЕ, ЕСЛИ ИИ НЕ НАЙДЕТ ВАС, Я НАХОДЛЮ!
+plushie-killa-5 = Мяу!!

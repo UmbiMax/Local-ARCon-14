@@ -1,35 +1,35 @@
 ## Wizard
 ## From Moff Station, but in Starlight files because we have to change the lore, so no point in keeping the original ones.
 
-roles-solo-antagonist-wizard-duelist-name = Wizard Duelist
-roles-solo-antagonist-wizard-duelist-objective = Defeat lesser warlocks and prove you're the greatest that the Space Wizards Federation has to offer.
+roles-solo-antagonist-wizard-duelist-name = Волшебник-дуэлянт
+roles-solo-antagonist-wizard-duelist-objective = Одолейте меньших колдунов и докажите, что вы величайший из всех, кого может предложить Федерация Космических Волшебников.
 
 wizard-duelist-red-role-greeting =
-    It's wizard time, fireball!
-    There have been disagreements between the various schools of the space wizards federation, resulting in the call for a wizard duel, and the red wizards of Grubulubalu have sent you as their champion for this cause.
-    Meet with your wizard competitors, set the terms of agreement for this duel, and prove that the red wizards reign superior in the ways of the arcane!
+    Пришло время волшебника, огненный шар!
+    Между различными школами федерации космических волшебников возникли разногласия, что привело к созыву дуэли волшебников, и красные волшебники Грубулубалу послали вас в качестве своего защитника для этого дела.
+    Встретьтесь со своими соперниками-волшебниками, определите условия соглашения для этой дуэли и докажите, что красные волшебники превосходят магические пути!
 
 wizard-duelist-blue-role-greeting =
-    It's wizard time, fireball!
-    There have been disagreements between the various schools of the space wizards federation, resulting in the call for a wizard duel, and the blue wizards of the Broken Moon have sent you as their champion for this cause.
-    Meet with your wizard competitors, set the terms of agreement for this duel, and prove that the blue wizards are the masters of sorcery!
+    Пришло время волшебника, огненный шар!
+    Между различными школами федерации космических волшебников возникли разногласия, что привело к созыву дуэли волшебников, и синие волшебники Расколотой Луны послали вас в качестве своего защитника для этого дела.
+    Встретьтесь со своими соперниками-волшебниками, определите условия соглашения для этого поединка и докажите, что синие волшебники — мастера колдовства!
 
 wizard-duelist-purple-role-greeting =
-    It's wizard time, fireball!
-    There have been disagreements between the various schools of the space wizards federation, resulting in the call for a wizard duel, and the purple wizards of Mu'keiji have sent you as their champion for this cause.
-    Meet with your wizard competitors, set the terms of agreement for this duel, and prove that the purple wizards shine in the court of battle!
+    Пришло время волшебника, огненный шар!
+    Между различными школами федерации космических волшебников возникли разногласия, что привело к созыву дуэли волшебников, и пурпурные волшебники Му'кейджи послали вас в качестве своего защитника для этого дела.
+    Встретьтесь со своими соперниками-волшебниками, определите условия соглашения для этой дуэли и докажите, что пурпурные волшебники сияют на поле битвы!
 
 wizard-duelist-yellow-role-greeting =
-    It's wizard time, fireball!
-    There have been disagreements between the various schools of the space wizards federation, resulting in the call for a wizard duel, and the yellow wizards of the Lunar Prophets have sent you as their champion for this cause.
-    Meet with your wizard competitors, set the terms of agreement for this duel, and prove that the yellow wizards can see all outcomes!
+    Пришло время волшебника, огненный шар!
+    Между различными школами федерации космических волшебников возникли разногласия, что привело к созыву дуэли волшебников, и желтые волшебники Лунных Пророков послали вас в качестве своего защитника для этого дела.
+    Встретьтесь со своими соперниками-волшебниками, определите условия соглашения для этой дуэли и докажите, что желтые волшебники видят все исходы!
 
 wizard-duelist-green-role-greeting =
-    It's wizard time, fireball!
-    There have been disagreements between the various schools of the space wizards federation, resulting in the call for a wizard duel, and the green wizards of the Disciples of Evergrow have sent you as their champion for this cause.
-    Meet with your wizard competitors, set the terms of agreement for this duel, and prove that the green wizards are the wisest of all!
+    Пришло время волшебника, огненный шар!
+    Между различными школами федерации космических волшебников возникли разногласия, что привело к созыву дуэли волшебников, и зеленые волшебники из Последователей Вечнорастущего города послали вас в качестве своего защитника для этого дела.
+    Встретьтесь со своими конкурентами-волшебниками, определите условия соглашения для этой дуэли и докажите, что зеленые волшебники мудрее всех!
 
 wizard-duelist-orange-role-greeting =
-    It's wizard time, fireball!
-    There have been disagreements between the various schools of the space wizards federation, resulting in the call for a wizard duel, and the orange wizards of the Transcendence Stars have sent you as their champion for this cause.
-    Meet with your wizard competitors, set the terms of agreement for this duel, and prove that the orange wizards are filled with indomitable curiosity!
+    Пришло время волшебника, огненный шар!
+    Между различными школами федерации космических волшебников возникли разногласия, что привело к созыву дуэли волшебников, и оранжевые волшебники Звезд Трансцендентности послали вас в качестве своего защитника для этого дела.
+    Встретьтесь со своими конкурентами-волшебниками, определите условия соглашения для этой дуэли и докажите, что оранжевые волшебники наполнены неукротимым любопытством!

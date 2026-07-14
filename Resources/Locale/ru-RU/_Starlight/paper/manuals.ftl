@@ -3,7 +3,7 @@ book-text-supermatter-guide =
 
    ⠀[color=#1b487e]░██░████░░░██░░░░[/color] [head=3]NanoTrasen[/head]
 
-   ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color] [head=3]Supermatter Guide[/head]
+   ⠀[color=#1b487e]░░█░██░██░░██░█░░[/color] [head=3]Руководство по Суперматерии[/head]
 
    ⠀[color=#1b487e]░░░░██░░██░██░██░[/color]
 
@@ -13,42 +13,42 @@ book-text-supermatter-guide =
 
    ⠀[color=darkgreen]
 
-   ⠀[head=3][color=darkgreen]Hello! Welcome to the quick guide on how to set up your very own supermatter crystal![/color][/head]
+   ⠀[head=3][color=darkgreen]Привет! Добро пожаловать в краткое руководство о том, как создать свой собственный кристалл суперматерии![/color][/head]
 
-   ⠀[head=1][color=darkred]Hazards[/color][/head]
+   ⠀[head=1][color=darkred]Опасности[/color][/head]
 
    ⠀═══════════════════════════════════════
 
-   ⠀[head=3] The first thing you should know about your supermatter crystal is that it's very shy! Any contact with the supermatter crystal will result in your instant [head=1][color=red]vaporization![/color][/head]
+   ⠀[head=3] Первое, что вам следует знать о своем кристалле суперматерии, это то, что он очень пугливый! Любой контакт с кристаллом сверхматерии приведет к мгновенному [head=1][color=red]испарению![/color][/head]
 
-   ⠀The supermatter crystal is VERY dangerous to the station, make sure you read this guide fully! Please feel free to ask your nearest NanoTrasen Careeer Trainer for assistance if needed.
+   ⠀Кристалл суперматерии ОЧЕНЬ опасен для станции, обязательно прочтите это руководство до конца! При необходимости обратитесь за помощью к ближайшему тренеру NanoTrasen Careeer Trainer.
 
-   ⠀[head=1][color=darkred]Basic details of the crystal:[/head][/color]
+   ⠀[head=1][color=darkred]Основные детали кристалла:[/head][/color]
 
-   ⠀[color=darkgreen]Emitters will damage the crystal over time, however under the right conditions, the crystal will repair itself![/color]
+   ⠀[color=darkgreen]Излучатели со временем повредят кристалл, однако при правильных условиях кристалл восстановится сам![/color]
 
-   ⠀The first thing to take into account is that if allowed, the supermatter crystal will delaminate after taking too much damage! This jepordizes the whole station!
+   ⠀Первое, что нужно принять во внимание, это то, что, если позволить, кристалл суперматерии расслоится после получения слишком большого урона! Это ставит под угрозу всю станцию!
 
-   ⠀In order to keep the crystal healing, you must control its atmosphere between [head=3][color=red]30kPa [/color][/head] and [head=2][color=red]300kPa[/color][/head]. Similarly, it cannot heat up over [head=2][color=red]320 Kelvin.[/color][/head]
+   ⠀Чтобы сохранить исцеление кристалла, вы должны контролировать его атмосферу в диапазоне [head=3][color=red]30 кПа [/color][/head] и [head=2][color=red]300 кПа[/color][/head]. Аналогично, он не может нагреться выше [head=2][color=red]320 Кельвина.[/color][/head]
 
-   ⠀[head=1][color=darkred] Advanced operation and setup:[color=darkgreen][/head]
+   ⠀[head=1][color=darkred] Расширенные операции и настройка:[color=darkgreen][/head]
 
-   ⠀[head=3]We at NanoTrasen recommend that you take time to refine your design, but here we are including a few pointers.[/head]
+   ⠀[head=3]Мы в NanoTrasen рекомендуем вам потратить время на доработку вашего дизайна, но здесь мы приводим несколько советов.[/head]
 
-   ⠀Understand that the supermatter crystal upon activation will start producing [color=lightgreen]tritium[/color], as well as [color=lightblue]oxygen[/color] gasses. These gasses can and should be siphoned off for further use.
+   ⠀Поймите, что кристалл суперматерии при активации начнет производить [color=lightgreen]тритий[/color], а также газы [color=lightblue]кислород[/color]. Эти газы можно и нужно откачивать для дальнейшего использования.
 
-   ⠀A simple setup for the supermatter engine, is to first activate all of the radiation collectors and make sure they are filled with [color=pink]plasma[/color]. Similarly, the crystal will spark like the tesla ball, and nescessary precautions should be taken.
+   ⠀Простая настройка двигателя сверхматерии заключается в том, чтобы сначала активировать все коллекторы радиации и убедиться, что они заполнены [color=pink]plasma[/color]. Точно так же кристалл будет искрить, как шар Тесла, и следует принять необходимые меры предосторожности.
 
-   ⠀Then, you should begin setting up your [color=blue]cooling loop[/color]. Your cooling loop is very important, as fresh cold gas must be supplied to keep the crystal from delaminating.
+   ⠀Затем вам следует приступить к настройке [color=blue]контура охлаждения[/color]. Контур охлаждения очень важен, так как необходимо подавать свежий холодный газ, чтобы предотвратить расслоение кристалла.
 
-   ⠀Any gas can be used for these loops, but a basic setup utilizes nitrogen, while more advanced setups will utilize plasma.
+   ⠀Для этих петель можно использовать любой газ, но в базовой установке используется азот, а в более продвинутых установках — плазма.
 
-   ⠀Be prepared, as the crystal will begin to heat up the gas inside the chamber. If gas is not exchanged, a runaway reaction will occur which is very difficult to recover from.
+   ⠀Будьте готовы, так как кристалл начнет нагревать газ внутри камеры. Если газ не заменить, произойдет неконтролируемая реакция, от которой очень трудно избавиться.
 
-   ⠀Start [color=red]slow[/color]! Begin by using just one emitter. Once you have that under control, feel free to turn on more! More emitters=more power!
+   ⠀Начните [color=red]slow[/color]! Начните с использования только одного излучателя. Как только вы возьмете это под контроль, смело включайте больше! Больше излучателей = больше мощности!
 
-   ⠀[color=red]WEAR A RADIATION SUIT![/color] The supermatter has been recorded as producing upwards of 6 rads at its lowest levels. Through radiation shielding.
+   ⠀[color=red]НОСИТЕ РАДИАЦИОННЫЙ КОСТЮМ![/color] Было зарегистрировано, что суперматерия производит свыше 6 рад на самых низких уровнях. Через радиационную защиту.
 
-   ⠀Hopefully this guide is enough to get you started. Please ask your nearest NanoTrasen Career Trainer if you require further assistance.
+   ⠀Надеюсь, этого руководства будет достаточно, чтобы вы начали. Если вам требуется дополнительная помощь, обратитесь к ближайшему тренеру по карьере NanoTrasen.
 
-   ⠀[head=1][color=darkblue]Glory to NanoTrasen![/color][/head]
+   ⠀[head=1][color=darkblue]Слава NanoTrasen![/color][/head]

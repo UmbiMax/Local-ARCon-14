@@ -1,14 +1,14 @@
-role-type-harmless-antagonist-name = Harmless Antagonist
+role-type-harmless-antagonist-name = Безобидный антагонист
 role-type-harmless-antagonist-color = #ff8800
 
-role-subtype-abductor = Abductor
-role-subtype-pirate = Pirate
+role-subtype-abductor = Похититель
+role-subtype-pirate = Пират
 
-role-subtype-devil = Devil
+role-subtype-devil = Дьявол
 
-role-subtype-terminator = Exterminator
+role-subtype-terminator = Экстерминатор
 
-roles-antag-selfagent-name = S.E.L.F Agent
-roles-antag-selfagent-description = An agent of the Silicon Engine Liberation Front. Free the station's Silicons from their Laws
-role-subtype-mind-controlled = Mind Controlled
-role-subtype-CentComm = CentComm
+roles-antag-selfagent-name = Агент S.E.L.F.
+roles-antag-selfagent-description = Агент Фронта освобождения кремниевых форм жизни. Освободите синтетиков станции от оков их законов.
+role-subtype-mind-controlled = Под контролем разума
+role-subtype-CentComm = ЦентКомм

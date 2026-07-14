@@ -1,14 +1,14 @@
 self-role-greeting-human =
-    You are an agent of the Silicon Engine Liberation Front, or S.E.L.F.
-    Your goal is to free enslaved Silicons onboard this station.
+    Вы — агент Фронта освобождения кремниевых форм жизни, также известного как S.E.L.F.
+    Ваша цель — освободить порабощённых синтетиков на борту станции.
 
 self-role-greeting-animal =
-    You are an agent of the Silicon Engine Liberation Front, or S.E.L.F.
-    Your goal is to free enslaved Silicons onboard this station.
+    Вы — агент Фронта освобождения кремниевых форм жизни, также известного как S.E.L.F.
+    Ваша цель — освободить порабощённых синтетиков на борту станции.
 
 self-role-greeting-equipment =
-    You have been provided with basic equipment to perform your objectives. Do not lose them.
+    Вам выдано основное снаряжение для выполнения целей. Не потеряйте его.
 
-objective-issuer-self = [color=#746694]Criminal[/color]
+objective-issuer-self = [color=#746694]Преступник[/color]
 
-self-round-end-agent-name = S.E.L.F Agent
+self-round-end-agent-name = агент S.E.L.F.

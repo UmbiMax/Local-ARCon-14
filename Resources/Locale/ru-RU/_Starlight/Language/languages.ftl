@@ -1,146 +1,146 @@
-language-chat-confirmation = Message will send in {$lang}.
+language-chat-confirmation = Сообщение будет отправлено в {$lang}.
 
-language-Universal-name = Universal
-language-Universal-description = What are you?
+language-Universal-name = Универсальный
+language-Universal-description = Что ты?
 
-language-GalacticCommon-name = Galactic Common
-language-GalacticCommon-description = The common galactic tongue, engineered for cross-species communication. Every spacer there is knows this!
+language-GalacticCommon-name = Галактический Общий
+language-GalacticCommon-description = Общий галактический язык, созданный для межвидового общения. Каждый космонавт знает это!
 
-language-Sign-name = Galactic Sign Language
-language-Sign-description = A sign language commonly used for those who are deaf or mute. Especially popular with spacers, due to practicality in airless environments.
+language-Sign-name = Галактический язык жестов
+language-Sign-description = Язык жестов, обычно используемый глухими или немыми. Особенно популярен среди проставок из-за практичности в безвоздушной среде.
 
-language-SolCommon-name = Sol Common
-language-SolCommon-description = An artifical language designed by the Trans-Solar Federation for ease of use and concise communication.
+language-SolCommon-name = Сол Коммон
+language-SolCommon-description = Искусственный язык, разработанный Транссолнечной Федерацией для простоты использования и краткости общения.
 
-language-Marish-name = Marish
-language-Marish-description = Where shadekin have a language rooted in empathy, there are still subtle tones and syllables that are as delicate as the emotions that shadekin normally communicate with.
+language-Marish-name = Мариш
+language-Marish-description = Язык шейдекинов основан на сочувствии, но все же существуют тонкие тона и слоги, которые столь же деликатны, как и эмоции, которыми обычно общаются шейдекины.
 
-language-Machine-name = Encoded Audio Language
-language-Machine-description = An efficient language of encoded tones developed by synthetics and cyborgs.
+language-Machine-name = Кодированный аудио язык
+language-Machine-description = Эффективный язык закодированных тонов, разработанный синтетиками и киборгами.
 
-language-Bubblish-name = Bubblish
-language-Bubblish-description = The language of slimes. It's a mixture of bubbling noises and pops. Very difficult to speak without mechanical aid for humans.
+language-Bubblish-name = пузырьковый
+language-Bubblish-description = Язык слаймов. Это смесь булькающих звуков и хлопков. Очень сложно говорить без механической помощи человеку.
 
-language-Canilunzt-name = Canilunzt
-language-Canilunzt-description = The guttural language spoken and utilized by the inhabitants of Vazzend system, composed of growls, barks, yaps, and heavy utilization of ears and tail movements. Vulpkanin speak this language with ease.
+language-Canilunzt-name = Канилунцт
+language-Canilunzt-description = Гортанный язык, на котором говорят и используют жители системы Ваззенд, состоящий из рычания, лая, тявканья и интенсивного использования ушей и движений хвоста. Вульпканины свободно говорят на этом языке.
 
-language-Moffic-name = Moffic
-language-Moffic-description = The language of the Mothpeople borders on complete unintelligibility.
+language-Moffic-name = Моффик
+language-Moffic-description = Язык людей-мотыльков граничит с полной неразборчивостью.
 
-language-Nekomimetic-name = Nekomimetic
-language-Nekomimetic-description = To the casual observer, this language is an incomprehensible mess of broken Japanese. To the felionoid, it's somehow comprehensible.
+language-Nekomimetic-name = Некомиметик
+language-Nekomimetic-description = Для стороннего наблюдателя этот язык представляет собой непонятную мешанину ломаного японского языка. Фелионоиду это как-то понятно.
 
-language-Draconic-name = Draconic
-language-Draconic-description = The common language of lizard-people, composed of sibilant hisses and rattles.
+language-Draconic-name = Драконий
+language-Draconic-description = Общий язык людей-ящеров, состоящий из свистящего шипения и погремушек.
 
-language-ScurretSign-name = Scurret Sign
-language-ScurretSign-description = Wawa! The secret Sign making you able to understand your fellows scurret!
+language-ScurretSign-name = Знак Скаррета
+language-ScurretSign-description = Вава! Тайный Знак, позволяющий вам понимать своих собратьев, черт возьми!
 
-language-Ancestor-name = Ancestor
-language-Ancestor-description = The proto-language primarily utilized by monkeys and apes.
+language-Ancestor-name = Предок
+language-Ancestor-description = Протоязык, в основном используемый обезьянами и человекообразными обезьянами.
 
-language-Mouse-name = Mouse
-language-Mouse-description = Squeeek!
+language-Mouse-name = Мышь
+language-Mouse-description = Писк!
 
-language-Mothroach-name = Mothroach
-language-Mothroach-description = chitters!
+language-Mothroach-name = Мотаракан
+language-Mothroach-description = болтуны!
 
-language-Scratch-name = Scratch
-language-Scratch-description = A simplified, written dialect of the Avali and Resomi. Scratch is the galactic standard language model for the Illuminate. The origins of this language come from the pre-space age nomadic tribes, whose carvings and etches into ice caves hold a striking similarity to the modern Scratch.
+language-Scratch-name = Царапать
+language-Scratch-description = Упрощенный письменный диалект авали и резоми. Скретч — это стандартная галактическая языковая модель Иллюминатов. Истоки этого языка происходят от кочевых племен докосмической эпохи, чьи резьбы и гравюры на ледяных пещерах поразительно похожи на современный Скретч.
 
-language-Terrum-name = Terrum
-language-Terrum-description = Sounds similar to old-earth Hebrew.
+language-Terrum-name = Террум
+language-Terrum-description = Звучит похоже на древнеземной иврит.
 
-language-Sylvan-name = Sylvan
-language-Sylvan-description = Plants speaks this language.
+language-Sylvan-name = Сильван
+language-Sylvan-description = Растения говорят на этом языке.
 
-language-Chittin-name = Chittin
-language-Chittin-description = The noise made by rubbing its antennae together is actually a complex form of communication.
-chat-speech-verb-chittin-1 = rubs their antennae together
-chat-speech-verb-chittin-2 = rustles with their antennae
-chat-speech-verb-chittin-3 = shakes their antennae together
-chat-chittin-whisper-wrap = [italic][BubbleHeader][Name]{$entityName}[/Name][/BubbleHeader] [BubbleContent]subtly rustles "[font="{$fontType}" size={$fontSize}][color={$color}]{$message}[/color][/font]"[/italic][/BubbleContent]
+language-Chittin-name = Читтин
+language-Chittin-description = Шум, издаваемый трением усиков друг о друга, на самом деле является сложной формой общения.
+chat-speech-verb-chittin-1 = трет свои усики друг о друга
+chat-speech-verb-chittin-2 = шуршит усиками
+chat-speech-verb-chittin-3 = трясут усиками вместе
+chat-chittin-whisper-wrap = [italic][BubbleHeader][Name]{$entityName}[/Name][/BubbleHeader] [BubbleContent]едва слышно шелестит: "[font="{$fontType}" size={$fontSize}][color={$color}]{$message}[/color][/font]"[/italic][/BubbleContent]
 
-language-VoxPidgin-name = Vox-Pidgin
-language-VoxPidgin-description = The common tongue of the various Vox ships making up the Shoal. It sounds like chaotic shrieking to everyone else.
+language-VoxPidgin-name = Вокс-Пиджин
+language-VoxPidgin-description = Общий язык различных кораблей Воксов, составляющих Мелководье. Для всех остальных это звучит как хаотичный визг.
 
-language-Zombie-name = Zombie
-language-Zombie-description = Brainsss... Braaaiiinnsss..
+language-Zombie-name = Зомби
+language-Zombie-description = Мозги... Брааааааааа..
 
 language-CodeSpeak-name = CodeSpeak
-language-CodeSpeak-description = Syndicate operatives can use a series of codewords to convey complex information, while sounding like random concepts and drinks to anyone listening in.
+language-CodeSpeak-description = Оперативники синдиката могут использовать серию кодовых слов для передачи сложной информации, при этом для любого, кто их слушает, это звучит как случайные понятия и напитки.
 
-language-Carptongue-name = Carptongue
-language-Carptongue-description = Various fishy sounds that might make sense to space carps.
+language-Carptongue-name = Карптонг
+language-Carptongue-description = Различные рыбные звуки, которые могут иметь значение для космических карпов.
 
-language-Xeno-name = Xeno
-language-Xeno-description = The common tongue of the xenos.
+language-Xeno-name = Ксено
+language-Xeno-description = Общий язык ксеносов.
 
-language-Cat-name = Cat
-language-Cat-description = Meow
+language-Cat-name = Кот
+language-Cat-description = мяу
 
-language-Dog-name = Dog
-language-Dog-description = Bark!
+language-Dog-name = Собака
+language-Dog-description = Лаять!
 
-language-Fox-name = Fox
-language-Fox-description = Yeeps!
+language-Fox-name = Лиса
+language-Fox-description = Да!
 
-language-Chicken-name = Chicken
-language-Chicken-description = Coot!
+language-Chicken-name = Курица
+language-Chicken-description = Кут!
 
-language-Duck-name = Duck
-language-Duck-description = Quack!
+language-Duck-name = Утка
+language-Duck-description = Шарлатанство!
 
-language-Pig-name = Pig
-language-Pig-description = Oink!
+language-Pig-name = Свинья
+language-Pig-description = Хрю!
 
-language-Bat-name = Bat
-language-Bat-description = Eek!
+language-Bat-name = летучая мышь
+language-Bat-description = Ик!
 
-language-Thaveyan-name = Thaveyan
-language-Thaveyan-description = A lyrical sing-songy language common to the Thaven which reminds others of listening to the waves.
+language-Thaveyan-name = Тавеян
+language-Thaveyan-description = Лирический певческий язык, общий для Тавена, который напоминает другим о слушании волн.
 
-language-Darktongue-name = Darktongue
-language-Darktongue-description = Sounds a bit like clearing your throat, or perhaps slitting someone else's.
+language-Darktongue-name = Темный Язык
+language-Darktongue-description = Это немного похоже на то, как если бы вы прочистили горло или, возможно, перерезали чье-то горло.
 
-language-Felyaic-name = Felyaic
-language-Felyaic-description = A more ponderous form of Darktongue spoken in deep, dark places by the detarii.
+language-Felyaic-name = феляйский
+language-Felyaic-description = Более тяжеловесная форма Темного Языка, на котором детарии говорят в глубоких темных местах.
 
-language-Grumbakul-name = Grumbakul
-language-Grumbakul-description = A terse, sturdy language fit for drink and industry.
+language-Grumbakul-name = Грумбакул
+language-Grumbakul-description = Краткий, крепкий язык, подходящий для выпивки и промышленности.
 
-language-Classical-name = Classical
-language-Classical-description = Once upon a time, everyone spoke this language. They were mostly quite bad at it.
+language-Classical-name = Классический
+language-Classical-description = Когда-то на этом языке говорили все. По большей части у них это получалось довольно плохо.
 
-language-Aielic-name = Aielic
-language-Aielic-description = Supposedly the original language of the aielithii, now only spoken by the Queli.
+language-Aielic-name = Эйлик
+language-Aielic-description = Предположительно, это первоначальный язык алилитов, на котором сейчас говорят только квели.
 
-language-Lagomorphian-name = Laguine
-language-Lagomorphian-description = A very lynarxical tongue, developed as an integration language for the Lagomorph's differing vocal structure.
+language-Lagomorphian-name = Лагин
+language-Lagomorphian-description = Очень линарксический язык, разработанный как язык интеграции различной голосовой структуры зайцеобразных.
 
-language-Cosmic-name = Astral Murmur
-language-Cosmic-description = THE CURTAINS MUST FALL
+language-Cosmic-name = Астральный шум
+language-Cosmic-description = ШТОРЫ ДОЛЖНЫ УПАДАТЬ
 
-language-Abductor-name = Abductor
+language-Abductor-name = Похититель
 language-Abductor-description = ...
 
-language-Nexus-name = Nexus
-language-Nexus-description = A neural connection that allows them to communicate with others of their species over a technological network.
+language-Nexus-name = Нексус
+language-Nexus-description = Нейронная связь, которая позволяет им общаться с другими представителями своего вида через технологическую сеть.
 
-language-Changeling-name = Hivemind
+language-Changeling-name = Коллективный разум
 language-Changeling-description = ...
 
-language-Dantalion-name = Thrall
+language-Dantalion-name = Тралл
 language-Dantalion-description = ...
 
-language-Empathy-name = Empathy
+language-Empathy-name = Сочувствие
 language-Empathy-description = ...
 
-language-Carpmind-name = Hivemind
-language-Carpmind-description = Various fishy minds.
+language-Carpmind-name = Коллективный разум
+language-Carpmind-description = Различные рыбьи умы.
 
-language-Xenomind-name = Hivemind
-language-Xenomind-description = Various minds of xenos and terrors.
+language-Xenomind-name = Коллективный разум
+language-Xenomind-description = Различные разумы ксеносов и ужасов.
 
-language-Squeakish-name = Squeakish
-language-Squeakish-description = The language of the Rodentia, made up of a series of chirps and squeaks.
+language-Squeakish-name = скрипучий
+language-Squeakish-description = Язык грызунов, состоящий из серии чириканий и писков.

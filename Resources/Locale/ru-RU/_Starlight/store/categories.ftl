@@ -1,21 +1,21 @@
-store-category-plushies = Plushies
-store-category-plushie-species = Species
+store-category-plushies = Плюшевые игрушки
+store-category-plushie-species = Виды
 
-store-category-medical-chemistry = Chemistry
-store-category-medical-medical = Medical
-store-category-medical-surgery = Surgery
-store-category-enginery-main = Enginery
-store-category-service-clown = Clown
-store-category-security-main = Security
-store-category-secret = Secret
+store-category-medical-chemistry = Химия
+store-category-medical-medical = Медицина
+store-category-medical-surgery = Хирургия
+store-category-enginery-main = Инженерия
+store-category-service-clown = Клоун
+store-category-security-main = Служба безопасности
+store-category-secret = Секрет
 
 # Changeling
-store-ling-category-combat = Combat
-store-ling-category-sting = Stings
-store-ling-category-utility = Utility
+store-ling-category-combat = Бой
+store-ling-category-sting = Укусы
+store-ling-category-utility = Вспомогательное
 
-store-category-cantrips-standard = Standard Cantrips
+store-category-cantrips-standard = Стандартные фокусы
 
 # Uplinks
-store-category-cybernetics = Cybernetics
-store-category-dagd = Glory
+store-category-cybernetics = Кибернетика
+store-category-dagd = Слава

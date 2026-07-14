@@ -1,41 +1,41 @@
 ## Borg type selection UI.
-borg-select-type-menu-paints = Models
+borg-select-type-menu-paints = Модели
 
 ## Security borg chassis actions
-borg-call-for-help-message = SECURITY ALERT: {$borg} is requesting backup at {$position}!
+borg-call-for-help-message = ТРЕВОГА СЛУЖБЫ БЕЗОПАСНОСТИ: {$borg} запрашивает подкрепление в районе {$position}!
 
 ## Borg type information
 
-borg-type-security-name = Security
-borg-type-security-desc = Assist the security team in maintaining order on the station, apprehending criminals, and responding to threats.
-borg-type-security-transponder = security cyborg
+borg-type-security-name = Охранный
+borg-type-security-desc = Помогайте службе безопасности поддерживать порядок на станции, задерживать преступников и устранять угрозы.
+borg-type-security-transponder = киборг службы безопасности
 
-borg-type-SyndicateAssault-name = Syndicate Assault
-borg-type-SyndicateAssault-desc = A heavily armed combat cyborg designed for frontline engagements and assault operations.
-borg-type-SyndicateAssault-transponder = syndicate assault cyborg
+borg-type-SyndicateAssault-name = Штурмовик Синдиката
+borg-type-SyndicateAssault-desc = Тяжеловооружённый боевой киборг, предназначенный для сражений на передовой и проведения штурмовых операций.
+borg-type-SyndicateAssault-transponder = штурмовой киборг Синдиката
 
-borg-type-SyndicateMedical-name = Syndicate Medical
-borg-type-SyndicateMedical-desc = A medical cyborg equipped to provide emergency medical care and support in hostile environments.
-borg-type-SyndicateMedical-transponder = syndicate medical cyborg
+borg-type-SyndicateMedical-name = Медик Синдиката
+borg-type-SyndicateMedical-desc = Медицинский киборг, оснащённый для оказания неотложной помощи и поддержки в опасных условиях.
+borg-type-SyndicateMedical-transponder = медицинский киборг Синдиката
 
-borg-type-SyndicateSaboteur-name = Syndicate Saboteur
-borg-type-SyndicateSaboteur-desc = A stealth-oriented cyborg designed for infiltration, sabotage, and covert operations.
-borg-type-SyndicateSaboteur-transponder = syndicate saboteur cyborg
+borg-type-SyndicateSaboteur-name = Диверсант Синдиката
+borg-type-SyndicateSaboteur-desc = Скрытный киборг, предназначенный для проникновения, диверсий и проведения тайных операций.
+borg-type-SyndicateSaboteur-transponder = киборг-диверсант Синдиката
 
-borg-type-SyndicateStealth-name = Syndicate Stealth
-borg-type-SyndicateStealth-desc = A stealth-oriented cyborg designed for infiltration, vent crawling and covert operations.
-borg-type-SyndicateStealth-transponder = syndicate stealth cyborg
+borg-type-SyndicateStealth-name = Лазутчик Синдиката
+borg-type-SyndicateStealth-desc = Скрытный киборг, предназначенный для проникновения, перемещения по вентиляции и проведения тайных операций.
+borg-type-SyndicateStealth-transponder = киборг-лазутчик Синдиката
 
-borg-type-purrfus-name = Purrfus
-borg-type-purrfus-desc = Serve as a personal aid for those who require assistance with paperwork, especially members of command and the law department.
-borg-type-purrfus-transponder = purrfus cyborg
+borg-type-purrfus-name = Мурфус
+borg-type-purrfus-desc = Служите личным помощником для тех, кому требуется помощь с документами, особенно для членов командования и юридического отдела.
+borg-type-purrfus-transponder = киборг «Мурфус»
 
-borg-type-cargo-name = Cargo
-borg-type-cargo-desc = Haul cargo, deliver orders, and make the station rich!
-borg-type-cargo-transponder = cargo cyborg
+borg-type-cargo-name = Снабжение
+borg-type-cargo-desc = Перевозите грузы, доставляйте заказы и приумножайте богатства станции!
+borg-type-cargo-transponder = грузовой киборг
 
 # Module incompatibilities
-borg-module-incompatibility-xenoborg-engiweapon = Incompatible with other Engineering Xenoborg weapon modules.
-borg-module-incompatibility-xenoborg-heavyweapon = Incompatible with other Heavy Xenoborg weapon modules.
-borg-module-incompatibility-xenoborg-scoutweapon = Incompatible with other Scout Xenoborg weapon modules.
-borg-module-incompatibility-xenoborg-stealthhypo = Incompatible with other Stealth Xenoborg hypo modules.
+borg-module-incompatibility-xenoborg-engiweapon = Несовместим с другими оружейными модулями инженерного ксеноборга.
+borg-module-incompatibility-xenoborg-heavyweapon = Несовместим с другими оружейными модулями тяжёлого ксеноборга.
+borg-module-incompatibility-xenoborg-scoutweapon = Несовместим с другими оружейными модулями разведывательного ксеноборга.
+borg-module-incompatibility-xenoborg-stealthhypo = Несовместим с другими гипоспрей-модулями скрытного ксеноборга.

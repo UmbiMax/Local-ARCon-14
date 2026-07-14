@@ -1,15 +1,15 @@
-hands-full = Your hands are full!
+hands-full = Ваши руки заняты!
 
-offering = You offer {THE($item)} to {$target}
-offering-target = {$user} offers you {THE($item)}
+offering = Вы предлагаете {THE($item)} {$target}
+offering-target = {$user} предлагает вам {THE($item)}
 
-offered = You handed {THE($item)}
-offered-target = {$user} handed you {THE($item)}
+offered = Вы вручаете {THE($item)}
+offered-target = {$user} вручает вам {THE($item)}
 
-unoffer = You stop offering {THE($item)}
-unoffer-target = {$user} is no longer offering {THE($item)} to you
+unoffer = Вы прекращаете предлагать {THE($item)}
+unoffer-target = {$user} больше не предлагает вам {THE($item)}
 
-offer = Offer {THE($item)}
+offer = Предложить {THE($item)}
 
-alerts-offer-name = Offer
-alerts-offer-desc = you are being offered an item
+alerts-offer-name = Предложение
+alerts-offer-desc = Вам предлагают предмет.

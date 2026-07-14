@@ -1,17 +1,17 @@
-cantrip-glow-name = Luminous Orb
-cantrip-glow-description = Creates a short-lived glowing ball.
+cantrip-glow-name = Светящийся шар
+cantrip-glow-description = Создает недолговечный светящийся шар.
 
-cantrip-spark-name = Ember
-cantrip-spark-description = Creates a short-lived flame between your fingertips.
+cantrip-spark-name = Искра
+cantrip-spark-description = Создает кратковременное пламя между кончиками пальцев.
 
-cantrip-antidote-name = Rejuvenating Seed
-cantrip-antidote-description = Creates a magic seed that restores vitality to an ailing plant.
+cantrip-antidote-name = Омолаживающие семена
+cantrip-antidote-description = Создает волшебное семя, возвращающее жизненные силы больному растению.
 
-cantrip-mop-name = Cleanse
-cantrip-mop-description = Removes filth around you. Like a tiny cleanade. Has a weird shape.
+cantrip-mop-name = Уборка
+cantrip-mop-description = Удаляет грязь вокруг заклинателя. Крохотное очищающее заклинание необычной формы.
 
-cantrip-bandage-name = Haemostatic Glyph
-cantrip-bandage-description = Creates a magic glyph that stops bleeding when applied to a target.
+cantrip-bandage-name = Кровоостанавливающий символ
+cantrip-bandage-description = Создает магический символ, останавливающий кровотечение при нанесении на цель.
 
-cantrip-message-name = Psychic Whisper
-cantrip-message-description = Sends a private message to a target.
+cantrip-message-name = Психический шепот
+cantrip-message-description = Отправляет личное сообщение цели.

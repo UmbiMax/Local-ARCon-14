@@ -1,238 +1,238 @@
-marking-AvaliEarsBase = (Base) Avali Ears
-marking-AvaliEarsBase-ears_avalibase_primary = Top Ears
-marking-AvaliEarsBase-ears_avalibase_secondary = Bottom Ears
+marking-AvaliEarsBase = Авали: базовые уши
+marking-AvaliEarsBase-ears_avalibase_primary = Верхние уши
+marking-AvaliEarsBase-ears_avalibase_secondary = Нижние уши
 
-marking-AvaliTailBase = (Base) Avali Tail
-marking-AvaliTailBase-tail_avalibase = Base Tail
+marking-AvaliTailBase = Авали: базовый хвост
+marking-AvaliTailBase-tail_avalibase = Базовый хвост
 
-marking-AvaliChevronTailtip = Chevron Avali Tail Tip
-marking-AvaliChevronTailtip-tail_avalibase = Base Tail
-marking-AvaliChevronTailtip-tail_chevrontailtip = Tail Tip
+marking-AvaliChevronTailtip = Авали: шеврон на кончике хвоста
+marking-AvaliChevronTailtip-tail_avalibase = Базовый хвост
+marking-AvaliChevronTailtip-tail_chevrontailtip = Кончик хвоста
 
-marking-AvaliPointedTailtip = Pointed Avali Tail Tip
-marking-AvaliPointedTailtip-tail_avalibase = Base Tail
-marking-AvaliPointedTailtip-tail_pointedtailtip = Tail Tip
+marking-AvaliPointedTailtip = Авали: заострённый кончик хвоста
+marking-AvaliPointedTailtip-tail_avalibase = Базовый хвост
+marking-AvaliPointedTailtip-tail_pointedtailtip = Кончик хвоста
 
-marking-AvaliEarsStripeOne = (Type One) Striped Avali Ears
-marking-AvaliEarsStripeOne-ears_avalibase_primary = Top Ears
-marking-AvaliEarsStripeOne-ears_top_primary = Top Stripe (Primary)
-marking-AvaliEarsStripeOne-ears_top_secondary = Top Stripe (Secondary)
-marking-AvaliEarsStripeOne-ears_avalibase_secondary = Bottom Ears
-marking-AvaliEarsStripeOne-ears_bottom_primary = Bottom Stripe (Primary)
-marking-AvaliEarsStripeOne-ears_bottom_secondary = Bottom Stripe (Secondary)
+marking-AvaliEarsStripeOne = Авали: полосатые уши (тип 1)
+marking-AvaliEarsStripeOne-ears_avalibase_primary = Верхние уши
+marking-AvaliEarsStripeOne-ears_top_primary = Верхняя полоса (основная)
+marking-AvaliEarsStripeOne-ears_top_secondary = Верхняя полоса (вторичная)
+marking-AvaliEarsStripeOne-ears_avalibase_secondary = Нижние уши
+marking-AvaliEarsStripeOne-ears_bottom_primary = Нижняя полоса (основная)
+marking-AvaliEarsStripeOne-ears_bottom_secondary = Нижняя полоса (вторичная)
 
-marking-AvaliHeadStripeOne = (Type One) Striped Avali Head
-marking-AvaliHeadStripeOne-head_primary = Primary
-marking-AvaliHeadStripeOne-head_secondary = Secondary
+marking-AvaliHeadStripeOne = Авали: полосатая голова (тип 1)
+marking-AvaliHeadStripeOne-head_primary = Начальный
+marking-AvaliHeadStripeOne-head_secondary = вторичный
 
-marking-AvaliTorsoStripeOne = (Type One) Striped Avali Chest
-marking-AvaliTorsoStripeOne-torso_primary = Primary
-marking-AvaliTorsoStripeOne-torso_secondary = Secondary
+marking-AvaliTorsoStripeOne = Авали: полосатая грудь (тип 1)
+marking-AvaliTorsoStripeOne-torso_primary = Начальный
+marking-AvaliTorsoStripeOne-torso_secondary = вторичный
 
-marking-AvaliLArmStripeOne = (Type One) Striped Avali Left Arm
-marking-AvaliLArmStripeOne-larm_primary = Primary
-marking-AvaliLArmStripeOne-larm_secondary = Secondary
+marking-AvaliLArmStripeOne = (Тип первый) Полосатая левая рука Авали
+marking-AvaliLArmStripeOne-larm_primary = Начальный
+marking-AvaliLArmStripeOne-larm_secondary = вторичный
 
-marking-AvaliLHandStripeOne = (Type One) Striped Avali Left Hand
-marking-AvaliLHandStripeOne-lhand_primary = Primary
-marking-AvaliLHandStripeOne-lhand_secondary = Secondary
+marking-AvaliLHandStripeOne = (Тип первый) Полосатый Авали, левая рука
+marking-AvaliLHandStripeOne-lhand_primary = Начальный
+marking-AvaliLHandStripeOne-lhand_secondary = вторичный
 
-marking-AvaliRArmStripeOne = (Type One) Striped Avali Right Arm
-marking-AvaliRArmStripeOne-rarm_primary = Primary
-marking-AvaliRArmStripeOne-rarm_secondary = Secondary
+marking-AvaliRArmStripeOne = (Тип первый) Полосатая правая рука Авали
+marking-AvaliRArmStripeOne-rarm_primary = Начальный
+marking-AvaliRArmStripeOne-rarm_secondary = вторичный
 
-marking-AvaliRHandStripeOne = (Type One) Striped Avali Right Hand
-marking-AvaliRHandStripeOne-rhand_primary = Primary
-marking-AvaliRHandStripeOne-rhand_secondary = Secondary
+marking-AvaliRHandStripeOne = (Тип первый) Полосатый Авали Правая рука
+marking-AvaliRHandStripeOne-rhand_primary = Начальный
+marking-AvaliRHandStripeOne-rhand_secondary = вторичный
 
-marking-AvaliLLegStripeOne = (Type One) Striped Avali Left Leg
-marking-AvaliLLegStripeOne-lleg = Primary
+marking-AvaliLLegStripeOne = (Тип первый) Полосатая левая нога Авали
+marking-AvaliLLegStripeOne-lleg = Начальный
 
-marking-AvaliRLegStripeOne = (Type One) Striped Avali Right Leg
-marking-AvaliRLegStripeOne-rleg = Primary
+marking-AvaliRLegStripeOne = (Тип первый) Полосатая правая нога Авали
+marking-AvaliRLegStripeOne-rleg = Начальный
 
-marking-AvaliTailStripeOne = (Type One) Striped Avali Tail
-marking-AvaliTailStripeOne-tail_avalibase = Base Tail
-marking-AvaliTailStripeOne-tail_avali_primary = Primary
-marking-AvaliTailStripeOne-tail_avali_secondary = Secondary
-
-
-marking-AvaliEarsTrimOne = (Type One) Trimmed Avali Ears
-marking-AvaliEarsTrimOne-ears_avalibase_primary = Top Ears
-marking-AvaliEarsTrimOne-ears_top_primary = Top Trim (Primary)
-marking-AvaliEarsTrimOne-ears_top_secondary = Top Trim (Secondary)
-marking-AvaliEarsTrimOne-ears_avalibase_secondary = Bottom Ears
-marking-AvaliEarsTrimOne-ears_bottom_primary = Bottom Trim (Primary)
-marking-AvaliEarsTrimOne-ears_bottom_secondary = Bottom Trim (Secondary)
-
-marking-AvaliHeadTrimOne = (Type One) Trimmed Avali Head
-marking-AvaliHeadTrimOne-head_primary = Primary
-marking-AvaliHeadTrimOne-head_secondary = Secondary
-
-marking-AvaliTorsoTrimOne = (Type One) Trimmed Avali Chest
-marking-AvaliTorsoTrimOne-torso_primary = Primary
-marking-AvaliTorsoTrimOne-torso_secondary = Secondary
-
-marking-AvaliLArmTrimOne = (Type One) Trimmed Avali Left Arms
-marking-AvaliLArmTrimOne-larm_primary = Primary
-marking-AvaliLArmTrimOne-larm_secondary = Secondary
-
-marking-AvaliRArmTrimOne = (Type One) Trimmed Avali Right Arms
-marking-AvaliRArmTrimOne-rarm_primary = Primary
-marking-AvaliRArmTrimOne-rarm_secondary = Secondary
-
-marking-AvaliLHandTrimOne = (Type One) Trimmed Avali Left Hands
-marking-AvaliLHandTrimOne-lhand_primary = Primary
-marking-AvaliLHandTrimOne-lhand_secondary = Secondary
-
-marking-AvaliRHandTrimOne = (Type One) Trimmed Avali Right Hands
-marking-AvaliRHandTrimOne-rhand_primary = Primary
-marking-AvaliRHandTrimOne-rhand_secondary = Secondary
-
-marking-AvaliLLegTrimOne = (Type One) Trimmed Avali Left Leg
-marking-AvaliLLegTrimOne-lleg_primary = Primary
-marking-AvaliLLegTrimOne-lleg_secondary = Secondary
-
-marking-AvaliRLegTrimOne = (Type One) Trimmed Avali Right Leg
-marking-AvaliRLegTrimOne-rleg_primary = Primary
-marking-AvaliRLegTrimOne-rleg_secondary = Secondary
-
-marking-AvaliTailTrimOne = (Type One) Trimmed Avali Tail
-marking-AvaliTailTrimOne-tail_avalibase = Base Tail
-marking-AvaliTailTrimOne-tail_avali_primary = Primary
-marking-AvaliTailTrimOne-tail_avali_secondary = Secondary
+marking-AvaliTailStripeOne = (Тип первый) Полосатый хвост Авали
+marking-AvaliTailStripeOne-tail_avalibase = Базовый хвост
+marking-AvaliTailStripeOne-tail_avali_primary = Начальный
+marking-AvaliTailStripeOne-tail_avali_secondary = вторичный
 
 
-marking-AvaliEarsTrimTwo = (Type Two) Trimmed Avali Ears
-marking-AvaliEarsTrimTwo-ears_avalibase_primary = Top Ears
-marking-AvaliEarsTrimTwo-ears_top_primary = Top Trim (Primary)
-marking-AvaliEarsTrimTwo-ears_top_secondary = Top Trim (Secondary)
-marking-AvaliEarsTrimTwo-ears_avalibase_secondary = Bottom Ears
-marking-AvaliEarsTrimTwo-ears_bottom_primary = Bottom Trim (Primary)
-marking-AvaliEarsTrimTwo-ears_bottom_secondary = Bottom Trim (Secondary)
+marking-AvaliEarsTrimOne = (Тип первый) Подстриженные уши Авали
+marking-AvaliEarsTrimOne-ears_avalibase_primary = Верхние уши
+marking-AvaliEarsTrimOne-ears_top_primary = Верхняя отделка (основная)
+marking-AvaliEarsTrimOne-ears_top_secondary = Верхняя отделка (вторичная)
+marking-AvaliEarsTrimOne-ears_avalibase_secondary = Нижние уши
+marking-AvaliEarsTrimOne-ears_bottom_primary = Нижняя обшивка (основная)
+marking-AvaliEarsTrimOne-ears_bottom_secondary = Нижняя обшивка (вторичная)
 
-marking-AvaliHeadTrimTwo = (Type Two) Trimmed Avali Head
-marking-AvaliHeadTrimTwo-head_primary = Primary
-marking-AvaliHeadTrimTwo-head_secondary = Secondary
+marking-AvaliHeadTrimOne = (Тип первый) Обрезанная голова Авали
+marking-AvaliHeadTrimOne-head_primary = Начальный
+marking-AvaliHeadTrimOne-head_secondary = вторичный
 
-marking-AvaliTorsoTrimTwo = (Type Two) Trimmed Avali Chest
-marking-AvaliTorsoTrimTwo-torso_primary = Primary
-marking-AvaliTorsoTrimTwo-torso_secondary = Secondary
+marking-AvaliTorsoTrimOne = (Тип первый) Обрезанный сундук Авали
+marking-AvaliTorsoTrimOne-torso_primary = Начальный
+marking-AvaliTorsoTrimOne-torso_secondary = вторичный
 
-marking-AvaliLArmTrimTwo = (Type Two) Trimmed Avali Left Arms
-marking-AvaliLArmTrimTwo-larm_primary = Primary
-marking-AvaliLArmTrimTwo-larm_secondary = Secondary
+marking-AvaliLArmTrimOne = (Тип первый) Обрезанные левые руки Авали
+marking-AvaliLArmTrimOne-larm_primary = Начальный
+marking-AvaliLArmTrimOne-larm_secondary = вторичный
 
-marking-AvaliRArmTrimTwo = (Type Two) Trimmed Avali Right Arms
-marking-AvaliRArmTrimTwo-rarm_primary = Primary
-marking-AvaliRArmTrimTwo-rarm_secondary = Secondary
+marking-AvaliRArmTrimOne = (Тип первый) Обрезанные правые руки Авали
+marking-AvaliRArmTrimOne-rarm_primary = Начальный
+marking-AvaliRArmTrimOne-rarm_secondary = вторичный
 
-marking-AvaliLHandTrimTwo = (Type Two) Trimmed Avali Left Hands
-marking-AvaliLHandTrimTwo-lhand_primary = Primary
-marking-AvaliLHandTrimTwo-lhand_secondary = Secondary
+marking-AvaliLHandTrimOne = (Тип первый) Обрезанные левые руки Авали
+marking-AvaliLHandTrimOne-lhand_primary = Начальный
+marking-AvaliLHandTrimOne-lhand_secondary = вторичный
 
-marking-AvaliRHandTrimTwo = (Type Two) Trimmed Avali Right Hands
-marking-AvaliRHandTrimTwo-rhand_primary = Primary
-marking-AvaliRHandTrimTwo-rhand_secondary = Secondary
+marking-AvaliRHandTrimOne = (Тип первый) Обрезанные правые руки Авали
+marking-AvaliRHandTrimOne-rhand_primary = Начальный
+marking-AvaliRHandTrimOne-rhand_secondary = вторичный
 
-marking-AvaliTailTrimTwo = (Type Two) Trimmed Avali Tail
-marking-AvaliTailTrimTwo-tail_avalibase = Tail Base
-marking-AvaliTailTrimTwo-tail_avali_primary = Primary
-marking-AvaliTailTrimTwo-tail_avali_secondary = Secondary
+marking-AvaliLLegTrimOne = (Тип первый) Обрезанная левая нога Авали
+marking-AvaliLLegTrimOne-lleg_primary = Начальный
+marking-AvaliLLegTrimOne-lleg_secondary = вторичный
 
-marking-AvaliMultiwingLeftHand = Multicolored Wing Left Hand
-marking-AvaliMultiwingLeftHand-l_hand_multiwing1 = First feather
-marking-AvaliMultiwingLeftHand-l_hand_multiwing2 = Second feather
-marking-AvaliMultiwingLeftHand-l_hand_multiwing3 = Third feather
-marking-AvaliMultiwingLeftHand-l_hand_multiwing4 = Fourth feather
-marking-AvaliMultiwingLeftHand-l_hand_isolated = Hand
+marking-AvaliRLegTrimOne = (Тип 1) Обрезанная правая нога Авали
+marking-AvaliRLegTrimOne-rleg_primary = Начальный
+marking-AvaliRLegTrimOne-rleg_secondary = вторичный
 
-marking-AvaliMultiwingRightHand = Multicolored Wing Right Hand
-marking-AvaliMultiwingRightHand-r_hand_multiwing1 = First feather
-marking-AvaliMultiwingRightHand-r_hand_multiwing2 = Second feather
-marking-AvaliMultiwingRightHand-r_hand_multiwing3 = Third feather
-marking-AvaliMultiwingRightHand-r_hand_multiwing4 = Fourth feather
-marking-AvaliMultiwingRightHand-r_hand_isolated = Hand
+marking-AvaliTailTrimOne = (Тип первый) Обрезанный хвост Авали
+marking-AvaliTailTrimOne-tail_avalibase = Базовый хвост
+marking-AvaliTailTrimOne-tail_avali_primary = Начальный
+marking-AvaliTailTrimOne-tail_avali_secondary = вторичный
 
-marking-AvaliMultiwingTipsLeftHand = Multicolored Wing With Tips Left Hand
-marking-AvaliMultiwingTipsLeftHand-l_hand_multiwing1 = First feather
-marking-AvaliMultiwingTipsLeftHand-l_hand_multiwing2 = Second feather
-marking-AvaliMultiwingTipsLeftHand-l_hand_multiwing3 = Third feather
-marking-AvaliMultiwingTipsLeftHand-l_hand_multiwing4 = Fourth feather
-marking-AvaliMultiwingTipsLeftHand-l_hand_wingtips = Feather tips
-marking-AvaliMultiwingTipsLefttHand-l_hand_isolated = Hand
 
-marking-AvaliMultiwingTipsRightHand = Multicolored Wing With Tips Right Hand
-marking-AvaliMultiwingTipsRightHand-r_hand_multiwing1 = First Feather
-marking-AvaliMultiwingTipsRightHand-r_hand_multiwing2 = Second Feather
-marking-AvaliMultiwingTipsRightHand-r_hand_multiwing3 = Third Feather
-marking-AvaliMultiwingTipsRightHand-r_hand_multiwing4 = Fourth Feather
-marking-AvaliMultiwingTipsRightHand-r_hand_wingtips = Feather Tips
-marking-AvaliMultiwingTipsRightHand-r_hand_isolated = Hand
+marking-AvaliEarsTrimTwo = (Тип второй) Подстриженные уши Авали
+marking-AvaliEarsTrimTwo-ears_avalibase_primary = Верхние уши
+marking-AvaliEarsTrimTwo-ears_top_primary = Верхняя отделка (основная)
+marking-AvaliEarsTrimTwo-ears_top_secondary = Верхняя отделка (вторичная)
+marking-AvaliEarsTrimTwo-ears_avalibase_secondary = Нижние уши
+marking-AvaliEarsTrimTwo-ears_bottom_primary = Нижняя обшивка (основная)
+marking-AvaliEarsTrimTwo-ears_bottom_secondary = Нижняя обшивка (вторичная)
 
-marking-AvaliBicoloredRightHand = Two Colored Wing Left Hand
-marking-AvaliBicoloredRightHand-r_hand_front = Front feathers
-marking-AvaliBicoloredRightHand-r_hand_back = Back feathers
-marking-AvaliBicoloredRightHand-r_hand_isolated = Hand
+marking-AvaliHeadTrimTwo = (Тип второй) Обрезанная голова Авали
+marking-AvaliHeadTrimTwo-head_primary = Начальный
+marking-AvaliHeadTrimTwo-head_secondary = вторичный
 
-marking-AvaliBicoloredLeftHand = Two Colored Wing Right Hand
-marking-AvaliBicoloredLeftHand-l_hand_front = Front feathers
-marking-AvaliBicoloredLeftHand-l_hand_back = Back feathers
-marking-AvaliBicoloredLeftHand-l_hand_isolated = Hand
+marking-AvaliTorsoTrimTwo = (Тип второй) Обрезанный сундук Авали
+marking-AvaliTorsoTrimTwo-torso_primary = Начальный
+marking-AvaliTorsoTrimTwo-torso_secondary = вторичный
 
-marking-AvaliBicoloredTipsLeftHand = Two Colored Wing with Tips Left Hand
-marking-AvaliBicoloredTipsLeftHand-l_hand_back = Under Side
-marking-AvaliBicoloredTipsLeftHand-l_hand_right = Outer Side
-marking-AvaliBicoloredTipsLeftHand-l_hand_isolated = Hand
+marking-AvaliLArmTrimTwo = (Тип второй) Обрезанные левые руки Авали
+marking-AvaliLArmTrimTwo-larm_primary = Начальный
+marking-AvaliLArmTrimTwo-larm_secondary = вторичный
 
-marking-AvaliBicoloredTipsRightHand = Two Colored Wing with Tips Right Hand
-marking-AvaliBicoloredTipsRightHand-r_hand_back = Under Side
-marking-AvaliBicoloredTipsRightHand-r_hand_right = Outer Side
-marking-AvaliBicoloredTipsRightHand-r_hand_isolated = Hand
+marking-AvaliRArmTrimTwo = (Тип второй) Обрезанные правые руки Авали
+marking-AvaliRArmTrimTwo-rarm_primary = Начальный
+marking-AvaliRArmTrimTwo-rarm_secondary = вторичный
 
-marking-AvaliEarringOne = Avali Earring One
-marking-AvaliEarringOne-avali_earring1_1 = Top
-marking-AvaliEarringOne-avali_earring1_2 = Middle
-marking-AvaliEarringOne-avali_earring1_3 = Bottom
+marking-AvaliLHandTrimTwo = (Тип второй) Обрезанные левые руки Авали
+marking-AvaliLHandTrimTwo-lhand_primary = Начальный
+marking-AvaliLHandTrimTwo-lhand_secondary = вторичный
 
-marking-AvaliEarringTwo = Avali Earring Two
-marking-AvaliEarringTwo-avali_earring2_1 = Top
-marking-AvaliEarringTwo-avali_earring2_2 = Middle
-marking-AvaliEarringTwo-avali_earring2_3 = Bottom
+marking-AvaliRHandTrimTwo = (Тип второй) Обрезанные правые руки Авали
+marking-AvaliRHandTrimTwo-rhand_primary = Начальный
+marking-AvaliRHandTrimTwo-rhand_secondary = вторичный
 
-marking-AvaliEarringThree = Avali Earring Three
-marking-AvaliEarringThree-avali_earring3_1 = Top
-marking-AvaliEarringThree-avali_earring3_2 = Middle
-marking-AvaliEarringThree-avali_earring3_3 = Bottom
+marking-AvaliTailTrimTwo = (Тип второй) Обрезанный хвост Авали
+marking-AvaliTailTrimTwo-tail_avalibase = Хвостовое основание
+marking-AvaliTailTrimTwo-tail_avali_primary = Начальный
+marking-AvaliTailTrimTwo-tail_avali_secondary = вторичный
 
-marking-AvaliEarringFour = Avali Earring Four
-marking-AvaliEarringFour-avali_earring4_1 = Top
-marking-AvaliEarringFour-avali_earring4_2 = Middle
-marking-AvaliEarringFour-avali_earring4_3 = Bottom
+marking-AvaliMultiwingLeftHand = Разноцветное крыло левой руки
+marking-AvaliMultiwingLeftHand-l_hand_multiwing1 = Первое перо
+marking-AvaliMultiwingLeftHand-l_hand_multiwing2 = Второе перо
+marking-AvaliMultiwingLeftHand-l_hand_multiwing3 = Третье перо
+marking-AvaliMultiwingLeftHand-l_hand_multiwing4 = Четвертое перо
+marking-AvaliMultiwingLeftHand-l_hand_isolated = Рука
 
-marking-AvaliTailbandOne = Avali Tailband One
-marking-AvaliTailbandOne-avali_tailband1_1 = Top
-marking-AvaliTailbandOne-avali_tailband1_2 = Middle
-marking-AvaliTailbandOne-avali_tailband1_3 = Bottom
+marking-AvaliMultiwingRightHand = Разноцветное крыло, правая рука
+marking-AvaliMultiwingRightHand-r_hand_multiwing1 = Первое перо
+marking-AvaliMultiwingRightHand-r_hand_multiwing2 = Второе перо
+marking-AvaliMultiwingRightHand-r_hand_multiwing3 = Третье перо
+marking-AvaliMultiwingRightHand-r_hand_multiwing4 = Четвертое перо
+marking-AvaliMultiwingRightHand-r_hand_isolated = Рука
 
-marking-AvaliTailbandTwo = Avali Tailband Two
-marking-AvaliTailbandTwo-avali_tailband2_1 = Top
-marking-AvaliTailbandTwo-avali_tailband2_2 = Bottom
+marking-AvaliMultiwingTipsLeftHand = Разноцветное крыло с кончиками левой руки
+marking-AvaliMultiwingTipsLeftHand-l_hand_multiwing1 = Первое перо
+marking-AvaliMultiwingTipsLeftHand-l_hand_multiwing2 = Второе перо
+marking-AvaliMultiwingTipsLeftHand-l_hand_multiwing3 = Третье перо
+marking-AvaliMultiwingTipsLeftHand-l_hand_multiwing4 = Четвертое перо
+marking-AvaliMultiwingTipsLeftHand-l_hand_wingtips = Кончики перьев
+marking-AvaliMultiwingTipsLefttHand-l_hand_isolated = Рука
 
-marking-AvaliTailbandThree = Avali Tailband Three
-marking-AvaliTailbandThree-avali_tailband3_1 = Top
-marking-AvaliTailbandThree-avali_tailband3_2 = Middle
-marking-AvaliTailbandThree-avali_tailband3_3 = Bottom
+marking-AvaliMultiwingTipsRightHand = Разноцветное крыло с кончиками правой руки
+marking-AvaliMultiwingTipsRightHand-r_hand_multiwing1 = Первое перо
+marking-AvaliMultiwingTipsRightHand-r_hand_multiwing2 = Второе перо
+marking-AvaliMultiwingTipsRightHand-r_hand_multiwing3 = Третье перо
+marking-AvaliMultiwingTipsRightHand-r_hand_multiwing4 = Четвертое перо
+marking-AvaliMultiwingTipsRightHand-r_hand_wingtips = Советы по перьям
+marking-AvaliMultiwingTipsRightHand-r_hand_isolated = Рука
 
-marking-AvaliTailbandCombined = Avali Tailbands Combined
-marking-AvaliTailbandCombined-avali_tailband_combined_1 = Top
-marking-AvaliTailbandCombined-avali_tailband_combined_2 = Middle
-marking-AvaliTailbandCombined-avali_tailband_combined_3 = Bottom
+marking-AvaliBicoloredRightHand = Двухцветное крыло для левой руки
+marking-AvaliBicoloredRightHand-r_hand_front = Передние перья
+marking-AvaliBicoloredRightHand-r_hand_back = Перья на спине
+marking-AvaliBicoloredRightHand-r_hand_isolated = Рука
 
-marking-AvaliEarringCombined = Avali Earrings Combined
-marking-AvaliEarringCombined-avali_earring_combined_1 = Top
-marking-AvaliEarringCombined-avali_earring_combined_2 = Middle
-marking-AvaliEarringCombined-avali_earring_combined_3 = Bottom
+marking-AvaliBicoloredLeftHand = Двухцветное крыло, правая рука
+marking-AvaliBicoloredLeftHand-l_hand_front = Передние перья
+marking-AvaliBicoloredLeftHand-l_hand_back = Перья на спине
+marking-AvaliBicoloredLeftHand-l_hand_isolated = Рука
 
-marking-AvaliEarring = Avali Earrings
-marking-AvaliEarring-avali_earring_combined_1 = Earring Color
+marking-AvaliBicoloredTipsLeftHand = Двухцветное крыло с кончиками левой руки
+marking-AvaliBicoloredTipsLeftHand-l_hand_back = Нижняя сторона
+marking-AvaliBicoloredTipsLeftHand-l_hand_right = Внешняя сторона
+marking-AvaliBicoloredTipsLeftHand-l_hand_isolated = Рука
+
+marking-AvaliBicoloredTipsRightHand = Двухцветное крыло с кончиками для правой руки
+marking-AvaliBicoloredTipsRightHand-r_hand_back = Нижняя сторона
+marking-AvaliBicoloredTipsRightHand-r_hand_right = Внешняя сторона
+marking-AvaliBicoloredTipsRightHand-r_hand_isolated = Рука
+
+marking-AvaliEarringOne = Серьга Авали, одна
+marking-AvaliEarringOne-avali_earring1_1 = Вершина
+marking-AvaliEarringOne-avali_earring1_2 = Середина
+marking-AvaliEarringOne-avali_earring1_3 = Нижний
+
+marking-AvaliEarringTwo = Серьга Авали Два
+marking-AvaliEarringTwo-avali_earring2_1 = Вершина
+marking-AvaliEarringTwo-avali_earring2_2 = Середина
+marking-AvaliEarringTwo-avali_earring2_3 = Нижний
+
+marking-AvaliEarringThree = Серьга Авали Три
+marking-AvaliEarringThree-avali_earring3_1 = Вершина
+marking-AvaliEarringThree-avali_earring3_2 = Середина
+marking-AvaliEarringThree-avali_earring3_3 = Нижний
+
+marking-AvaliEarringFour = Серьга Авали Четыре
+marking-AvaliEarringFour-avali_earring4_1 = Вершина
+marking-AvaliEarringFour-avali_earring4_2 = Середина
+marking-AvaliEarringFour-avali_earring4_3 = Нижний
+
+marking-AvaliTailbandOne = Авали Tailband One
+marking-AvaliTailbandOne-avali_tailband1_1 = Вершина
+marking-AvaliTailbandOne-avali_tailband1_2 = Середина
+marking-AvaliTailbandOne-avali_tailband1_3 = Нижний
+
+marking-AvaliTailbandTwo = Авали хвостовая повязка вторая
+marking-AvaliTailbandTwo-avali_tailband2_1 = Вершина
+marking-AvaliTailbandTwo-avali_tailband2_2 = Нижний
+
+marking-AvaliTailbandThree = Авали повязка на хвост три
+marking-AvaliTailbandThree-avali_tailband3_1 = Вершина
+marking-AvaliTailbandThree-avali_tailband3_2 = Середина
+marking-AvaliTailbandThree-avali_tailband3_3 = Нижний
+
+marking-AvaliTailbandCombined = Ремешки Avali комбинированные
+marking-AvaliTailbandCombined-avali_tailband_combined_1 = Вершина
+marking-AvaliTailbandCombined-avali_tailband_combined_2 = Середина
+marking-AvaliTailbandCombined-avali_tailband_combined_3 = Нижний
+
+marking-AvaliEarringCombined = Авали: комбинированные серьги
+marking-AvaliEarringCombined-avali_earring_combined_1 = Вершина
+marking-AvaliEarringCombined-avali_earring_combined_2 = Середина
+marking-AvaliEarringCombined-avali_earring_combined_3 = Нижний
+
+marking-AvaliEarring = Серьги Авали
+marking-AvaliEarring-avali_earring_combined_1 = Цвет серьги

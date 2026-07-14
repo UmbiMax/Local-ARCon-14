@@ -1,5 +1,5 @@
-NanoTrasenRepresentative-loadout = NanoTrasen Representative's loadout
-loadout-group-insuls-normal = Insulated gloves
-loadout-group-insuls-combat = Insulated combat gloves
-loadout-group-insuls-captain = Captain insulated gloves
-loadout-group-gloves-sec = Security Gloves
+NanoTrasenRepresentative-loadout = Экипировка представителя NanoTrasen
+loadout-group-insuls-normal = Изолированные перчатки
+loadout-group-insuls-combat = Боевые изолированные перчатки
+loadout-group-insuls-captain = Капитанские изолированные перчатки
+loadout-group-gloves-sec = Перчатки службы безопасности

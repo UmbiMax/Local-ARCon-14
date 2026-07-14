@@ -1,24 +1,24 @@
 # Airlocks
-spray-painter-style-airlockstandard-robotics = Robotics
-spray-painter-style-airlockstandard-surgery = Surgery
-spray-painter-style-airlockstandard-paramedic = Paramedic
-spray-painter-style-airlockstandard-salvagemining = Salvage/Mining
-spray-painter-style-airlockstandard-miningcargo = Mining/Cargo
-spray-painter-style-airlockstandard-retrosalvagemining = Retro Salvage/Mining
+spray-painter-style-airlockstandard-robotics = Робототехника
+spray-painter-style-airlockstandard-surgery = Операция
+spray-painter-style-airlockstandard-paramedic = Фельдшер
+spray-painter-style-airlockstandard-salvagemining = Спасение/Горное дело
+spray-painter-style-airlockstandard-miningcargo = Горное дело/Грузовые перевозки
+spray-painter-style-airlockstandard-retrosalvagemining = Ретро-спасение/горное дело
 
 # Glass Airlocks
-spray-painter-style-airlockglass-robotics = Robotics
-spray-painter-style-airlockglass-surgery = Surgery
-spray-painter-style-airlockglass-paramedic = Paramedic
-spray-painter-style-airlockglass-salvagemining = Salvage/Mining
-spray-painter-style-airlockglass-miningcargo = Mining/Cargo
-spray-painter-style-airlockglass-retrosalvagemining = Retro Salvage/Mining
+spray-painter-style-airlockglass-robotics = Робототехника
+spray-painter-style-airlockglass-surgery = Операция
+spray-painter-style-airlockglass-paramedic = Фельдшер
+spray-painter-style-airlockglass-salvagemining = Спасение/Горное дело
+spray-painter-style-airlockglass-miningcargo = Горное дело/Грузовые перевозки
+spray-painter-style-airlockglass-retrosalvagemining = Ретро-спасение/горное дело
 
 # Lockers
-spray-painter-style-locker-magistrate = Magistrate
-spray-painter-style-locker-iaa = Internal affairs agent
-spray-painter-style-locker-bso = Officer "Blue Shield"
-spray-painter-style-locker-salvagelead = Salvage Lead
-spray-painter-style-locker-mining = Mining
-spray-painter-style-locker-mail = Mail
-spray-painter-style-locker-warden = Warden
+spray-painter-style-locker-magistrate = Мировой судья
+spray-painter-style-locker-iaa = Агент внутренних дел
+spray-painter-style-locker-bso = Офицер «Голубой Щит»
+spray-painter-style-locker-salvagelead = Спасение
+spray-painter-style-locker-mining = Горное дело
+spray-painter-style-locker-mail = Почта
+spray-painter-style-locker-warden = Смотритель

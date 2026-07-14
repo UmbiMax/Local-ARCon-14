@@ -1,79 +1,79 @@
-﻿book-text-conspiracies = [bold] Forward from the author:[/bold] Congratulations on the best decision of your life, reading this book! While the others remain content being silently controlled and manipulated you seek the truth. And within these pages I fully intend to give it to you.
-        I am well aware that my reputation proceeds me and thus will skip introductions to get straight to the point. We don't have much time. Neo-conspiracies abound and continue to influence the mass general sheep populace. Our overlords believe that those of us that strike out from the herd are to be sheared and culled. Do not be surprised if you begin losing your hair. Our baldness distinguishes us and will allow us to recognize eachother.
+book-text-conspiracies = [bold] Сообщение от автора:[/bold] Поздравляем с лучшим решением в вашей жизни — чтением этой книги! В то время как другие остаются довольны тем, что их молча контролируют и манипулируют, вы ищете истину. И на этих страницах я полностью намерен передать это вам.
+        Я прекрасно осознаю, что моя репутация преследует меня, и поэтому пропущу вступления, чтобы сразу перейти к делу. У нас мало времени. Неозаговоры изобилуют и продолжают оказывать влияние на массовое поголовье овец. Наши повелители считают, что тех из нас, кто выйдет из стада, следует стричь и выбраковывать. Не удивляйтесь, если вы начнете терять волосы. Наша лысина отличает нас и позволит узнать друг друга.
 
-        CyberSun invented bureaucracy to sell more pens!
+        CyberSun изобрела бюрократию, чтобы продавать больше ручек!
 
-        Central Command has brainwashed monkey's working as the AI core!
+        Центральное командование заставило обезьян с промытыми мозгами работать в качестве ядра ИИ!
 
-        Giggles-at-Crime is a lich puppet of the Honkmother, which is capable of genetics/bioengineering. The Honkmother is not actually a god, as she is capable of influencing things outside of of here own sphere.
-        She is an advanced biological entity who has reached genetic ascension!
+        Хихикающий-Криминал — марионетка-лич Хонк-Матери, способная к генетике/биоинженерии. Мать Хонкмать на самом деле не бог, поскольку она способна влиять на вещи за пределами своей сферы.
+        Она — продвинутая биологическая сущность, достигшая генетического вознесения!
 
-        Quantum communication networks are being intercepted by beings from parallel dimensions!
+        Квантовые сети связи перехватываются существами из параллельных измерений!
 
-        All Gorlex operatives are vegan!
+        Все сотрудники Горлекса — веганы!
 
-        Virtual reality vacation packages occasionally "lose" users, transferring their consciousness to serve as processing nodes!
+        Пакеты отдыха в виртуальной реальности иногда «теряют» пользователей, передавая их сознание в качестве узлов обработки!
 
-        Central Special Operations Division has a backup strategy in case NanoTrasen tells the Death Squad to kill them!
+        У Центрального отдела специальных операций есть запасная стратегия на случай, если НаноТрасен прикажет Отряду Смерти убить их!
 
 
-book-text-more-conspiracies = [bold] Forward from the author:[/bold] Congratulations on the best decision of your life, reading this book! While the others remain content being silently controlled and manipulated you seek the truth. And within these pages I fully intend to give it to you.
-        I am well aware that my reputation proceeds me and thus will skip introductions to get straight to the point. We don't have much time. Neo-conspiracies abound and continue to influence the mass general sheep populace. Our overlords believe that those of us that strike out from the herd are to be sheared and culled. Do not be surprised if you begin losing your hair. Our baldness distinguishes us and will allow us to recognize eachother.
+book-text-more-conspiracies = [bold] Сообщение от автора:[/bold] Поздравляем с лучшим решением в вашей жизни — чтением этой книги! В то время как другие остаются довольны тем, что их молча контролируют и манипулируют, вы ищете истину. И на этих страницах я полностью намерен передать это вам.
+        Я прекрасно осознаю, что моя репутация преследует меня, и поэтому пропущу вступления, чтобы сразу перейти к делу. У нас мало времени. Неозаговоры изобилуют и продолжают оказывать влияние на массовое поголовье овец. Наши повелители считают, что тех из нас, кто выйдет из стада, следует стричь и выбраковывать. Не удивляйтесь, если вы начнете терять волосы. Наша лысина отличает нас и позволит узнать друг друга.
 
-        Every SMES has a tiny hamster on a wheel!
+        В каждом МСП есть крошечный хомяк на колесе!
 
-        Morozov is the Holy Martyr of the old beliefs. In the "Lament of the three martyrs", Morozov is to be said to have done miracles, one of them being creating a substance to bring back the dying!
+        Морозов – Святой мученик старых верований. В «Плаче трех мучеников» Морозов, как говорят, творил чудеса, одно из которых — создание вещества, возвращающего умирающих!
 
-        Basalt temples or their equivalents exist on all planets sentient species developed on. The Honkmother has guided the evolution of all species, and only clowns have found enlightenment!
+        Базальтовые храмы или их эквиваленты существуют на всех планетах, на которых развивались разумные виды. Мать-Хонкмать руководила эволюцией всех видов, и только клоуны обрели просветление!
 
-        The food synthesizers are programmed to include compounds that suppress revolutionary tendencies!
+        Пищевые синтезаторы запрограммированы на включение соединений, подавляющих революционные тенденции!
 
-        "Hi vix....hod...mori meministi" I once heard this quote from a Central Intelligence Division official. This points towards "Momento Mori", which points to the inevitability of death! CID must posess information which is clearly a massive threat to the Sector itself!
+        «Hi vix....hod...mori meministi» Однажды я услышал эту цитату от сотрудника Центрального разведывательного управления. Это указывает на «Momento Mori», указывающее на неизбежность смерти! CID должен обладать информацией, которая явно представляет огромную угрозу для самого Сектора!
 
-        The Cargonia Pineapple incident is why even the mere utterenace of "Cargonia" is expressly forbidden! 1984!
+        Инцидент с ананасом «Каргония» — вот почему даже простое произнесение слова «Каргония» строго запрещено! 1984 год!
 
-        Memory backup services don't actually store your consciousness—they create copies while the original dies during transfer!
+        Службы резервного копирования памяти на самом деле не хранят ваше сознание — они создают копии, а оригинал умирает во время передачи!
 
-        Stellar Vanguard Solutions veterans initially formed the main body of opposition against the new NanoTrasen & Central Command partnership! They are the reason that Giggles-at-Crime has returned!
+        Ветераны Stellar Vanguard Solutions изначально сформировали основную часть оппозиции новому партнерству NanoTrasen и Центрального командования! Именно они стали причиной возвращения «Хихиканья над преступностью»!
 
-book-text-clown-mime-war = In the early 2300s the Trans-Solar Federation (TSF) continued to grow into the vast interstellar entity that it's founders dreamed it would be, but the disturbing discoveries about Clowns and Mimes continued to mount.
-        While neither the Mothpeople or Diona had an active population of Clowns or Mimes, their historical records indicated vast Clown and Mime cults in their ancient pasts.
-        With advanced scanning technology provided by the TSF, an ancient temple was unearthed buried deep under layers of basalt on the Dionae homeworld. A temple seemingly dedicated to some sort of Clown-like deity.
-        Knowledge of this propagated rapidly across the TSF, with many Clowns of all species calling a vote for what to name this deity.
-        During the Gathering of the Floppy, the High Clown Giggles-At-Crimes had a seizure in the middle of the opening freestyle rap ceremony, loudly proclaiming their deity to be "The Honkmother".
-        The gathering erupted into a cacophony of honks and whoopie cushion farts that some claimed could be heard across the entire Trans-Solar Federation.
-        Absolutely nobody except the Clowns were happy with this turn of events. Everyone unanimously hated it.
+book-text-clown-mime-war = В начале 2300-х годов Транссолнечная Федерация (TSF) продолжала превращаться в огромную межзвездную организацию, о которой мечтали ее основатели, но тревожные открытия о клоунах и мимах продолжали расти.
+        Хотя ни у Людей-Мотыльков, ни у Дионы не было активного населения Клоунов или Мимов, их исторические записи указывают на обширные культы Клоунов и Мимов в их древнем прошлом.
+        С помощью передовой технологии сканирования, предоставленной TSF, на родной планете Дионы был раскопан древний храм, погребенный глубоко под слоями базальта. Храм, по-видимому, посвященный какому-то клоунскому божеству.
+        Знания об этом быстро распространились по TSF, и многие клоуны всех рас проголосовали за то, как назвать это божество.
+        Во время Gathering of the Floppy у High Clown Giggles-At-Crimes случился припадок посреди вступительной церемонии фристайла, и они громко провозгласили свое божество «Honkmother».
+        Собрание разразилось какофонией гудков и пукания подушек, которую, как утверждали некоторые, можно было услышать по всей Транссолнечной Федерации.
+        Абсолютно никто, кроме Клоунов, не был рад такому повороту событий. Все единогласно возненавидели это.
 
-        Over the next 50 years the Cult of the Honkmother would grow in numbers, bolstered dramatically with each new species encountered by the Trans-Solar Federation as knowledge of their shared ancient religion spread.
-        The Arachnids, Slimes, and even Cyclorites were all found to either have an active Clown and Mime population, or to have had one in their pasts.
-        But this raised a new question, a question many feared to find the answer to now. What about the Mimes?
-        This question grew louder and louder amongst the growing Mime community, though only metaphorically.
-        Everywhere that new discoveries were made, it was obvious the Mimes played some role in this strange ancient religion, but there was never any information on them to be found.
-        They were simply there, a silent presence. Silence. Silence became their answer. As the Clowns grew more and more obnoxiously loud, the Mimes forged their new identity in silence. The silence to balance the noise. Or to some, as tensions increased, the silence to end the noise.
-        Despite the best efforts of the Trans-Solar Federation, peace talks between the Clowns and Mimes proved fruitless for all of the reasons you would assume.
-        The Mimes became increasingly galvanized by the Cult of the Honkmother's behavior, with tens of thousands flocking to take the Oath of Silence in opposition to the Clown menace, until eventually the situation broke down entirely.
+        В течение следующих 50 лет численность Культа Хонкматери будет расти, резко усиливаясь с каждым новым видом, с которым сталкивается Засолнечная Федерация, по мере распространения знаний об их общей древней религии.
+        Было обнаружено, что у паукообразных, слизней и даже циклоритов либо есть активная популяция клоунов и мимов, либо она была в их прошлом.
+        Но это подняло новый вопрос, вопрос, на который многие боялись найти ответ сейчас. А что насчет Мимов?
+        Этот вопрос становился все громче и громче среди растущего сообщества мимов, хотя и только в переносном смысле.
+        Везде, где делались новые открытия, было очевидно, что мимы играли какую-то роль в этой странной древней религии, но никакой информации о них никогда не было найдено.
+        Они просто были здесь, молчаливое присутствие. Тишина. Молчание стало их ответом. По мере того, как клоуны становились все более и более отвратительно громкими, мимы молча выковывали свою новую личность. Тишина, чтобы уравновесить шум. Или для некоторых, когда напряжение возросло, тишина, чтобы положить конец шуму.
+        Несмотря на все усилия Транссолнечной Федерации, мирные переговоры между Клоунами и Мимами оказались безрезультатными по всем причинам, которые вы могли бы предположить.
+        Мимы все больше воодушевлялись поведением Культа Хонкматери, и десятки тысяч людей стекались, чтобы принять Клятву молчания в противовес угрозе Клоунов, пока в конечном итоге ситуация полностью не сломалась.
 
-        In 2362, the Clown-Mime Intergalactic War began. The conflict was brutal, more brutal than anyone could have anticipated.
-        Several entities, supplied the Mimes with armaments and shuttles, while Cybersun secretly funded the development of the first generation of H.O.N.K Mechs, with both sides seeking to use the conflict as a proxy war of sorts.
-        But neither were ready for what the Clowns unearthed. Nobody knows how, or where from, but the High Clown Giggles-At-Crimes began unleashing horrific twisted creatures upon the Mimes and soon the whole galaxy.
-        Driven mad by his faith, he targeted anyone who was not a Clown. Clownspiders were hatched onboard Trans-Solar Federation stations and shuttles, and Behonkers besieged strongholds on multiple worlds.
-        This caused a religious schism in the Cult of the Honkmother, as those who wished only to spread whimsy and laughter began to turn on the more radicalized followers of Giggles-At-Crimes.
-        It became necessary for the Trans-Solar Federation to step in and force both sides to diplomacy.
-        At the first peace summit, Giggles-At-Crimes threatened to summon a "Level 100 Gigglebeast", this was provocation enough for a Mime Assassin to shoot him through the heart three times before being detained by the TSF.
-        The second peace summit was held with the more moderate followers of the Honkmother, and resulted in the restructuring of the Cult of the Honkmother.
-        Hundreds of stipulations and agreements were settled within what would become known as the "Carnival Treaties", finally bringing peace to the two factions, though the scars of this conflict made relations between Clowns and Mimes troubled for a century after.
+        В 2362 году началась Межгалактическая война клоунов-мимов. Конфликт был жестоким, более жестоким, чем можно было ожидать.
+        Несколько организаций снабжали Мимов вооружением и шаттлами, в то время как Киберсан тайно финансировала разработку первого поколения роботов H.O.N.K, причем обе стороны стремились использовать конфликт как своего рода прокси-войну.
+        Но ни один из них не был готов к тому, что раскопали Клоуны. Никто не знает, как и откуда, но Высшие Клоуны, Смеющиеся над Преступлениями, начали выпускать ужасающих извращенных существ на Мимов, а вскоре и на всю галактику.
+        Обезумевший от своей веры, он нацелился на всех, кто не был клоуном. Пауки-клоуны вылуплялись на борту станций и шаттлов Транссолнечной Федерации, а бехонкеры осаждали крепости на многих мирах.
+        Это вызвало религиозный раскол в Культе Почетной Матери, поскольку те, кто хотел только распространять прихоти и смех, начали нападать на более радикальных последователей «Хихиканья над преступлениями».
+        Транссолнечной федерации стало необходимо вмешаться и заставить обе стороны прибегнуть к дипломатии.
+        На первом мирном саммите Giggles-At-Crimes пригрозил вызвать «Gigglebeast 100-го уровня», этого было достаточно провокацией, чтобы мим-убийца трижды выстрелил ему в сердце, прежде чем его задержали TSF.
+        Второй мирный саммит был проведен с участием более умеренных последователей Хонкматери и привел к реструктуризации Культа Хонкматери.
+        Сотни положений и соглашений были урегулированы в рамках так называемых «Карнавальных договоров», которые, наконец, принесли мир двум фракциям, хотя шрамы этого конфликта сделали отношения между клоунами и мимами проблемными на столетие спустя.
 
-book-text-mars-incident = By the year 2100, with the immense nearly limitless funding of the Trans-Solar Federation and the technological marvels provided by NanoTrasen and Cybersun, the first permanent Mars Colonies were established.
-        These colonies focus was primarily the mining and processing of Plasma. Condensers were created that could store the Plasma in a gaseous state, which allowed them to be stored at incredibly high pressures to minimize space needed for transport back to Earth.
-        At this time, due to their large contributions to the effort, the largest mining operations were owned and run by NanoTrasen and Cybersun respectively, while ever true to their name the Trans-Solar Federation continued to branch out far into the fringes of space.
-        In 2105, first contact with extraterrestrial life was made. An alien government from a neighboring solar system, the Skrellian Central Authority, became aware of Humans and made contact, which swiftly developed into an alliance.
-        A pillar of this alliance was an exchange of technology, with the SCA learning of the potency of Plasma and its many applications in exchange for the TSF being taught to create more efficient thrusters and Faster Than Light Engines.
-        In truth, these engines leveraged a previously unknown phenominon known as Bluespace, and did not violate the laws of physics as some scientists initially feared. Bluespace was more compact, and when charted precisely, could be used to vastly shorten the duration of space travel.
-        With these new FTL Engines and the scientific prospects that Bluespace presented, the Trans-Solar Federation took it's first leaps into the wider galaxy. But disaster was brewing back home.
-        Despite NanoTrasen's state of the art security measures and it was inevitable that this would blow up in their face.
-        None knew just how devastating, or literal, it blowing up would be however.
+book-text-mars-incident = К 2100 году, благодаря огромному, почти безграничному финансированию Транссолнечной Федерации и технологическим чудесам, предоставленным NanoTrasen и Cybersun, были созданы первые постоянные колонии на Марсе.
+        Эти колонии в первую очередь занимались добычей и переработкой плазмы. Были созданы конденсаторы, которые могли хранить плазму в газообразном состоянии, что позволяло хранить ее при невероятно высоких давлениях, чтобы минимизировать пространство, необходимое для транспортировки обратно на Землю.
+        В то время, благодаря их большому вкладу в эти усилия, крупнейшие горнодобывающие предприятия принадлежали и управлялись NanoTrasen и Cybersun соответственно, в то время как, верная своему названию, Транссолнечная Федерация продолжала расширяться далеко на окраины космоса.
+        В 2105 году был осуществлен первый контакт с внеземной жизнью. Инопланетное правительство из соседней солнечной системы, Центральная власть Скреллианов, узнало о людях и установило контакт, который быстро перерос в альянс.
+        Основой этого альянса был обмен технологиями: SCA узнала о возможностях плазмы и ее многочисленных применениях в обмен на обучение TSF созданию более эффективных двигателей и двигателей, превышающих скорость света.
+        По правде говоря, эти двигатели использовали ранее неизвестный феномен, известный как Bluespace, и не нарушали законы физики, как первоначально опасались некоторые ученые. Bluespace был более компактным, и при точном нанесении на карту его можно было использовать для значительного сокращения продолжительности космических путешествий.
+        Благодаря этим новым сверхсветовым двигателям и научным перспективам, которые представила Bluespace, Транссолнечная Федерация сделала первые шаги в более обширную галактику. Но дома назревала катастрофа.
+        Несмотря на самые современные меры безопасности NanoTrasen, было неизбежно, что это обернется им в лицо.
+        Однако никто не знал, насколько разрушительным или в буквальном смысле будет этот взрыв.
 
-        In 2125, NanoTrasen's Mars Mining Colony experienced a catastrophic detonation of its stored Plasma Canisters, reports from the time suggest that the disaster resulted from sabotage from the Cybersun corporation as NT prided itself on it's strict regulations and safety standards.
-        Regardless of the cause, the Mars Incident was a dark year for humanity. The detonation caused a chain reaction which detonated a deep-running Plasma vein that resulted in a massive ejection of debris and material from Mars' gravitational field.
-        Over the next year, this debris drifted into Earth's orbit, with multiple impacts devastating historical sites on the Moon, and more tragically making landfall on Earth itself.
-        These meteor showers caused massive devastation to the Siberian and Asian territories, resulting in untold tens of thousands of deaths.
+        В 2125 году в марсианской горнодобывающей колонии NanoTrasen произошла катастрофическая детонация хранившихся в ней канистр с плазмой. Сообщения того времени предполагают, что катастрофа возникла в результате саботажа со стороны корпорации Cybersun, поскольку NT гордилась своими строгими правилами и стандартами безопасности.
+        Независимо от причины, Марсианский инцидент стал мрачным годом для человечества. Взрыв вызвал цепную реакцию, которая привела к детонации глубоко проходящей плазменной жилы, что привело к массивному выбросу обломков и материалов из гравитационного поля Марса.
+        В течение следующего года эти обломки переместились на орбиту Земли, совершив многочисленные удары, разрушив исторические объекты на Луне и, что еще более трагично, обрушившись на саму Землю.
+        Эти метеоритные дожди вызвали огромные разрушения на сибирских и азиатских территориях, что привело к гибели неисчислимых десятков тысяч человек.

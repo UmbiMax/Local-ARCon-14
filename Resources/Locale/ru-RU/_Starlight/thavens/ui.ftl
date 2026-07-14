@@ -1,14 +1,14 @@
-moods-ui-menu-title = Your Moods
-moods-ui-shared-mood = Shared
-thaven-moods-update-notify = You feel a shift in your moods!
+moods-ui-menu-title = Ваше настроение
+moods-ui-shared-mood = Общий
+thaven-moods-update-notify = Вы чувствуете перемену в настроении!
 
-thaven-moods-ui-verb = Edit Moods
-thaven-moods-admin-ui-title = Edit Moods
-thaven-moods-admin-ui-new-mood = New Mood
-thaven-moods-admin-ui-save = Save
-thaven-mood-admin-ui-move-up = Move Up
-thaven-mood-admin-ui-move-down = Move Down
-thaven-mood-admin-ui-delete = Delete
+thaven-moods-ui-verb = Изменить настроения
+thaven-moods-admin-ui-title = Редактировать настроения
+thaven-moods-admin-ui-new-mood = Новое настроение
+thaven-moods-admin-ui-save = Сохранить
+thaven-mood-admin-ui-move-up = Переместить вверх
+thaven-mood-admin-ui-move-down = Переместить вниз
+thaven-mood-admin-ui-delete = Удалить
 
-admin-trick-add-random-mood-description = Add a random mood to this entity.
-admin-trick-give-moods-description = Give this entity moods.
+admin-trick-add-random-mood-description = Добавьте этому объекту случайное настроение.
+admin-trick-give-moods-description = Выдать сущности набор настроений.
