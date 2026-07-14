@@ -6,4 +6,12 @@ Entries:
   id: 201
   time: '2026-07-10T11:29:56.000000+00:00'
   url: https://github.com/ArcaneSS14/arcane/pull/2
+- author: Vecortys
+  changes:
+  - message: Полная локализация
+    type: Tweak
+  id: 401
+  time: '2026-07-13T16:34:03.000000+00:00'
+  url: https://github.com/ArcaneSS14/arcane/pull/4
 Order: -1
+
