@@ -1,8 +1,5 @@
 using Content.Shared.Actions;
-using Content.Shared.Bed.Sleep;
 using Content.Shared.Mind;
-using Content.Shared.Mobs;
-using Content.Shared.Mobs.Systems;
 using Content.Shared.MouseRotator;
 using Content.Shared.Mech.Components;
 using Content.Shared.Movement.Components;
@@ -18,7 +15,6 @@ public abstract partial class SharedCombatModeSystem : EntitySystem
     [Dependency] private   SharedActionsSystem _actionsSystem = default!;
     [Dependency] private   SharedPopupSystem _popup = default!;
     [Dependency] private   SharedMindSystem  _mind = default!;
-    [Dependency] private   MobStateSystem _mobState = default!; // Arcane
 
     public override void Initialize()
     {
@@ -50,10 +46,8 @@ public abstract partial class SharedCombatModeSystem : EntitySystem
         args.Handled = true;
         SetInCombatMode(uid, !component.IsInCombatMode, component);
 
-        /* Arcane-Edit-Start
         var msg = component.IsInCombatMode ? "action-popup-combat-enabled" : "action-popup-combat-disabled";
         _popup.PopupClient(Loc.GetString(msg), args.Performer, args.Performer);
-        */ // Arcane-Edit-End
     }
 
     public void SetCanDisarm(EntityUid entity, bool canDisarm, CombatModeComponent? component = null)
@@ -76,14 +70,6 @@ public abstract partial class SharedCombatModeSystem : EntitySystem
 
         if (component.IsInCombatMode == value)
             return;
-
-        // Arcane-Start | Dont let entity gone postal when unconscious
-        if (_mobState.IsDead(entity) || _mobState.IsCritical(entity) || HasComp<SleepingComponent>(entity))
-        {
-            if (value)
-                return;
-        }
-        // Arcane-End
 
         component.IsInCombatMode = value;
         Dirty(entity, component);
