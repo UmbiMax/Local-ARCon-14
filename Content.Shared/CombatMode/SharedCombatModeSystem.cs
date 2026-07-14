@@ -51,14 +51,16 @@ public abstract partial class SharedCombatModeSystem : EntitySystem
 
     private void OnActionPerform(EntityUid uid, CombatModeComponent component, ToggleCombatActionEvent args)
     {
-        if (args.Handled)
-            return;
-
-        args.Handled = true;
-        var requestedCombatMode = !component.IsInCombatMode; // Arcane
-        SetInCombatMode(uid, !component.IsInCombatMode, component);
-
         // Arcane-Edit-Start
+        var oldMode = component.IsInCombatMode;
+        SetInCombatMode(uid, !oldMode, component);
+
+        if (component.IsInCombatMode == oldMode)
+            return; // State didn't change (e.g., incapacitated)
+
+        var msg = component.IsInCombatMode
+            ? "action-popup-combat-enabled"
+            : "action-popup-combat-disabled";
         var msg = component.IsInCombatMode != requestedCombatMode
             ? "action-popup-combat-enabled"
             : "action-popup-combat-disabled";
