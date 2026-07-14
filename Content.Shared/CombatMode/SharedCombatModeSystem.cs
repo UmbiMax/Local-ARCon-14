@@ -7,6 +7,7 @@ using Content.Shared.MouseRotator;
 using Content.Shared.Mech.Components;
 using Content.Shared.Movement.Components;
 using Content.Shared.Popups;
+using Robust.Shared.Audio.Systems;
 using Robust.Shared.Network;
 using Robust.Shared.Timing;
 
@@ -18,7 +19,10 @@ public abstract partial class SharedCombatModeSystem : EntitySystem
     [Dependency] private   SharedActionsSystem _actionsSystem = default!;
     [Dependency] private   SharedPopupSystem _popup = default!;
     [Dependency] private   SharedMindSystem  _mind = default!;
-    [Dependency] private MobStateSystem _mobState = default!; // Arcane
+    // Arcane-Start
+    [Dependency] private MobStateSystem _mobState = default!;
+    [Dependency] private SharedAudioSystem _audio = default!;
+    // Arcane-End
 
     public override void Initialize()
     {
@@ -105,7 +109,11 @@ public abstract partial class SharedCombatModeSystem : EntitySystem
         component.IsInCombatMode = value;
         Dirty(entity, component);
 
-        RaiseLocalEvent(entity, new CombatModeChangedEvent(value)); // Arcane
+        // Arcane-Start
+        RaiseLocalEvent(entity, new CombatModeChangedEvent(value));
+        var sound = value ? component.CombatActivationSound : component.CombatDeactivationSound;
+        _audio.PlayPredicted(sound, entity, entity);
+        // Arcane-End
 
         if (component.CombatToggleActionEntity != null)
             _actionsSystem.SetToggled(component.CombatToggleActionEntity, component.IsInCombatMode);
