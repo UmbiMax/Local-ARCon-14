@@ -76,6 +76,6 @@ jobs:
         run: Tools/actions_changelogs_since_last_run.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY: ${{ vars.GITHUB_REPOSITORY }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-          DISCORD_CHANGELOG_ROLE_ID: "1308143973684088883"
+          DISCORD_CHANGELOG_ROLE_ID: "1512901533677916280"
