@@ -123,7 +123,7 @@
       board: !type:Container
   - type: Door
     canCrush: false
-    pryTime: 0 # Orion
+    pryTime: 0 # Arcane
     openingAnimationTime: 0.9
     closingAnimationTime: 0.9
     openSound:
@@ -244,8 +244,10 @@
             max: 2
       - !type:DoActsBehavior
         acts: [ "Destruction" ]
+  # Arcane-Start
   - type: Door
-    pryTime: 1 # Orion
+    pryTime: 1
+  # Arcane-End
   - type: Construction
     graph: Windoor
     node: windoorSecure
@@ -319,8 +321,10 @@
             max: 2
       - !type:DoActsBehavior
         acts: [ "Destruction" ]
+  # Arcane-Start
   - type: Door
-    pryTime: 0.25 # Orion
+    pryTime: 0.25
+  # Arcane-End
   - type: Construction
     graph: Windoor
     node: pwindoor
@@ -391,8 +395,10 @@
             max: 2
       - !type:DoActsBehavior
         acts: [ "Destruction" ]
+  # Arcane-Start
   - type: Door
-    pryTime: 1.25 # Orion
+    pryTime: 1.25
+  # Arcane-End
   - type: Construction
     graph: Windoor
     node: pwindoorSecure
