@@ -26,17 +26,20 @@ public sealed partial class AirlockSystem : SharedAirlockSystem
             return;
 
         if (comp.OpenUnlitVisible) // Otherwise there are flashes of the fallback sprite between clicking on the door and the door closing animation starting.
+        // Arcane-Edit-Start
         {
-            door.OpenSpriteStates.Add((DoorVisualLayers.BaseUnlit, comp.OpenSpriteState));
-            door.ClosedSpriteStates.Add((DoorVisualLayers.BaseUnlit, comp.ClosedSpriteState));
+            if (TryComp<SpriteComponent>(uid, out var sprite)
+                && _sprite.LayerMapTryGet((uid, sprite), DoorVisualLayers.BaseUnlit, out var baseUnlitLayer, false)
+                && sprite[baseUnlitLayer] is SpriteComponent.Layer layer
+                && layer.ActualRsi is { } rsi
+                && rsi.TryGetState(comp.OpenSpriteState, out _))
+                door.OpenSpriteStates.Add((DoorVisualLayers.BaseUnlit, comp.OpenSpriteState));
+                door.ClosedSpriteStates.Add((DoorVisualLayers.BaseUnlit, comp.ClosedSpriteState));
         }
+        // Arcane-Edit-End
         // Arcane-Start
         else
-        {
-            // Arcane: Register BaseUnlit end-states so DoorSystem.OnAnimationCompleted restores them. Allows removing LayerSetAnimationTime(0) in OnAppearanceChange that caused jitter.
-            door.OpenSpriteStates.Add((DoorVisualLayers.BaseUnlit, comp.ClosingSpriteState));
             door.ClosedSpriteStates.Add((DoorVisualLayers.BaseUnlit, comp.OpeningSpriteState));
-        }
         // Arcane-End
 
         ((Animation)door.OpeningAnimation).AnimationTracks.Add(new AnimationTrackSpriteFlick()
