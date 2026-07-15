@@ -20,12 +20,6 @@
       "name": "closed_unlit"
     },
     {
-      "name": "closed-fill"
-    },
-    {
-      "name": "closed-glass"
-    },
-    {
       "name": "closing",
       "delays": [
         [
@@ -40,45 +34,6 @@
     },
     {
       "name": "closing_unlit",
-      "delays": [
-        [
-          0.1,
-          0.1,
-          0.1,
-          0.1,
-          0.1,
-          0.1
-        ]
-      ]
-    },
-    {
-      "name": "closing-fill",
-      "delays": [
-        [
-          0.1,
-          0.1,
-          0.07,
-          0.07,
-          0.07,
-          0.2
-        ]
-      ]
-    },
-    {
-      "name": "closing-glass",
-      "delays": [
-        [
-          0.1,
-          0.1,
-          0.07,
-          0.07,
-          0.07,
-          0.2
-        ]
-      ]
-    },
-    {
-      "name": "panel_closing",
       "delays": [
         [
           0.1,
@@ -126,6 +81,19 @@
     },
     {
       "name": "opening_unlit",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "panel_closing",
       "delays": [
         [
           0.1,
