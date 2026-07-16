@@ -21,5 +21,12 @@ Entries:
   id: 601
   time: '2026-07-16T15:29:17.000000+00:00'
   url: https://github.com/ArcaneSS14/arcane/pull/6
+- author: 4Gebura
+  changes:
+  - message: Портированы расы Аркан.
+    type: Add
+  id: 1301
+  time: '2026-07-16T15:38:38.000000+00:00'
+  url: https://github.com/ArcaneSS14/arcane/pull/13
 Order: -1
 
