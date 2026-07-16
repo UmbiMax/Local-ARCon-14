@@ -138,10 +138,11 @@ public sealed class DoAfterOverlay : Overlay
                     ? new Vector2(position.X + _barTexture.Width / 2f / scale / EyeManager.PixelsPerMeter, position.Y)
                     : position with { X = -cogTexture.Width / 2f / EyeManager.PixelsPerMeter };
 
+                var textureColor = Color.White.WithAlpha(alpha);
                 if (showProgressBar)
-                    handle.DrawTexture(_barTexture, position);
+                    handle.DrawTexture(_barTexture, position, textureColor);
 
-                handle.DrawTexture(cogTexture, cogPosition);
+                handle.DrawTexture(cogTexture, cogPosition, textureColor);
 
                 if (showProgressBar)
                 {
