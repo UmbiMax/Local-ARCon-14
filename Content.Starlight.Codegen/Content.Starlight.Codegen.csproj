@@ -7,6 +7,10 @@
     <EnforceExtendedAnalyzerRules>true</EnforceExtendedAnalyzerRules>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <Nullable>enable</Nullable>
+    <!-- Arcane-Start -->
+  <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  <WarningsNotAsErrors>$(WarningsNotAsErrors);NU1900</WarningsNotAsErrors>
+    <!-- Arcane-End -->
   </PropertyGroup>
 
   <ItemGroup>

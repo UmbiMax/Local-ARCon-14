@@ -42,7 +42,8 @@ public abstract partial class SharedDoorRemoteSystem : EntitySystem
 
     private void OnBeforeInteract(Entity<DoorRemoteComponent> entity, ref BeforeRangedInteractEvent args)
     {
-        if (!Timing.IsFirstTimePredicted)
+        if (!Timing.IsFirstTimePredicted // Arcane-Edit: For next line. Bugfix for opening/closing animations.
+            && entity.Comp.Mode != OperatingMode.OpenClose) // Arcane
             return;
 
         var isAirlock = TryComp<AirlockComponent>(args.Target, out var airlockComp);
