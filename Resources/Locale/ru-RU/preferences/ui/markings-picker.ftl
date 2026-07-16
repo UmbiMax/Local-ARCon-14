@@ -50,6 +50,8 @@ markings-category-UndergarmentBottom = Нижнее бельё
 markings-category-Arms = Руки
 markings-category-Legs = Ноги
 markings-category-Tail = Хвост
+# Arcane edit
+markings-category-Wings = Крылья
 markings-category-Overlay = Наложение
 
 markings-organ-Torso = Туловище

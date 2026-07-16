@@ -8,6 +8,7 @@ Automatically figures out the last run and changelog contents with the GitHub AP
 
 import itertools
 import os
+import sys
 from pathlib import Path
 from typing import Any, Iterable
 
@@ -20,7 +21,7 @@ DEBUG_CHANGELOG_FILE_OLD = Path("Resources/Changelog/Old.yml")
 GITHUB_API_URL = os.environ.get("GITHUB_API_URL", "https://api.github.com")
 
 DISCORD_WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL")
-DISCORD_CHANGELOG_ROLE_ID = int(os.environ.get("DISCORD_CHANGELOG_ROLE_ID", "1308143973684088883"))
+DISCORD_CHANGELOG_ROLE_ID = int(os.environ.get("DISCORD_CHANGELOG_ROLE_ID", "1512901533677916280"))
 
 CHANGELOG_FILE = "Resources/Changelog/ChangelogArcane.yml"
 TYPES_TO_EMOJI = {"Fix": "🐛", "Add": "🆕", "Remove": "❌", "Tweak": "⚒️"}
@@ -99,7 +100,11 @@ def get_last_changelog() -> str:
     session.headers["Accept"] = "Accept: application/vnd.github+json"
     session.headers["X-GitHub-Api-Version"] = "2022-11-28"
 
-    most_recent = get_most_recent_workflow(session, github_repository, github_run)
+    try:
+        most_recent = get_most_recent_workflow(session, github_repository, github_run)
+    except RuntimeError:
+        print("No previous successful publish run; publishing the current changelog.")
+        return "Entries: []\n"
     last_sha = most_recent["head_commit"]["id"]
     print(f"Last successful publish job was {most_recent['id']}: {last_sha}")
     return get_last_changelog_by_sha(session, last_sha, github_repository)
