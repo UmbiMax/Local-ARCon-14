@@ -36,6 +36,7 @@ namespace Content.Shared.Humanoid
         FaceCoverCover, // Far Horizons
         BodyCover, // Far Horizons
         BodyCoverCover, // Far Horizons
-        Other
+        Other,
+        Wings // Arcane
     }
 }
