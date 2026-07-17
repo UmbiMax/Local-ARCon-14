@@ -5,7 +5,10 @@ using Content.Shared.CombatMode;
 using Robust.Client.Graphics;
 using Robust.Client.Input;
 using Robust.Client.Player;
+using Robust.Shared.Audio;
+using Robust.Shared.Audio.Systems;
 using Robust.Shared.Configuration;
+using Robust.Shared.Player;
 
 namespace Content.Client.CombatMode;
 
@@ -15,7 +18,13 @@ public sealed partial class CombatModeSystem : SharedCombatModeSystem
     [Dependency] private IPlayerManager _playerManager = default!;
     [Dependency] private IConfigurationManager _cfg = default!;
     [Dependency] private IInputManager _inputManager = default!;
+    [Dependency] private SharedAudioSystem _audio = default!; // Arcane
     [Dependency] private IEyeManager _eye = default!;
+
+    // Arcane-Start
+    private EntityUid? _combatModeSoundEntity;
+    private bool? _lastCombatModeState;
+    // Arcane-End
 
     /// <summary>
     /// Raised whenever combat mode changes.
@@ -74,8 +83,37 @@ public sealed partial class CombatModeSystem : SharedCombatModeSystem
         }
 
         var inCombatMode = IsInCombatMode();
+
+        TryPlayCombatModeSound(entity, inCombatMode); // Arcane
+
         LocalPlayerCombatModeUpdated?.Invoke(inCombatMode);
     }
+
+// Arcane-Start
+    private void TryPlayCombatModeSound(EntityUid entity, bool inCombatMode)
+    {
+        if (_combatModeSoundEntity != entity)
+        {
+            _combatModeSoundEntity = entity;
+            _lastCombatModeState = inCombatMode;
+            return;
+        }
+
+        if (_lastCombatModeState == inCombatMode)
+            return;
+
+        _lastCombatModeState = inCombatMode;
+
+        if (!_cfg.GetCVar(CCVars.CombatModeSoundEnabled))
+            return;
+
+        _audio.PlayGlobal(
+            new SoundPathSpecifier(inCombatMode
+                ? "/Audio/_Arcane/Effects/Actions/CombatMode/combatmode-on.ogg"
+                : "/Audio/_Arcane/Effects/Actions/CombatMode/combatmode-off.ogg"),
+            Filter.Local(),false);
+    }
+    // Arcane-End
 
     private void OnShowCombatIndicatorsChanged(bool isShow)
     {
