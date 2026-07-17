@@ -33,8 +33,11 @@ public sealed partial class AirlockSystem : SharedAirlockSystem
                 && sprite[baseUnlitLayer] is SpriteComponent.Layer layer
                 && layer.ActualRsi is { } rsi
                 && rsi.TryGetState(comp.OpenSpriteState, out _))
+            {
                 door.OpenSpriteStates.Add((DoorVisualLayers.BaseUnlit, comp.OpenSpriteState));
-                door.ClosedSpriteStates.Add((DoorVisualLayers.BaseUnlit, comp.ClosedSpriteState));
+            }
+
+            door.ClosedSpriteStates.Add((DoorVisualLayers.BaseUnlit, comp.ClosedSpriteState));
         }
         // Arcane-Edit-End
         // Arcane-Start
