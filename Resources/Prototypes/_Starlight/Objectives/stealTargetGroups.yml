@@ -137,14 +137,14 @@
   id: HOSHardsuit
   name: steal-target-groups-clothing-outer-hardsuit-hos
   sprite:
-    sprite: _Starlight/Clothing/OuterClothing/Hardsuits/security-red.rsi
+    sprite: Clothing/Head/Hardsuits/security-red.rsi # Arcane-Edit: Returned
     state: icon
 
 - type: stealTargetGroup
   id: WardenHardsuit
   name: steal-target-groups-clothing-outer-hardsuit-warden
   sprite:
-    sprite: _Starlight/Clothing/OuterClothing/Hardsuits/security-warden.rsi
+    sprite: Clothing/Head/Hardsuits/security-warden.rsi # Arcane-Edit: Returned
     state: icon
 
 - type: stealTargetGroup
