@@ -28,5 +28,12 @@ Entries:
   id: 1301
   time: '2026-07-16T15:38:38.000000+00:00'
   url: https://github.com/ArcaneSS14/arcane/pull/13
+- author: Rinary
+  changes:
+  - message: Дискорд привязка
+    type: Add
+  id: 1401
+  time: '2026-07-17T20:54:52.000000+00:00'
+  url: https://github.com/ArcaneSS14/arcane/pull/14
 Order: -1
 
