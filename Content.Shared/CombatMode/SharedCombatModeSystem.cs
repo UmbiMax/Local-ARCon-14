@@ -50,7 +50,7 @@ public abstract partial class SharedCombatModeSystem : EntitySystem
 
         args.Handled = true;
         var oldMode = component.IsInCombatMode; // Arcane
-        SetInCombatMode(uid, !oldMode, component);
+        SetInCombatMode(uid, !oldMode, component); // Arcane-Edit
 
         // Arcane-Start
         if (component.IsInCombatMode == oldMode)
@@ -61,7 +61,6 @@ public abstract partial class SharedCombatModeSystem : EntitySystem
         // Arcane-End
 
         var msg = component.IsInCombatMode ? "action-popup-combat-enabled" : "action-popup-combat-disabled";
-
         _popup.PopupClient(Loc.GetString(msg), args.Performer, args.Performer);
     }
 
