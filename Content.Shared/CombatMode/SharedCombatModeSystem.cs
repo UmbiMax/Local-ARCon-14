@@ -58,9 +58,9 @@ public abstract partial class SharedCombatModeSystem : EntitySystem
 
         if (!ShouldShowCombatModePopup())
             return;
+        // Arcane-End
 
         var msg = component.IsInCombatMode ? "action-popup-combat-enabled" : "action-popup-combat-disabled";
-        // Arcane-End
 
         _popup.PopupClient(Loc.GetString(msg), args.Performer, args.Performer);
     }
