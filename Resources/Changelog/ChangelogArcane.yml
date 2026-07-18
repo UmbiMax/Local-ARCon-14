@@ -35,5 +35,20 @@ Entries:
   id: 1401
   time: '2026-07-17T20:54:52.000000+00:00'
   url: https://github.com/ArcaneSS14/arcane/pull/14
+- author: UmbiMax
+  changes:
+  - message: Добавлена шестерня отображающая doAfter(прогресс бар).
+    type: Add
+  - message: Изменено отображение doAfter, теперь полоску действия видит только выполняющий
+      взаимодействие, остальные видят шестерни.
+    type: Tweak
+  - message: Респрайт бара doAfter с TG13.
+    type: Tweak
+  - message: При скрытых действиях бар ныне полупрозрачный, а не с повышенной гаммой
+      полоски.
+    type: Tweak
+  id: 801
+  time: '2026-07-18T12:52:34.000000+00:00'
+  url: https://github.com/ArcaneSS14/arcane/pull/8
 Order: -1
 
