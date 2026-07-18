@@ -17,10 +17,10 @@ namespace Content.Arcane.Client.CombatMode.Systems;
 
 public sealed class CombatModeIndicatorOverlay : Overlay
 {
-    private IEntityManager _entity;
-    private IGameTiming _timing;
-    private SpriteSystem _sprite;
-    private SharedTransformSystem _transform;
+    private readonly IEntityManager _entity;
+    private readonly IGameTiming _timing;
+    private readonly SpriteSystem _sprite;
+    private readonly SharedTransformSystem _transform;
 
     private static readonly SpriteSpecifier _indicatorSprite =
         new SpriteSpecifier.Rsi(new ResPath("/Textures/_Arcane/Effects/combat_mode.rsi"), "combat_mode");
