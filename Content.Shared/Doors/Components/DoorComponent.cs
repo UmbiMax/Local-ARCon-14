@@ -142,7 +142,6 @@ public sealed partial class DoorComponent : Component
 
     #region Graphics
 
-
     // Arcane-Start: for notice
     /// <summary>
     /// The key used when playing door opening/closing/emagging/deny animations.

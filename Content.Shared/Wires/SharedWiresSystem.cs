@@ -101,6 +101,7 @@ public abstract partial class SharedWiresSystem : EntitySystem
         }
     }
 
+    // Arcane-Start: Upstream
     private void OnGetVerbs(Entity<WiresPanelComponent> ent, ref GetVerbsEvent<AlternativeVerb> args)
     {
         if (!IsPanelOpen(ent.Owner))
@@ -117,16 +118,9 @@ public abstract partial class SharedWiresSystem : EntitySystem
         args.Verbs.Add(verb);
     }
 
-    public void OpenUserInterface(EntityUid uid, EntityUid actor)
-    {
-        UI.OpenUi(uid, WiresUiKey.Key, actor);
-    }
-
-    public void OpenUserInterface(EntityUid uid, ICommonSession player)
-    {
-        UI.OpenUi(uid, WiresUiKey.Key, player);
-    }
-
+    public void OpenUserInterface(EntityUid uid, EntityUid actor) => UI.OpenUi(uid, WiresUiKey.Key, actor);
+    public void OpenUserInterface(EntityUid uid, ICommonSession player) => UI.OpenUi(uid, WiresUiKey.Key, player);
+    // Arcane-End
     public void ChangePanelVisibility(EntityUid uid, WiresPanelComponent component, bool visible)
     {
         component.Visible = visible;

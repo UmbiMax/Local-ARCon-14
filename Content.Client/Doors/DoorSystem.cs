@@ -84,7 +84,7 @@ public sealed partial class DoorSystem : SharedDoorSystem
 // Arcane-Start: Upstream
     private void OnAnimationCompleted(Entity<DoorComponent> ent, ref AnimationCompletedEvent args)
     {
-        if (args.Key != DoorComponent.OpenKey && args.Key != DoorComponent.CloseKey)
+        if (args.Key is not (DoorComponent.OpenKey or DoorComponent.CloseKey))
             return;
 
         if (!TryComp<SpriteComponent>(ent, out var sprite))
