@@ -17,12 +17,12 @@ namespace Content.Arcane.Client.CombatMode.Systems;
 
 public sealed class CombatModeIndicatorOverlay : Overlay
 {
-    private readonly IEntityManager _entity;
-    private readonly IGameTiming _timing;
-    private readonly SpriteSystem _sprite;
-    private readonly SharedTransformSystem _transform;
+    private IEntityManager _entity;
+    private IGameTiming _timing;
+    private SpriteSystem _sprite;
+    private SharedTransformSystem _transform;
 
-    private static readonly SpriteSpecifier IndicatorSprite =
+    private static readonly SpriteSpecifier _indicatorSprite =
         new SpriteSpecifier.Rsi(new ResPath("/Textures/_Arcane/Effects/combat_mode.rsi"), "combat_mode");
 
     public override OverlaySpace Space => OverlaySpace.WorldSpaceBelowFOV;
@@ -41,7 +41,7 @@ public sealed class CombatModeIndicatorOverlay : Overlay
         var eyeRotation = args.Viewport.Eye?.Rotation ?? Angle.Zero;
         var rotationMatrix = Matrix3Helpers.CreateRotation(-eyeRotation);
         var xformQuery = _entity.GetEntityQuery<TransformComponent>();
-        var texture = _sprite.GetFrame(IndicatorSprite, _timing.RealTime);
+        var texture = _sprite.GetFrame(_indicatorSprite, _timing.RealTime);
         var position = -(Vector2) texture.Size / 2f / EyeManager.PixelsPerMeter;
 
         var query = _entity.EntityQueryEnumerator<CombatModeComponent, SpriteComponent, TransformComponent>();
