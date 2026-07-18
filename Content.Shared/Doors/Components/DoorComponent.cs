@@ -173,7 +173,7 @@ public sealed partial class DoorComponent : Component
     /// The sprite states used for the door while it's open.
     /// </summary>
     [ViewVariables(VVAccess.ReadOnly)]
-    public List<(Enum, string)> OpenSpriteStates = default!;
+    public List<(Enum, string)> OpenSpriteStates = default!; // Arcane-Edit: Upstream
 
     /// <summary>
     /// The sprite state used for the door when it's closed.
@@ -186,7 +186,7 @@ public sealed partial class DoorComponent : Component
     /// The sprite states used for the door while it's closed.
     /// </summary>
     [ViewVariables(VVAccess.ReadOnly)]
-    public List<(Enum, string)> ClosedSpriteStates = default!;
+    public List<(Enum, string)> ClosedSpriteStates = default!; // Arcane-Edit: Upstream
 
     /// <summary>
     /// The sprite state used for the door when it's opening.

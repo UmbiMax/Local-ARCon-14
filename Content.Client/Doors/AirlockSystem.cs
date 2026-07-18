@@ -75,10 +75,10 @@ public sealed partial class AirlockSystem : SharedAirlockSystem
         if (!comp.AnimatePanel)
             return;
 
-        // For some reason the open panel sprite is used for both open and
-        // closed sprites. I really don't get it.
+        // Arcane-Start: Upstream: For some reason the open panel sprite is used for both open and closed sprites. I really don't get it.
         door.OpenSpriteStates.Add((WiresVisualLayers.MaintenancePanel, comp.OpenPanelSpriteState));
         door.ClosedSpriteStates.Add((WiresVisualLayers.MaintenancePanel, comp.OpenPanelSpriteState));
+        // Arcane-End
 
         ((Animation)door.OpeningAnimation).AnimationTracks.Add(new AnimationTrackSpriteFlick()
         {

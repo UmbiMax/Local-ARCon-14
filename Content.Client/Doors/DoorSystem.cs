@@ -18,14 +18,16 @@ public sealed partial class DoorSystem : SharedDoorSystem
     {
         base.Initialize();
         SubscribeLocalEvent<DoorComponent, AppearanceChangeEvent>(OnAppearanceChange);
-        SubscribeLocalEvent<DoorComponent, AnimationCompletedEvent>(OnAnimationCompleted);
+        SubscribeLocalEvent<DoorComponent, AnimationCompletedEvent>(OnAnimationCompleted); // Arcane: Upstream
     }
 
     protected override void OnComponentInit(Entity<DoorComponent> ent, ref ComponentInit args)
     {
         var comp = ent.Comp;
+        // Arcane-Edit-Start: Upstream
         comp.OpenSpriteStates = new List<(Enum, string)>(2);
         comp.ClosedSpriteStates = new List<(Enum, string)>(2);
+        // Arcane-Edit-End
 
         comp.OpenSpriteStates.Add((DoorVisualLayers.Base, comp.OpenSpriteState));
         comp.ClosedSpriteStates.Add((DoorVisualLayers.Base, comp.ClosedSpriteState));
@@ -79,6 +81,7 @@ public sealed partial class DoorSystem : SharedDoorSystem
         };
     }
 
+// Arcane-Start: Upstream
     private void OnAnimationCompleted(Entity<DoorComponent> ent, ref AnimationCompletedEvent args)
     {
         if (args.Key != DoorComponent.OpenKey && args.Key != DoorComponent.CloseKey)
@@ -93,7 +96,7 @@ public sealed partial class DoorSystem : SharedDoorSystem
 
                 foreach (var (layer, layerState) in ent.Comp.OpenSpriteStates)
                 {
-                    _sprite.LayerSetAutoAnimated((ent.Owner, sprite), layer, true); // Arcane: fix
+                    _sprite.LayerSetAutoAnimated((ent.Owner, sprite), layer, true);
                     _sprite.LayerSetRsiState((ent.Owner, sprite), layer, layerState);
                 }
 
@@ -102,13 +105,14 @@ public sealed partial class DoorSystem : SharedDoorSystem
 
                 foreach (var (layer, layerState) in ent.Comp.ClosedSpriteStates)
                 {
-                    _sprite.LayerSetAutoAnimated((ent.Owner, sprite), layer, true); // Arcane: Fix
+                    _sprite.LayerSetAutoAnimated((ent.Owner, sprite), layer, true);
                     _sprite.LayerSetRsiState((ent.Owner, sprite), layer, layerState);
                 }
 
                 break;
         }
     }
+    // Arcane-End
 
     private void OnAppearanceChange(Entity<DoorComponent> entity, ref AppearanceChangeEvent args)
     {
@@ -120,6 +124,11 @@ public sealed partial class DoorSystem : SharedDoorSystem
 
         if (AppearanceSystem.TryGetData<string>(entity, PaintableVisuals.Prototype, out var prototype, args.Component))
             UpdateSpriteLayers((entity.Owner, args.Sprite), prototype);
+
+        /* Arcane-Edit-Start: Upstream
+        if (_animationSystem.HasRunningAnimation(entity, DoorComponent.AnimationKey))
+            _animationSystem.Stop(entity.Owner, DoorComponent.AnimationKey);
+        */ // Arcane-Edit-End
 
         // We are checking beforehand since some doors may not have an emagging visual layer, and we don't want LayerSetVisible to throw an error.
         if (_sprite.TryGetLayer(entity.Owner, DoorVisualLayers.BaseEmagging, out var _, false))
@@ -135,6 +144,7 @@ public sealed partial class DoorSystem : SharedDoorSystem
         switch (state)
         {
             case DoorState.Open:
+                // Arcane-Start: Upstream
                 if (_animationSystem.HasRunningAnimation(entity, DoorComponent.OpenKey))
                     return;
 
@@ -143,29 +153,30 @@ public sealed partial class DoorSystem : SharedDoorSystem
                     _animationSystem.Stop(entity, null, DoorComponent.CloseKey);
                     _animationSystem.Play(entity, (Animation)entity.Comp.OpeningAnimation, DoorComponent.OpenKey);
                 }
+                // Arcane-End
 
                 foreach (var (layer, layerState) in entity.Comp.OpenSpriteStates)
                 {
-                    // Allow animations to play while it's open (e.g., pinion);
-                    // the animation unsets this so we gotta set it again.
-                    _sprite.LayerSetAutoAnimated((entity.Owner, sprite), layer, true);
+                    _sprite.LayerSetAutoAnimated((entity.Owner, sprite), layer, true); // Arcane: Upstream: Allow animations to play while it's open (e.g., pinion); the animation unsets this so we gotta set it again.
                     _sprite.LayerSetRsiState((entity.Owner, sprite), layer, layerState);
                 }
 
                 return;
             case DoorState.Closed:
+                // Arcane-Start: Upstream
                 if (_animationSystem.HasRunningAnimation(entity, DoorComponent.CloseKey))
                     return;
 
                 if (_animationSystem.HasRunningAnimation(entity, DoorComponent.OpenKey))
                 {
                     _animationSystem.Stop(entity, null, DoorComponent.OpenKey);
-                    _animationSystem.Play(entity, (Animation)entity.Comp.ClosingAnimation, DoorComponent.CloseKey); // Arcane-Edit: Fix
+                    _animationSystem.Play(entity, (Animation)entity.Comp.ClosingAnimation, DoorComponent.CloseKey);
                 }
+                // Arcane-End
 
                 foreach (var (layer, layerState) in entity.Comp.ClosedSpriteStates)
                 {
-                    _sprite.LayerSetAutoAnimated((entity.Owner, sprite), layer, true);
+                    _sprite.LayerSetAutoAnimated((entity.Owner, sprite), layer, true); // Arcane: Upstream
                     _sprite.LayerSetRsiState((entity.Owner, sprite), layer, layerState);
                 }
 
@@ -174,46 +185,50 @@ public sealed partial class DoorSystem : SharedDoorSystem
                 if (entity.Comp.OpeningAnimationTime == TimeSpan.Zero)
                     return;
 
+                // Arcane-Start: Upstream
                 if (_animationSystem.HasRunningAnimation(entity, DoorComponent.OpenKey))
                     return;
 
-                // Arcane-Start
                 if (_animationSystem.HasRunningAnimation(entity, DoorComponent.CloseKey))
                     _animationSystem.Stop(entity, null, DoorComponent.CloseKey);
-                // Arcane-End
 
                 _animationSystem.Play(entity, (Animation)entity.Comp.OpeningAnimation, DoorComponent.OpenKey);
+                // Arcane-End
 
                 return;
             case DoorState.Closing:
+                // Arcane-Start: Upstream
                 if (entity.Comp.ClosingAnimationTime == TimeSpan.Zero)
                     return;
 
                 if (_animationSystem.HasRunningAnimation(entity, DoorComponent.CloseKey))
                     return;
 
-                // Arcane-Start
                 if (_animationSystem.HasRunningAnimation(entity, DoorComponent.OpenKey))
                     _animationSystem.Stop(entity, null, DoorComponent.OpenKey);
-                // Arcane-End
 
                 _animationSystem.Play(entity, (Animation)entity.Comp.ClosingAnimation, DoorComponent.CloseKey);
+                // Arcane-End
 
                 return;
             case DoorState.Denying:
+                // Arcane-Start: Upstream
                 if (_animationSystem.HasRunningAnimation(entity, DoorComponent.DenyKey))
                     return;
+                // Arcane-End
 
-                _animationSystem.Play(entity, (Animation)entity.Comp.DenyingAnimation, DoorComponent.DenyKey);
+                _animationSystem.Play(entity, (Animation)entity.Comp.DenyingAnimation, DoorComponent.DenyKey); // Arcane-Edit: Upstream
 
                 return;
             case DoorState.Emagging:
+                // Arcane-Start: Upstream
                 if (_animationSystem.HasRunningAnimation(entity, DoorComponent.EmagKey))
                     return;
+                // Arcane-End
 
                 // We are checking beforehand since some doors may not have an emagging visual layer.
                 if (_sprite.TryGetLayer(entity.Owner, DoorVisualLayers.BaseEmagging, out var _, false))
-                    _animationSystem.Play(entity, (Animation)entity.Comp.EmaggingAnimation, DoorComponent.EmagKey);
+                    _animationSystem.Play(entity, (Animation)entity.Comp.EmaggingAnimation, DoorComponent.EmagKey); // Arcane-Edit: Upstream
 
                 return;
         }

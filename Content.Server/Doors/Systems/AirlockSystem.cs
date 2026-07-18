@@ -13,6 +13,8 @@ namespace Content.Server.Doors.Systems;
 public sealed partial class AirlockSystem : SharedAirlockSystem
 {
 
+//    [Dependency] private WiresSystem _wiresSystem = default!; // Arcane-Edit: Upstream
+
     public override void Initialize()
     {
         base.Initialize();
@@ -56,6 +58,21 @@ public sealed partial class AirlockSystem : SharedAirlockSystem
     {
         if (args.Handled || !args.Complex)
             return;
+
+        /* Arcane-Edit-Start: Upstream
+        if (TryComp<WiresPanelComponent>(uid, out var panel) &&
+            panel.Open &&
+            TryComp<ActorComponent>(args.User, out var actor))
+        {
+            if (TryComp<WiresPanelSecurityComponent>(uid, out var wiresPanelSecurity) &&
+                !wiresPanelSecurity.WiresAccessible)
+                return;
+
+            _wiresSystem.OpenUserInterface(uid, actor.PlayerSession);
+            args.Handled = true;
+            return;
+        }
+        */ // Arcane-Edit-End
 
         if (component.KeepOpenIfClicked && component.AutoClose)
         {
