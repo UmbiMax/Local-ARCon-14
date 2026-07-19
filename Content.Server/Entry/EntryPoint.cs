@@ -2,6 +2,7 @@ using Content.Server._NullLink;
 using Content.Server._NullLink.Core;
 using Content.Server._NullLink.EventBus;
 using Content.Server._NullLink.PlayerData;
+using Content.Server._Arcane;
 using Content.Server._Starlight;
 using Content.Server._Starlight.BugReports; // Staright
 using Content.Server._Starlight.TextToSpeech;
@@ -102,6 +103,12 @@ namespace Content.Server.Entry
         [Dependency] private INullLinkPlayerManager _nullLinkPlayerManager = default!;
 #endregion Nulllink
 
+        #region Arcane
+
+        [Dependency] private readonly IDiscordOAuthManager _discordOAuthManager = default!;
+
+        #endregion
+
         public override void PreInit()
         {
             ServerContentIoC.Register(Dependencies);
@@ -162,6 +169,9 @@ namespace Content.Server.Entry
 			_bugReport.Initialize();
 			_preWrittenDocument.Initialize();
             //🌟Starlight🌟 end
+
+            // Arcane
+            _discordOAuthManager.Initialize();
         }
 
         public override void PostInit()
