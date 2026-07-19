@@ -107,11 +107,14 @@ public sealed partial class CombatModeSystem : SharedCombatModeSystem
         if (!_cfg.GetCVar(CCVars.CombatModeSoundEnabled))
             return;
 
-        _audio.PlayGlobal(
-            new SoundPathSpecifier(inCombatMode
-                ? "/Audio/_Arcane/Effects/Actions/CombatMode/combatmode-on.ogg"
-                : "/Audio/_Arcane/Effects/Actions/CombatMode/combatmode-off.ogg"),
-            Filter.Local(),false);
+        if (!TryComp(entity, out CombatModeComponent? component))
+            return;
+
+        var sound = inCombatMode
+            ? component.CombatActivationSound
+            : component.CombatDeactivationSound;
+
+        _audio.PlayGlobal(sound, Filter.Local(), false);
     }
     // Arcane-End
 
