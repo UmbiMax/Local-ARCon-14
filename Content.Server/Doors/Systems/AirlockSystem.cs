@@ -12,7 +12,6 @@ namespace Content.Server.Doors.Systems;
 
 public sealed partial class AirlockSystem : SharedAirlockSystem
 {
-
 //    [Dependency] private WiresSystem _wiresSystem = default!; // Arcane-Edit: Upstream
 
     public override void Initialize()

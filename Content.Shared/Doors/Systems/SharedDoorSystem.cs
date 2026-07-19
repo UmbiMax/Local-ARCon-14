@@ -231,7 +231,7 @@ public abstract partial class SharedDoorSystem : EntitySystem
     /// </summary>
     private void OnAfterPry(EntityUid uid, DoorComponent door, ref PriedEvent args)
     {
-        // Arcane-Start: use force sounds when prying airlocks
+        // Arcane-Start: Use force sounds when prying airlocks
         SoundSpecifier? forceOpen = null;
         SoundSpecifier? forceClose = null;
         if (TryComp<AirlockComponent>(uid, out var airlock))
@@ -403,7 +403,7 @@ public abstract partial class SharedDoorSystem : EntitySystem
 
         SetCollidable(uid, false, door);
         door.Partial = true;
-        door.NextStateChange = GameTiming.CurTime + door.OpenTimeTwo; // Arcane-Edit: fix
+        door.NextStateChange = GameTiming.CurTime + door.OpenTimeTwo; // Arcane-Edit: Fix
         _activeDoors.Add((uid, door));
         Dirty(uid, door);
 

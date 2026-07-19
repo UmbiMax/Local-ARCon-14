@@ -142,11 +142,10 @@ public sealed partial class DoorComponent : Component
 
     #region Graphics
 
-    // Arcane-Start: for notice
+    // Arcane-Edit-Start
     /// <summary>
     /// The key used when playing door opening/closing/emagging/deny animations.
     /// </summary>
-    // Arcane-End
     public const string OpenKey = "door_animation_open";
 
     public const string CloseKey = "door_animation_close";
@@ -160,6 +159,7 @@ public sealed partial class DoorComponent : Component
     /// The key used when playing door emag animations.
     /// </summary>
     public const string EmagKey = "door_animation_emag";
+    // Arcane-Edit-End
 
     /// <summary>
     /// The sprite state used for the door when it's open.

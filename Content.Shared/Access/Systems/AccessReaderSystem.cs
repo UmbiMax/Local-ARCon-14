@@ -163,7 +163,7 @@ public sealed partial class AccessReaderSystem : EntitySystem
         args.Handled = true;
         accessReader.Value.Comp.AccessLists.Clear();
         accessReader.Value.Comp.AccessLog.Clear();
-        Dirty(accessReader.Value); // Arcane-Edit: fix door desynchronization
+        Dirty(accessReader.Value); // Arcane-Edit: Fix door desynchronization
     }
 
     private void OnConfigurationAttempt(Entity<AccessReaderComponent> ent, ref AccessReaderConfigurationAttemptEvent args)
