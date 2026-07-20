@@ -1,4 +1,5 @@
 using Content.Server.Administration;
+using Content.Server._Arcane.TTS;
 using Content.Server.Administration.Logs;
 using Content.Server.Administration.Managers;
 using Content.Server.Administration.Notes;
@@ -48,6 +49,7 @@ using Content.Server._NullLink.PlayerData;
 using Content.Shared._NullLink;
 using Content.Server._Starlight.TextToSpeech;
 using Content.Server._Starlight.Economy;
+using Content.Server._Arcane;
 #endregion Nulllink
 
 namespace Content.Server.IoC;
@@ -74,6 +76,7 @@ internal static class ServerContentIoC
         deps.Register<IAfkManager, AfkManager>();
 
         deps.Register<HolidaySystem>(); // Starlight
+        deps.Register<ArcaneTTSManager>(); // Arcane
 
         deps.Register<IGameMapManager, GameMapManager>();
         deps.Register<RulesManager, RulesManager>();
@@ -111,6 +114,7 @@ internal static class ServerContentIoC
         deps.Register<IBugReportManager, BugReportManager>();
         deps.Register<IAchievementRewardManager, NullLinkPlayerManager>();
         deps.Register<PreWrittenDocumentManager>();
+        deps.Register<IDiscordOAuthManager, DiscordOAuthManager>(); // Arcane
         // 🌟Starlight🌟 end
         // nulllink start
         deps.Register<IActorRouter, ActorRouter>();

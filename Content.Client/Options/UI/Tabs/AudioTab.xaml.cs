@@ -1,5 +1,6 @@
 using Content.Client.Administration.Managers;
 using Content.Client.Audio;
+using Content.Shared._Arcane.CCVars;
 using Content.Shared.CCVar;
 using Content.Shared._Starlight;
 using Content.Shared._Starlight.CCVar;
@@ -61,29 +62,17 @@ public sealed partial class AudioTab : Control
             _cfg.GetCVar(CCVars.MinMaxAmbientSourcesConfigured),
             _cfg.GetCVar(CCVars.MaxMaxAmbientSourcesConfigured));
 
-        // Starlight start
-
+        // Arcane-start
         Control.AddOptionPercentSlider(
-            StarlightCCVars.TTSVolume,
-            SliderTts,
+            ACCVars.TTSVolume,
+            SliderArcaneTts,
             scale: ContentAudioSystem.TtsMultiplier);
 
         Control.AddOptionPercentSlider(
-            StarlightCCVars.TTSRadioVolume,
-            SliderTtsRadio,
+            ACCVars.TTSRadioVolume,
+            SliderArcaneTtsRadio,
             scale: ContentAudioSystem.TtsMultiplier);
-
-        Control.AddOptionPercentSlider(
-            StarlightCCVars.TTSAnnounceVolume,
-            SliderTtsAnnounce,
-            scale: ContentAudioSystem.TtsMultiplier);
-
-        Control.AddOptionPercentSlider(
-            StarlightCCVars.TTSChimeVolume,
-            SliderTtsChime,
-            scale: ContentAudioSystem.TtsMultiplier);
-
-        // Starlight end
+        // Arcane-end
 
         Control.AddOptionCheckBox(CCVars.LobbyMusicEnabled, LobbyMusicCheckBox);
         Control.AddOptionCheckBox(CCVars.RestartSoundsEnabled, RestartSoundsCheckBox);
@@ -91,8 +80,7 @@ public sealed partial class AudioTab : Control
         Control.AddOptionCheckBox(CCVars.AdminSoundsEnabled, AdminSoundsCheckBox);
         Control.AddOptionCheckBox(CCVars.BwoinkSoundEnabled, BwoinkSoundCheckBox);
         Control.AddOptionCheckBox(StarlightCCVars.RadioChimeMuted, RadioChimeMuteCheckBox);
-        Control.AddOptionCheckBox(StarlightCCVars.TTSClientEnabled, TtsClientCheckBox);
-        Control.AddOptionCheckBox(StarlightCCVars.TTSRadioQueueEnabled, TtsRadioQueueCheckBox);
+        Control.AddOptionCheckBox(ACCVars.UseTTS, ArcaneTtsClientCheckBox); // Arcane
 
         Control.Initialize();
     }
