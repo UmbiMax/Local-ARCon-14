@@ -59,5 +59,12 @@ Entries:
   id: 2301
   time: '2026-07-20T05:39:20.000000+00:00'
   url: https://github.com/ArcaneSS14/arcane/pull/23
+- author: UmbiMax
+  changes:
+  - message: Порт спрайтов перчаток, головных уборов, поясов, вещмешков/сумок/рюкзаков.
+    type: Tweak
+  id: 1801
+  time: '2026-07-20T08:15:14.000000+00:00'
+  url: https://github.com/ArcaneSS14/arcane/pull/18
 Order: -1
 

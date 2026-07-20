@@ -278,9 +278,9 @@
   description: A special suit that protects against hazardous, low pressure environments. Has an additional layer of armor.
   components:
   - type: Sprite
-    sprite: _Starlight/Clothing/OuterClothing/Hardsuits/security.rsi #Starlight
+    sprite: Clothing/OuterClothing/Hardsuits/security.rsi #Starlight # Arcane-Edit: Returned
   - type: Clothing
-    sprite: _Starlight/Clothing/OuterClothing/Hardsuits/security.rsi #Starlight
+    sprite: Clothing/OuterClothing/Hardsuits/security.rsi #Starlight # Arcane-Edit: Returned
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -362,9 +362,9 @@
   description: A specialized, heavy riot suit geared to combat low pressure environments.
   components:
   - type: Sprite
-    sprite: _Starlight/Clothing/OuterClothing/Hardsuits/security-warden.rsi #Starlight
+    sprite: Clothing/OuterClothing/Hardsuits/security-warden.rsi #Starlight # Arcane-Edit: Returned
   - type: Clothing
-    sprite: _Starlight/Clothing/OuterClothing/Hardsuits/security-warden.rsi #Starlight
+    sprite: Clothing/OuterClothing/Hardsuits/security-warden.rsi #Starlight # Arcane-Edit: Returned
   - type: PressureProtection
     highPressureMultiplier: 0.5
     lowPressureMultiplier: 1000
@@ -573,9 +573,9 @@
   description: A special suit that protects against hazardous, low pressure environments. Has an additional layer of armor.
   components:
   - type: Sprite
-    sprite: _Starlight/Clothing/OuterClothing/Hardsuits/security-red.rsi #Starlight
+    sprite: Clothing/OuterClothing/Hardsuits/salvage.rsi #Starlight # Arcane-Edit: Returned
   - type: Clothing
-    sprite: _Starlight/Clothing/OuterClothing/Hardsuits/security-red.rsi #Starlight
+    sprite: Clothing/OuterClothing/Hardsuits/salvage.rsi #Starlight # Arcane-Edit: Returned
   - type: PressureProtection
     highPressureMultiplier: 0.45
     lowPressureMultiplier: 1000
