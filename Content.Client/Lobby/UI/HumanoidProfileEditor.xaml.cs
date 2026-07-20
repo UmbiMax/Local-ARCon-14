@@ -9,6 +9,7 @@ using Content.Client.Players.PlayTimeTracking;
 using Content.Client.Stylesheets;
 using Content.Client.Sprite;
 using Content.Client.UserInterface.Systems.Guidebook;
+using Content.Client._Arcane.TTS;
 // Cosmatic Drift Record System-start
 using Content.Client._CD.Records.UI;
 using Content.Shared._CD.Records;
@@ -563,7 +564,7 @@ namespace Content.Client.Lobby.UI
             //🌟Starlight🌟
             _voices = [.. _prototypeManager
                 .EnumeratePrototypes<VoicePrototype>()
-                .Where(o => !o.Silicon)];
+                .Where(o => !o.Silicon && o.RoundStart && o.ArcaneVoice != null)]; // Arcane
 
             _voiceSelectorWindow = new(_voices);
             _voiceSelectorWindow.OnVoiceSelected += voice =>
@@ -572,15 +573,20 @@ namespace Content.Client.Lobby.UI
                 IsDirty = true;
             };
 
+            // Arcane-start
             _voiceSelectorWindow.OnPreviewRequested += () =>
-                _entManager.System<TextToSpeechSystem>().RequestPreviewTts(Profile?.Voice ?? "");
+            {
+                var voiceId = Profile?.Voice ?? "";
+                _entManager.System<ArcaneTTSSystem>().RequestPreviewTts(voiceId);
+            };
+            // Arcane-end
 
             VoiceButton.OnPressed += _ => _voiceSelectorWindow.OpenCentered();
 
             // 🌟Starlight🌟 start
             _siliconVoices = [.. _prototypeManager
                 .EnumeratePrototypes<VoicePrototype>()
-                .Where(o => o.Silicon)];
+                .Where(o => o.Silicon && o.ArcaneVoice != null)]; // Arcane
 
             _voiceSiliconSelectorWindow = new(_siliconVoices);
             _voiceSiliconSelectorWindow.OnVoiceSelected += voice =>
@@ -590,7 +596,7 @@ namespace Content.Client.Lobby.UI
             };
 
             _voiceSiliconSelectorWindow.OnPreviewRequested
-                += () => _entManager.System<TextToSpeechSystem>().RequestPreviewTts(Profile?.SiliconVoice ?? "");
+                += () => _entManager.System<ArcaneTTSSystem>().RequestPreviewTts(Profile?.SiliconVoice ?? ""); // Arcane
 
             SiliconVoiceButton.OnPressed += _ => _voiceSiliconSelectorWindow.OpenCentered();
 
@@ -610,18 +616,22 @@ namespace Content.Client.Lobby.UI
 
             _voiceSelectorWindow.UpdateVoices(_voices, updateVoice: false);
 
-            if (string.IsNullOrEmpty(Profile.Voice))
+            // Arcane-start
+            var voiceChoice = _voices.FirstOrDefault(x => x.ID == Profile.Voice);
+            if (voiceChoice == null)
             {
                 var available = _voices.ToArray();
                 if (available.Length > 0)
                 {
                     var index = new Random().Next(0, available.Length);
                     Profile.Voice = available[index].ID;
+                    voiceChoice = available[index];
                 }
             }
-            var voiceChoice = _voices.FirstOrDefault(x => x.ID == Profile.Voice);
-            if (voiceChoice != default)
+
+            if (voiceChoice != null)
                 _voiceSelectorWindow.SelectVoice(voiceChoice);
+            // Arcane-end
         }
         // 🌟Starlight🌟 Start
 
@@ -660,19 +670,22 @@ namespace Content.Client.Lobby.UI
 
             _voiceSiliconSelectorWindow.UpdateVoices(_siliconVoices, updateVoice: false);
 
-            if (string.IsNullOrEmpty(Profile.SiliconVoice))
+            // Arcane-start
+            var siliconVoiceChoice = _siliconVoices.FirstOrDefault(x => x.ID == Profile.SiliconVoice);
+            if (siliconVoiceChoice == null)
             {
                 var available = _siliconVoices.ToArray();
                 if (available.Length > 0)
                 {
                     var index = new Random().Next(0, available.Length);
                     Profile.SiliconVoice = available[index].ID;
+                    siliconVoiceChoice = available[index];
                 }
             }
 
-            var siliconVoiceChoice = _siliconVoices.FirstOrDefault(x => x.ID == Profile.SiliconVoice);
-            if (siliconVoiceChoice != default)
+            if (siliconVoiceChoice != null)
                 _voiceSiliconSelectorWindow.SelectVoice(siliconVoiceChoice);
+            // Arcane-end
         }
 
 
@@ -2116,4 +2129,3 @@ namespace Content.Client.Lobby.UI
         }
     }
 }
-

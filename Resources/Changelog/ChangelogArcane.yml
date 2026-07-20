@@ -50,5 +50,14 @@ Entries:
   id: 801
   time: '2026-07-18T12:52:34.000000+00:00'
   url: https://github.com/ArcaneSS14/arcane/pull/8
+- author: Vecortys
+  changes:
+  - message: Введена система ТТС аркейна.
+    type: Add
+  - message: Удалёно сообщение об отправителе консольного оповещения.
+    type: Remove
+  id: 2301
+  time: '2026-07-20T05:39:20.000000+00:00'
+  url: https://github.com/ArcaneSS14/arcane/pull/23
 Order: -1
 
