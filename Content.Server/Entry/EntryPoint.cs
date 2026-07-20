@@ -2,6 +2,8 @@ using Content.Server._NullLink;
 using Content.Server._NullLink.Core;
 using Content.Server._NullLink.EventBus;
 using Content.Server._NullLink.PlayerData;
+using Content.Server._Arcane.TTS;
+using Content.Server._Arcane;
 using Content.Server._Starlight;
 using Content.Server._Starlight.BugReports; // Staright
 using Content.Server._Starlight.TextToSpeech;
@@ -86,6 +88,7 @@ namespace Content.Server.Entry
         [Dependency] private ServerApi _serverApi = default!;
         [Dependency] private ServerInfoManager _serverInfo = default!;
         [Dependency] private ServerUpdateManager _updateManager = default!;
+        [Dependency] private ArcaneTTSManager _arcaneTtsManager = default!; // Arcane
 
 #region Starlight
         [Dependency] private ITTSClient _ttsClient = default!;
@@ -101,6 +104,12 @@ namespace Content.Server.Entry
         [Dependency] private INullLinkEventBusManager _nullLinkEventBus = default!;
         [Dependency] private INullLinkPlayerManager _nullLinkPlayerManager = default!;
 #endregion Nulllink
+
+        #region Arcane
+
+        [Dependency] private readonly IDiscordOAuthManager _discordOAuthManager = default!;
+
+        #endregion
 
         public override void PreInit()
         {
@@ -159,9 +168,14 @@ namespace Content.Server.Entry
             //🌟Starlight🌟 start
             _ttsClient.Initialize();
             _holidaySystem.Initialize();
-			_bugReport.Initialize();
-			_preWrittenDocument.Initialize();
+            _bugReport.Initialize();
+            _preWrittenDocument.Initialize();
             //🌟Starlight🌟 end
+
+            // Arcane-start
+            _discordOAuthManager.Initialize();
+            _arcaneTtsManager.Initialize();
+            // Arcane-end
         }
 
         public override void PostInit()

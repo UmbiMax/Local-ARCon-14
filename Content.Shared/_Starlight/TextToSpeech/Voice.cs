@@ -12,7 +12,22 @@ public sealed partial class VoicePrototype : IPrototype
     public string ID { get; private set; } = default!;
 
     [DataField("voice")]
-    public int Voice { get; private set; }
+    public int Voice { get; private set; } = -1; // Arcane
+
+    // Arcane-start
+    /// <summary>
+    /// Speaker identifier used by the Arcane TTS provider.
+    /// A null value means that this voice belongs to another provider.
+    /// </summary>
+    [DataField]
+    public string? ArcaneVoice { get; private set; }
+
+    /// <summary>
+    /// Whether the voice is available in the character editor.
+    /// </summary>
+    [DataField]
+    public bool RoundStart { get; private set; } = true;
+    // Arcane-end
 
     [DataField("name")]
     public string Name { get; private set; } = string.Empty;

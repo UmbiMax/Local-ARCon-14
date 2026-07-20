@@ -8,4 +8,9 @@ public sealed partial class TextToSpeechComponent : Component
 {
     [DataField("voice", customTypeSerializer: typeof(PrototypeIdSerializer<VoicePrototype>))]
     public string? VoicePrototypeId { get; set; }
+
+    // Arcane-start
+    [DataField]
+    public string? Effect;
+    // Arcane-end
 }
