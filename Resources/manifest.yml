@@ -1,5 +1,7 @@
-﻿defaultWindowTitle: 🌟 Starlight 🌟
-windowIconSet: /Textures/Logo/icon
-splashLogo: /Textures/Logo/logo.png
+﻿# Arcane-start
+defaultWindowTitle: Arcane Station
+windowIconSet: /Textures/Logo/icon-arcane
+splashLogo: /Textures/Logo/logo-arcane.png
+# Arcane-end
 
 # PJB PLEASE
