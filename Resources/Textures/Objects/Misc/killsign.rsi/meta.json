@@ -114,6 +114,10 @@
         {
             "name": "icon-hidden",
             "directions": 1
+        },
+        {
+            "name": "sign",
+            "directions": 1
         }
     ]
 }

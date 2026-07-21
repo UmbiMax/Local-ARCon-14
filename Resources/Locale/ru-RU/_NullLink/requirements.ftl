@@ -7,7 +7,7 @@ requirements-playtime =
        *[other] Вам не хватает {$time} игрового времени в категории «{$tracker}» на сервере {$server}.
     }
 
-roles-req-discord-starlight = 🌟 STARLIGHT 🌟
+roles-req-discord-starlight = Arcane
 roles-req-discord-wizden = Визден
 
 roles-req-mentor-roles = наставник
