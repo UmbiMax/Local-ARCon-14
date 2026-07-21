@@ -27,6 +27,7 @@
   - Heels # 🌟Starlight🌟
   - LaceupShoes # 🌟Starlight🌟
   - LeatherShoes # 🌟Starlight🌟
+  - OldFashionesDoctorShoesPatron # Arcane
 
 - type: loadoutGroup
   id: SurvivalMedical
@@ -51,6 +52,7 @@
   loadouts:
   - ChiefMedicalOfficerBeret
   - CMOMedicalHeadMirror
+  - CMOHatPatron # Arcane
 
 - type: loadoutGroup
   id: ChiefMedicalOfficerJumpsuit
@@ -65,6 +67,8 @@
   - ChiefMedicalOfficerVestSuit # DeltaV
   - ChiefMedicalOfficerVestSkirt # DeltaV
   - ChiefMedicalOfficerSummerSuit # DeltaV
+  - CMOSweaterSkirtPatron # Arcane
+  - CMOSweaterPatron # Arcane
 
 - type: loadoutGroup
   id: ChiefMedicalOfficerOuterClothing
@@ -84,6 +88,7 @@
   - ChiefMedicalOfficerMantle
   - ChiefMedicalOfficerShawl # DeltaV
   - ChiefMedicalOfficerOverShoulder # DeltaV
+  - CMOHonorableCloakPatron # Arcane
 
 - type: loadoutGroup
   id: ChiefMedicalOfficerShoes
@@ -117,6 +122,7 @@
   - RainbowSurgeryCap # Delta V
   - WhiteSurgeryCap # Delta V
   - NurseHat
+  - SanitarHatPatron # Arcane
 
 - type: loadoutGroup
   id: MedicalDoctorJumpsuit
@@ -152,6 +158,10 @@
   - WindbreakerMedical # 🌟Starlight🌟
   - RegularLabCoatLong # DeltaV
   - CoronerLabCoatLong # Starlight
+  - EeayLabCoatPatron # Arcane
+  - LabCoatBeltsPatron # Arcane
+  - LabCoatBlackPatron # Arcane
+  - LivseyCoatPatron # Arcane
 
 - type: loadoutGroup
   id: MedicalDoctorPDA

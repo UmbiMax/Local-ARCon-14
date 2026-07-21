@@ -428,10 +428,13 @@ namespace Content.Server.Connection
                 softPlayerCount -= _adminManager.ActiveAdmins.Count();
             }
 
-            if ((softPlayerCount >= _cfg.GetCVar(CCVars.SoftMaxPlayers) && !adminBypass) && !wasInGame)
+            // Arcane-start
+            if ((softPlayerCount >= _cfg.GetCVar(CCVars.SoftMaxPlayers) && !adminBypass) && !wasInGame
+                && !await HasArcanePatronCapacityBypass(userId))
             {
                 return (ConnectionDenyReason.Full, Loc.GetString("soft-player-cap-full"), null);
             }
+            // Arcane-end
 
             // Checks for whitelist IF it's enabled AND the user isn't an admin. Admins are always allowed.
             if (_cfg.GetCVar(CCVars.WhitelistEnabled) && adminData is null)

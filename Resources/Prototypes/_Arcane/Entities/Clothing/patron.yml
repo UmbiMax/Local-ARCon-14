@@ -1,0 +1,419 @@
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformBartender
+  name: bartender uniform
+  description: Bartender uniform.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/bartender.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/bartender.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformBartenderSkirt
+  name: bartender uniform with skirt
+  description: Bartender uniform with skirt.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/bartender_skirt.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/bartender_skirt.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformCEBlack
+  name: CE's black uniform
+  description: An indicator of skill and sense of style.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/CE_black.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/CE_black.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformCEBlackSkirt
+  name: CE's black uniform with skirt
+  description: An indicator of skill and sense of style.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/CE_black_skirt.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/CE_black_skirt.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformCEWhiteSkirt
+  name: CE's white uniform with skirt
+  description: An indicator of skill and sense of style.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/CE_white_skirt.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/CE_white_skirt.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformCEWhite
+  name: CE's white uniform
+  description: An indicator of skill and sense of style.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/CE_white.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/CE_white.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformPinkClown
+  name: pink clown dress
+  description: Even more fun, tricks and style!
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/clown.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/clown.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformCMOSweaterSkirt
+  name: CMO's sweater with skirt
+  description: An expensive, high-quality sweater shows who's the boss of practical medicine.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/CMO_sweater_skirt.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/CMO_sweater_skirt.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformCMOSweater
+  name: CMO's sweater
+  description: An expensive, high-quality sweater shows who's the boss of practical medicine.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/CMO_sweater.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/CMO_sweater.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformHOSShortDress
+  name: HOS' short dress
+  description: Show them who's in charge here.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/HOS_short_dress.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/HOS_short_dress.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformNun
+  name: nun's dress
+  description: Modest gothic black dress.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/nun.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/nun.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformQMBlackSkirtSleeveles
+  name: sleeveless QM's black uniform with skirt
+  description: "Get out of here and get me some money too!"
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/QM_black_skirt.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/QM_black_skirt.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformQMBlackSleeveles
+  name: sleeveless QM's black uniform
+  description: "Get out of here and get me some money too!"
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/QM_black.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/QM_black.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformQMSkirtSleeveles
+  name: sleeveless QM's uniform with skirt
+  description: "Get out of here and get me some money too!"
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/QM_skirt.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/QM_skirt.rsi
+
+- type: entity
+  parent: ClothingUniformBase
+  id: ClothingUniformQMSleeveles
+  name: sleeveless QM's uniform
+  description: "Get out of here and get me some money too!"
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/QM.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Innerclothing/Sponsor/QM.rsi
+
+- type: entity
+  parent: ClothingHandsButcherable
+  id: ClothingHandsQMLongGloves
+  name: QM's long gloves
+  description: Gloves made to protect against cuts from banknotes.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Hands/Sponsor/QM_long_gloves.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Hands/Sponsor/QM_long_gloves.rsi
+
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingShoesOldFashionedMedical
+  name: doctor's old-fashioned shoes
+  description: Classic shoes from enlightenment ages.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Shoes/Sponsor/livsey.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Shoes/Sponsor/livsey.rsi
+
+- type: entity
+  parent: ClothingShoesBase
+  id: ClothingShoesQMBoots
+  name: QM's boots
+  description: Expensive stylish black boots.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Shoes/Sponsor/QM_boots.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Shoes/Sponsor/QM_boots.rsi
+
+- type: entity
+  parent: ClothingHeadHatCentcom
+  id: ClothingHatCEBlackBeret
+  name: CE's black beret
+  description: CE's black beret.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Head/Sponsor/CE_beret.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Head/Sponsor/CE_beret.rsi
+
+- type: entity
+  parent: ClothingHeadHatCentcom
+  id: ClothingHatClownPink
+  name: pink clown hat
+  description: Pink clown hat.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Head/Sponsor/clown.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Head/Sponsor/clown.rsi
+
+- type: entity
+  parent: ClothingHeadHatCentcom
+  id: ClothingHatCMO
+  name: CMO's hat
+  description: CMO's hat.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Head/Sponsor/CMO_hat.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Head/Sponsor/CMO_hat.rsi
+
+- type: entity
+  parent: ClothingHeadHatCentcom
+  id: ClothingHatHOSCap
+  name: HOS' cap
+  description: HOS' cap.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Head/Sponsor/HOS_cap.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Head/Sponsor/HOS_cap.rsi
+
+- type: entity
+  parent: ClothingHeadHatCentcom
+  id: ClothingHatQMBlackBeret
+  name: QM's black beret
+  description: QM's black beret.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Head/Sponsor/QM_beret.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Head/Sponsor/QM_beret.rsi
+
+- type: entity
+  parent: ClothingHeadHatCentcom
+  id: ClothingHatSanitar
+  name: sanitar hat
+  description: Sanitar hat.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Head/Sponsor/sanitar_hat.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/Head/Sponsor/sanitar_hat.rsi
+
+- type: entity
+  parent: [ClothingOuterArmorHoS, ClothingOuterStorageBase, BaseSecurityCommandContraband]
+  id: ClothingOuterArmorHoSLeather
+  name: leather coat
+  description: A black leather coat with an experimental bluespace assisted alloy for extra protection and style.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/OuterClothing/Sponsor/leather_coat.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/OuterClothing/Sponsor/leather_coat.rsi
+
+- type: entity
+  parent: [ClothingOuterArmorHoS, ClothingOuterStorageBase, BaseSecurityCommandContraband]
+  id: ClothingOuterHOSLongVest
+  name: HOS' long vest
+  description: A flexible and light armored vest made from a hard synthetic material.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/OuterClothing/Sponsor/HOS_armor.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/OuterClothing/Sponsor/HOS_armor.rsi
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterCoatLabEasy
+  name: easy lab coat
+  description: A suit that protects against minor chemical spills.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/OuterClothing/Sponsor/robe.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/OuterClothing/Sponsor/robe.rsi
+  - type: Armor
+    modifiers:
+      coefficients:
+        Caustic: 0.65
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterCoatLabBelts
+  name: lab coat with belts
+  description: A suit that protects against minor chemical spills. It has black belts on the chest.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/OuterClothing/Sponsor/robe_belts.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/OuterClothing/Sponsor/robe_belts.rsi
+  - type: Armor
+    modifiers:
+      coefficients:
+        Caustic: 0.65
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterCoatLabBlack
+  name: black lab coat
+  description: A black suit that protects against minor chemical spills.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/OuterClothing/Sponsor/black_robe.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/OuterClothing/Sponsor/black_robe.rsi
+  - type: Armor
+    modifiers:
+      coefficients:
+        Caustic: 0.65
+
+- type: entity
+  parent: ClothingOuterStorageBase
+  id: ClothingOuterCoatLabEnlightenment
+  name: enlightenment lab coat
+  description: The word "bacchus" and the word "death" mean the same thing to you.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/OuterClothing/Sponsor/livsey.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/OuterClothing/Sponsor/livsey.rsi
+  - type: Armor
+    modifiers:
+      coefficients:
+        Caustic: 0.65
+
+- type: entity
+  parent: ClothingOuterBase
+  id: ClothingOuterApostolCoat
+  name: apostol coat
+  description: Heed the voice of my prayer when I call upon You.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/OuterClothing/Sponsor/apostol.rsi
+  - type: Clothing
+    sprite: _Arcane/Clothing/OuterClothing/Sponsor/apostol.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingCloakCEBlack
+  name: CE's black cloak
+  description: A black cloak with gold trim, made for the best in the field.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Neck/Sponsor/CE_black_cloak.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingCloakCETricolor
+  name: CE's tricolor cloak
+  description: Green stripe? Looks exquisite.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Neck/Sponsor/CE_white_cloak.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingCloakCMOHonorable
+  name: CMO's honorable cloak
+  description: Only the most experienced doctor can get this.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Neck/Sponsor/CMO_cloak.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingCloakHOSBlack
+  name: HOS' black cloak
+  description: Brutal and gloomy.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Neck/Sponsor/HOS_black_cloak.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingCloakHOSRed
+  name: HOS' red cloak
+  description: Brutal and gloomy.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Neck/Sponsor/HOS_red_cloak.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingCloakQMBlack
+  name: QM's black cloak
+  description: Black feathers! You are definitely the boss here.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Neck/Sponsor/QM_black_cloak.rsi
+
+- type: entity
+  parent: ClothingNeckBase
+  id: ClothingCloakQMWhite
+  name: QM's white cloak
+  description: Classic.
+  components:
+  - type: Sprite
+    sprite: _Arcane/Clothing/Neck/Sponsor/QM_white_cloak.rsi
