@@ -49,7 +49,7 @@
   description: A large duffel bag for holding extra captainly goods.
   components:
   - type: Sprite
-    sprite: _Starlight/Clothing/Back/Duffels/captain.rsi # Starlight rescolored
+    sprite: Clothing/Back/Duffels/captain.rsi # Starlight rescolored # Arcane-Edit: Returned
 
 - type: entity
   parent: ClothingBackpackDuffel

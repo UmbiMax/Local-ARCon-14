@@ -201,6 +201,7 @@ namespace Content.Shared.Preferences
                 other.Enabled,
                 other.SpeciesLoadout) // Far Horizons
         {
+            CharacterImageUrl = other.CharacterImageUrl; // Arcane
             // Cosmatic Drift Record System-start
             CDCharacterRecords = other.CDCharacterRecords != null
                 ? new PlayerProvidedCharacterRecords(other.CDCharacterRecords)
@@ -513,6 +514,7 @@ namespace Content.Shared.Preferences
             if (Gender != other.Gender) return false;
             if (Species != other.Species) return false;
             if (CustomSpecieName != other.CustomSpecieName) return false; // Starlight
+            if (CharacterImageUrl != other.CharacterImageUrl) return false; // Arcane
             if (!Cybernetics.SequenceEqual(other.Cybernetics)) return false; // Starlight
             if (SpawnPriority != other.SpawnPriority) return false;
             if (!_jobPreferences.SequenceEqual(other._jobPreferences)) return false;
@@ -546,6 +548,7 @@ namespace Content.Shared.Preferences
             if (Gender != other.Gender) throw new DebugAssertException($"Gender doesn't match expected '{Gender}' got '{other.Gender}'");;
             if (Species != other.Species) throw new DebugAssertException($"Species doesn't match expected '{Species.Id}' got '{other.Species.Id}'");;
             if (CustomSpecieName != other.CustomSpecieName) throw new DebugAssertException($"CustomSpecieName doesn't match expected '{CustomSpecieName}' got '{other.CustomSpecieName}'");
+            if (CharacterImageUrl != other.CharacterImageUrl) throw new DebugAssertException($"CharacterImageUrl doesn't match expected '{CharacterImageUrl}' got '{other.CharacterImageUrl}'"); // Arcane
             if (!Cybernetics.SequenceEqual(other.Cybernetics)) throw new DebugAssertException($"Cybernetics doesn't match expected '{Cybernetics}' got '{other.Cybernetics}'");
             if (SpawnPriority != other.SpawnPriority) throw new DebugAssertException($"SpawnPriority doesn't match expected '{SpawnPriority}' got '{other.SpawnPriority}'");
             if (!_jobPreferences.SequenceEqual(other._jobPreferences)) throw new DebugAssertException($"_jobPreferences doesn't match expected '{_jobPreferences}' got '{other._jobPreferences}'");;
@@ -711,6 +714,7 @@ namespace Content.Shared.Preferences
 
             Name = name;
             CustomSpecieName = customspeciename; // Starlight
+            CharacterImageUrl = ValidateCharacterImageUrl(CharacterImageUrl); // Arcane
             FlavorText = flavortext;
             Age = age;
             Sex = sex;
@@ -846,6 +850,7 @@ namespace Content.Shared.Preferences
             hashCode.Add(FlavorText);
             hashCode.Add(Species);
             hashCode.Add(CustomSpecieName); // Starlight
+            hashCode.Add(CharacterImageUrl); // Arcane
             hashCode.Add(Age);
             hashCode.Add((int)Sex);
             hashCode.Add((int)Gender);

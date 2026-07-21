@@ -99,5 +99,8 @@ public sealed class StarLightModel : DataModelBase
 
         [MaxLength(4096)]
         public string OOCNotes { get; set; } = string.Empty;
+
+        [MaxLength(512)]
+        public string CharacterImageUrl { get; set; } = string.Empty; // Arcane
     }
 }

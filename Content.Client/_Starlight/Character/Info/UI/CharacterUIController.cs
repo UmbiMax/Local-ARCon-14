@@ -1,30 +1,19 @@
 ﻿using Content.Client._Starlight.Character.Info.UI;
+using Content.Client._Arcane.DetailExaminable;
 
 // ReSharper disable once CheckNamespace
 namespace Content.Client.UserInterface.Systems.Character;
 
 public sealed partial class CharacterUIController
 {
-    private readonly Dictionary<EntityUid, CharacterInspectWindow> _openInspectionWindows = new();
+    private readonly Dictionary<EntityUid, DetailExaminableWindow> _openInspectionWindows = new(); // Arcane
 
     public void OpenInspectCharacterWindow(EntityUid target, EntityUid viewer)
     {
         if (!target.Valid)
             return;
 
-        if (target == viewer)
-        {
-            //If attempting to inspect own character, redirect to character window
-            if (_window == null || _window.IsOpen)
-            {
-                return;
-            }
-
-            _characterInfo.RequestCharacterInfo();
-            SLSetSelfCharacterInfo();
-            _window.Open();
-            return;
-        }
+        // Arcane: self-inspection uses the same detailed window as inspecting another character.
 
         if (_openInspectionWindows.TryGetValue(target, out var window))
         {
@@ -33,13 +22,16 @@ public sealed partial class CharacterUIController
             return;
         }
 
-        window = new CharacterInspectWindow();
+        window = new DetailExaminableWindow(); // Arcane
         window.SetCharacter(target, EntityManager, viewer.Valid ? viewer : target);
 
         _openInspectionWindows[target] = window;
 
         window.OnClose += () => _openInspectionWindows.Remove(target);
-        window.Title = Loc.GetString("character-info-window-title", ("player", target));
+        // Arcane-start
+        window.Title = Loc.GetString("arcane-detail-examinable-window-title");
+        window.OpenCentered();
+        // Arcane-end
     }
 
     private void SLClearSelfCharacterInfo()

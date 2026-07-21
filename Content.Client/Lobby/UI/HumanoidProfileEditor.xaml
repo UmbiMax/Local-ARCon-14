@@ -8,6 +8,7 @@
     xmlns:traits="clr-namespace:Content.Client._Starlight.Traits.UI"
     xmlns:starlightHumanoid="clr-namespace:Content.Client._Starlight.Humanoid"
     xmlns:starlightProfileEditorControls="clr-namespace:Content.Client._Starlight.Lobby.UI.ProfileEditorControls"
+    xmlns:arcaneDetail="clr-namespace:Content.Client._Arcane.DetailExaminable"
     HorizontalExpand="True">
     <!--  Left side  -->
     <BoxContainer
@@ -296,6 +297,11 @@
                     <ui1:OOCInfoEditor Name="OOCInfoEditor" />
                 </ScrollContainer>
             </BoxContainer>
+            <!-- Arcane-start -->
+            <BoxContainer Name="CharacterImageTab" Margin="10" Orientation="Vertical">
+                <arcaneDetail:CharacterImageEditor Name="CharacterImageEditor" />
+            </BoxContainer>
+            <!-- Arcane-end -->
             <!--  Starlight end  -->
         </TabContainer>
     </BoxContainer>
