@@ -29,6 +29,8 @@ public sealed partial class JukeboxSystem : SharedJukeboxSystem
         SubscribeLocalEvent<JukeboxComponent, ComponentInit>(OnComponentInit);
         SubscribeLocalEvent<JukeboxComponent, ComponentShutdown>(OnComponentShutdown);
 
+        InitializeVolume(); // Arcane
+
         SubscribeLocalEvent<JukeboxComponent, PowerChangedEvent>(OnPowerChanged);
     }
 
@@ -56,7 +58,12 @@ public sealed partial class JukeboxSystem : SharedJukeboxSystem
                 return;
             }
 
-            component.AudioStream = Audio.PlayPvs(jukeboxProto.Path, uid, AudioParams.Default.WithMaxDistance(10f))?.Entity;
+            // Arcane-start
+            var audioParams = AudioParams.Default
+                .WithMaxDistance(10f)
+                .WithVolume(SharedJukeboxSystem.SliderToAudioVolume(component.Volume));
+            component.AudioStream = Audio.PlayPvs(jukeboxProto.Path, uid, audioParams)?.Entity;
+            // Arcane-end
             Dirty(uid, component);
         }
     }

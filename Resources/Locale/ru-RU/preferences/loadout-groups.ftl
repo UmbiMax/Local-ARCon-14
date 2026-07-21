@@ -96,6 +96,8 @@ loadout-group-quartermaster-head = Квартирмейстер, голова
 loadout-group-quartermaster-jumpsuit = Квартирмейстер, комбинезон
 loadout-group-quartermaster-neck = Квартирмейстер, шея
 loadout-group-quartermaster-outerclothing = Квартирмейстер, верхняя одежда
+# Arcane
+loadout-group-quartermaster-hands = Квартирмейстер, перчатки
 loadout-group-quartermaster-shoes = Квартирмейстер, обувь
 
 loadout-group-cargo-technician-head = Грузчик, голова

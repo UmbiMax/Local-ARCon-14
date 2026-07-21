@@ -34,5 +34,4 @@ chat-speech-verb-rodentia-1 = пищит
 chat-speech-verb-rodentia-2 = попискивает
 chat-speech-verb-rodentia-3 = стрекочет
 chat-speech-verb-rodentia-4 = визжит
-chat-manager-sender-announcement-wrap-message = [font size=14][bold]Объявление от {$sender}[/font][font size=12]
-                                                {$message}[/bold][/font]
+# Arcane: сообщение уже определено в chat/managers/chat-manager.ftl.

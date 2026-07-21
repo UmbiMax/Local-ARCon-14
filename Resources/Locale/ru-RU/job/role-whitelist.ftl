@@ -1,1 +1,1 @@
-role-not-whitelisted = Вы не включены в белый список на эту роль.
+# Arcane: актуальная форматированная строка находится в _Starlight/job/role-requirements.ftl.

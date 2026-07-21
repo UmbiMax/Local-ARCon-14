@@ -44,6 +44,7 @@ public sealed partial class JukeboxBoundUserInterface : BoundUserInterface
         _menu.OnSongSelected += SelectSong;
 
         _menu.SetTime += SetTime;
+        _menu.SetVolume += SetVolume; // Arcane
         PopulateMusic();
         Reload();
     }
@@ -57,6 +58,7 @@ public sealed partial class JukeboxBoundUserInterface : BoundUserInterface
             return;
 
         _menu.SetAudioStream(jukebox.AudioStream);
+        _menu.SetVolumeSlider(jukebox.Volume); // Arcane
 
         if (_protoManager.Resolve(jukebox.SelectedSongId, out var songProto))
         {
@@ -98,4 +100,3 @@ public sealed partial class JukeboxBoundUserInterface : BoundUserInterface
         SendMessage(new JukeboxSetTimeMessage(sentTime));
     }
 }
-

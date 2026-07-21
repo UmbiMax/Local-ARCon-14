@@ -150,6 +150,13 @@
                                 <Control HorizontalExpand="True" />
                                 <OptionButton Name="SpawnPriorityButton" HorizontalAlignment="Right" />
                             </BoxContainer>
+                            <!-- Arcane-start -->
+                            <BoxContainer HorizontalExpand="True">
+                                <Label Text="{Loc 'humanoid-profile-editor-erp-preference-label'}" />
+                                <Control HorizontalExpand="True" />
+                                <OptionButton Name="ErpPreferenceButton" HorizontalAlignment="Right" />
+                            </BoxContainer>
+                            <!-- Arcane-end -->
                             <!--  Starlight Start: Voice Selectors  -->
                             <BoxContainer HorizontalExpand="True">
                                 <Label Text="{Loc 'humanoid-profile-editor-voice-label'}" />
