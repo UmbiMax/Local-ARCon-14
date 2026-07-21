@@ -381,6 +381,7 @@ namespace Content.Server.Database
                 speciesLoadout // Far Horizons
             );
             humanoid = humanoid.WithCharacterImageUrl(characterImageUrl); // Arcane
+            humanoid = humanoid.WithErpPreference((Content.Shared._Arcane.ERP.ErpPreference) profile.ErpPreference); // Arcane
             // Cosmatic Drift Record System: Rehydrate saved CD records into the mutable profile copy
             if (profile.CDProfile?.CharacterRecords != null)
             {
@@ -419,6 +420,7 @@ namespace Content.Server.Database
             profile.CharacterInfo.CharacterSecrets = humanoid.Secrets;//Starlight
             profile.CharacterInfo.ExploitableInfo = humanoid.ExploitableInfo;//Starlight
             profile.CharacterInfo.CharacterImageUrl = humanoid.CharacterImageUrl; // Arcane
+            profile.ErpPreference = (int) humanoid.ErpPreference; // Arcane
             profile.Species = humanoid.Species;
             profile.StarLightProfile ??= new StarLightModel.StarLightProfile(); // Starlight
             profile.StarLightProfile.CustomSpecieName = humanoid.CustomSpecieName; // Starlight

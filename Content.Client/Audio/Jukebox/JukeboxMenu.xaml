@@ -7,6 +7,13 @@
             <Label Name="SongSelected" Text="{Loc 'jukebox-menu-selectedsong'}" />
             <Label Name="SongName" Text="---" />
             <Slider Name="PlaybackSlider" HorizontalExpand="True" />
+            <!-- Arcane-start -->
+            <BoxContainer Orientation="Horizontal" HorizontalExpand="True">
+                <Label Text="{Loc 'jukebox-menu-volume'}" />
+                <Label Name="VolumeNumberLabel" Text="50%" HorizontalAlignment="Right" HorizontalExpand="True" />
+            </BoxContainer>
+            <Slider Name="VolumeSlider" HorizontalExpand="True" />
+            <!-- Arcane-end -->
         </BoxContainer>
         <BoxContainer Orientation="Horizontal" HorizontalExpand="True"
         VerticalExpand="False" SizeFlagsStretchRatio="1">

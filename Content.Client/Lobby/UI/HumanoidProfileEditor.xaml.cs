@@ -486,6 +486,8 @@ namespace Content.Client.Lobby.UI
 
             #endregion SpawnPriority
 
+            InitializeErpPreferenceEditor(); // Arcane
+
             #region Eyes
 
             EyeColorPicker.OnEyeColorPicked += newColor =>
@@ -1100,6 +1102,7 @@ namespace Content.Client.Lobby.UI
             UpdateSizeControls(); //starlight
             UpdateSkinColor();
             UpdateSpawnPriorityControls();
+            UpdateErpPreferenceControls(); // Arcane
             UpdateAgeEdit();
             UpdateEyePickers();
             UpdateSaveButton();

@@ -881,6 +881,12 @@ namespace Content.Server.Database.Migrations.Sqlite
                         .HasColumnType("INTEGER")
                         .HasColumnName("enabled");
 
+                    // Arcane-start
+                    b.Property<int>("ErpPreference")
+                        .HasColumnType("INTEGER")
+                        .HasColumnName("erp_preference");
+                    // Arcane-end
+
                     b.Property<string>("EyeColor")
                         .IsRequired()
                         .HasColumnType("TEXT")

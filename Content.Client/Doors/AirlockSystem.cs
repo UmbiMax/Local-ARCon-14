@@ -117,6 +117,7 @@ public sealed partial class AirlockSystem : SharedAirlockSystem
                 ||  state == DoorState.Opening
                 ||  state == DoorState.Denying
                 || (state == DoorState.Open && comp.OpenUnlitVisible)
+                ||  state is DoorState.Closed or DoorState.Welded // Arcane
                 || (_appearanceSystem.TryGetData<bool>(uid, DoorVisuals.ClosedLights, out var closedLights, args.Component) && closedLights))
                     && !boltedVisible && !emergencyLightsVisible;
         }
@@ -139,14 +140,15 @@ public sealed partial class AirlockSystem : SharedAirlockSystem
         /* Arcane-Edit-Start: LayerSetAnimationTime(0) here caused one-frame jitter when DoorState.Open arrived animation.
         switch (state)
         {
+            // Arcane-start
             case DoorState.Open:
-                _sprite.LayerSetRsiState((uid, args.Sprite), DoorVisualLayers.BaseUnlit, comp.ClosingSpriteState);
-                _sprite.LayerSetAnimationTime((uid, args.Sprite), DoorVisualLayers.BaseUnlit, 0);
+                _sprite.LayerSetRsiState((uid, args.Sprite), DoorVisualLayers.BaseUnlit, comp.OpenSpriteState);
                 break;
             case DoorState.Closed:
-                _sprite.LayerSetRsiState((uid, args.Sprite), DoorVisualLayers.BaseUnlit, comp.OpeningSpriteState);
-                _sprite.LayerSetAnimationTime((uid, args.Sprite), DoorVisualLayers.BaseUnlit, 0);
+            case DoorState.Welded:
+                _sprite.LayerSetRsiState((uid, args.Sprite), DoorVisualLayers.BaseUnlit, comp.ClosedSpriteState);
                 break;
+            // Arcane-end
         }
         */ // Arcane-Edit-End
     }

@@ -62,6 +62,8 @@ public sealed partial class JukeboxMenu : FancyWindow
         };
         PlaybackSlider.OnReleased += PlaybackSliderKeyUp;
 
+        InitializeVolumeControls(); // Arcane
+
         SetPlayPauseButton(_audioSystem.IsPlaying(_audio), force: true);
     }
 
@@ -127,6 +129,7 @@ public sealed partial class JukeboxMenu : FancyWindow
         }
 
         PlaybackSlider.Disabled = _lockTimer > 0f;
+        UpdateVolumeControls(_lockTimer > 0f); // Arcane
 
         if (_entManager.TryGetComponent(_audio, out AudioComponent? audio))
         {
