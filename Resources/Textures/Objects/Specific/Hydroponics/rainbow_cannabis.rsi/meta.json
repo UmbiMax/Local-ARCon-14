@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Taken from https://github.com/vgstation-coders/vgstation13 at 1dbcf389b0ec6b2c51b002df5fef8dd1519f8068 and modified by potato1234_x",
+  "copyright": "Taken from https://github.com/vgstation-coders/vgstation13 at 1dbcf389b0ec6b2c51b002df5fef8dd1519f8068 and modified by potato1234_x, Resprite by KREKS",
   "size": {
     "x": 32,
     "y": 32
@@ -12,7 +12,7 @@
     },
     {
       "name": "harvest",
-      "delays":
+      "delays": 
 	  [
         [
             0.08,
@@ -45,24 +45,9 @@
     },
     {
       "name": "produce",
-      "delays":
+      "delays": 
 	  [
         [
-            0.08,
-            0.08,
-            0.08,
-            0.08,
-            0.08,
-            0.08,
-            0.08,
-            0.08,
-            0.08,
-            0.08,
-            0.08,
-            0.08,
-            0.08,
-            0.08,
-            0.08,
             0.08,
             0.08,
             0.08,
@@ -81,7 +66,7 @@
     },
     {
       "name": "stage-1",
-      "delays":
+      "delays": 
 	  [
         [
             0.08,
@@ -111,7 +96,7 @@
     },
     {
       "name": "stage-2",
-      "delays":
+      "delays": 
 	  [
         [
             0.08,
@@ -141,7 +126,7 @@
     },
     {
       "name": "stage-3",
-      "delays":
+      "delays": 
 	  [
         [
             0.08,
