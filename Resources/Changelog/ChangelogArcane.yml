@@ -50,5 +50,38 @@ Entries:
   id: 801
   time: '2026-07-18T12:52:34.000000+00:00'
   url: https://github.com/ArcaneSS14/arcane/pull/8
+- author: Vecortys
+  changes:
+  - message: Введена система ТТС аркейна.
+    type: Add
+  - message: Удалёно сообщение об отправителе консольного оповещения.
+    type: Remove
+  id: 2301
+  time: '2026-07-20T05:39:20.000000+00:00'
+  url: https://github.com/ArcaneSS14/arcane/pull/23
+- author: UmbiMax
+  changes:
+  - message: Порт спрайтов перчаток, головных уборов, поясов, вещмешков/сумок/рюкзаков.
+    type: Tweak
+  id: 1801
+  time: '2026-07-20T08:15:14.000000+00:00'
+  url: https://github.com/ArcaneSS14/arcane/pull/18
+- author: '[PuroSlavKing](https://github.com/PuroSlavKing), UmbiMax'
+  changes:
+  - message: Портирован индикатор боевого режима со звуками перехода в/из него.
+    type: Add
+  id: 701
+  time: '2026-07-20T10:13:27.000000+00:00'
+  url: https://github.com/ArcaneSS14/arcane/pull/7
+- author: Vecortys
+  changes:
+  - message: Портировано улучшенное окно описания.
+    type: Add
+  - message: Добавлена настройка изображения персонажа, которое будет отображаться
+      в окне описания.
+    type: Add
+  id: 2501
+  time: '2026-07-20T17:11:28.000000+00:00'
+  url: https://github.com/ArcaneSS14/arcane/pull/25
 Order: -1
 

@@ -1472,6 +1472,13 @@ namespace Content.Server.Database.Migrations.Postgres
                         .HasColumnType("integer")
                         .HasColumnName("profile_id");
 
+                    // Arcane
+                    b.Property<string>("CharacterImageUrl")
+                        .IsRequired()
+                        .HasMaxLength(512)
+                        .HasColumnType("character varying(512)")
+                        .HasColumnName("character_image_url");
+
                     b.Property<string>("CharacterSecrets")
                         .IsRequired()
                         .HasMaxLength(4096)

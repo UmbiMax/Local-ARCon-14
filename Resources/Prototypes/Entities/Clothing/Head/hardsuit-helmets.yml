@@ -277,7 +277,7 @@
   description: A special helmet designed for work in a hazardous, low pressure environment. Has reinforced plating for wildlife encounters and dual floodlights.
   components:
   - type: Sprite
-    sprite: _Starlight/Clothing/Head/Hardsuits/salvage.rsi # 🌟Starlight begin
+    sprite: Clothing/Head/Hardsuits/salvage.rsi # 🌟Starlight begin # Arcane-Edit: Returned
     layers:
       - state: icon
       - state: icon-unshaded
@@ -503,9 +503,9 @@
   description: A modified riot helmet. Oddly comfortable.
   components:
   - type: Sprite
-    sprite: _Starlight/Clothing/Head/Hardsuits/security-warden.rsi #Starlight
+    sprite: Clothing/Head/Hardsuits/security-warden.rsi #Starlight # Arcane-Edit: Returned
   - type: Clothing
-    sprite: _Starlight/Clothing/Head/Hardsuits/security-warden.rsi #Starlight
+    sprite: Clothing/Head/Hardsuits/security-warden.rsi #Starlight # Arcane-Edit: Returned
   - type: PointLight
     color: "#dddddd" # Starlight
   - type: PressureProtection
@@ -683,9 +683,9 @@
   description: Security hardsuit helmet with the latest top secret NT-HUD software. Belongs to the HoS.
   components:
   - type: Sprite
-    sprite: _Starlight/Clothing/Head/Hardsuits/security-red.rsi #Starlight
+    sprite: Clothing/Head/Hardsuits/security-red.rsi #Starlight # Arcane-Edit: Returned
   - type: Clothing
-    sprite: _Starlight/Clothing/Head/Hardsuits/security-red.rsi #Starlight
+    sprite: Clothing/Head/Hardsuits/security-red.rsi #Starlight # Arcane-Edit: Returned
   - type: PointLight
     color: "#ffdddd" # Starlight
   - type: PressureProtection

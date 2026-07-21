@@ -1,0 +1,35 @@
+<ui:CharacterImageEditor xmlns="https://spacestation14.io"
+                         xmlns:ui="clr-namespace:Content.Client._Arcane.DetailExaminable"
+                         HorizontalExpand="True"
+                         VerticalExpand="True">
+    <BoxContainer Orientation="Vertical" HorizontalExpand="True" VerticalExpand="True" Margin="10">
+        <Label Text="{Loc 'arcane-character-image-editor-title'}" StyleClasses="LabelHeading" />
+        <Label Text="{Loc 'arcane-character-image-editor-help'}"
+               StyleClasses="LabelSubText"
+               Margin="0 4 0 8" />
+
+        <BoxContainer Orientation="Horizontal" HorizontalExpand="True" SeparationOverride="6">
+            <LineEdit Name="UrlInput"
+                      Access="Public"
+                      HorizontalExpand="True"
+                      PlaceHolder="https://images2.imgbox.com/.../character.png" />
+            <Button Name="PreviewButton"
+                    Access="Public"
+                    Text="{Loc 'arcane-character-image-editor-preview'}" />
+            <Button Name="ClearButton"
+                    Access="Public"
+                    Text="{Loc 'arcane-character-image-editor-clear'}" />
+        </BoxContainer>
+
+        <Label Name="StatusLabel" Access="Public" Margin="0 6" StyleClasses="LabelSubText" />
+
+        <PanelContainer StyleClasses="Inset" HorizontalExpand="True" VerticalExpand="True" MinSize="420 360">
+            <TextureRect Name="ImagePreview"
+                         Access="Public"
+                         HorizontalExpand="True"
+                         VerticalExpand="True"
+                         CanShrink="True"
+                         Stretch="KeepAspectCentered" />
+        </PanelContainer>
+    </BoxContainer>
+</ui:CharacterImageEditor>

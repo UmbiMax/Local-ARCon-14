@@ -352,8 +352,10 @@ namespace Content.Server.Communications
             Loc.TryGetString(comp.Title, out var title);
             title ??= comp.Title;
 
-            if (comp.AnnounceSentBy)
-                msg.Text += "\n" + Loc.GetString("comms-console-announcement-sent-by") + " " + author;
+            // Arcane-start
+            // if (comp.AnnounceSentBy)
+            //     msg.Text += "\n" + Loc.GetString("comms-console-announcement-sent-by") + " " + author;
+            // Arcane-end
 
             if (comp.Global)
             {

@@ -36,6 +36,16 @@ namespace Content.Shared.CombatMode
         [DataField("combatToggleAction", customTypeSerializer: typeof(PrototypeIdSerializer<EntityPrototype>))]
         public string CombatToggleAction = "ActionCombatModeToggle";
 
+        // Arcane-Start
+        [DataField]
+        public SoundSpecifier? CombatActivationSound =
+            new SoundPathSpecifier("/Audio/_Arcane/Effects/Actions/CombatMode/combatmode-on.ogg");
+
+        [DataField]
+        public SoundSpecifier? CombatDeactivationSound =
+            new SoundPathSpecifier("/Audio/_Arcane/Effects/Actions/CombatMode/combatmode-off.ogg");
+        // Arcane-End
+
         [DataField, AutoNetworkedField]
         public EntityUid? CombatToggleActionEntity;
 

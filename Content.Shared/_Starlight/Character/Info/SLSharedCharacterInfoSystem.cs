@@ -1,4 +1,5 @@
 ﻿using Content.Shared._Starlight.Character.Info.Components;
+using Content.Shared._Arcane.DetailExaminable;
 using Content.Shared.CCVar;
 using Content.Shared.Examine;
 using Content.Shared.GameTicking;
@@ -102,6 +103,8 @@ public abstract partial class SLSharedCharacterInfoSystem : EntitySystem
             var charSecrets = new CharacterSecretsComponent { Secrets = character.Secrets };
             AddComp(Mob, charSecrets, true); //Starlight
         }
+
+        AddComp(Mob, new CharacterImageComponent { ImageUrl = character.CharacterImageUrl }, true); // Arcane
     }
 
     private void OnActivateImplant(ActivateImplantEvent ev)

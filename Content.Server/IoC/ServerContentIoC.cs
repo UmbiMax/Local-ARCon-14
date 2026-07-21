@@ -1,4 +1,5 @@
 using Content.Server.Administration;
+using Content.Server._Arcane.TTS;
 using Content.Server.Administration.Logs;
 using Content.Server.Administration.Managers;
 using Content.Server.Administration.Notes;
@@ -75,6 +76,7 @@ internal static class ServerContentIoC
         deps.Register<IAfkManager, AfkManager>();
 
         deps.Register<HolidaySystem>(); // Starlight
+        deps.Register<ArcaneTTSManager>(); // Arcane
 
         deps.Register<IGameMapManager, GameMapManager>();
         deps.Register<RulesManager, RulesManager>();
