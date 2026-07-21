@@ -91,5 +91,21 @@ Entries:
   id: 2901
   time: '2026-07-21T08:59:08.000000+00:00'
   url: https://github.com/ArcaneSS14/arcane/pull/29
+- author: Vecortys
+  changes:
+  - message: Перенесены все основные спонсорские бонусы - проход на заполненный сервер,
+      бумбокс и одежда,
+    type: Add
+  - message: Перенесён ползунок громкости для бумбокса.
+    type: Add
+  - message: Перенесена вся музыка в бумбокс.
+    type: Add
+  - message: Перенесены ерп статусы.
+    type: Add
+  - message: Добавлено плавное появление текста.
+    type: Add
+  id: 3301
+  time: '2026-07-21T13:18:16.000000+00:00'
+  url: https://github.com/ArcaneSS14/arcane/pull/33
 Order: -1
 
