@@ -2,6 +2,14 @@
   id: Plating
   name: tiles-plating
   sprite: /Textures/Tiles/plating.png
+  # Arcane-start
+  variants: 4
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  # Arcane-end
   baseTurf: Lattice
   isSubfloor: true
   footstepSounds:
@@ -13,11 +21,14 @@
   id: PlatingDamaged
   name: tiles-plating
   sprite: /Textures/Tiles/plating_damaged.png
-  variants: 3
+  # Arcane-start
+  variants: 4
   placementVariants:
   - 1.0
   - 1.0
   - 1.0
+  - 1.0
+  # Arcane-end
   baseTurf: Plating # Starlight-edit - swap baseTurf to Plating, so when we weld it, we revert to that.
   deconstructTools: [ Welding ] # Starlight - add welding as a deconstruct interaction, so we have an easy way to mend it.
   itemDrop: NothingEntity # Starlight - remove drop
@@ -53,6 +64,14 @@
   id: PlatingSnow
   name: tiles-snow-plating
   sprite: /Textures/Tiles/snow_plating.png #Not in the snow planet RSI because it doesn't have any metadata. Should probably be moved to its own folder later.
+  # Arcane-start
+  variants: 4
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  # Arcane-end
   baseTurf: Lattice
   isSubfloor: true
   footstepSounds:

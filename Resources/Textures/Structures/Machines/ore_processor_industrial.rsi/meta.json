@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Created by UbaserB (GitHub) for SS14, based on ore processor sprite from tgstation, magnet edit by Vonte",
+  "copyright": "Created by UbaserB (GitHub) for SS14, based on ore processor sprite from tgstation",
   "size": {
     "x": 32,
     "y": 32
@@ -22,7 +22,7 @@
         ]
       ]
     },
-	{
+    {
       "name": "building",
       "delays": [
         [
@@ -37,10 +37,10 @@
         ]
       ]
     },
-	{
-	  "name": "icon"
-	},
-	{
+    {
+      "name": "icon"
+    },
+    {
       "name": "panel"
     },
     {

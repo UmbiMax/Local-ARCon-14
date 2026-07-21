@@ -1,7 +1,7 @@
 {
   "version": 1,
   "license": "CC-BY-SA-3.0",
-  "copyright": "Made by Salem.uwu, Abby, Conflee, Motherain, Cephalo, taco_llama, and aexxie for Starlight / Afterlight with inspiration from tgstation at commit https://github.com/tgstation/tgstation/commit/c6e3401f2e7e1e55c57060cdf956a98ef1fefc24",
+  "copyright": "Taken from TauCetiClassic at commit https://github.com/TauCetiStation/TauCetiClassic/commit/fd5cfd76acdf5bda9e46413c11006a6e825d51a9",
   "size": {
     "x": 32,
     "y": 32
@@ -11,7 +11,16 @@
       "name": "assembly"
     },
     {
+      "name": "assembly-fill"
+    },
+    {
+      "name": "assembly-glass"
+    },
+    {
       "name": "bolted_unlit"
+    },
+    {
+      "name": "bolted_open_unlit"
     },
     {
       "name": "closed"
@@ -20,33 +29,13 @@
       "name": "closed_unlit"
     },
     {
+      "name": "closed-fill"
+    },
+    {
+      "name": "closed-glass"
+    },
+    {
       "name": "closing",
-      "delays": [
-        [
-          0.1,
-          0.1,
-          0.07,
-          0.07,
-          0.07,
-          0.2
-        ]
-      ]
-    },
-    {
-      "name": "closing_unlit",
-      "delays": [
-        [
-          0.1,
-          0.1,
-          0.07,
-          0.07,
-          0.07,
-          0.2
-        ]
-      ]
-    },
-    {
-      "name": "deny_unlit",
       "delays": [
         [
           0.1,
@@ -59,15 +48,20 @@
       ]
     },
     {
-      "name": "open",
+      "name": "closing_unlit",
       "delays": [
         [
-          1
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
         ]
       ]
     },
     {
-      "name": "opening",
+      "name": "closing-fill",
       "delays": [
         [
           0.1,
@@ -80,7 +74,7 @@
       ]
     },
     {
-      "name": "opening_unlit",
+      "name": "closing-glass",
       "delays": [
         [
           0.1,
@@ -98,6 +92,64 @@
         [
           0.1,
           0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "deny_unlit",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "open"
+    },
+    {
+      "name": "open_unlit"
+    },
+    {
+      "name": "panel_open"
+    },
+    {
+      "name": "opening",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "opening_unlit",
+      "delays": [
+        [
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "opening-fill",
+      "delays": [
+        [
+          0.1,
+          0.1,
           0.07,
           0.07,
           0.07,
@@ -106,10 +158,15 @@
       ]
     },
     {
-      "name": "panel_open",
+      "name": "opening-glass",
       "delays": [
         [
-          1
+          0.1,
+          0.1,
+          0.07,
+          0.07,
+          0.07,
+          0.2
         ]
       ]
     },
@@ -119,10 +176,10 @@
         [
           0.1,
           0.1,
-          0.07,
-          0.07,
-          0.07,
-          0.2
+          0.1,
+          0.1,
+          0.1,
+          0.1
         ]
       ]
     },
@@ -148,7 +205,8 @@
           0.1,
           0.1,
           0.1,
-          0.1
+          0.1,
+          1.7
         ]
       ]
     },
@@ -161,8 +219,7 @@
           0.1,
           0.1,
           0.1,
-          0.1,
-          1.7
+          0.1
         ]
       ]
     },
@@ -186,10 +243,13 @@
       "name": "emergency_unlit",
       "delays": [
         [
-          0.4,
-          0.4
+          1.2,
+          1.2
         ]
       ]
+    },
+    {
+      "name": "emergency_open_unlit"
     }
   ]
 }

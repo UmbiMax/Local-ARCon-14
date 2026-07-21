@@ -785,6 +785,14 @@
   id: FloorFreezer
   name: tiles-freezer
   sprite: /Textures/Tiles/freezer.png
+  # Arcane-start
+  variants: 4
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  # Arcane-end
   baseTurf: Plating
   isSubfloor: false
   deconstructTools: [ Prying ]
@@ -1463,6 +1471,14 @@
   id: FloorGrass
   name: tiles-planet-grass-floor
   sprite: /Textures/Tiles/grass.png
+  # Arcane-start
+  variants: 4
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  # Arcane-end
   baseTurf: FloorDirt
   isSubfloor: true
   footstepSounds:
@@ -1475,6 +1491,14 @@
   id: FloorGrassJungle
   name: tiles-jungle-grass-floor
   sprite: /Textures/Tiles/grassjungle.png
+  # Arcane-start
+  variants: 4
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
+  # Arcane-end
   baseTurf: FloorDirt
   isSubfloor: true
   footstepSounds:
