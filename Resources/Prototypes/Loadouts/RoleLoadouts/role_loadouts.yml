@@ -287,6 +287,7 @@
   - QuartermasterJumpsuit
   - CargoTechnicianBackpack
   - QuartermasterOuterClothing
+  - QuartermasterHands # Arcane
   - QuartermasterShoes
   - Glasses
   - Survival
@@ -690,4 +691,3 @@
   id: RoleSurvivalSpaceNinja
   groups:
   - GroupEVATank
-

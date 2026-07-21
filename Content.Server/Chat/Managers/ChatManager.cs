@@ -295,7 +295,10 @@ internal sealed partial class ChatManager : IChatManager
         }
 
         Color? colorOverride = null;
-        var nameColor = Color.LightSkyBlue;
+        // Arcane-start
+        var arcaneSponsorNameColor = GetArcaneSponsorNameColor(player);
+        var nameColor = arcaneSponsorNameColor ?? Color.LightSkyBlue;
+        // Arcane-end
         var messageColor = Color.LightSkyBlue;
         var titleColor = Color.LightSkyBlue;
 
@@ -314,10 +317,15 @@ internal sealed partial class ChatManager : IChatManager
 
         var wrappedMessage = Loc.GetString("chat-manager-send-ooc-wrap-message", ("playerTitle", playerTitle), ("nameColor", nameColor), ("messageColor", messageColor), ("playerName", playerName), ("message", FormattedMessage.EscapeText(message)));
 
-        if (_netConfigManager.GetClientCVar(player.Channel, CCVars.ShowOocPatronColor) && player.Channel.UserData.PatronTier is { } patron && PatronOocColors.TryGetValue(patron, out var patronColor))
+        // Arcane-start
+        if (arcaneSponsorNameColor == null &&
+            _netConfigManager.GetClientCVar(player.Channel, CCVars.ShowOocPatronColor) &&
+            player.Channel.UserData.PatronTier is { } patron &&
+            PatronOocColors.TryGetValue(patron, out var patronColor))
         {
             wrappedMessage = Loc.GetString("chat-manager-send-ooc-patron-wrap-message", ("patronColor", patronColor), ("playerName", playerName), ("message", FormattedMessage.EscapeText(message))); // Starlight
         }
+        // Arcane-end
 
         //TODO: player.Name color, this will need to change the structure of the MsgChatMessage
         ChatMessageToAll(ChatChannel.OOC, message, wrappedMessage, EntityUid.Invalid, hideChat: false, recordReplay: true, colorOverride: colorOverride, author: player.UserId);
