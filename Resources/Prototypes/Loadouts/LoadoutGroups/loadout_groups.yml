@@ -127,6 +127,7 @@
   - PersonalAI
   - GoldenPersonalAI # Starlight end
   - AACTablet # DeltaV
+  - BoomboxPatron # Arcane
 
 - type: loadoutGroup
   id: Glasses
@@ -414,6 +415,8 @@
   - BartenderJumpskirt
   - BartenderJumpsuitPurple
   - MaidOutfit # Starlight
+  - BartenderPatron # Arcane
+  - BartenderSkirtPatron # Arcane
 
 
 - type: loadoutGroup
@@ -539,6 +542,7 @@
   - ChaplainJumpskirt
   - ChaplainRobesLight
   - ChaplainRobesDark
+  - NunDressPatron # Arcane
 
 
 - type: loadoutGroup
@@ -550,6 +554,7 @@
   - ChaplainNunRobe
   - ChaplainBlackHoodie
   - ChaplainHoodie
+  - ApostolCoatPatron # Arcane
 
 - type: loadoutGroup
   id: ChaplainNeck
@@ -683,6 +688,7 @@
   loadouts:
   - JesterHat
   - JesterAltHat
+  - ClownPinkHatPatron # Arcane
 
 - type: loadoutGroup
   id: ClownJumpsuit
@@ -699,6 +705,7 @@
   - ClownSpottedJumpskirt # Starlight
   - JesterSuit
   - JesterAltSuit
+  - ClownPinkPatron # Arcane
 
 
 - type: loadoutGroup
@@ -888,6 +895,7 @@
   loadouts:
   - QuartermasterHead
   - QuartermasterBeret
+  - QMBlackBeretPatron # Arcane
 
 - type: loadoutGroup
   id: QuartermasterJumpsuit
@@ -899,6 +907,10 @@
   - QuartermasterTurtleneckSkirt
   - QuartermasterFormalSuit
   - QuartermasterFormalSkirt # DeltaV
+  - SleevelesQMBlackSkirtPatron # Arcane
+  - SleevelesQMBlackPatron # Arcane
+  - SleevelesQMSkirtPatron # Arcane
+  - SleevelesQMPatron # Arcane
 
 - type: loadoutGroup
   id: QuartermasterNeck
@@ -907,6 +919,17 @@
   loadouts:
   - QuartermasterCloak
   - QuartermasterMantle
+  - QMBlackCloakPatron # Arcane
+  - QMWhiteCloakPatron # Arcane
+
+# Arcane-start
+- type: loadoutGroup
+  id: QuartermasterHands
+  name: loadout-group-quartermaster-hands
+  minLimit: 0
+  loadouts:
+  - QMGlovesPatron
+# Arcane-end
 
 - type: loadoutGroup
   id: QuartermasterOuterClothing
@@ -927,6 +950,7 @@
   - SalvageBoots
   - WorkBoots
   - Heels
+  - QMShoesPatron # Arcane
 
 - type: loadoutGroup
   id: QuartermasterJobTrinkets
@@ -1048,6 +1072,7 @@
   loadouts:
   - ChiefEngineerHead
   - ChiefEngineerBeret
+  - CEBlackBeretPatron # Arcane
 
 - type: loadoutGroup
   id: ChiefEngineerJumpsuit
@@ -1057,6 +1082,10 @@
   - ChiefEngineerJumpskirt
   - ChiefEngineerTurtleneck
   - ChiefEngineerTurtleneckSkirt
+  - CEBlackPatron # Arcane
+  - CEBlackSkirtPatron # Arcane
+  - CEWhiteSkirtPatron # Arcane
+  - CEWhitePatron # Arcane
 
 
 - type: loadoutGroup
@@ -1066,6 +1095,8 @@
   loadouts:
   - ChiefEngineerCloak
   - ChiefEngineerMantle
+  - CEBlackCloakPatron # Arcane
+  - CETricolorCloakPatron # Arcane
 
 - type: loadoutGroup
   id: ChiefEngineerOuterClothing
@@ -1378,6 +1409,7 @@
   - HeadofSecurityHead
   - HeadofSecuritySheriff #Starlight
   - HeadofSecurityBeret
+  - HOSCapPatron # Arcane
 
 - type: loadoutGroup
   id: HeadofSecurityJumpsuit
@@ -1393,6 +1425,7 @@
   - HeadofSecurityBlackSkirt
   - HeadofSecurityBlueJumpsuit
   - HeadofSecurityGreyJumpsuit
+  - HOSShortDressPatron # Arcane
 
 - type: loadoutGroup
   id: HeadofSecurityNeck
@@ -1405,6 +1438,8 @@
   - HeadofSecurityMantle
   - HeadofSecurityBoatCloak #DeltaV
   - HeadofSecurityRobe #DeltaV
+  - HOSBlackCloakPatron # Arcane
+  - HOSRedCloakPatron # Arcane
 
 - type: loadoutGroup
   id: HeadofSecurityOuterClothing
@@ -1414,6 +1449,8 @@
   loadouts:
   - HeadofSecurityCoat
   - HeadofSecurityWinterCoat
+  - LeatherCoatPatron # Arcane
+  - HOSLongVestPatron # Arcane
 
 - type: loadoutGroup
   id: HeadofSecurityJobTrinkets

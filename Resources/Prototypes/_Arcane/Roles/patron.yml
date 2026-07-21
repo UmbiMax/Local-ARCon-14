@@ -1,0 +1,14 @@
+- type: roleRequirementPrototype
+  id: ArcanePatronTier2Req
+  roles:
+  - 1510991694785675397 # Arcane Tier 2
+  discord: roles-req-discord-arcane
+  rolesLoc: roles-req-arcane-tier-two
+
+- type: roleRequirementPrototype
+  id: ArcanePatronReq
+  roles:
+  - 1510991486399942707 # Arcane Tier 1
+  - 1510991694785675397 # Arcane Tier 2
+  discord: roles-req-discord-arcane
+  rolesLoc: roles-req-arcane-tier-two

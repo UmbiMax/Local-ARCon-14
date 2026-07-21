@@ -5,17 +5,10 @@
         "y": 32
     },
     "license": "CC-BY-SA-3.0",
-    "copyright": "Taken from tgstation https://github.com/tgstation/tgstation/commit/ab4abf318f293a701754656dd4e9261eb70f8824#diff-9ab5c8a5e47ab7cfaeadd859a23e32b05de1fe839e99ea767fd7e340b6385d67, in-hands modified by SeamLesss (github) from Objects/Misc/qm_clipboard.rsi/inhand-(left/right), in-hands further modified for BSO by wonderfulnewworld (github), separated into frame/powered/alert by redmushie (github,discord)",
+    "copyright": "Based on sprite from TG. Sprited by UmbiMax for Arcane Station. Inhand sprites taken from ADT at commit https://github.com/AdventureTimeSS14/space_station_ADT/commit/7d0c21fb2717598819b9c67953f67407023172a5.",
     "states": [
         {
-            "name": "scanner",
-            "directions": 1,
-            "delays": [
-                [
-                    0.4,
-                    0.4
-                ]
-            ]
+            "name": "scanner"
         },
         {
             "name": "scanner-inhand-left",
@@ -26,30 +19,40 @@
             "directions": 4
         },
         {
-            "name": "icon",
-            "directions": 1
+            "name": "icon"
         },
         {
-            "name": "frame",
-            "directions": 1
+            "name": "frame"
         },
         {
             "name": "powered",
-            "directions": 1,
             "delays": [
                 [
-                    0.4,
-                    0.4
+                    0.2,
+                    0.2,
+                    0.2,
+                    0.1,
+                    0.1,
+                    0.2,
+                    0.2,
+                    0.1,
+                    0.1
                 ]
             ]
         },
         {
             "name": "alert",
-            "directions": 1,
             "delays": [
                 [
-                    0.3,
-                    0.3
+                    0.2,
+                    0.2,
+                    0.2,
+                    0.1,
+                    0.1,
+                    0.2,
+                    0.2,
+                    0.1,
+                    0.1
                 ]
             ]
         }

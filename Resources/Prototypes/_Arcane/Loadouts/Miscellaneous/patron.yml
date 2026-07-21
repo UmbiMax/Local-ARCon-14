@@ -1,0 +1,312 @@
+- type: loadout
+  id: BoomboxPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  storage:
+    back:
+    - HandledBoomBox
+
+- type: loadout
+  id: BartenderPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    jumpsuit: ClothingUniformBartender
+
+- type: loadout
+  id: BartenderSkirtPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    jumpsuit: ClothingUniformBartenderSkirt
+
+- type: loadout
+  id: CEBlackPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    jumpsuit: ClothingUniformCEBlack
+
+- type: loadout
+  id: CEBlackSkirtPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    jumpsuit: ClothingUniformCEBlackSkirt
+
+- type: loadout
+  id: CEWhiteSkirtPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    jumpsuit: ClothingUniformCEWhiteSkirt
+
+- type: loadout
+  id: CEWhitePatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    jumpsuit: ClothingUniformCEWhite
+
+- type: loadout
+  id: ClownPinkPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    jumpsuit: ClothingUniformPinkClown
+
+- type: loadout
+  id: CMOSweaterSkirtPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    jumpsuit: ClothingUniformCMOSweaterSkirt
+
+- type: loadout
+  id: CMOSweaterPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    jumpsuit: ClothingUniformCMOSweater
+
+- type: loadout
+  id: HOSShortDressPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    jumpsuit: ClothingUniformHOSShortDress
+
+- type: loadout
+  id: NunDressPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    jumpsuit: ClothingUniformNun
+
+- type: loadout
+  id: SleevelesQMBlackSkirtPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    jumpsuit: ClothingUniformQMBlackSkirtSleeveles
+
+- type: loadout
+  id: SleevelesQMBlackPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    jumpsuit: ClothingUniformQMBlackSleeveles
+
+- type: loadout
+  id: SleevelesQMSkirtPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    jumpsuit: ClothingUniformQMSkirtSleeveles
+
+- type: loadout
+  id: SleevelesQMPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    jumpsuit: ClothingUniformQMSleeveles
+
+- type: loadout
+  id: QMGlovesPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    gloves: ClothingHandsQMLongGloves
+
+- type: loadout
+  id: QMShoesPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    shoes: ClothingShoesQMBoots
+
+- type: loadout
+  id: OldFashionesDoctorShoesPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    shoes: ClothingShoesOldFashionedMedical
+
+- type: loadout
+  id: CEBlackBeretPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    head: ClothingHatCEBlackBeret
+
+- type: loadout
+  id: ClownPinkHatPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    head: ClothingHatClownPink
+
+- type: loadout
+  id: CMOHatPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    head: ClothingHatCMO
+
+- type: loadout
+  id: HOSCapPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    head: ClothingHatHOSCap
+
+- type: loadout
+  id: QMBlackBeretPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    head: ClothingHatQMBlackBeret
+
+- type: loadout
+  id: SanitarHatPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    head: ClothingHatSanitar
+
+- type: loadout
+  id: LeatherCoatPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    outerClothing: ClothingOuterArmorHoSLeather
+
+- type: loadout
+  id: HOSLongVestPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    outerClothing: ClothingOuterHOSLongVest
+
+- type: loadout
+  id: EeayLabCoatPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    outerClothing: ClothingOuterCoatLabEasy
+
+- type: loadout
+  id: LabCoatBeltsPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    outerClothing: ClothingOuterCoatLabBelts
+
+- type: loadout
+  id: LabCoatBlackPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    outerClothing: ClothingOuterCoatLabBlack
+
+- type: loadout
+  id: LivseyCoatPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    outerClothing: ClothingOuterCoatLabEnlightenment
+
+- type: loadout
+  id: ApostolCoatPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    outerClothing: ClothingOuterApostolCoat
+
+- type: loadout
+  id: CEBlackCloakPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    neck: ClothingCloakCEBlack
+
+- type: loadout
+  id: CETricolorCloakPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    neck: ClothingCloakCETricolor
+
+- type: loadout
+  id: CMOHonorableCloakPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    neck: ClothingCloakCMOHonorable
+
+- type: loadout
+  id: HOSBlackCloakPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    neck: ClothingCloakHOSBlack
+
+- type: loadout
+  id: HOSRedCloakPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    neck: ClothingCloakHOSRed
+
+- type: loadout
+  id: QMBlackCloakPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    neck: ClothingCloakQMBlack
+
+- type: loadout
+  id: QMWhiteCloakPatron
+  effects:
+  - !type:RolesReqLoadoutEffect
+    proto: ArcanePatronTier2Req
+  equipment:
+    neck: ClothingCloakQMWhite

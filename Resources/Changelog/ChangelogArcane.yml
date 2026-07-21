@@ -83,5 +83,13 @@ Entries:
   id: 2501
   time: '2026-07-20T17:11:28.000000+00:00'
   url: https://github.com/ArcaneSS14/arcane/pull/25
+- author: UmbiMax
+  changes:
+  - message: Частичный порт спрайтов предметов с дополнительными респрайтами/правками
+      со своей стороны.
+    type: Tweak
+  id: 2901
+  time: '2026-07-21T08:59:08.000000+00:00'
+  url: https://github.com/ArcaneSS14/arcane/pull/29
 Order: -1
 
